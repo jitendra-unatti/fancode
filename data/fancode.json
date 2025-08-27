@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:38:26 PM 27-08-2025",
+    "last_updated": "09:46:27 PM 27-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -242,11 +242,11 @@
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 24,
-                            "overs": "4.2",
-                            "balls": "26",
+                            "runs": 26,
+                            "overs": "5.1",
+                            "balls": "32",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -329,9 +329,9 @@
                     "color": "#fea129",
                     "cricketScore": [
                         {
-                            "runs": 5,
-                            "overs": "0.2",
-                            "balls": "2",
+                            "runs": 24,
+                            "overs": "2.5",
+                            "balls": "17",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -416,11 +416,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "11.3",
-                            "balls": "58",
+                            "runs": 106,
+                            "overs": "14",
+                            "balls": "70",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -476,11 +476,11 @@
                     "color": "#d01909",
                     "cricketScore": [
                         {
-                            "runs": 102,
-                            "overs": "23",
-                            "balls": "138",
+                            "runs": 109,
+                            "overs": "24.5",
+                            "balls": "149",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -827,11 +827,11 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 110,
+                            "overs": "13.1",
+                            "balls": "79",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -1184,6 +1184,90 @@
                     "status": {
                         "cricket": {
                             "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Sharjah Warriorz Development Vs Desert Vipers Development",
+            "tournament": "DP World ILT20 Development Tournament, 2025",
+            "match_id": 135801,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "26 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135801_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135801_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Sharjah Warriorz Development",
+                    "shortName": "SWD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#d93025",
+                    "cricketScore": [
+                        {
+                            "runs": 174,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Desert Vipers Development",
+                    "shortName": "DVD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVD@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#ddab30",
+                    "cricketScore": [
+                        {
+                            "runs": 175,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "IN_PROGRESS",
+                            "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
                         }
                     }
                 }
@@ -2694,42 +2778,34 @@
         },
         {
             "category": "Cricket",
-            "title": "Calicut Globstars Vs Alleppey Ripples",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133887,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "26 August 2025 06:45 PM",
+            "title": "Saint Lucia Kings Vs St Kitts And Nevis Patriots",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132360,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "29 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1756275176774.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133887_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1756275176774.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132360_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1756275176774.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-App_1756275182396.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133887_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132360_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Calicut Globstars",
-                    "shortName": "CG",
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
                     },
-                    "isWinner": true,
-                    "color": "#D26617",
-                    "cricketScore": [
-                        {
-                            "runs": 172,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#1e6583",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2741,79 +2817,14 @@
                     }
                 },
                 {
-                    "name": "Alleppey Ripples",
-                    "shortName": "AP",
+                    "name": "St Kitts and Nevis Patriots",
+                    "shortName": "SKN",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKPA@2x.png"
                     },
-                    "isWinner": false,
-                    "color": "#8e5bf0",
-                    "cricketScore": [
-                        {
-                            "runs": 128,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Gulbarga Mystics Vs Bengaluru Blasters",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132816,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "26 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132792_5530_GMY_BB_fc-Web_1755374793009.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132816_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132792_5530_GMY_BB_fc-Web_1755374793009.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132792_5530_GMY_BB_fc-Web_1755374793009.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132792_5530_GMY_BB_fc-App_1755374802490.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132816_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Gulbarga Mystics",
-                    "shortName": "GMY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GMY@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#2d9dbb",
-                    "cricketScore": [
-                        {
-                            "runs": 122,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#3fd379",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2821,33 +2832,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Bengaluru Blasters",
-                    "shortName": "BB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBR@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#16b9b7",
-                    "cricketScore": [
-                        {
-                            "runs": 126,
-                            "overs": "12.3",
-                            "balls": "75",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
                         }
                     }
                 }
