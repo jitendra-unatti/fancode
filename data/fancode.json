@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:26 AM 28-08-2025",
+    "last_updated": "12:30:28 AM 28-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#112c80",
                     "cricketScore": [
                         {
-                            "runs": 15,
-                            "overs": "4.5",
-                            "balls": "29",
+                            "runs": 16,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -131,7 +131,7 @@
                             "runs": 111,
                             "overs": "20",
                             "balls": "100",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 9
                         }
                     ],
@@ -141,7 +141,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -153,14 +153,22 @@
                     },
                     "isWinner": null,
                     "color": "#d09b8a",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 1,
+                            "overs": "0.4",
+                            "balls": "4",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -378,8 +386,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "204120",
+                                "shortName": "O Boscagli",
+                                "isOwnGoal": false,
+                                "goalTime": "13'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
