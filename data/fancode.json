@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:38:26 AM 28-08-2025",
+    "last_updated": "01:46:26 AM 28-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#112c80",
                     "cricketScore": [
                         {
-                            "runs": 79,
-                            "overs": "23",
-                            "balls": "138",
+                            "runs": 88,
+                            "overs": "25.5",
+                            "balls": "155",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -124,7 +124,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#e87c03",
                     "cricketScore": [
                         {
@@ -151,13 +151,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 109,
-                            "overs": "19.3",
-                            "balls": "98",
+                            "runs": 113,
+                            "overs": "19.4",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -287,13 +287,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "225487",
                                 "shortName": "F Kaya",
                                 "isOwnGoal": false,
                                 "goalTime": "64'"
+                            },
+                            {
+                                "id": "225487",
+                                "shortName": "F Kaya",
+                                "isOwnGoal": false,
+                                "goalTime": "70'"
                             }
                         ]
                     },
@@ -406,7 +412,7 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 3,
+                        "points": 4,
                         "goals": [
                             {
                                 "id": "204120",
@@ -425,6 +431,12 @@
                                 "shortName": "D G\u00f3mez",
                                 "isOwnGoal": false,
                                 "goalTime": "60'"
+                            },
+                            {
+                                "id": "608181",
+                                "shortName": "S Tzimas",
+                                "isOwnGoal": false,
+                                "goalTime": "71'"
                             }
                         ]
                     },
@@ -660,8 +672,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "502697",
+                                "shortName": "C Alcaraz",
+                                "isOwnGoal": false,
+                                "goalTime": "51'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -737,8 +756,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "502697",
+                                "shortName": "C Alcaraz",
+                                "isOwnGoal": false,
+                                "goalTime": "51'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -814,8 +840,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "502697",
+                                "shortName": "C Alcaraz",
+                                "isOwnGoal": false,
+                                "goalTime": "51'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
