@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:02:26 PM 27-08-2025",
+    "last_updated": "10:10:28 PM 27-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 10,
-    "upcoming_matches": 29,
+    "live_matches": 9,
+    "upcoming_matches": 30,
     "matches": [
         {
             "category": "Cricket",
@@ -242,11 +242,11 @@
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 38,
-                            "overs": "7.4",
-                            "balls": "46",
+                            "runs": 43,
+                            "overs": "8.5",
+                            "balls": "53",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -329,11 +329,11 @@
                     "color": "#fea129",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "6.1",
-                            "balls": "37",
+                            "runs": 69,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -363,7 +363,7 @@
             "title": "Birmingham Phoenix Women Vs Trent Rockets Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 136187,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "27 August 2025 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -385,7 +385,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#eba095",
                     "cricketScore": [
                         {
@@ -412,15 +412,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "18",
-                            "balls": "90",
+                            "runs": 126,
+                            "overs": "19.2",
+                            "balls": "97",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -476,9 +476,9 @@
                     "color": "#d01909",
                     "cricketScore": [
                         {
-                            "runs": 113,
-                            "overs": "28.3",
-                            "balls": "171",
+                            "runs": 125,
+                            "overs": "30.5",
+                            "balls": "185",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -700,77 +700,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Mi Emirates Development Vs Dubai Capitals Development",
-            "tournament": "DP World ILT20 Development Tournament, 2025",
-            "match_id": 135802,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "27 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135802_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135802_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "MI Emirates Development",
-                    "shortName": "MED",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bf4216",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Dubai Capitals Development",
-                    "shortName": "DCD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#131d7f",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/135802_english_hls_07e2e459dd20368ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/nP3H9_9sTdq6o5jpE7Bvvg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135802_english_hls_07e2e459dd20368ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135802_english_hls_07e2e459dd20368ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/nP3H9_9sTdq6o5jpE7Bvvg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Ireland Women Vs Italy Women",
             "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
             "match_id": 133758,
@@ -827,11 +756,11 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 129,
-                            "overs": "16.4",
-                            "balls": "100",
+                            "runs": 136,
+                            "overs": "18.2",
+                            "balls": "110",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -1040,6 +969,74 @@
                     },
                     "isWinner": null,
                     "color": "#2581B3",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Mi Emirates Development Vs Dubai Capitals Development",
+            "tournament": "DP World ILT20 Development Tournament, 2025",
+            "match_id": 135802,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "27 August 2025 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135802_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135802_5636_MED_DCD_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135802_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "MI Emirates Development",
+                    "shortName": "MED",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bf4216",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Dubai Capitals Development",
+                    "shortName": "DCD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#131d7f",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
