@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:30:26 AM 28-08-2025",
+    "last_updated": "03:38:27 AM 28-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,6 +10,77 @@
     "live_matches": 3,
     "upcoming_matches": 35,
     "matches": [
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs San Diego Padres",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132887,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "28 August 2025 01:40 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132887_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#11a6a8",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "San Diego Padres",
+                    "shortName": "SDP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffb700",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
         {
             "category": "Cricket",
             "title": "Canada Vs Namibia",
@@ -93,77 +164,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133759_english_hls_132e2230da88451ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133759_english_hls_132e2230da88451ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/LBGdEBx0R82JmZIapivspw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Baseball",
-            "title": "Seattle Mariners Vs San Diego Padres",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 132887,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "28 August 2025 01:40 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132887_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Seattle Mariners",
-                    "shortName": "SEM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#11a6a8",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "San Diego Padres",
-                    "shortName": "SDP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffb700",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2694,42 +2694,34 @@
         },
         {
             "category": "Cricket",
-            "title": "Kenya Vs Papua New Guinea",
-            "tournament": "ICC CWC Challenge League A, 2024-26",
-            "match_id": 133792,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "27 August 2025 03:30 PM",
+            "title": "Western Suburbs Women Vs Valley Women",
+            "tournament": "KFC Women's T20 Max, 2025",
+            "match_id": 135815,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "29 August 2025 10:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133792_4464_PNG_KEN_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133792_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133792_4464_PNG_KEN_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135815_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133792_4464_PNG_KEN_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133792_4464_PNG_KEN_fc-App_1755587753216.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133792_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135815_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Kenya",
-                    "shortName": "KEN",
+                    "name": "Western Suburbs Women",
+                    "shortName": "WSS-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WSS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#1e4609",
-                    "cricketScore": [
-                        {
-                            "runs": 275,
-                            "overs": "50",
-                            "balls": "300",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
+                    "color": "#702963",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2741,29 +2733,21 @@
                     }
                 },
                 {
-                    "name": "Papua New Guinea",
-                    "shortName": "PNG",
+                    "name": "Valley Women",
+                    "shortName": "VLY-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VL@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#f8dd5a",
-                    "cricketScore": [
-                        {
-                            "runs": 53,
-                            "overs": "14.3",
-                            "balls": "87",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
+                    "color": "#9BBBD6",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
