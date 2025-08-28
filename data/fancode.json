@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:31:09 PM 28-08-2025",
+    "last_updated": "06:38:52 PM 28-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#272993",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 7,
+                            "overs": "0.4",
+                            "balls": "4",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -94,7 +94,7 @@
             "title": "Alleppey Ripples Vs Aries Kollam Sailors",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133891,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "28 August 2025 06:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -173,7 +173,7 @@
             "title": "Alleppey Ripples Vs Aries Kollam Sailors",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133891,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "28 August 2025 06:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -278,9 +278,9 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 183,
-                            "overs": "41.4",
-                            "balls": "250",
+                            "runs": 197,
+                            "overs": "43.4",
+                            "balls": "262",
                             "status": "IN_PROGRESS",
                             "wickets": 9
                         }
@@ -384,9 +384,9 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 9,
+                            "overs": "2.5",
+                            "balls": "17",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -444,11 +444,11 @@
                     "color": "#d3b252",
                     "cricketScore": [
                         {
-                            "runs": 114,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 125,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -823,90 +823,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Capital Strikers Vs Dr Morepen Dazzlers",
-            "tournament": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_id": 136208,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "28 August 2025 02:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136208_5651_DMD_CST_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136208_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136208_5651_DMD_CST_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-premier-league.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136208_5651_DMD_CST_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136208_5651_DMD_CST_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136208_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Capital Strikers",
-                    "shortName": "CST",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTS@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#B8142D",
-                    "cricketScore": [
-                        {
-                            "runs": 119,
-                            "overs": "15.5",
-                            "balls": "95",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Dr Morepen Dazzlers",
-                    "shortName": "DMD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DMD@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#ABD5FF",
-                    "cricketScore": [
-                        {
-                            "runs": 96,
-                            "overs": "16",
-                            "balls": "96",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
                         }
                     }
                 }
@@ -2814,6 +2730,90 @@
                             "balls": "97",
                             "status": "IN_PROGRESS",
                             "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Canada Vs Namibia",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "match_id": 133759,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "27 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133759_3908_CAN_NAM_fc-web_1755793966444.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133759_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133759_3908_CAN_NAM_fc-web_1755793966444.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2022/08/ICC-World-Cup-League-Two-Qualifiers.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133759_3908_CAN_NAM_fc-web_1755793966444.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133759_3908_CAN_NAM_fc-app_1755793966469.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133759_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Canada",
+                    "shortName": "CAN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#d01909",
+                    "cricketScore": [
+                        {
+                            "runs": 219,
+                            "overs": "49.1",
+                            "balls": "295",
+                            "status": "COMPLETED",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Namibia",
+                    "shortName": "NAM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#112c80",
+                    "cricketScore": [
+                        {
+                            "runs": 220,
+                            "overs": "48.2",
+                            "balls": "290",
+                            "status": "IN_PROGRESS",
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
