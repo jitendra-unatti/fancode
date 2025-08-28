@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:46:54 PM 28-08-2025",
+    "last_updated": "09:54:54 PM 28-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 8,
-    "upcoming_matches": 31,
+    "live_matches": 7,
+    "upcoming_matches": 32,
     "matches": [
         {
             "category": "Cricket",
@@ -155,9 +155,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 82,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 106,
+                            "overs": "12.5",
+                            "balls": "77",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -242,9 +242,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 82,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 106,
+                            "overs": "12.5",
+                            "balls": "77",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -329,9 +329,9 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 65,
-                            "overs": "6.3",
-                            "balls": "39",
+                            "runs": 80,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -416,11 +416,11 @@
                     "color": "#eb9ba1",
                     "cricketScore": [
                         {
-                            "runs": 55,
-                            "overs": "13",
-                            "balls": "65",
+                            "runs": 62,
+                            "overs": "15.3",
+                            "balls": "78",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -591,93 +591,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135821_english_hls_9fc6531ed566133adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135821_english_hls_9fc6531ed566133adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Jersey Vs Papua New Guinea",
-            "tournament": "ICC CWC Challenge League A, 2024-26",
-            "match_id": 133795,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "28 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133795_4464_PNG_JER_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133795_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133795_4464_PNG_JER_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133795_4464_PNG_JER_fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133795_4464_PNG_JER_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133795_4464_PNG_JER_fc-App_1755587753235.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133795_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Jersey",
-                    "shortName": "JER",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#D7B524",
-                    "cricketScore": [
-                        {
-                            "runs": 261,
-                            "overs": "49.1",
-                            "balls": "295",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Papua New Guinea",
-                    "shortName": "PNG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#f8dd5a",
-                    "cricketScore": [
-                        {
-                            "runs": 101,
-                            "overs": "30.2",
-                            "balls": "182",
-                            "status": "IN_PROGRESS",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133795_english_hls_03ac179a1295381ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/zoEvTyLBRX2K4tmTL-mYCg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133795_english_hls_03ac179a1295381ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133795_english_hls_03ac179a1295381ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/zoEvTyLBRX2K4tmTL-mYCg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2817,6 +2730,90 @@
                             "balls": "115",
                             "status": "IN_PROGRESS",
                             "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Birmingham Phoenix Women Vs Trent Rockets Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 136187,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "27 August 2025 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132286_5506_TRT-W_BPH-W_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136187_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132286_5506_TRT-W_BPH-W_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132286_5506_TRT-W_BPH-W_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132286_5506_TRT-W_BPH-W_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136187_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Birmingham Phoenix Women",
+                    "shortName": "BPH-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#eba095",
+                    "cricketScore": [
+                        {
+                            "runs": 123,
+                            "overs": "20",
+                            "balls": "100",
+                            "status": "COMPLETED",
+                            "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Trent Rockets Women",
+                    "shortName": "TRT-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#d09b8a",
+                    "cricketScore": [
+                        {
+                            "runs": 126,
+                            "overs": "19.2",
+                            "balls": "97",
+                            "status": "IN_PROGRESS",
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
