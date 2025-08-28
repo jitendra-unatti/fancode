@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:38:45 AM 28-08-2025",
+    "last_updated": "11:46:44 AM 28-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -12,49 +12,57 @@
     "matches": [
         {
             "category": "Cricket",
-            "title": "Altruistian Vs Chandigarh Kings",
+            "title": "Chandigarh Kings Vs Altruistian",
             "tournament": "Chandigarh Premier League T20 Tournament, 2025",
             "match_id": 136207,
             "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "28 August 2025 10:00 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v2/136207_CASACARDS_APP.png",
+            "image": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_APP.png",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v2/136207_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_APP.png",
                 "PLAYBACK": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_APP.png",
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-premier-league.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v2/136207_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v2/136207_CASACARDS_SPORTY_APP.png",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_SPORTY_APP.png",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136207_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Altruistian",
-                    "shortName": "ALT",
+                    "name": "Chandigarh Kings",
+                    "shortName": "CST",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALT@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCST@2x.png"
                     },
                     "isWinner": null,
                     "color": "#B8142D",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
                 {
-                    "name": "Chandigarh Kings",
-                    "shortName": "CST",
+                    "name": "Altruistian",
+                    "shortName": "ALT",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCST@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALT@2x.png"
                     },
                     "isWinner": null,
                     "color": "#B8142D",
