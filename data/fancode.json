@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:19:31 AM 30-08-2025",
+    "last_updated": "01:26:31 AM 30-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#131d7f",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 140,
+                            "overs": "19.5",
+                            "balls": "119",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -85,114 +85,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135805_english_hls_453a7dd36429390ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135805_english_hls_453a7dd36429390ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/ZZPOKpPTSIWU07aida2iBQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Al Taawoun Vs Al Nassr",
-            "tournament": "Roshn Saudi League 2025-2026",
-            "match_id": 136594,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "29 August 2025 11:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Al Taawoun",
-                    "shortName": "ALTW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f3fa1f",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Al-Nassr",
-                    "shortName": "ANF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b6b64a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 5,
-                        "goals": [
-                            {
-                                "id": "428399",
-                                "shortName": "J F\u00e9lix",
-                                "isOwnGoal": false,
-                                "goalTime": "7'"
-                            },
-                            {
-                                "id": "14937",
-                                "shortName": "C Ronaldo",
-                                "isOwnGoal": false,
-                                "goalTime": "54'"
-                            },
-                            {
-                                "id": "129508",
-                                "shortName": "K Coman",
-                                "isOwnGoal": false,
-                                "goalTime": "55'"
-                            },
-                            {
-                                "id": "428399",
-                                "shortName": "J F\u00e9lix",
-                                "isOwnGoal": false,
-                                "goalTime": "67'"
-                            },
-                            {
-                                "id": "428399",
-                                "shortName": "J F\u00e9lix",
-                                "isOwnGoal": false,
-                                "goalTime": "87'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/6tnO6uEsT7W2Oz1gWM2q4A/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/6tnO6uEsT7W2Oz1gWM2q4A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -521,6 +413,114 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130854_english_hls_05e78629de76477adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130854_english_hls_05e78629de76477adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Al Taawoun Vs Al Nassr",
+            "tournament": "Roshn Saudi League 2025-2026",
+            "match_id": 136594,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "29 August 2025 11:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Al Taawoun",
+                    "shortName": "ALTW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f3fa1f",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Al-Nassr",
+                    "shortName": "ANF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b6b64a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 5,
+                        "goals": [
+                            {
+                                "id": "428399",
+                                "shortName": "J F\u00e9lix",
+                                "isOwnGoal": false,
+                                "goalTime": "7'"
+                            },
+                            {
+                                "id": "14937",
+                                "shortName": "C Ronaldo",
+                                "isOwnGoal": false,
+                                "goalTime": "54'"
+                            },
+                            {
+                                "id": "129508",
+                                "shortName": "K Coman",
+                                "isOwnGoal": false,
+                                "goalTime": "55'"
+                            },
+                            {
+                                "id": "428399",
+                                "shortName": "J F\u00e9lix",
+                                "isOwnGoal": false,
+                                "goalTime": "67'"
+                            },
+                            {
+                                "id": "428399",
+                                "shortName": "J F\u00e9lix",
+                                "isOwnGoal": false,
+                                "goalTime": "87'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/6tnO6uEsT7W2Oz1gWM2q4A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/6tnO6uEsT7W2Oz1gWM2q4A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
