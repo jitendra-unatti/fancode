@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:51:52 AM 29-08-2025",
+    "last_updated": "11:58:52 AM 29-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -2534,42 +2534,34 @@
         },
         {
             "category": "Cricket",
-            "title": "Kochi Blue Tigers Vs Adani Trivandrum Royals",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133890,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "28 August 2025 02:30 PM",
+            "title": "Northern Superchargers Women Vs London Spirit Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132288,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "30 August 2025 06:45 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1756275176751.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133890_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1756275176751.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132288_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1756275176751.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-App_1756275183162.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133890_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132288_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Kochi Blue Tigers",
-                    "shortName": "KBT",
+                    "name": "Northern Superchargers Women",
+                    "shortName": "NOS-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUPERNC@2x.png"
                     },
-                    "isWinner": true,
-                    "color": "#01c0f6",
-                    "cricketScore": [
-                        {
-                            "runs": 191,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 5
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#b9a3c7",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2581,29 +2573,21 @@
                     }
                 },
                 {
-                    "name": "Adani Trivandrum Royals",
-                    "shortName": "TR",
+                    "name": "London Spirit Women",
+                    "shortName": "LNS-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
                     },
-                    "isWinner": false,
-                    "color": "#74B8E1",
-                    "cricketScore": [
-                        {
-                            "runs": 182,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 6
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#a0a0d4",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
