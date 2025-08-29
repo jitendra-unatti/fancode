@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:05:53 PM 29-08-2025",
+    "last_updated": "03:12:52 PM 29-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#164fad",
                     "cricketScore": [
                         {
-                            "runs": 116,
-                            "overs": "29.2",
-                            "balls": "176",
+                            "runs": 127,
+                            "overs": "31",
+                            "balls": "186",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -191,9 +191,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 5,
+                            "overs": "1.1",
+                            "balls": "7",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -270,9 +270,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 5,
+                            "overs": "1.1",
+                            "balls": "7",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -323,7 +323,7 @@
             "title": "Capital Strikers Vs Panchkula Bashers",
             "tournament": "Chandigarh Premier League T20 Tournament, 2025",
             "match_id": 136210,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "29 August 2025 02:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -347,14 +347,22 @@
                     },
                     "isWinner": null,
                     "color": "#B8142D",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 15,
+                            "overs": "3.1",
+                            "balls": "19",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
