@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:05:34 PM 29-08-2025",
+    "last_updated": "11:12:36 PM 29-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 13,
-    "upcoming_matches": 27,
+    "live_matches": 14,
+    "upcoming_matches": 26,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 162,
-                            "overs": "18.2",
-                            "balls": "110",
+                            "runs": 170,
+                            "overs": "19.4",
+                            "balls": "118",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -155,9 +155,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 162,
-                            "overs": "18.2",
-                            "balls": "110",
+                            "runs": 170,
+                            "overs": "19.4",
+                            "balls": "118",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -242,9 +242,9 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 120,
-                            "overs": "10.2",
-                            "balls": "63",
+                            "runs": 130,
+                            "overs": "11.3",
+                            "balls": "69",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -400,9 +400,9 @@
                     "color": "#2f5ddf",
                     "cricketScore": [
                         {
-                            "runs": 74,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 85,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -976,6 +976,77 @@
             }
         },
         {
+            "category": "Football",
+            "title": "Al Taawoun Vs Al Nassr",
+            "tournament": "Roshn Saudi League 2025-2026",
+            "match_id": 136594,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "29 August 2025 11:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Al Taawoun",
+                    "shortName": "ALTW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f3fa1f",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Al-Nassr",
+                    "shortName": "ANF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b6b64a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/6tnO6uEsT7W2Oz1gWM2q4A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136594_english_hls_d6084f93ef25176ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/6tnO6uEsT7W2Oz1gWM2q4A/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Golf",
             "title": "Day 2",
             "tournament": "Omega European Masters 2025",
@@ -1226,74 +1297,6 @@
                     "isWinner": null,
                     "color": "#D26617",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Al Taawoun Vs Al Nassr",
-            "tournament": "Roshn Saudi League 2025-2026",
-            "match_id": 136594,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "29 August 2025 11:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Taawoun-VS-Al-Nassr_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136594_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Al Taawoun",
-                    "shortName": "ALTW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALTW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f3fa1f",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Al-Nassr",
-                    "shortName": "ANF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b6b64a",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
