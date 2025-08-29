@@ -1,102 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:34 PM 29-08-2025",
+    "last_updated": "09:37:31 PM 29-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 13,
-    "upcoming_matches": 26,
+    "live_matches": 11,
+    "upcoming_matches": 28,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Sri Lanka Vs Zimbabwe",
-            "tournament": "Sri Lanka tour of Zimbabwe, 2025",
-            "match_id": 133665,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "29 August 2025 01:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133665_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ZIM_vs-SL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-sporty-match-card_1756139255013.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133665_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Sri Lanka",
-                    "shortName": "SL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#164fad",
-                    "cricketScore": [
-                        {
-                            "runs": 298,
-                            "overs": "50",
-                            "balls": "300",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Zimbabwe",
-                    "shortName": "ZIM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#dfd32c",
-                    "cricketScore": [
-                        {
-                            "runs": 291,
-                            "overs": "50",
-                            "balls": "300",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/133665_english_hls_1f64ecae8b33591ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/GLEvcQFhT8SdtO0xm3Uv6g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/133665_english_hls_1f64ecae8b33591ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/133665_english_hls_1f64ecae8b33591ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/GLEvcQFhT8SdtO0xm3Uv6g/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Calicut Globstars Vs Alleppey Ripples",
@@ -155,9 +68,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "2.4",
-                            "balls": "16",
+                            "runs": 31,
+                            "overs": "3.4",
+                            "balls": "22",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -242,9 +155,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "2.4",
-                            "balls": "16",
+                            "runs": 31,
+                            "overs": "3.4",
+                            "balls": "22",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -302,9 +215,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 165,
-                            "overs": "17.5",
-                            "balls": "107",
+                            "runs": 186,
+                            "overs": "18.4",
+                            "balls": "112",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -452,9 +365,9 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 96,
-                            "overs": "12.1",
-                            "balls": "73",
+                            "runs": 116,
+                            "overs": "13.5",
+                            "balls": "83",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -502,85 +415,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Gulf Giants Development Vs Sharjah Warriorz Development",
-            "tournament": "DP World ILT20 Development Tournament, 2025",
-            "match_id": 135804,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "29 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web_1756269777839.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135804_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web_1756269777839.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web_1756269777839.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web_1756269777839.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-app_1756269783596.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135804_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Gulf Giants Development",
-                    "shortName": "GGD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GGD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f3e778",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Sharjah Warriorz Development",
-                    "shortName": "SWD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d93025",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/135804_english_hls_c596dc18d1173ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2CUM5ddMSk6ffSrrdf8zVA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135804_english_hls_c596dc18d1173ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135804_english_hls_c596dc18d1173ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/2CUM5ddMSk6ffSrrdf8zVA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Yalla Shabab Giants Vs Majees Titans",
             "tournament": "Oman D20 League, 2025",
             "match_id": 133699,
@@ -610,11 +444,11 @@
                     "color": "#D11919",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 43,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -1009,6 +843,90 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Sri Lanka Vs Zimbabwe",
+            "tournament": "Sri Lanka tour of Zimbabwe, 2025",
+            "match_id": 133665,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "29 August 2025 01:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133665_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ZIM_vs-SL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-sporty-match-card_1756139255013.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133665_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#164fad",
+                    "cricketScore": [
+                        {
+                            "runs": 298,
+                            "overs": "50",
+                            "balls": "300",
+                            "status": "COMPLETED",
+                            "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#dfd32c",
+                    "cricketScore": [
+                        {
+                            "runs": 291,
+                            "overs": "50",
+                            "balls": "300",
+                            "status": "IN_PROGRESS",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -2760,6 +2678,74 @@
                     "isWinner": null,
                     "color": "#ca2917",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133700,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "30 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133700_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133700_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dcdcdc",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dcdcdc",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
