@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:35 AM 30-08-2025",
+    "last_updated": "12:37:31 AM 30-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -108,7 +108,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#D11919",
                     "cricketScore": [
                         {
@@ -135,15 +135,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#d8c50f",
                     "cricketScore": [
                         {
-                            "runs": 116,
-                            "overs": "19",
-                            "balls": "114",
+                            "runs": 128,
+                            "overs": "19.5",
+                            "balls": "119",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -584,7 +584,7 @@
             "title": "Leicester City Vs Birmingham City",
             "tournament": "EFL Championship 2025-26",
             "match_id": 131998,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "30 August 2025 12:30 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -610,7 +610,10 @@
                     "color": "#fbc32c",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -629,7 +632,10 @@
                     "color": "#6183ca",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
