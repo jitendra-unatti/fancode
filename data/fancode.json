@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:31 PM 29-08-2025",
+    "last_updated": "08:30:38 PM 29-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 10,
-    "upcoming_matches": 29,
+    "live_matches": 11,
+    "upcoming_matches": 28,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#dfd32c",
                     "cricketScore": [
                         {
-                            "runs": 218,
-                            "overs": "40",
-                            "balls": "240",
+                            "runs": 224,
+                            "overs": "40.5",
+                            "balls": "245",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -128,9 +128,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "13.1",
-                            "balls": "79",
+                            "runs": 87,
+                            "overs": "13.5",
+                            "balls": "83",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -207,9 +207,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "13.1",
-                            "balls": "79",
+                            "runs": 87,
+                            "overs": "13.5",
+                            "balls": "83",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -286,9 +286,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 48,
-                            "overs": "5.2",
-                            "balls": "32",
+                            "runs": 56,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -542,9 +542,9 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 108,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 110,
+                            "overs": "17.1",
+                            "balls": "103",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -646,6 +646,77 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135804_english_hls_c596dc18d1173ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135804_english_hls_c596dc18d1173ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/2CUM5ddMSk6ffSrrdf8zVA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Tajikistan Vs India",
+            "tournament": "CAFA Nations Cup 2025",
+            "match_id": 136615,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "29 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136615_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CAFA-Nations-Cup,-2025-Tour-Logo_1756449078926.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136615_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Tajikistan",
+                    "shortName": "TAJ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/TAJ-FT1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#80cb99",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "India",
+                    "shortName": "IND",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0f60de",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136615_english_hls_488b7fa1b034240ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/OPuBrU-4TwyARLvByKR1hg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136615_english_hls_488b7fa1b034240ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136615_english_hls_488b7fa1b034240ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/OPuBrU-4TwyARLvByKR1hg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -909,74 +980,6 @@
                     "isWinner": null,
                     "color": "#d8c50f",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Tajikistan Vs India",
-            "tournament": "CAFA Nations Cup 2025",
-            "match_id": 136615,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "29 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136615_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CAFA-Nations-Cup,-2025-Tour-Logo_1756449078926.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136615_5656_TAJ_IND_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136615_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Tajikistan",
-                    "shortName": "TAJ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/TAJ-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#80cb99",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "India",
-                    "shortName": "IND",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0f60de",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1977,7 +1980,7 @@
                     },
                     "isWinner": null,
                     "color": "#4fb319",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1996,7 +1999,7 @@
                     },
                     "isWinner": null,
                     "color": "#559830",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2221,74 +2224,6 @@
             }
         },
         {
-            "category": "Motorsports",
-            "title": "Second Practice Session",
-            "tournament": "F1 ACADEMY NETHERLANDS 2025",
-            "match_id": 119128,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "29 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/119128_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-NETHERLANDS-2025_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119128_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Second Practice Session",
-                    "shortName": "Second Practice Session",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Zandvoort",
-                    "shortName": "Zandvoort",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#123456",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Football",
             "title": "Middlesbrough Vs Sheffield United",
             "tournament": "EFL Championship 2025-26",
@@ -2336,6 +2271,74 @@
                     },
                     "isWinner": null,
                     "color": "#ece125",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Motorsports",
+            "title": "Second Practice Session",
+            "tournament": "F1 ACADEMY NETHERLANDS 2025",
+            "match_id": 119128,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "29 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/119128_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-NETHERLANDS-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119128_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Second Practice Session",
+                    "shortName": "Second Practice Session",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#EE0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Zandvoort",
+                    "shortName": "Zandvoort",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#123456",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
