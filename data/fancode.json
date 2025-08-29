@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:19:38 PM 29-08-2025",
+    "last_updated": "10:26:31 PM 29-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "11.1",
-                            "balls": "67",
+                            "runs": 126,
+                            "overs": "12.1",
+                            "balls": "73",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -155,9 +155,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "11.1",
-                            "balls": "67",
+                            "runs": 126,
+                            "overs": "12.1",
+                            "balls": "73",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -242,9 +242,9 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 21,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 45,
+                            "overs": "4.2",
+                            "balls": "26",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -376,7 +376,7 @@
                             "runs": 182,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 7
                         }
                     ],
@@ -386,7 +386,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -398,14 +398,22 @@
                     },
                     "isWinner": null,
                     "color": "#2f5ddf",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 5,
+                            "overs": "1",
+                            "balls": "6",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -452,11 +460,11 @@
                     "color": "#D11919",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 115,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -1714,74 +1722,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Altruistian Vs Talanoa Tigers",
-            "tournament": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_id": 136211,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "30 August 2025 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136211_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-premier-league.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136211_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Altruistian",
-                    "shortName": "ALT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Talanoa Tigers",
-                    "shortName": "TLT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TATS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fff800",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "United Arab Emirates Vs Pakistan",
             "tournament": "Afghanistan and Pakistan tour of UAE, 2025",
             "match_id": 135785,
@@ -1828,6 +1768,74 @@
                     },
                     "isWinner": null,
                     "color": "#559830",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Altruistian Vs Talanoa Tigers",
+            "tournament": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_id": 136211,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "30 August 2025 10:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136211_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-premier-league.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136211_5651_ALT_TLT_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136211_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Altruistian",
+                    "shortName": "ALT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#B8142D",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Talanoa Tigers",
+                    "shortName": "TLT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TATS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fff800",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
