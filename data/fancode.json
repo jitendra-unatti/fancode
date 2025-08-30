@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:51:30 PM 30-08-2025",
+    "last_updated": "07:58:32 PM 30-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 12,
-    "upcoming_matches": 27,
+    "live_matches": 13,
+    "upcoming_matches": 26,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 56,
-                            "overs": "5.5",
-                            "balls": "35",
+                            "runs": 65,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -128,11 +128,11 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 176,
-                            "overs": "17",
-                            "balls": "85",
+                            "runs": 200,
+                            "overs": "19.2",
+                            "balls": "97",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -207,9 +207,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 45,
-                            "overs": "6.4",
-                            "balls": "40",
+                            "runs": 49,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -286,9 +286,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 45,
-                            "overs": "6.4",
-                            "balls": "40",
+                            "runs": 49,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -365,9 +365,9 @@
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 62,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 79,
+                            "overs": "11.2",
+                            "balls": "68",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -415,6 +415,77 @@
         },
         {
             "category": "Cricket",
+            "title": "United Arab Emirates Vs Pakistan",
+            "tournament": "Afghanistan and Pakistan tour of UAE, 2025",
+            "match_id": 135785,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "30 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135785_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tri-Nation_UAEvPAKvAFG_Series2025.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_Sporty-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135785_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "United Arab Emirates",
+                    "shortName": "UAE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4fb319",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Pakistan",
+                    "shortName": "PAK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#559830",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/135785_english_hls_c44753a1b03331ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/x69rOO2aTkWc4OYXA0EMOA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135785_english_hls_c44753a1b03331ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135785_english_hls_c44753a1b03331ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/x69rOO2aTkWc4OYXA0EMOA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Papua New Guinea Vs Qatar",
             "tournament": "ICC CWC Challenge League A, 2024-26",
             "match_id": 133797,
@@ -444,9 +515,9 @@
                     "color": "#f8dd5a",
                     "cricketScore": [
                         {
-                            "runs": 107,
-                            "overs": "31",
-                            "balls": "186",
+                            "runs": 123,
+                            "overs": "33",
+                            "balls": "198",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -938,74 +1009,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/w5eQCqTARum0H7xXqEc0lA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "United Arab Emirates Vs Pakistan",
-            "tournament": "Afghanistan and Pakistan tour of UAE, 2025",
-            "match_id": 135785,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "30 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135785_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tri-Nation_UAEvPAKvAFG_Series2025.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_Sporty-(1).jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135785_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4fb319",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Pakistan",
-                    "shortName": "PAK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#559830",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
