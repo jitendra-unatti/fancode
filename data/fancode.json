@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:37:30 PM 30-08-2025",
+    "last_updated": "08:44:33 PM 30-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 14,
-    "upcoming_matches": 26,
+    "live_matches": 15,
+    "upcoming_matches": 25,
     "matches": [
         {
             "category": "Cricket",
@@ -155,11 +155,11 @@
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "7.4",
-                            "balls": "39",
+                            "runs": 86,
+                            "overs": "9.1",
+                            "balls": "46",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -215,9 +215,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 107,
-                            "overs": "14.2",
-                            "balls": "86",
+                            "runs": 135,
+                            "overs": "16",
+                            "balls": "96",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -294,9 +294,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 107,
-                            "overs": "14.2",
-                            "balls": "86",
+                            "runs": 135,
+                            "overs": "16",
+                            "balls": "96",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -373,11 +373,11 @@
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 122,
-                            "overs": "17.4",
-                            "balls": "106",
+                            "runs": 135,
+                            "overs": "18.4",
+                            "balls": "112",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -452,9 +452,9 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 9,
-                            "overs": "0.5",
-                            "balls": "5",
+                            "runs": 22,
+                            "overs": "2.3",
+                            "balls": "15",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -534,7 +534,7 @@
                             "runs": 145,
                             "overs": "38",
                             "balls": "228",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -544,7 +544,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -556,14 +556,22 @@
                     },
                     "isWinner": null,
                     "color": "#d15972",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 6,
+                            "overs": "0.5",
+                            "balls": "5",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -939,8 +947,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "482652",
+                                "shortName": "G Simeone",
+                                "isOwnGoal": false,
+                                "goalTime": "7'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -1016,8 +1031,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "482652",
+                                "shortName": "G Simeone",
+                                "isOwnGoal": false,
+                                "goalTime": "7'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -1323,14 +1345,14 @@
             "tournament": "Oman D20 League, 2025",
             "match_id": 133700,
             "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "streamingStatus": "STARTED",
             "startTime": "30 August 2025 09:00 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/133670_5590_ROS_MAT_fc-Web.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/133700_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/133670_5590_ROS_MAT_fc-Web.jpg",
-                "PLAYBACK": null,
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133670_5590_ROS_MAT_fc-Web.jpg",
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133670_5590_ROS_MAT_fc-Web.jpg",
@@ -1346,14 +1368,22 @@
                     },
                     "isWinner": null,
                     "color": "#d3b252",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -1377,12 +1407,15 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133700_english_hls_8bcad81dc220797ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/BeiQ_nmrStaVkXHC6xOlIQ/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133700_english_hls_8bcad81dc220797ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133700_english_hls_8bcad81dc220797ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/BeiQ_nmrStaVkXHC6xOlIQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
