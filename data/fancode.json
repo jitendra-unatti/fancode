@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:37:33 PM 30-08-2025",
+    "last_updated": "10:44:33 PM 30-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 120,
-                            "overs": "13.2",
-                            "balls": "80",
+                            "runs": 133,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 120,
-                            "overs": "13.2",
-                            "balls": "80",
+                            "runs": 133,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -211,7 +211,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#e7993a",
                     "cricketScore": [
                         {
@@ -238,13 +238,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WDL@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 136,
-                            "overs": "17.1",
-                            "balls": "103",
+                            "runs": 141,
+                            "overs": "17.3",
+                            "balls": "105",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -329,9 +329,9 @@
                     "color": "#4fb319",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 19,
+                            "overs": "2.3",
+                            "balls": "15",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -360,7 +360,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Trent Rockets Vs Northern Superchargers",
+            "title": "Northern Superchargers Vs Trent Rockets",
             "tournament": "The Hundred, 2025",
             "match_id": 132254,
             "status": "LIVE",
@@ -380,25 +380,6 @@
             },
             "teams": [
                 {
-                    "name": "Trent Rockets",
-                    "shortName": "TRT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d09b8a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Northern Superchargers",
                     "shortName": "NOS",
                     "flag": {
@@ -406,6 +387,33 @@
                     },
                     "isWinner": null,
                     "color": "#b9a3c7",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Trent Rockets",
+                    "shortName": "TRT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d09b8a",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
