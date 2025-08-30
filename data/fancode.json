@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:30:46 PM 30-08-2025",
+    "last_updated": "04:37:39 PM 30-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "17.5",
-                            "balls": "107",
+                            "runs": 145,
+                            "overs": "18.5",
+                            "balls": "113",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "17.5",
-                            "balls": "107",
+                            "runs": 145,
+                            "overs": "18.5",
+                            "balls": "113",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -287,10 +287,10 @@
                     "cricketScore": [
                         {
                             "runs": 48,
-                            "overs": "12.5",
-                            "balls": "77",
+                            "overs": "14.4",
+                            "balls": "88",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -365,11 +365,11 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "11.2",
-                            "balls": "68",
+                            "runs": 58,
+                            "overs": "12.3",
+                            "balls": "75",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -409,83 +409,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133796_english_hls_92a23b235290096ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133796_english_hls_92a23b235290096ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/MXkgQPBXQqWf-bH1AcQC5g/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Yokohama Vs Tokyo Verdy",
-            "tournament": "J League 2025",
-            "match_id": 132088,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "30 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132088_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Yokohama",
-                    "shortName": "YKH",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKF@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#132443",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Tokyo Verdy",
-                    "shortName": "VER",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#109556",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132088_english_hls_634bf6f7725275ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132088_english_hls_634bf6f7725275ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132088_english_hls_634bf6f7725275ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -556,6 +479,83 @@
             "STREAMING_CDN": {
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132116_english_hls_3526f916b89418adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132116_english_hls_3526f916b89418adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Yokohama Vs Tokyo Verdy",
+            "tournament": "J League 2025",
+            "match_id": 132088,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "30 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132088_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132088_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Yokohama",
+                    "shortName": "YKH",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#132443",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Tokyo Verdy",
+                    "shortName": "VER",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#109556",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132088_english_hls_634bf6f7725275ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132088_english_hls_634bf6f7725275ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132088_english_hls_634bf6f7725275ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -1650,6 +1650,74 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Adani Trivandrum Royals Vs Aries Kollam Sailors",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133896,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "31 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133896_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-App_1756275183144.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133896_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Adani Trivandrum Royals",
+                    "shortName": "TR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#74B8E1",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Aries Kollam Sailors",
+                    "shortName": "AKS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b7e330",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Football",
             "title": "Girona Vs Sevilla",
             "tournament": "LALIGA 2025-26",
@@ -1766,74 +1834,6 @@
                     "isWinner": null,
                     "color": "#c3bb19",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Adani Trivandrum Royals Vs Aries Kollam Sailors",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133896,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "31 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133896_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-App_1756275183144.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133896_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Adani Trivandrum Royals",
-                    "shortName": "TR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#74B8E1",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Aries Kollam Sailors",
-                    "shortName": "AKS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b7e330",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
