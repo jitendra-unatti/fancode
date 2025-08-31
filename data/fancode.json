@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:19:42 AM 01-09-2025",
+    "last_updated": "12:26:41 AM 01-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -155,9 +155,9 @@
                     "color": "#1672c1",
                     "cricketScore": [
                         {
-                            "runs": 2,
-                            "overs": "0.1",
-                            "balls": "2",
+                            "runs": 5,
+                            "overs": "1.4",
+                            "balls": "10",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -242,11 +242,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 24,
-                            "overs": "4",
-                            "balls": "20",
+                            "runs": 36,
+                            "overs": "6.2",
+                            "balls": "32",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -396,13 +396,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "81138",
                                 "shortName": "M Bartra",
                                 "isOwnGoal": true,
                                 "goalTime": "60'"
+                            },
+                            {
+                                "id": "440593",
+                                "shortName": "A Paredes",
+                                "isOwnGoal": false,
+                                "goalTime": "85'"
                             }
                         ]
                     },
