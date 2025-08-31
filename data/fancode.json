@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:26:42 PM 31-08-2025",
+    "last_updated": "11:30:42 PM 31-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 10,
-    "upcoming_matches": 29,
+    "live_matches": 11,
+    "upcoming_matches": 28,
     "matches": [
         {
             "category": "Cricket",
@@ -41,9 +41,9 @@
                     "color": "#d01909",
                     "cricketScore": [
                         {
-                            "runs": 151,
-                            "overs": "43.3",
-                            "balls": "261",
+                            "runs": 152,
+                            "overs": "44.2",
+                            "balls": "266",
                             "status": "IN_PROGRESS",
                             "wickets": 8
                         }
@@ -147,9 +147,9 @@
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 144,
-                            "overs": "12.1",
-                            "balls": "73",
+                            "runs": 158,
+                            "overs": "13.1",
+                            "balls": "79",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -234,9 +234,9 @@
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 144,
-                            "overs": "12.1",
-                            "balls": "73",
+                            "runs": 158,
+                            "overs": "13.1",
+                            "balls": "79",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -294,9 +294,9 @@
                     "color": "#189941",
                     "cricketScore": [
                         {
-                            "runs": 118,
-                            "overs": "14.1",
-                            "balls": "71",
+                            "runs": 131,
+                            "overs": "15.1",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -338,6 +338,77 @@
                 "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Dubai Capitals Development Vs Sharjah Warriorz Development",
+            "tournament": "DP World ILT20 Development Tournament, 2025",
+            "match_id": 135807,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "31 August 2025 11:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135807_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-app_1756269783579.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135807_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Dubai Capitals Development",
+                    "shortName": "DCD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#131d7f",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sharjah Warriorz Development",
+                    "shortName": "SWD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d93025",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/uwjbiTP2QwKGPKuLJvdTmA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/uwjbiTP2QwKGPKuLJvdTmA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -804,82 +875,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Desert Vipers Development Vs Abu Dhabi Knight Riders Development",
-            "tournament": "DP World ILT20 Development Tournament, 2025",
-            "match_id": 135808,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "31 August 2025 07:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-web_1756269777746.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135808_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-web_1756269777746.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-web_1756269777746.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135808_5636_DVD_ADK_fc-app_1756269783622.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135808_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Desert Vipers Development",
-                    "shortName": "DVD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ddab30",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Abu Dhabi Knight Riders Development",
-                    "shortName": "ADK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADKR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3a0f6a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Thrissur Titans Vs Alleppey Ripples",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133898,
@@ -926,74 +921,6 @@
                     },
                     "isWinner": null,
                     "color": "#8e5bf0",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Dubai Capitals Development Vs Sharjah Warriorz Development",
-            "tournament": "DP World ILT20 Development Tournament, 2025",
-            "match_id": 135807,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "31 August 2025 11:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135807_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-app_1756269783579.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135807_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Dubai Capitals Development",
-                    "shortName": "DCD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#131d7f",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sharjah Warriorz Development",
-                    "shortName": "SWD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d93025",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2875,6 +2802,74 @@
                     "isWinner": null,
                     "color": "#002d71",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Altruistian Vs Capital Strikers",
+            "tournament": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_id": 136213,
+            "status": "ABANDONED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "31 August 2025 10:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136213_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-premier-league.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136213_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Altruistian",
+                    "shortName": "ALT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#B8142D",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Capital Strikers",
+                    "shortName": "CST",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#B8142D",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
