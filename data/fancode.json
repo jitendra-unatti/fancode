@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:43 PM 31-08-2025",
+    "last_updated": "09:37:41 PM 31-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 42,
-    "live_matches": 11,
-    "upcoming_matches": 31,
+    "total_matches": 40,
+    "live_matches": 10,
+    "upcoming_matches": 30,
     "matches": [
         {
             "category": "Cricket",
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#97c8a5",
                     "cricketScore": [
                         {
@@ -64,7 +64,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUPERNC@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
@@ -155,9 +155,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 71,
-                            "overs": "8.2",
-                            "balls": "50",
+                            "runs": 86,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -242,9 +242,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 71,
-                            "overs": "8.2",
-                            "balls": "50",
+                            "runs": 86,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -329,9 +329,9 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 32,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 41,
+                            "overs": "4.1",
+                            "balls": "25",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -389,9 +389,9 @@
                     "color": "#d01909",
                     "cricketScore": [
                         {
-                            "runs": 37,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 42,
+                            "overs": "18.4",
+                            "balls": "112",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -468,9 +468,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 127,
-                            "overs": "13",
-                            "balls": "78",
+                            "runs": 142,
+                            "overs": "14.2",
+                            "balls": "86",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -547,9 +547,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 127,
-                            "overs": "13",
-                            "balls": "78",
+                            "runs": 142,
+                            "overs": "14.2",
+                            "balls": "86",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -653,11 +653,11 @@
                     "color": "#1e4609",
                     "cricketScore": [
                         {
-                            "runs": 93,
-                            "overs": "24.5",
-                            "balls": "149",
+                            "runs": 97,
+                            "overs": "26.2",
+                            "balls": "158",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -831,219 +831,6 @@
             }
         },
         {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 HEINEKEN DUTCH GRAND PRIX 2025",
-            "match_id": 118455,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "31 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118455_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/R15-Netherlands-GP-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Formula1-1440-x-360.png",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_Sporty_Match_card_Race.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118455_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Race",
-                    "shortName": "RC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Netherlands",
-                    "shortName": "Netherlands",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://d18ln57ma3gga6.cloudfront.net/out/v1/f1612c229fd34384892c7d0005ee7a9d/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://d18ln57ma3gga6.cloudfront.net/out/v1/f1612c229fd34384892c7d0005ee7a9d/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "https://d18ln57ma3gga6.cloudfront.net/out/v1/f1612c229fd34384892c7d0005ee7a9d/index.m3u8",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 HEINEKEN DUTCH GRAND PRIX 2025",
-            "match_id": 118455,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "31 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118455_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/R15-Netherlands-GP-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Formula1-1440-x-360.png",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_Sporty_Match_card_Race.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118455_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Race",
-                    "shortName": "RC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Netherlands",
-                    "shortName": "Netherlands",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "HINDI",
-            "adfree_stream": "https://d2jev2syv63ibf.cloudfront.net/out/v1/6cdbaab79bff4bf9a99d451deb010dd4/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://d2jev2syv63ibf.cloudfront.net/out/v1/6cdbaab79bff4bf9a99d451deb010dd4/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "https://d2jev2syv63ibf.cloudfront.net/out/v1/6cdbaab79bff4bf9a99d451deb010dd4/index.m3u8",
-                "language": "HINDI"
-            }
-        },
-        {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 HEINEKEN DUTCH GRAND PRIX 2025",
-            "match_id": 118455,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "31 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118455_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/R15-Netherlands-GP-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Formula1-1440-x-360.png",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_Sporty_Match_card_Race.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118455_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Race",
-                    "shortName": "RC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Netherlands",
-                    "shortName": "Netherlands",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "TAMIL",
-            "adfree_stream": "https://d2vqqie4dgpbvd.cloudfront.net/out/v1/bc40dca2d4f34fdfa2a2629f30187854/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://d2vqqie4dgpbvd.cloudfront.net/out/v1/bc40dca2d4f34fdfa2a2629f30187854/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "https://d2vqqie4dgpbvd.cloudfront.net/out/v1/bc40dca2d4f34fdfa2a2629f30187854/index.m3u8",
-                "language": "TAMIL"
-            }
-        },
-        {
             "category": "Baseball",
             "title": "Cincinnati Reds Vs St. Louis Cardinals",
             "tournament": "Major League Baseball, 2025",
@@ -1170,6 +957,90 @@
                     "status": {
                         "cricket": {
                             "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Zimbabwe Vs Sri Lanka",
+            "tournament": "Sri Lanka tour of Zimbabwe, 2025",
+            "match_id": 133666,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "31 August 2025 01:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133666_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ZIM_vs-SL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-sporty-match-card_1756139255013.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133666_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#dfd32c",
+                    "cricketScore": [
+                        {
+                            "runs": 277,
+                            "overs": "50",
+                            "balls": "300",
+                            "status": "COMPLETED",
+                            "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#164fad",
+                    "cricketScore": [
+                        {
+                            "runs": 278,
+                            "overs": "49.3",
+                            "balls": "297",
+                            "status": "IN_PROGRESS",
+                            "wickets": 5
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
                         }
                     }
                 }
