@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:37:37 PM 31-08-2025",
+    "last_updated": "03:44:37 PM 31-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#dfd32c",
                     "cricketScore": [
                         {
-                            "runs": 158,
-                            "overs": "34",
-                            "balls": "204",
+                            "runs": 161,
+                            "overs": "35.3",
+                            "balls": "213",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -120,9 +120,9 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 111,
-                            "overs": "13.3",
-                            "balls": "81",
+                            "runs": 131,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -199,9 +199,9 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 111,
-                            "overs": "13.3",
-                            "balls": "81",
+                            "runs": 131,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -305,11 +305,11 @@
                     "color": "#88c1ff",
                     "cricketScore": [
                         {
-                            "runs": 87,
-                            "overs": "16",
-                            "balls": "96",
+                            "runs": 100,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -392,9 +392,9 @@
                     "color": "#80c76d",
                     "cricketScore": [
                         {
-                            "runs": 62,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 72,
+                            "overs": "16",
+                            "balls": "96",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -452,9 +452,9 @@
                     "color": "#cb3529",
                     "cricketScore": [
                         {
-                            "runs": 2,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 11,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -531,11 +531,11 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 3,
-                            "overs": "1",
-                            "balls": "7",
+                            "runs": 4,
+                            "overs": "2.4",
+                            "balls": "16",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -745,7 +745,7 @@
             "title": "Kawasaki Frontale Vs Machida Zelvia",
             "tournament": "J League 2025",
             "match_id": 132087,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "31 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -771,7 +771,10 @@
                     "color": "#11a4ea",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -790,7 +793,10 @@
                     "color": "#248eff",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
