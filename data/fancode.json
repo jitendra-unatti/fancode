@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:19:41 PM 31-08-2025",
+    "last_updated": "10:26:45 PM 31-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 10,
-    "upcoming_matches": 30,
+    "live_matches": 11,
+    "upcoming_matches": 29,
     "matches": [
         {
             "category": "Cricket",
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
@@ -64,13 +64,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 161,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 178,
+                            "overs": "18.2",
+                            "balls": "110",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -124,7 +124,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
@@ -151,13 +151,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 161,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 178,
+                            "overs": "18.2",
+                            "balls": "110",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -242,9 +242,9 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 108,
-                            "overs": "11.4",
-                            "balls": "70",
+                            "runs": 116,
+                            "overs": "12.4",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -302,9 +302,9 @@
                     "color": "#d01909",
                     "cricketScore": [
                         {
-                            "runs": 82,
-                            "overs": "28.3",
-                            "balls": "171",
+                            "runs": 90,
+                            "overs": "30",
+                            "balls": "180",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -384,7 +384,7 @@
                             "runs": 204,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 4
                         }
                     ],
@@ -394,7 +394,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -406,14 +406,22 @@
                     },
                     "isWinner": null,
                     "color": "#1e6583",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 8,
+                            "overs": "0.2",
+                            "balls": "2",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -463,7 +471,7 @@
                             "runs": 204,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 4
                         }
                     ],
@@ -473,7 +481,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -485,14 +493,22 @@
                     },
                     "isWinner": null,
                     "color": "#1e6583",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 8,
+                            "overs": "0.2",
+                            "balls": "2",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -506,6 +522,85 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Qd_qE6mwT6ycajKuassvFw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "HINDI AI(BETA)"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Oval Invincibles Vs Trent Rockets",
+            "tournament": "The Hundred, 2025",
+            "match_id": 135846,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "31 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135846_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135846_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Oval Invincibles",
+                    "shortName": "OVI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#189941",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Trent Rockets",
+                    "shortName": "TRT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d09b8a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -535,7 +630,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEN@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#cb3529",
                     "cricketScore": [
                         {
@@ -562,7 +657,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNA@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#1e4609",
                     "cricketScore": [
                         {
@@ -662,90 +757,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135808_english_hls_5dbed44ae143028ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135808_english_hls_5dbed44ae143028ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/uxTv2jDIS1-mj_5ULgbznA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Celta De Vigo Vs Villarreal",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130853,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "31 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130853_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130853_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Celta de Vigo",
-                    "shortName": "CEV",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b1d4f5",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Villarreal",
-                    "shortName": "VIL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffc0cb",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "195735",
-                                "shortName": "N P\u00e9p\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "53'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130853_english_hls_3e5564daee46098adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130853_english_hls_3e5564daee46098adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130853_english_hls_3e5564daee46098adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -893,64 +904,76 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Oval Invincibles Vs Trent Rockets",
-            "tournament": "The Hundred, 2025",
-            "match_id": 135846,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "31 August 2025 10:30 PM",
+            "category": "Football",
+            "title": "Celta De Vigo Vs Villarreal",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130853,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "31 August 2025 08:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135846_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135846_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130853_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130853_5427_CEV_VIL_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130853_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Oval Invincibles",
-                    "shortName": "OVI",
+                    "name": "Celta de Vigo",
+                    "shortName": "CEV",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#189941",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
+                    "color": "#b1d4f5",
+                    "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "202044",
+                                "shortName": "B Iglesias",
+                                "isOwnGoal": false,
+                                "goalTime": "94'"
+                            }
+                        ]
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
                 {
-                    "name": "Trent Rockets",
-                    "shortName": "TRT",
+                    "name": "Villarreal",
+                    "shortName": "VIL",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#d09b8a",
-                    "cricketScore": [],
+                    "color": "#ffc0cb",
+                    "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "195735",
+                                "shortName": "N P\u00e9p\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "53'"
+                            }
+                        ]
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -960,12 +983,15 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130853_english_hls_3e5564daee46098adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130853_english_hls_3e5564daee46098adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130853_english_hls_3e5564daee46098adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -1514,74 +1540,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Capital Strikers Vs Talanoa Tigers",
-            "tournament": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_id": 136215,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "01 September 2025 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136215_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-premier-league.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136215_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Capital Strikers",
-                    "shortName": "CST",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Talanoa Tigers",
-                    "shortName": "TLT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TATS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fff800",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Trinbago Knight Riders Vs St Kitts And Nevis Patriots",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132364,
@@ -1696,6 +1654,74 @@
                     },
                     "isWinner": null,
                     "color": "#4fb319",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Capital Strikers Vs Talanoa Tigers",
+            "tournament": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_id": 136215,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "01 September 2025 10:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136215_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-premier-league.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136215_5651_CST_TLT_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136215_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Capital Strikers",
+                    "shortName": "CST",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CTS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#B8142D",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Talanoa Tigers",
+                    "shortName": "TLT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TATS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fff800",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
