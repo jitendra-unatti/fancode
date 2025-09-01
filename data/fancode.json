@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:51:09 PM 01-09-2025",
+    "last_updated": "07:58:10 PM 01-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 6,
-    "upcoming_matches": 33,
+    "live_matches": 7,
+    "upcoming_matches": 32,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 51,
+                            "overs": "7.3",
+                            "balls": "45",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -128,11 +128,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 108,
-                            "overs": "13.5",
-                            "balls": "84",
+                            "runs": 118,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -207,11 +207,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 108,
-                            "overs": "13.5",
-                            "balls": "84",
+                            "runs": 118,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -253,6 +253,77 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/wLnkHji_Teuln9LtxSyiPg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "MALAYALAM"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Afghanistan Vs United Arab Emirates",
+            "tournament": "Afghanistan and Pakistan tour of UAE, 2025",
+            "match_id": 135786,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "01 September 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135786_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tri-Nation_UAEvPAKvAFG_Series2025.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135786_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Afghanistan",
+                    "shortName": "AFG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2f5ddf",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortName": "UAE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4fb319",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/135786_english_hls_e3d2a03c3b45248ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/YdfyKY0fRtyH3F8LMTII_Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135786_english_hls_e3d2a03c3b45248ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135786_english_hls_e3d2a03c3b45248ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YdfyKY0fRtyH3F8LMTII_Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -313,11 +384,11 @@
                     "color": "#677166",
                     "cricketScore": [
                         {
-                            "runs": 26,
-                            "overs": "5.4",
-                            "balls": "34",
+                            "runs": 28,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -400,11 +471,11 @@
                     "color": "#112c80",
                     "cricketScore": [
                         {
-                            "runs": 40,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 47,
+                            "overs": "7.4",
+                            "balls": "46",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -431,7 +502,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Sharjah Warriorz Development Vs Mi Emirates Development",
+            "title": "Mi Emirates Development Vs Sharjah Warriorz Development",
             "tournament": "DP World ILT20 Development Tournament, 2025",
             "match_id": 135809,
             "status": "LIVE",
@@ -451,25 +522,6 @@
             },
             "teams": [
                 {
-                    "name": "Sharjah Warriorz Development",
-                    "shortName": "SWD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d93025",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "MI Emirates Development",
                     "shortName": "MED",
                     "flag": {
@@ -477,6 +529,33 @@
                     },
                     "isWinner": null,
                     "color": "#bf4216",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Sharjah Warriorz Development",
+                    "shortName": "SWD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d93025",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -548,74 +627,6 @@
                     },
                     "isWinner": null,
                     "color": "#3fd379",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Afghanistan Vs United Arab Emirates",
-            "tournament": "Afghanistan and Pakistan tour of UAE, 2025",
-            "match_id": 135786,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "01 September 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135786_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tri-Nation_UAEvPAKvAFG_Series2025.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135786_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Afghanistan",
-                    "shortName": "AFG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2f5ddf",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4fb319",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
