@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:44:07 PM 01-09-2025",
+    "last_updated": "08:51:07 PM 01-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 7,
-    "upcoming_matches": 33,
+    "live_matches": 6,
+    "upcoming_matches": 34,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 20,
+                            "overs": "2.1",
+                            "balls": "13",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -155,9 +155,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 20,
+                            "overs": "2.1",
+                            "balls": "13",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -373,11 +373,11 @@
                     "color": "#2f5ddf",
                     "cricketScore": [
                         {
-                            "runs": 10,
-                            "overs": "2",
-                            "balls": "12",
+                            "runs": 16,
+                            "overs": "3.1",
+                            "balls": "19",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -417,93 +417,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135786_english_hls_e3d2a03c3b45248ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135786_english_hls_e3d2a03c3b45248ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/YdfyKY0fRtyH3F8LMTII_Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Rwanda Women Vs Uganda Women",
-            "tournament": "ICC Women's T20 WC Africa Qualifier Division 1",
-            "match_id": 133772,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "01 September 2025 05:20 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133772_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/icc-women's-T20-WC_Africa-Qualifier.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133772_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Rwanda Women",
-                    "shortName": "RWA-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#88c1ff",
-                    "cricketScore": [
-                        {
-                            "runs": 114,
-                            "overs": "19.5",
-                            "balls": "119",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Uganda Women",
-                    "shortName": "UG-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#677166",
-                    "cricketScore": [
-                        {
-                            "runs": 116,
-                            "overs": "16.3",
-                            "balls": "99",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133772_english_hls_0def670a5450457ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/RLrIJ2IFR8OtMwhtxGX7TQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133772_english_hls_0def670a5450457ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133772_english_hls_0def670a5450457ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/RLrIJ2IFR8OtMwhtxGX7TQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -589,38 +502,38 @@
         },
         {
             "category": "Cricket",
-            "title": "Netherlands Vs Bangladesh",
-            "tournament": "Netherlands tour of Bangladesh, 2025",
-            "match_id": 135850,
+            "title": "Rwanda Women Vs Uganda Women",
+            "tournament": "ICC Women's T20 WC Africa Qualifier Division 1",
+            "match_id": 133772,
             "status": "COMPLETED",
             "streamingStatus": "STARTED",
-            "startTime": "01 September 2025 05:30 PM",
+            "startTime": "01 September 2025 05:20 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135850_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ban-vs-Ned-Tour-Logo.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133772_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/icc-women's-T20-WC_Africa-Qualifier.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Sporty-match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135850_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133772_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Netherlands",
-                    "shortName": "NED",
+                    "name": "Rwanda Women",
+                    "shortName": "RWA-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png"
                     },
                     "isWinner": false,
-                    "color": "#2c5ab3",
+                    "color": "#88c1ff",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "17.3",
-                            "balls": "105",
+                            "runs": 114,
+                            "overs": "19.5",
+                            "balls": "119",
                             "status": "COMPLETED",
                             "wickets": 10
                         }
@@ -636,20 +549,20 @@
                     }
                 },
                 {
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
+                    "name": "Uganda Women",
+                    "shortName": "UG-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png"
                     },
                     "isWinner": true,
-                    "color": "#397b46",
+                    "color": "#677166",
                     "cricketScore": [
                         {
-                            "runs": 104,
-                            "overs": "13.1",
-                            "balls": "79",
+                            "runs": 116,
+                            "overs": "16.3",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -664,12 +577,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/135850_english_hls_a20ac846ae4348ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ARwKp1--SK-wHKUYZB1ZeA/master.m3u8",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133772_english_hls_0def670a5450457ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/RLrIJ2IFR8OtMwhtxGX7TQ/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135850_english_hls_a20ac846ae4348ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135850_english_hls_a20ac846ae4348ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ARwKp1--SK-wHKUYZB1ZeA/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133772_english_hls_0def670a5450457ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133772_english_hls_0def670a5450457ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/RLrIJ2IFR8OtMwhtxGX7TQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2481,6 +2394,90 @@
                             "balls": "116",
                             "status": "IN_PROGRESS",
                             "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Netherlands Vs Bangladesh",
+            "tournament": "Netherlands tour of Bangladesh, 2025",
+            "match_id": 135850,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "01 September 2025 05:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135850_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ban-vs-Ned-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Sporty-match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135850_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Netherlands",
+                    "shortName": "NED",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#2c5ab3",
+                    "cricketScore": [
+                        {
+                            "runs": 103,
+                            "overs": "17.3",
+                            "balls": "105",
+                            "status": "COMPLETED",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#397b46",
+                    "cricketScore": [
+                        {
+                            "runs": 104,
+                            "overs": "13.1",
+                            "balls": "79",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
