@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:31:00 PM 02-09-2025",
+    "last_updated": "02:38:00 PM 02-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
     "matches": [
         {
             "category": "Cricket",
-            "title": "Kochi Blue Tigers Vs Calicut Globstars",
+            "title": "Calicut Globstars Vs Kochi Blue Tigers",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133900,
             "status": "LIVE",
@@ -32,25 +32,6 @@
             },
             "teams": [
                 {
-                    "name": "Kochi Blue Tigers",
-                    "shortName": "KBT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#01c0f6",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Calicut Globstars",
                     "shortName": "CG",
                     "flag": {
@@ -58,6 +39,33 @@
                     },
                     "isWinner": null,
                     "color": "#D26617",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Kochi Blue Tigers",
+                    "shortName": "KBT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#01c0f6",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -83,7 +91,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Kochi Blue Tigers Vs Calicut Globstars",
+            "title": "Calicut Globstars Vs Kochi Blue Tigers",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133900,
             "status": "LIVE",
@@ -103,25 +111,6 @@
             },
             "teams": [
                 {
-                    "name": "Kochi Blue Tigers",
-                    "shortName": "KBT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#01c0f6",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Calicut Globstars",
                     "shortName": "CG",
                     "flag": {
@@ -129,6 +118,33 @@
                     },
                     "isWinner": null,
                     "color": "#D26617",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Kochi Blue Tigers",
+                    "shortName": "KBT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#01c0f6",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
