@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:19:23 PM 03-09-2025",
+    "last_updated": "04:26:23 PM 03-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -180,7 +180,7 @@
                             "runs": 208,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 5
                         }
                     ],
@@ -190,7 +190,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -202,14 +202,22 @@
                     },
                     "isWinner": null,
                     "color": "#8e5bf0",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 8,
+                            "overs": "1",
+                            "balls": "6",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -259,7 +267,7 @@
                             "runs": 208,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 5
                         }
                     ],
@@ -269,7 +277,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -281,14 +289,22 @@
                     },
                     "isWinner": null,
                     "color": "#8e5bf0",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 8,
+                            "overs": "1",
+                            "balls": "6",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -449,9 +465,9 @@
                     "color": "#88c1ff",
                     "cricketScore": [
                         {
-                            "runs": 82,
-                            "overs": "16",
-                            "balls": "96",
+                            "runs": 93,
+                            "overs": "17.5",
+                            "balls": "107",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
