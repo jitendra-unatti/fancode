@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:19:22 PM 03-09-2025",
+    "last_updated": "05:26:23 PM 03-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#dfd32c",
                     "cricketScore": [
                         {
-                            "runs": 31,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 52,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -94,7 +94,7 @@
             "title": "Bangladesh Vs Netherlands",
             "tournament": "Netherlands tour of Bangladesh, 2025",
             "match_id": 135851,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "03 September 2025 05:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -226,11 +226,11 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "11.5",
-                            "balls": "71",
+                            "runs": 82,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -313,11 +313,11 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "11.5",
-                            "balls": "71",
+                            "runs": 82,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -344,7 +344,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Zimbabwe Women Vs Nigeria Women",
+            "title": "Nigeria Women Vs Zimbabwe Women",
             "tournament": "ICC Women's T20 WC Africa Qualifier Division 1",
             "match_id": 133776,
             "status": "LIVE",
@@ -364,25 +364,6 @@
             },
             "teams": [
                 {
-                    "name": "Zimbabwe Women",
-                    "shortName": "ZM-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#dfd32c",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Nigeria Women",
                     "shortName": "NIG-W",
                     "flag": {
@@ -390,6 +371,33 @@
                     },
                     "isWinner": null,
                     "color": "#408000",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Zimbabwe Women",
+                    "shortName": "ZM-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dfd32c",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -415,7 +423,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Uganda Women Vs Kenya Women",
+            "title": "Kenya Women Vs Uganda Women",
             "tournament": "ICC Women's T20 WC Africa Qualifier Division 1",
             "match_id": 133775,
             "status": "LIVE",
@@ -435,25 +443,6 @@
             },
             "teams": [
                 {
-                    "name": "Uganda Women",
-                    "shortName": "UG-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#677166",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Kenya Women",
                     "shortName": "KEN-W",
                     "flag": {
@@ -461,6 +450,33 @@
                     },
                     "isWinner": null,
                     "color": "#1e4609",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Uganda Women",
+                    "shortName": "UG-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#677166",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1601,7 +1617,7 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1620,7 +1636,7 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1669,7 +1685,7 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1688,7 +1704,7 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
