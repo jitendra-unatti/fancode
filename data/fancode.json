@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:30:17 AM 05-09-2025",
+    "last_updated": "04:36:58 AM 05-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#621241",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 7,
+                            "overs": "1.1",
+                            "balls": "7",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -120,9 +120,9 @@
                     "color": "#621241",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 7,
+                            "overs": "1.1",
+                            "balls": "7",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -226,11 +226,11 @@
                     "color": "#112c80",
                     "cricketScore": [
                         {
-                            "runs": 88,
-                            "overs": "17.2",
-                            "balls": "104",
+                            "runs": 94,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -260,7 +260,7 @@
             "title": "Uruguay Vs Peru",
             "tournament": "CONMEBOL World Cup Qualifiers",
             "match_id": 136673,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "05 September 2025 05:00 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -289,11 +289,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 },
                 {
                     "name": "Peru",
@@ -308,11 +304,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 }
             ],
             "language": "ENGLISH",
@@ -331,7 +323,7 @@
             "title": "Paraguay Vs Ecuador",
             "tournament": "CONMEBOL World Cup Qualifiers",
             "match_id": 136672,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "05 September 2025 05:00 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -360,11 +352,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 },
                 {
                     "name": "Ecuador",
@@ -379,11 +367,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 }
             ],
             "language": "ENGLISH",
@@ -402,7 +386,7 @@
             "title": "Colombia Vs Bolivia",
             "tournament": "CONMEBOL World Cup Qualifiers",
             "match_id": 136671,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "05 September 2025 05:00 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -431,11 +415,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 },
                 {
                     "name": "Bolivia",
@@ -450,11 +430,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 }
             ],
             "language": "ENGLISH",
@@ -1313,7 +1289,7 @@
                     },
                     "isWinner": null,
                     "color": "#621241",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1332,7 +1308,7 @@
                     },
                     "isWinner": null,
                     "color": "#CC0001",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
