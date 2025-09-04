@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:22 PM 04-09-2025",
+    "last_updated": "08:30:25 PM 04-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#2d9251",
                     "cricketScore": [
                         {
-                            "runs": 193,
-                            "overs": "35.5",
-                            "balls": "215",
+                            "runs": 209,
+                            "overs": "36.5",
+                            "balls": "221",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -199,11 +199,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 161,
-                            "overs": "19.1",
-                            "balls": "115",
+                            "runs": 165,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -278,11 +278,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 161,
-                            "overs": "19.1",
-                            "balls": "115",
+                            "runs": 165,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -455,11 +455,11 @@
                     "color": "#80c76d",
                     "cricketScore": [
                         {
-                            "runs": 52,
-                            "overs": "11.1",
-                            "balls": "67",
+                            "runs": 56,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -542,9 +542,9 @@
                     "color": "#112c80",
                     "cricketScore": [
                         {
-                            "runs": 67,
-                            "overs": "12.2",
-                            "balls": "74",
+                            "runs": 68,
+                            "overs": "13",
+                            "balls": "78",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -643,11 +643,82 @@
             }
         },
         {
+            "category": "Golf",
+            "title": "Day 1",
+            "tournament": "Amgen Irish Open 2025",
+            "match_id": 135825,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "04 September 2025 12:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135825_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/Amgen-Irish-Open-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135825_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Day 1",
+                    "shortName": "Day 1",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AIO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0F699C",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "The K Club",
+                    "shortName": "The K Club",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Football",
             "title": "Chad Vs Ghana",
             "tournament": "CAF World Cup Qualifiers",
             "match_id": 136640,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "04 September 2025 06:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -729,77 +800,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136640_english_hls_74e5fb1ca264729ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136640_english_hls_74e5fb1ca264729ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/ayIKTSc2TRq6JtuzFlMqHg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Day 1",
-            "tournament": "Amgen Irish Open 2025",
-            "match_id": 135825,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "04 September 2025 12:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135825_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/Amgen-Irish-Open-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Amgen-Irish-Open_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135825_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Day 1",
-                    "shortName": "Day 1",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AIO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0F699C",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "The K Club",
-                    "shortName": "The K Club",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -921,6 +921,346 @@
                     "isWinner": null,
                     "color": "#dcdcdc",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Angola Vs Libya",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136641,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "04 September 2025 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136641_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136641_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Angola",
+                    "shortName": "AGL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b10023",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Libya",
+                    "shortName": "LIB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LBY@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#239e46",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "S\u00e3o Tom\u00e9 E Pr\u00edncipe Vs Equatorial Guinea",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136648,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "04 September 2025 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136648_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136648_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+                    "shortName": "STP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SAOT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f8d347",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Equatorial Guinea",
+                    "shortName": "EGU",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EQG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#58982b",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Mauritius Vs Cabo Verde",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136647,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "04 September 2025 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136647_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136647_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mauritius",
+                    "shortName": "MAU",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1a206d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Cabo Verde",
+                    "shortName": "CAV",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1d52db",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Madagascar Vs Central African Republic",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136645,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "04 September 2025 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136645_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136645_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Madagascar",
+                    "shortName": "MDG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MADG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f0523f",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Central African Republic",
+                    "shortName": "CAF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4c963a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Guinea Bissau Vs Sierra Leone",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136644,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "04 September 2025 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136644_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136644_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Guinea-Bissau",
+                    "shortName": "GIB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GUIBA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#009e49",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sierra Leone",
+                    "shortName": "SIL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SILN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#54ba1d",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1513,7 +1853,7 @@
                     },
                     "isWinner": null,
                     "color": "#2f5ddf",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1532,7 +1872,7 @@
                     },
                     "isWinner": null,
                     "color": "#4fb319",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1601,346 +1941,6 @@
                     "isWinner": null,
                     "color": "#6ECB51",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Angola Vs Libya",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136641,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "04 September 2025 09:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136641_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136641_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Angola",
-                    "shortName": "AGL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b10023",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Libya",
-                    "shortName": "LIB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LBY@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#239e46",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "S\u00e3o Tom\u00e9 E Pr\u00edncipe Vs Equatorial Guinea",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136648,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "04 September 2025 09:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136648_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136648_3741_STP_EGU_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136648_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
-                    "shortName": "STP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SAOT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f8d347",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Equatorial Guinea",
-                    "shortName": "EGU",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EQG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#58982b",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Mauritius Vs Cabo Verde",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136647,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "04 September 2025 09:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136647_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136647_3741_MAU_CAV_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136647_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Mauritius",
-                    "shortName": "MAU",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1a206d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Cabo Verde",
-                    "shortName": "CAV",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1d52db",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Madagascar Vs Central African Republic",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136645,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "04 September 2025 09:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136645_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136645_3741_MDG_CAF_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136645_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Madagascar",
-                    "shortName": "MDG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MADG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f0523f",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Central African Republic",
-                    "shortName": "CAF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAF@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4c963a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Guinea Bissau Vs Sierra Leone",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136644,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "04 September 2025 09:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136644_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136644_3741_GIB_SIL_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136644_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Guinea-Bissau",
-                    "shortName": "GIB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GUIBA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#009e49",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sierra Leone",
-                    "shortName": "SIL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SILN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#54ba1d",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
