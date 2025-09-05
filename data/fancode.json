@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:36:58 AM 05-09-2025",
+    "last_updated": "07:43:58 AM 05-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#b01018",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "9.1",
-                            "balls": "55",
+                            "runs": 69,
+                            "overs": "10.1",
+                            "balls": "61",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -155,9 +155,9 @@
                     "color": "#b01018",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "9.1",
-                            "balls": "55",
+                            "runs": 69,
+                            "overs": "10.1",
+                            "balls": "61",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -1750,7 +1750,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Tbc Vs Tbc",
+            "title": "Western Suburbs Vs Redlands",
             "tournament": "KFC T20 Max, 2025",
             "match_id": 135005,
             "status": "NOT_STARTED",
@@ -1770,34 +1770,42 @@
             },
             "teams": [
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Western Suburbs",
+                    "shortName": "WSS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WSS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#2581B3",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Redlands",
+                    "shortName": "RLS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#5F3600",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "BLOODY_SWEET",
