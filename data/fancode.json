@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:44:23 PM 05-09-2025",
+    "last_updated": "02:51:23 PM 05-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -112,9 +112,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 15,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 26,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -191,9 +191,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 15,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 26,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -273,7 +273,7 @@
                             "runs": 60,
                             "overs": "13.3",
                             "balls": "81",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -283,7 +283,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -295,14 +295,22 @@
                     },
                     "isWinner": null,
                     "color": "#ebb30e",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -823,15 +831,15 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "06 September 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Barbados-Royals-VS-Antigua-&-Barbuda-Falcons_old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132367_5512_BR_ABF_fc-web.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/132367_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Barbados-Royals-VS-Antigua-&-Barbuda-Falcons_old.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132367_5512_BR_ABF_fc-web.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Barbados-Royals-VS-Antigua-&-Barbuda-Falcons_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Barbados-Royals-VS-Antigua-&-Barbuda-Falcons_Sporty.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132367_5512_BR_ABF_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132367_5512_BR_ABF_fc-app.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132367_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -2679,7 +2687,7 @@
                     },
                     "isWinner": null,
                     "color": "#5438bd",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2698,7 +2706,7 @@
                     },
                     "isWinner": null,
                     "color": "#bb4335",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
