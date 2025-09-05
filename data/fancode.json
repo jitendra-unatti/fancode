@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:44:36 PM 05-09-2025",
+    "last_updated": "07:51:35 PM 05-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -112,9 +112,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "10.4",
-                            "balls": "64",
+                            "runs": 87,
+                            "overs": "12.4",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -191,9 +191,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "10.4",
-                            "balls": "64",
+                            "runs": 87,
+                            "overs": "12.4",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -372,7 +372,7 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 3,
+                        "points": 4,
                         "goals": [
                             {
                                 "id": "83341",
@@ -391,6 +391,12 @@
                                 "shortName": "N Mbuku",
                                 "isOwnGoal": false,
                                 "goalTime": "46'"
+                            },
+                            {
+                                "id": "216646",
+                                "shortName": "Y Wissa",
+                                "isOwnGoal": false,
+                                "goalTime": "57'"
                             }
                         ]
                     },
@@ -468,13 +474,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "438918",
                                 "shortName": "R Mbulu",
                                 "isOwnGoal": false,
                                 "goalTime": "5'"
+                            },
+                            {
+                                "id": "432164",
+                                "shortName": "G Mhango",
+                                "isOwnGoal": false,
+                                "goalTime": "53'"
                             }
                         ]
                     },
@@ -734,99 +746,6 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Somalia Vs Guinea",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136662,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "05 September 2025 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136662_3741_SOM_GNA_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136662_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136662_3741_SOM_GNA_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136662_3741_SOM_GNA_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136662_3741_SOM_GNA_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136662_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Somalia",
-                    "shortName": "SOM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOM@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0056d9",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Guinea",
-                    "shortName": "GNA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GNA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ce1126",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 3,
-                        "goals": [
-                            {
-                                "id": "162275",
-                                "shortName": "S Guirassy",
-                                "isOwnGoal": false,
-                                "goalTime": "22'"
-                            },
-                            {
-                                "id": "475783",
-                                "shortName": "FA Bakr",
-                                "isOwnGoal": true,
-                                "goalTime": "64'"
-                            },
-                            {
-                                "id": "218542",
-                                "shortName": "O Camara",
-                                "isOwnGoal": false,
-                                "goalTime": "96'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
@@ -2752,6 +2671,74 @@
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_Sporty_Match_card_.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133784_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dcdcdc",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dcdcdc",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Tbc Vs Tbc",
+            "tournament": "ICC Women's T20 WC Africa Qualifier Division 1",
+            "match_id": 133783,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "06 September 2025 05:20 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133783_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/icc-women's-T20-WC_Africa-Qualifier.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133783_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
