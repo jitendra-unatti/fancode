@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:58:07 PM 06-09-2025",
+    "last_updated": "08:05:08 PM 06-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 11,
-    "upcoming_matches": 27,
+    "live_matches": 10,
+    "upcoming_matches": 28,
     "matches": [
         {
             "category": "Cricket",
@@ -16,14 +16,14 @@
             "tournament": "Sri Lanka tour of Zimbabwe, 2025",
             "match_id": 133668,
             "status": "COMPLETED",
-            "streamingStatus": "STARTED",
+            "streamingStatus": "COMPLETED",
             "startTime": "06 September 2025 05:00 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/133668_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
+                "PLAYBACK": null,
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ZIM_vs-SL.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
@@ -86,15 +86,12 @@
                     }
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133668_english_hls_7040229d9867857ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/_6OrnIVJQYCzvw3mU3oo6g/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133668_english_hls_7040229d9867857ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133668_english_hls_7040229d9867857ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/_6OrnIVJQYCzvw3mU3oo6g/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -199,11 +196,11 @@
                     "color": "#843961",
                     "cricketScore": [
                         {
-                            "runs": 114,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 128,
+                            "overs": "16.3",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -376,9 +373,9 @@
                     "color": "#1e4609",
                     "cricketScore": [
                         {
-                            "runs": 38,
-                            "overs": "8.1",
-                            "balls": "49",
+                            "runs": 54,
+                            "overs": "9.5",
+                            "balls": "59",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -463,9 +460,9 @@
                     "color": "#dfd32c",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 51,
+                            "overs": "8.2",
+                            "balls": "50",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
