@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:19:38 PM 07-09-2025",
+    "last_updated": "11:26:39 PM 07-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 40,
-    "live_matches": 11,
+    "total_matches": 39,
+    "live_matches": 10,
     "upcoming_matches": 29,
     "matches": [
         {
@@ -68,9 +68,9 @@
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 61,
-                            "overs": "9.1",
-                            "balls": "55",
+                            "runs": 73,
+                            "overs": "10.3",
+                            "balls": "63",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -155,9 +155,9 @@
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 61,
-                            "overs": "9.1",
-                            "balls": "55",
+                            "runs": 73,
+                            "overs": "10.3",
+                            "balls": "63",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -242,9 +242,9 @@
                     "color": "#2f5ddf",
                     "cricketScore": [
                         {
-                            "runs": 33,
-                            "overs": "8.2",
-                            "balls": "50",
+                            "runs": 44,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -377,15 +377,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#6ECB51",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "runs": 52,
+                            "overs": "9.5",
+                            "balls": "59",
+                            "status": "COMPLETED",
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -394,7 +394,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -404,16 +404,24 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAI@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#138bc2",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 54,
+                            "overs": "5.4",
+                            "balls": "34",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -586,8 +594,21 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 2,
+                        "goals": [
+                            {
+                                "id": "588853",
+                                "shortName": "J Ar\u00e9valo",
+                                "isOwnGoal": false,
+                                "goalTime": "57'"
+                            },
+                            {
+                                "id": "588853",
+                                "shortName": "J Ar\u00e9valo",
+                                "isOwnGoal": false,
+                                "goalTime": "59'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -821,180 +842,6 @@
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Kochi Blue Tigers Vs Aries Kollam Sailors",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133908,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "07 September 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1756713694118.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133908_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1756713694118.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133883_5600_KBT_AKS_fc-Web_1756713694258.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1756713694118.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-App_1756713666867.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133908_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Kochi Blue Tigers",
-                    "shortName": "KBT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#01c0f6",
-                    "cricketScore": [
-                        {
-                            "runs": 181,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Aries Kollam Sailors",
-                    "shortName": "AKS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#b7e330",
-                    "cricketScore": [
-                        {
-                            "runs": 106,
-                            "overs": "16.3",
-                            "balls": "99",
-                            "status": "IN_PROGRESS",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133908_english_hls_7f25c707d178571ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/AauslJZCROOBXpWNRbzSrw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133908_english_hls_7f25c707d178571ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133908_english_hls_7f25c707d178571ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/AauslJZCROOBXpWNRbzSrw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Kochi Blue Tigers Vs Aries Kollam Sailors",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133908,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "07 September 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1756713694118.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133908_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1756713694118.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133883_5600_KBT_AKS_fc-Web_1756713694258.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1756713694118.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-App_1756713666867.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133908_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Kochi Blue Tigers",
-                    "shortName": "KBT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#01c0f6",
-                    "cricketScore": [
-                        {
-                            "runs": 181,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Aries Kollam Sailors",
-                    "shortName": "AKS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#b7e330",
-                    "cricketScore": [
-                        {
-                            "runs": 106,
-                            "overs": "16.3",
-                            "balls": "99",
-                            "status": "IN_PROGRESS",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "MALAYALAM",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133908_malayalam_hls_b6d7a37f1220458ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/XFEbvCDtQt6sH53R0pLiKw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133908_malayalam_hls_b6d7a37f1220458ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133908_malayalam_hls_b6d7a37f1220458ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/XFEbvCDtQt6sH53R0pLiKw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "MALAYALAM"
             }
         },
         {
@@ -2896,6 +2743,90 @@
                             "balls": "119",
                             "status": "IN_PROGRESS",
                             "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Guyana Amazon Warriors Women Vs Trinbago Knight Riders Women",
+            "tournament": "Women's Caribbean Premier League, 2025",
+            "match_id": 133800,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "06 September 2025 11:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133800_5594_GUY-W_TKR-W_fc-Web_1757131430122.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133800_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133800_5594_GUY-W_TKR-W_fc-Web_1757131430122.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/WCPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133800_5594_GUY-W_TKR-W_fc-Web_1757131430122.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133800_5594_GUY-W_TKR-W_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133800_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Guyana Amazon Warriors Women",
+                    "shortName": "GUY-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#b01018",
+                    "cricketScore": [
+                        {
+                            "runs": 129,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Trinbago Knight Riders Women",
+                    "shortName": "TKR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#8049CF",
+                    "cricketScore": [
+                        {
+                            "runs": 123,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "IN_PROGRESS",
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
