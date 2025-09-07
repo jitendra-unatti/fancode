@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:31:36 PM 07-09-2025",
+    "last_updated": "08:37:38 PM 07-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -281,11 +281,11 @@
                     "color": "#2d9251",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 7,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -499,9 +499,9 @@
                     "color": "#621241",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0.1",
-                            "balls": "1",
+                            "runs": 12,
+                            "overs": "1.5",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -578,9 +578,9 @@
                     "color": "#621241",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0.1",
-                            "balls": "1",
+                            "runs": 12,
+                            "overs": "1.5",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -657,11 +657,11 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 2,
+                            "overs": "0.4",
+                            "balls": "4",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -701,6 +701,93 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135790_english_hls_ec6b0a6ef870558ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135790_english_hls_ec6b0a6ef870558ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/NdB7xWY8TmW7KrxVZsxfuA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Zimbabwe Vs Sri Lanka",
+            "tournament": "Sri Lanka tour of Zimbabwe, 2025",
+            "match_id": 133669,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "07 September 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133669_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ZIM_vs-SL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-sporty-match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133669_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#dfd32c",
+                    "cricketScore": [
+                        {
+                            "runs": 191,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#164fad",
+                    "cricketScore": [
+                        {
+                            "runs": 193,
+                            "overs": "17.4",
+                            "balls": "106",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133669_english_hls_9b1af810335690ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/q4cCXsiXRYyRwmLhLFMo4A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133669_english_hls_9b1af810335690ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133669_english_hls_9b1af810335690ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/q4cCXsiXRYyRwmLhLFMo4A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -930,93 +1017,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135828_english_hls_fd68dc1adc94209ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135828_english_hls_fd68dc1adc94209ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/P3s4pH3KSzqXi8ufXmhBeA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Zimbabwe Vs Sri Lanka",
-            "tournament": "Sri Lanka tour of Zimbabwe, 2025",
-            "match_id": 133669,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "07 September 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133669_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ZIM_vs-SL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-sporty-match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133669_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Zimbabwe",
-                    "shortName": "ZIM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#dfd32c",
-                    "cricketScore": [
-                        {
-                            "runs": 191,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sri Lanka",
-                    "shortName": "SL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#164fad",
-                    "cricketScore": [
-                        {
-                            "runs": 193,
-                            "overs": "17.4",
-                            "balls": "106",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133669_english_hls_9b1af810335690ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/q4cCXsiXRYyRwmLhLFMo4A/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133669_english_hls_9b1af810335690ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133669_english_hls_9b1af810335690ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/q4cCXsiXRYyRwmLhLFMo4A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1702,74 +1702,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Congo Vs Eritrea",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136677,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "08 September 2025 05:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136677_3741_CNG_ERI_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136677_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136677_3741_CNG_ERI_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136677_3741_CNG_ERI_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136677_3741_CNG_ERI_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136677_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Congo",
-                    "shortName": "CNG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CGO-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#980711",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Eritrea",
-                    "shortName": "ERI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Royal Oman Stallions Vs Majees Titans",
             "tournament": "Oman D10 League, 2025",
@@ -1818,6 +1750,74 @@
                     "isWinner": null,
                     "color": "#d8c50f",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Atlanta Braves Vs Seattle Mariners",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 136821,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "07 September 2025 09:35 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136821_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136821_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Atlanta Braves",
+                    "shortName": "AB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ATLN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e42b5d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#11a6a8",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2246,34 +2246,34 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Atlanta Braves Vs Seattle Mariners",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 136821,
+            "category": "Golf",
+            "title": "Day 3",
+            "tournament": "Aramco Houston Championship",
+            "match_id": 133922,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "07 September 2025 09:35 PM",
+            "startTime": "07 September 2025 10:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Old_match-card_2_1757084244883.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136821_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133922_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Old_match-card_2_1757084244883.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136821_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-AHC@2x.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Old_match-card_2_1757084244883.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Sporty-match-card_1757084244950.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133922_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Atlanta Braves",
-                    "shortName": "AB",
+                    "name": "Day 3",
+                    "shortName": "Day 3",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ATLN@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AHC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#e42b5d",
+                    "color": "#1480db",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2286,13 +2286,13 @@
                     }
                 },
                 {
-                    "name": "Seattle Mariners",
-                    "shortName": "SEM",
+                    "name": "Golfcrest Country Club",
+                    "shortName": "Golfcrest Country Club",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#11a6a8",
+                    "color": "#141414",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2361,74 +2361,6 @@
                     },
                     "isWinner": null,
                     "color": "#77c0f6",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Day 3",
-            "tournament": "Aramco Houston Championship",
-            "match_id": 133922,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "07 September 2025 11:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Old_match-card_2_1757084244883.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133922_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Old_match-card_2_1757084244883.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-AHC@2x.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Old_match-card_2_1757084244883.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Sporty-match-card_1757084244950.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133922_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Day 3",
-                    "shortName": "Day 3",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AHC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1480db",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Golfcrest Country Club",
-                    "shortName": "Golfcrest Country Club",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2997,6 +2929,74 @@
                     "status": {
                         "cricket": {
                             "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Canada Vs Scotland",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "match_id": 133764,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "06 September 2025 08:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133761_3908_CAN_SCO_fc-web_1755793966439.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133764_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133761_3908_CAN_SCO_fc-web_1755793966439.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League-2,-2023-27-(16th-July)-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133761_3908_CAN_SCO_fc-web_1755793966439.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133761_3908_CAN_SCO_fc-app_1755793966410.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133764_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Canada",
+                    "shortName": "CAN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d01909",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1672c1",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
                         }
                     }
                 }
