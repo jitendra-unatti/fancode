@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:49 PM 07-09-2025",
+    "last_updated": "09:37:37 PM 07-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,6 +10,164 @@
     "live_matches": 11,
     "upcoming_matches": 31,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Barbados Royals Vs Saint Lucia Kings",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132369,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "07 September 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Barbados Royals",
+                    "shortName": "BR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#621241",
+                    "cricketScore": [
+                        {
+                            "runs": 101,
+                            "overs": "12.4",
+                            "balls": "76",
+                            "status": "IN_PROGRESS",
+                            "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1e6583",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132369_english_hls_8f30a6fd2e10547ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/-Vdwrfd6TLubsX4xVunolg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132369_english_hls_8f30a6fd2e10547ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132369_english_hls_8f30a6fd2e10547ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/-Vdwrfd6TLubsX4xVunolg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Barbados Royals Vs Saint Lucia Kings",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132369,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "07 September 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Barbados Royals",
+                    "shortName": "BR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#621241",
+                    "cricketScore": [
+                        {
+                            "runs": 101,
+                            "overs": "12.4",
+                            "balls": "76",
+                            "status": "IN_PROGRESS",
+                            "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1e6583",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "HINDI AI(BETA)",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132369_hindi_hls_31e0d9027889467ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ylXXATA_QmKZdg6Luw_nLA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132369_hindi_hls_31e0d9027889467ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132369_hindi_hls_31e0d9027889467ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ylXXATA_QmKZdg6Luw_nLA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "HINDI AI(BETA)"
+            }
+        },
         {
             "category": "Cricket",
             "title": "England Vs South Africa",
@@ -68,11 +226,11 @@
                     "color": "#2d9251",
                     "cricketScore": [
                         {
-                            "runs": 50,
-                            "overs": "15.2",
-                            "balls": "92",
+                            "runs": 57,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +313,11 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 67,
-                            "overs": "8.1",
-                            "balls": "49",
+                            "runs": 75,
+                            "overs": "9.4",
+                            "balls": "58",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,11 +400,11 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 67,
-                            "overs": "8.1",
-                            "balls": "49",
+                            "runs": 75,
+                            "overs": "9.4",
+                            "balls": "58",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -269,164 +427,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/XFEbvCDtQt6sH53R0pLiKw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "MALAYALAM"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Barbados Royals Vs Saint Lucia Kings",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132369,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "07 September 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Barbados Royals",
-                    "shortName": "BR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#621241",
-                    "cricketScore": [
-                        {
-                            "runs": 86,
-                            "overs": "11.3",
-                            "balls": "69",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Saint Lucia Kings",
-                    "shortName": "SLK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1e6583",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132369_english_hls_8f30a6fd2e10547ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/-Vdwrfd6TLubsX4xVunolg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132369_english_hls_8f30a6fd2e10547ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132369_english_hls_8f30a6fd2e10547ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/-Vdwrfd6TLubsX4xVunolg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Barbados Royals Vs Saint Lucia Kings",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132369,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "07 September 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132369_5512_BR_SLK_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132369_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Barbados Royals",
-                    "shortName": "BR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#621241",
-                    "cricketScore": [
-                        {
-                            "runs": 86,
-                            "overs": "11.3",
-                            "balls": "69",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Saint Lucia Kings",
-                    "shortName": "SLK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1e6583",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "HINDI AI(BETA)",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132369_hindi_hls_31e0d9027889467ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ylXXATA_QmKZdg6Luw_nLA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132369_hindi_hls_31e0d9027889467ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132369_hindi_hls_31e0d9027889467ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ylXXATA_QmKZdg6Luw_nLA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "HINDI AI(BETA)"
             }
         },
         {
@@ -460,11 +460,11 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "10.2",
-                            "balls": "62",
+                            "runs": 72,
+                            "overs": "11.3",
+                            "balls": "69",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -689,10 +689,17 @@
                     "color": "#4c963a",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
                     "name": "Comoros",
@@ -704,10 +711,17 @@
                     "color": "#dc4647",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "ENGLISH",
