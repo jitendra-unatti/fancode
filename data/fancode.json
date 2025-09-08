@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:52 PM 08-09-2025",
+    "last_updated": "11:51:43 PM 08-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -95,7 +95,7 @@
             "title": "Muscat Thunders Vs Braveheart\u00a0xi",
             "tournament": "Oman D10 League, 2025",
             "match_id": 136766,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "09 September 2025 12:00 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -167,7 +167,7 @@
             "title": "Eibar Vs Fc Andorra",
             "tournament": "LALIGA Hypermotion 2025-26",
             "match_id": 135975,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "09 September 2025 12:00 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -196,11 +196,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 },
                 {
                     "name": "FC Andorra",
@@ -215,11 +211,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 }
             ],
             "language": "ENGLISH",
