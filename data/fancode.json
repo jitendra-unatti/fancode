@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:37:43 PM 08-09-2025",
+    "last_updated": "06:44:43 PM 08-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -278,8 +278,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "234991",
+                                "shortName": "Y En-Nesyri",
+                                "isOwnGoal": false,
+                                "goalTime": "7'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -334,8 +341,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "202341",
+                                "shortName": "Witi",
+                                "isOwnGoal": false,
+                                "goalTime": "6'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
