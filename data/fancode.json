@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:19:43 PM 08-09-2025",
+    "last_updated": "11:26:44 PM 08-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -218,7 +218,7 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 2,
+                        "points": 3,
                         "goals": [
                             {
                                 "id": "208745",
@@ -231,6 +231,12 @@
                                 "shortName": "R Raveloson",
                                 "isOwnGoal": false,
                                 "goalTime": "69'"
+                            },
+                            {
+                                "id": "226027",
+                                "shortName": "H Abdallah",
+                                "isOwnGoal": false,
+                                "goalTime": "93'"
                             }
                         ]
                     },
@@ -279,97 +285,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136683_english_hls_f5ed8d021b25869ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136683_english_hls_f5ed8d021b25869ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/fBdONKVWTyi7xFTxtgWohg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Guinea Bissau Vs Djibouti",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136681,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "08 September 2025 09:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136681_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136681_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Guinea-Bissau",
-                    "shortName": "GIB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GUIBA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#009e49",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "632882",
-                                "shortName": "I Sim\u00e3o",
-                                "isOwnGoal": false,
-                                "goalTime": "54'"
-                            },
-                            {
-                                "id": "482975",
-                                "shortName": "F Cand\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "82'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Djibouti",
-                    "shortName": "DJI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DJIB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c53028",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136681_english_hls_d4435ba48753089ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Ssi1EHSPSFu3k_TN80kGPg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136681_english_hls_d4435ba48753089ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136681_english_hls_d4435ba48753089ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Ssi1EHSPSFu3k_TN80kGPg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -539,6 +454,97 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136686_english_hls_08b2e710bc28885ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136686_english_hls_08b2e710bc28885ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/J3vrw5d4QKeot8i5ELcoFg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Guinea Bissau Vs Djibouti",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136681,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "08 September 2025 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136681_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136681_3741_GIB_DJI_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136681_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Guinea-Bissau",
+                    "shortName": "GIB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GUIBA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#009e49",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 2,
+                        "goals": [
+                            {
+                                "id": "632882",
+                                "shortName": "I Sim\u00e3o",
+                                "isOwnGoal": false,
+                                "goalTime": "54'"
+                            },
+                            {
+                                "id": "482975",
+                                "shortName": "F Cand\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "82'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Djibouti",
+                    "shortName": "DJI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DJIB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c53028",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136681_english_hls_d4435ba48753089ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Ssi1EHSPSFu3k_TN80kGPg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136681_english_hls_d4435ba48753089ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136681_english_hls_d4435ba48753089ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Ssi1EHSPSFu3k_TN80kGPg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
