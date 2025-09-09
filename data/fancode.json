@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:48 AM 10-09-2025",
+    "last_updated": "02:26:49 AM 10-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -112,7 +112,7 @@
                             "runs": 172,
                             "overs": "48",
                             "balls": "288",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -122,7 +122,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -134,14 +134,22 @@
                     },
                     "isWinner": null,
                     "color": "#c9618c",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -153,214 +161,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135985_english_hls_74638b591629365ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135985_english_hls_74638b591629365ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/OJBUA2meSdetkr6sQWIBcQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Angola Vs Mauritius",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136688,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "10 September 2025 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Angola",
-                    "shortName": "AGL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b10023",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 3,
-                        "goals": [
-                            {
-                                "id": "218707",
-                                "shortName": "M' Nzola",
-                                "isOwnGoal": false,
-                                "goalTime": "17'"
-                            },
-                            {
-                                "id": "78689",
-                                "shortName": "Fredy",
-                                "isOwnGoal": false,
-                                "goalTime": "57'"
-                            },
-                            {
-                                "id": "495396",
-                                "shortName": "Zine",
-                                "isOwnGoal": false,
-                                "goalTime": "63'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Mauritius",
-                    "shortName": "MAU",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1a206d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "659471",
-                                "shortName": "W Fran\u00e7ois",
-                                "isOwnGoal": false,
-                                "goalTime": "21'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/TBo46n9JSiWBYpx6rZtoLg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/TBo46n9JSiWBYpx6rZtoLg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Angola Vs Mauritius",
-            "tournament": "CAF World Cup Qualifiers",
-            "match_id": 136688,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "10 September 2025 12:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Angola",
-                    "shortName": "AGL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b10023",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 3,
-                        "goals": [
-                            {
-                                "id": "218707",
-                                "shortName": "M' Nzola",
-                                "isOwnGoal": false,
-                                "goalTime": "17'"
-                            },
-                            {
-                                "id": "78689",
-                                "shortName": "Fredy",
-                                "isOwnGoal": false,
-                                "goalTime": "57'"
-                            },
-                            {
-                                "id": "495396",
-                                "shortName": "Zine",
-                                "isOwnGoal": false,
-                                "goalTime": "63'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Mauritius",
-                    "shortName": "MAU",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1a206d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "659471",
-                                "shortName": "W Fran\u00e7ois",
-                                "isOwnGoal": false,
-                                "goalTime": "21'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ICeXXxJqR6iEVCoCLGSV9A/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ICeXXxJqR6iEVCoCLGSV9A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -639,8 +439,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "169141",
+                                "shortName": "S Mouni\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "6'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -842,8 +649,216 @@
             }
         },
         {
+            "category": "Football",
+            "title": "Angola Vs Mauritius",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136688,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "10 September 2025 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Angola",
+                    "shortName": "AGL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b10023",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 3,
+                        "goals": [
+                            {
+                                "id": "218707",
+                                "shortName": "M' Nzola",
+                                "isOwnGoal": false,
+                                "goalTime": "17'"
+                            },
+                            {
+                                "id": "78689",
+                                "shortName": "Fredy",
+                                "isOwnGoal": false,
+                                "goalTime": "57'"
+                            },
+                            {
+                                "id": "495396",
+                                "shortName": "Zine",
+                                "isOwnGoal": false,
+                                "goalTime": "63'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Mauritius",
+                    "shortName": "MAU",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1a206d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "659471",
+                                "shortName": "W Fran\u00e7ois",
+                                "isOwnGoal": false,
+                                "goalTime": "21'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/TBo46n9JSiWBYpx6rZtoLg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/TBo46n9JSiWBYpx6rZtoLg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Angola Vs Mauritius",
+            "tournament": "CAF World Cup Qualifiers",
+            "match_id": 136688,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "10 September 2025 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136688_3741_AGL_MAU_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136688_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Angola",
+                    "shortName": "AGL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AGL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b10023",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 3,
+                        "goals": [
+                            {
+                                "id": "218707",
+                                "shortName": "M' Nzola",
+                                "isOwnGoal": false,
+                                "goalTime": "17'"
+                            },
+                            {
+                                "id": "78689",
+                                "shortName": "Fredy",
+                                "isOwnGoal": false,
+                                "goalTime": "57'"
+                            },
+                            {
+                                "id": "495396",
+                                "shortName": "Zine",
+                                "isOwnGoal": false,
+                                "goalTime": "63'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Mauritius",
+                    "shortName": "MAU",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MAU@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1a206d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "659471",
+                                "shortName": "W Fran\u00e7ois",
+                                "isOwnGoal": false,
+                                "goalTime": "21'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ICeXXxJqR6iEVCoCLGSV9A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136688_english_hls_d91155ab9c66980ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ICeXXxJqR6iEVCoCLGSV9A/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Cricket",
-            "title": "Fiji Women Vs Indonesia Women",
+            "title": "Indonesia Women Vs Fiji Women",
             "tournament": "ICC Women's T20 WC East Asia Pacific Qualifier",
             "match_id": 136708,
             "status": "NOT_STARTED",
@@ -863,25 +878,6 @@
             },
             "teams": [
                 {
-                    "name": "Fiji Women",
-                    "shortName": "FIJW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FI@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#6CA7E8",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Indonesia Women",
                     "shortName": "INA-W",
                     "flag": {
@@ -889,6 +885,33 @@
                     },
                     "isWinner": null,
                     "color": "#8e8e8e",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Fiji Women",
+                    "shortName": "FIJW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FI@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#6CA7E8",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -938,14 +961,22 @@
                     },
                     "isWinner": null,
                     "color": "#9a0009",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -1008,6 +1039,33 @@
                     "color": "#9a91f9",
                     "cricketScore": [
                         {
+                            "runs": 88,
+                            "overs": "10",
+                            "balls": "60",
+                            "status": "COMPLETED",
+                            "wickets": 4
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Muscat Thunders",
+                    "shortName": "MUT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#5438bd",
+                    "cricketScore": [
+                        {
                             "runs": 0,
                             "overs": "0",
                             "balls": "0",
@@ -1022,25 +1080,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Muscat Thunders",
-                    "shortName": "MUT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#5438bd",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
                         }
                     }
                 }
