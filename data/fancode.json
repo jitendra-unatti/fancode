@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:05:49 PM 09-09-2025",
+    "last_updated": "10:12:48 PM 09-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#c5190b",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 11,
+                            "overs": "1",
+                            "balls": "6",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -202,13 +202,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "83341",
                                 "shortName": "C Bakambu",
                                 "isOwnGoal": false,
                                 "goalTime": "26'"
+                            },
+                            {
+                                "id": "216646",
+                                "shortName": "Y Wissa",
+                                "isOwnGoal": false,
+                                "goalTime": "33'"
                             }
                         ]
                     },
@@ -231,8 +237,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "422453",
+                                "shortName": "P Gueye",
+                                "isOwnGoal": false,
+                                "goalTime": "39'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
