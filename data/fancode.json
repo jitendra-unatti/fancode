@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:06:03 PM 09-09-2025",
+    "last_updated": "08:12:48 PM 09-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#2f5ddf",
                     "cricketScore": [
                         {
-                            "runs": 4,
-                            "overs": "0.4",
-                            "balls": "4",
+                            "runs": 25,
+                            "overs": "2.1",
+                            "balls": "13",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -697,7 +697,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Yalla Shabab Giants Vs Renaissance Challengers",
+            "title": "Renaissance Challengers Vs Yalla Shabab Giants",
             "tournament": "Oman D10 League, 2025",
             "match_id": 136767,
             "status": "LIVE",
@@ -717,25 +717,6 @@
             },
             "teams": [
                 {
-                    "name": "Yalla Shabab Giants",
-                    "shortName": "YSG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D11919",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Renaissance Challengers",
                     "shortName": "RNC",
                     "flag": {
@@ -743,6 +724,33 @@
                     },
                     "isWinner": null,
                     "color": "#bb4335",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Yalla Shabab Giants",
+                    "shortName": "YSG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D11919",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
