@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:26:50 PM 13-09-2025",
+    "last_updated": "05:31:00 PM 13-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 13,
-    "upcoming_matches": 25,
+    "live_matches": 12,
+    "upcoming_matches": 26,
     "matches": [
         {
             "category": "Cricket",
@@ -208,9 +208,9 @@
                     "color": "#e9515e",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 73,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -420,15 +420,8 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "446197",
-                                "shortName": "D Tagami",
-                                "isOwnGoal": false,
-                                "goalTime": "95'"
-                            }
-                        ]
+                        "points": 0,
+                        "goals": []
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -534,7 +527,7 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 2,
+                        "points": 3,
                         "goals": [
                             {
                                 "id": "437384",
@@ -547,6 +540,12 @@
                                 "shortName": "Erison",
                                 "isOwnGoal": false,
                                 "goalTime": "62'"
+                            },
+                            {
+                                "id": "531505",
+                                "shortName": "T Miyagi",
+                                "isOwnGoal": false,
+                                "goalTime": "98'"
                             }
                         ]
                     },
@@ -926,122 +925,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133919_english_hls_4c1ca59c6d12284ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133919_english_hls_4c1ca59c6d12284ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/QNU7uU2sR16WtzFk2N5w0Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Avispa Fukuoka Vs Cerezo Osaka",
-            "tournament": "J League 2025",
-            "match_id": 132094,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "13 September 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132094_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132094_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132094_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132094_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132094_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132094_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132094_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Avispa Fukuoka",
-                    "shortName": "FKK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#008ca0",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "567068",
-                                "shortName": "T Miki",
-                                "isOwnGoal": false,
-                                "goalTime": "41'"
-                            },
-                            {
-                                "id": "53448",
-                                "shortName": "W Tanque",
-                                "isOwnGoal": false,
-                                "goalTime": "98'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Cerezo Osaka",
-                    "shortName": "OSA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2a2a63",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 4,
-                        "goals": [
-                            {
-                                "id": "567302",
-                                "shortName": "M Shibayama",
-                                "isOwnGoal": false,
-                                "goalTime": "54'"
-                            },
-                            {
-                                "id": "567302",
-                                "shortName": "M Shibayama",
-                                "isOwnGoal": false,
-                                "goalTime": "64'"
-                            },
-                            {
-                                "id": "171065",
-                                "shortName": "R Rat\u00e3o",
-                                "isOwnGoal": false,
-                                "goalTime": "77'"
-                            },
-                            {
-                                "id": "171065",
-                                "shortName": "R Rat\u00e3o",
-                                "isOwnGoal": false,
-                                "goalTime": "89'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132094_english_hls_a526ace6e471948ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132094_english_hls_a526ace6e471948ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132094_english_hls_a526ace6e471948ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -2727,6 +2610,74 @@
                     },
                     "isWinner": null,
                     "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Barbados Royals Women Vs Guyana Amazon Warriors Women",
+            "tournament": "Women's Caribbean Premier League, 2025",
+            "match_id": 133804,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 September 2025 11:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133804_5594_BR-W_GUY-W_fc-Web_1757131430160.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133804_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133804_5594_BR-W_GUY-W_fc-Web_1757131430160.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/WCPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133804_5594_BR-W_GUY-W_fc-Web_1757131430160.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133804_5594_BR-W_GUY-W_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133804_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Barbados Royals Women",
+                    "shortName": "BR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#621241",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Guyana Amazon Warriors Women",
+                    "shortName": "GUY-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b01018",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
