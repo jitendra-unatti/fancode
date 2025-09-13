@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:30:57 AM 13-09-2025",
+    "last_updated": "05:37:56 AM 13-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
     "matches": [
         {
             "category": "Cricket",
-            "title": "Barbados Royals Vs Trinbago Knight Riders",
+            "title": "Trinbago Knight Riders Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132373,
             "status": "LIVE",
@@ -32,25 +32,6 @@
             },
             "teams": [
                 {
-                    "name": "Barbados Royals",
-                    "shortName": "BR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#621241",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Trinbago Knight Riders",
                     "shortName": "TKR",
                     "flag": {
@@ -58,6 +39,33 @@
                     },
                     "isWinner": null,
                     "color": "#311659",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Barbados Royals",
+                    "shortName": "BR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#621241",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -84,7 +92,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Barbados Royals Vs Trinbago Knight Riders",
+            "title": "Trinbago Knight Riders Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132373,
             "status": "LIVE",
@@ -104,25 +112,6 @@
             },
             "teams": [
                 {
-                    "name": "Barbados Royals",
-                    "shortName": "BR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#621241",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Trinbago Knight Riders",
                     "shortName": "TKR",
                     "flag": {
@@ -130,6 +119,33 @@
                     },
                     "isWinner": null,
                     "color": "#311659",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Barbados Royals",
+                    "shortName": "BR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#621241",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -181,7 +197,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAO@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#ac362c",
                     "cricketScore": [
                         {
@@ -208,13 +224,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKI@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#1d388d",
                     "cricketScore": [
                         {
-                            "runs": 111,
-                            "overs": "19.4",
-                            "balls": "118",
+                            "runs": 112,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
