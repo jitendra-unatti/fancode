@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:37:56 PM 14-09-2025",
+    "last_updated": "11:45:02 PM 14-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 6,
-    "upcoming_matches": 33,
+    "live_matches": 7,
+    "upcoming_matches": 32,
     "matches": [
         {
             "category": "Cricket",
@@ -363,11 +363,11 @@
                     "color": "#621241",
                     "cricketScore": [
                         {
-                            "runs": 14,
-                            "overs": "1.5",
-                            "balls": "11",
+                            "runs": 30,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -444,13 +444,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "490859",
                                 "shortName": "R Garc\u00eda",
                                 "isOwnGoal": false,
                                 "goalTime": "15'"
+                            },
+                            {
+                                "id": "546329",
+                                "shortName": "I Benito",
+                                "isOwnGoal": false,
+                                "goalTime": "77'"
                             }
                         ]
                     },
@@ -570,35 +576,35 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Washington Nationals Vs Pittsburgh Pirates",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 136896,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "14 September 2025 09:05 PM",
+            "category": "Cricket",
+            "title": "Royal Oman Stallions Vs Renaissance Challengers",
+            "tournament": "Oman D10 League, 2025",
+            "match_id": 136787,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "15 September 2025 12:00 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136896_5028_WAN_PBP_FC-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136896_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136896_5028_WAN_PBP_FC-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136896_5028_WAN_PBP_FC-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136896_5028_WAN_PBP_FC-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136896_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136787_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_Sporty_03.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136787_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Washington Nationals",
-                    "shortName": "WAN",
+                    "name": "Royal Oman Stallions",
+                    "shortName": "ROS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-WASHG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#14264b",
-                    "cricketScore": null,
+                    "color": "#d3b252",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -610,14 +616,14 @@
                     }
                 },
                 {
-                    "name": "Pittsburgh Pirates",
-                    "shortName": "PBP",
+                    "name": "Renaissance Challengers",
+                    "shortName": "RNC",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#816305",
-                    "cricketScore": null,
+                    "color": "#bb4335",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -629,12 +635,16 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136787_english_hls_5d5b6719a94791ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/wnWIWxx2R-etlPFysQGjaQ/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136787_english_hls_5d5b6719a94791ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136787_english_hls_5d5b6719a94791ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/wnWIWxx2R-etlPFysQGjaQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -821,74 +831,6 @@
                     },
                     "isWinner": null,
                     "color": "#c5190b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Royal Oman Stallions Vs Renaissance Challengers",
-            "tournament": "Oman D10 League, 2025",
-            "match_id": 136787,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 September 2025 12:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136787_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_Sporty_03.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136787_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Royal Oman Stallions",
-                    "shortName": "ROS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d3b252",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Renaissance Challengers",
-                    "shortName": "RNC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bb4335",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2773,6 +2715,74 @@
                     },
                     "isWinner": null,
                     "color": "#184571",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Melbourne City Vs Sanfrecce Hiroshima",
+            "tournament": "AFC Champions League Elite 2025-26",
+            "match_id": 135995,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 September 2025 01:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135995_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/AFC-Champions-League-Elite.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135995_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Melbourne City",
+                    "shortName": "MLC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#72b4e7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sanfrecce Hiroshima",
+                    "shortName": "HIR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#544194",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
