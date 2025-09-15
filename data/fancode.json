@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:19:44 AM 15-09-2025",
+    "last_updated": "06:26:44 AM 15-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -448,7 +448,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Papua New Guinea Women Vs Vanuatu Women",
+            "title": "Vanuatu Women Vs Papua New Guinea Women",
             "tournament": "ICC Women's T20 WC East Asia Pacific Qualifier",
             "match_id": 136721,
             "status": "NOT_STARTED",
@@ -468,25 +468,6 @@
             },
             "teams": [
                 {
-                    "name": "Papua New Guinea Women",
-                    "shortName": "PN-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#eb5160",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Vanuatu Women",
                     "shortName": "VANW",
                     "flag": {
@@ -494,6 +475,33 @@
                     },
                     "isWinner": null,
                     "color": "#c9a304",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortName": "PN-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#eb5160",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
