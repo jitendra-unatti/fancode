@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:37:45 PM 15-09-2025",
+    "last_updated": "06:44:50 PM 15-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 2,
-    "upcoming_matches": 36,
+    "live_matches": 3,
+    "upcoming_matches": 35,
     "matches": [
         {
             "category": "Cricket",
@@ -41,9 +41,9 @@
                     "color": "#4fb319",
                     "cricketScore": [
                         {
-                            "runs": 98,
-                            "overs": "13.2",
-                            "balls": "81",
+                            "runs": 116,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -164,14 +164,14 @@
             "tournament": "Sri Lanka Under-19 tour of West Indies, 2025",
             "match_id": 135987,
             "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "streamingStatus": "STARTED",
             "startTime": "15 September 2025 07:00 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Under-19-tour-of-West-Indies-2025-old-match-card.png",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/135987_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Under-19-tour-of-West-Indies-2025-old-match-card.png",
-                "PLAYBACK": null,
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Under-19-tour-of-West-Indies-2025-old-match-card.png",
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Under-19-tour-of-West-Indies-2025-old-match-card.png",
@@ -218,12 +218,16 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/135987_english_hls_2d1b2766dd58079ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/qe1tanAaQD-Leh_hH_krhQ/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/135987_english_hls_2d1b2766dd58079ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/135987_english_hls_2d1b2766dd58079ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/qe1tanAaQD-Leh_hH_krhQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -275,6 +279,74 @@
                     "isWinner": null,
                     "color": "#11E186",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Yalla Shabab Giants Vs Majees Titans",
+            "tournament": "Oman D10 League, 2025",
+            "match_id": 136788,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "15 September 2025 07:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136788_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_Sporty_01.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136788_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Yalla Shabab Giants",
+                    "shortName": "YSG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D11919",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Majees Titans",
+                    "shortName": "MAT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d8c50f",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -683,74 +755,6 @@
                     "isWinner": null,
                     "color": "#544194",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Yalla Shabab Giants Vs Majees Titans",
-            "tournament": "Oman D10 League, 2025",
-            "match_id": 136788,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "15 September 2025 07:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136788_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_Sporty_01.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136788_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Yalla Shabab Giants",
-                    "shortName": "YSG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D11919",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Majees Titans",
-                    "shortName": "MAT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d8c50f",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1451,34 +1455,34 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Pittsburgh Pirates Vs Chicago Cubs",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 136898,
+            "category": "Football",
+            "title": "Shabab Al Ahli Vs Tractor",
+            "tournament": "AFC Champions League Elite 2025-26",
+            "match_id": 136047,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "16 September 2025 04:10 AM",
+            "startTime": "16 September 2025 09:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Old-Match-Card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136898_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136047_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Old-Match-Card.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136898_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/AFC-Champions-League-Elite.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Old-Match-Card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Sporty-Match-Card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136047_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Pittsburgh Pirates",
-                    "shortName": "PBP",
+                    "name": "Shabab Al Ahli",
+                    "shortName": "SAA",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SAA@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#816305",
+                    "color": "#C593D6",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1491,13 +1495,13 @@
                     }
                 },
                 {
-                    "name": "Chicago Cubs",
-                    "shortName": "CHC",
+                    "name": "Tractor",
+                    "shortName": "TFC",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TFC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#d64140",
+                    "color": "#ff0000",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1587,34 +1591,34 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Shabab Al Ahli Vs Tractor",
-            "tournament": "AFC Champions League Elite 2025-26",
-            "match_id": 136047,
+            "category": "Baseball",
+            "title": "Pittsburgh Pirates Vs Chicago Cubs",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 136898,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "16 September 2025 09:30 PM",
+            "startTime": "16 September 2025 04:10 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Old-Match-Card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136047_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Old-Match-Card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136898_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/AFC-Champions-League-Elite.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Old-Match-Card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/05_Shabab-Al-Ahli-Club-vs-Tractor-SC_Sporty-Match-Card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136047_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136898_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Shabab Al Ahli",
-                    "shortName": "SAA",
+                    "name": "Pittsburgh Pirates",
+                    "shortName": "PBP",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SAA@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#C593D6",
+                    "color": "#816305",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1627,13 +1631,13 @@
                     }
                 },
                 {
-                    "name": "Tractor",
-                    "shortName": "TFC",
+                    "name": "Chicago Cubs",
+                    "shortName": "CHC",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TFC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ff0000",
+                    "color": "#d64140",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
