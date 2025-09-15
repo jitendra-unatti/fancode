@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:37:44 AM 15-09-2025",
+    "last_updated": "05:44:44 AM 15-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 5,
-    "upcoming_matches": 34,
+    "live_matches": 4,
+    "upcoming_matches": 35,
     "matches": [
         {
             "category": "Cricket",
@@ -41,9 +41,9 @@
                     "color": "#b01018",
                     "cricketScore": [
                         {
-                            "runs": 116,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 132,
+                            "overs": "15.2",
+                            "balls": "92",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -121,9 +121,9 @@
                     "color": "#b01018",
                     "cricketScore": [
                         {
-                            "runs": 116,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 132,
+                            "overs": "15.2",
+                            "balls": "92",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -228,9 +228,9 @@
                     "color": "#85a4e2",
                     "cricketScore": [
                         {
-                            "runs": 80,
-                            "overs": "14.5",
-                            "balls": "89",
+                            "runs": 94,
+                            "overs": "16.4",
+                            "balls": "100",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -325,94 +325,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136930_english_hls_d7b21f206b977ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136930_english_hls_d7b21f206b977ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/6aahiDK0SOilNSeYs0YAgw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Samoa Women Vs Fiji Women",
-            "tournament": "ICC Women's T20 WC East Asia Pacific Qualifier",
-            "match_id": 136719,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "15 September 2025 03:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136719_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136719_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Samoa Women",
-                    "shortName": "SAMW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAO@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#ac362c",
-                    "cricketScore": [
-                        {
-                            "runs": 74,
-                            "overs": "12.3",
-                            "balls": "75",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Fiji Women",
-                    "shortName": "FIJW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FI@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#6CA7E8",
-                    "cricketScore": [
-                        {
-                            "runs": 75,
-                            "overs": "13.5",
-                            "balls": "83",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136719_english_hls_e6b30db75f87288ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/4zhu0i0wQ-6lz6q4zgRYJA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136719_english_hls_e6b30db75f87288ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136719_english_hls_e6b30db75f87288ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/4zhu0i0wQ-6lz6q4zgRYJA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -2742,6 +2654,74 @@
                     },
                     "isWinner": null,
                     "color": "#6f1924",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Al Hussein Vs Sepahan",
+            "tournament": "AFC Champions League Two 2025-26",
+            "match_id": 136116,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 September 2025 11:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136116_5648_HUS_SEP_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136116_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136116_5648_HUS_SEP_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/AFC-Champions-League-Two.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136116_5648_HUS_SEP_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136116_5648_HUS_SEP_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136116_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Al Hussein",
+                    "shortName": "HUS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HUS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#cec113",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sepahan",
+                    "shortName": "SEP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SEPAH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c0a32f",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
