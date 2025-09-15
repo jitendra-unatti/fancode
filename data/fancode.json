@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:26:44 PM 15-09-2025",
+    "last_updated": "09:30:45 PM 15-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#c5190b",
                     "cricketScore": [
                         {
-                            "runs": 122,
-                            "overs": "16.5",
-                            "balls": "101",
+                            "runs": 128,
+                            "overs": "17.3",
+                            "balls": "105",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -180,7 +180,7 @@
         },
         {
             "category": "Cricket",
-            "title": "West Indies Under 19 Vs Sri Lanka Under 19",
+            "title": "Sri Lanka Under 19 Vs West Indies Under 19",
             "tournament": "Sri Lanka Under-19 tour of West Indies, 2025",
             "match_id": 135987,
             "status": "LIVE",
@@ -200,25 +200,6 @@
             },
             "teams": [
                 {
-                    "name": "West Indies Under-19",
-                    "shortName": "WI-U19",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c9618c",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Sri Lanka Under-19",
                     "shortName": "SL-U19",
                     "flag": {
@@ -226,6 +207,33 @@
                     },
                     "isWinner": null,
                     "color": "#164fad",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "West Indies Under-19",
+                    "shortName": "WI-U19",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c9618c",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
