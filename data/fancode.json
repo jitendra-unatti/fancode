@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:58:41 AM 17-09-2025",
+    "last_updated": "02:05:41 AM 17-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -42,8 +42,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "427623",
+                                "shortName": "C Richards",
+                                "isOwnGoal": false,
+                                "goalTime": "72'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -119,11 +126,11 @@
                     "color": "#8049CF",
                     "cricketScore": [
                         {
-                            "runs": 138,
-                            "overs": "18.4",
-                            "balls": "112",
+                            "runs": 146,
+                            "overs": "19.4",
+                            "balls": "118",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
