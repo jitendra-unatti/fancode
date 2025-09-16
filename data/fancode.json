@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:12:41 AM 17-09-2025",
+    "last_updated": "01:19:41 AM 17-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -42,13 +42,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "447203",
                                 "shortName": "D N\u00fa\u00f1ez",
                                 "isOwnGoal": false,
                                 "goalTime": "57'"
+                            },
+                            {
+                                "id": "222784",
+                                "shortName": "T Hern\u00e1ndez",
+                                "isOwnGoal": false,
+                                "goalTime": "67'"
                             }
                         ]
                     },
@@ -211,9 +217,9 @@
                     "color": "#8049CF",
                     "cricketScore": [
                         {
-                            "runs": 56,
-                            "overs": "9.1",
-                            "balls": "55",
+                            "runs": 61,
+                            "overs": "10.2",
+                            "balls": "62",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -314,8 +320,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "444884",
+                                "shortName": "H Elliott",
+                                "isOwnGoal": false,
+                                "goalTime": "43'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -392,8 +405,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "444884",
+                                "shortName": "H Elliott",
+                                "isOwnGoal": false,
+                                "goalTime": "43'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
