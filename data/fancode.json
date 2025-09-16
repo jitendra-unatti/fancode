@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:44:02 PM 16-09-2025",
+    "last_updated": "04:51:08 PM 16-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -132,8 +132,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "120629",
+                                "shortName": "M Dugandzic",
+                                "isOwnGoal": false,
+                                "goalTime": "59'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
