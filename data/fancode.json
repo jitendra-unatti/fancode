@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:44:11 PM 17-09-2025",
+    "last_updated": "07:51:10 PM 17-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#3c9ae8",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0.1",
-                            "balls": "1",
+                            "runs": 23,
+                            "overs": "1.5",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -167,7 +167,7 @@
             "title": "Pakistan Vs United Arab Emirates",
             "tournament": "Asia Cup, 2025",
             "match_id": 136740,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "17 September 2025 08:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -573,7 +573,7 @@
             "title": "Arkadag Vs Andijan",
             "tournament": "AFC Champions League Two 2025-26",
             "match_id": 136103,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "17 September 2025 07:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -602,11 +602,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 },
                 {
                     "name": "Andijan",
@@ -621,11 +617,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 }
             ],
             "language": "ENGLISH",
