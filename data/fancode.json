@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:58:32 AM 17-09-2025",
+    "last_updated": "12:05:34 PM 17-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#00226a",
                     "cricketScore": [
                         {
-                            "runs": 201,
-                            "overs": "38.4",
-                            "balls": "232",
+                            "runs": 212,
+                            "overs": "39.5",
+                            "balls": "239",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -1152,7 +1152,11 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
                     "name": "IAS Invincibles",
@@ -1167,7 +1171,11 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "BLOODY_SWEET",
