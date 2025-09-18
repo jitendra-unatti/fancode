@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:26:22 AM 18-09-2025",
+    "last_updated": "05:30:28 AM 18-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
     "matches": [
         {
             "category": "Cricket",
-            "title": "Saint Lucia Kings Vs Guyana Amazon Warriors",
+            "title": "Guyana Amazon Warriors Vs Saint Lucia Kings",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132377,
             "status": "LIVE",
@@ -32,25 +32,6 @@
             },
             "teams": [
                 {
-                    "name": "Saint Lucia Kings",
-                    "shortName": "SLK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1e6583",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Guyana Amazon Warriors",
                     "shortName": "GUY",
                     "flag": {
@@ -58,6 +39,33 @@
                     },
                     "isWinner": null,
                     "color": "#b01018",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1e6583",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -84,7 +92,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Saint Lucia Kings Vs Guyana Amazon Warriors",
+            "title": "Guyana Amazon Warriors Vs Saint Lucia Kings",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132377,
             "status": "LIVE",
@@ -104,25 +112,6 @@
             },
             "teams": [
                 {
-                    "name": "Saint Lucia Kings",
-                    "shortName": "SLK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1e6583",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Guyana Amazon Warriors",
                     "shortName": "GUY",
                     "flag": {
@@ -130,6 +119,33 @@
                     },
                     "isWinner": null,
                     "color": "#b01018",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1e6583",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
