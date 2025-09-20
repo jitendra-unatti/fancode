@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:37:48 PM 20-09-2025",
+    "last_updated": "11:44:46 PM 20-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 40,
-    "live_matches": 7,
+    "total_matches": 39,
+    "live_matches": 6,
     "upcoming_matches": 33,
     "matches": [
         {
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#164fad",
                     "cricketScore": [
                         {
@@ -64,15 +64,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 168,
-                            "overs": "19.3",
-                            "balls": "117",
+                            "runs": 169,
+                            "overs": "19.5",
+                            "balls": "119",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -125,7 +125,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#164fad",
                     "cricketScore": [
                         {
@@ -152,15 +152,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 168,
-                            "overs": "19.3",
-                            "balls": "117",
+                            "runs": 169,
+                            "overs": "19.5",
+                            "balls": "119",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -214,13 +214,17 @@
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ANF@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#b6b64a",
+                    "color": "#DCDCDC",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
                     "name": "Al-Riyadh",
@@ -229,13 +233,17 @@
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RIY@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ee2616",
+                    "color": "#DCDCDC",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "ENGLISH",
@@ -278,7 +286,7 @@
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ffc0cb",
+                    "color": "#DCDCDC",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -297,7 +305,7 @@
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#F2DC85",
+                    "color": "#DCDCDC",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -456,182 +464,6 @@
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Puri Titans Vs Sambalpur Warriors",
-            "tournament": "Odisha Pro T20 League, 2025",
-            "match_id": 137066,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "20 September 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137066_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-T20,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-sporty.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137066_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Puri Titans",
-                    "shortName": "PUT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUT@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#f5c50c",
-                    "cricketScore": [
-                        {
-                            "runs": 48,
-                            "overs": "5",
-                            "balls": "30",
-                            "status": "COMPLETED",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sambalpur Warriors",
-                    "shortName": "SAW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAW@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#1bbad7",
-                    "cricketScore": [
-                        {
-                            "runs": 49,
-                            "overs": "4.1",
-                            "balls": "25",
-                            "status": "IN_PROGRESS",
-                            "wickets": 3
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137066_english_hls_7a0469502118128ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/DSxq_Z0IRjqrZaF01EJfEA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137066_english_hls_7a0469502118128ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137066_english_hls_7a0469502118128ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/DSxq_Z0IRjqrZaF01EJfEA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Puri Titans Vs Sambalpur Warriors",
-            "tournament": "Odisha Pro T20 League, 2025",
-            "match_id": 137066,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "20 September 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137066_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-T20,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-sporty.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137066_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Puri Titans",
-                    "shortName": "PUT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PUT@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#f5c50c",
-                    "cricketScore": [
-                        {
-                            "runs": 48,
-                            "overs": "5",
-                            "balls": "30",
-                            "status": "COMPLETED",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sambalpur Warriors",
-                    "shortName": "SAW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAW@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#1bbad7",
-                    "cricketScore": [
-                        {
-                            "runs": 49,
-                            "overs": "4.1",
-                            "balls": "25",
-                            "status": "IN_PROGRESS",
-                            "wickets": 3
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "HINDI",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137066_hindi_hls_956c392d3687888ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/XG_LUEQSTb6OJsRZNLDPZQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137066_hindi_hls_956c392d3687888ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137066_hindi_hls_956c392d3687888ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/XG_LUEQSTb6OJsRZNLDPZQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "HINDI"
             }
         },
         {
@@ -1315,74 +1147,6 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Arizona Diamondbacks Vs Philadelphia Phillies",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 136912,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 September 2025 05:40 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136912_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136912_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Arizona Diamondbacks",
-                    "shortName": "AD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ARIZ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#6f212e",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Philadelphia Phillies",
-                    "shortName": "PHP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PHILA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#184571",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Football",
             "title": "Burgos Vs Granada",
             "tournament": "LALIGA Hypermotion 2025-26",
@@ -1520,33 +1284,33 @@
         },
         {
             "category": "Baseball",
-            "title": "Los Angeles Dodgers Vs San Francisco Giants",
+            "title": "Arizona Diamondbacks Vs Philadelphia Phillies",
             "tournament": "Major League Baseball, 2025",
-            "match_id": 136913,
+            "match_id": 136912,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "21 September 2025 06:40 AM",
+            "startTime": "21 September 2025 05:40 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136913_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136912_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136913_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136912_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
+                    "name": "Arizona Diamondbacks",
+                    "shortName": "AD",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ARIZ@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#77c0f6",
+                    "color": "#6f212e",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1559,13 +1323,13 @@
                     }
                 },
                 {
-                    "name": "San Francisco Giants",
-                    "shortName": "SFG",
+                    "name": "Philadelphia Phillies",
+                    "shortName": "PHP",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PHILA@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#581a02",
+                    "color": "#184571",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1634,6 +1398,74 @@
                     },
                     "isWinner": null,
                     "color": "#311659",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers Vs San Francisco Giants",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 136913,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "21 September 2025 06:40 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136913_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136913_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#77c0f6",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "San Francisco Giants",
+                    "shortName": "SFG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#581a02",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2822,6 +2654,74 @@
                     },
                     "isWinner": null,
                     "color": "#0ca622",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Mussoorie Thunders Women Vs Pithoragarh Hurricanes Women",
+            "tournament": "Women's Uttarakhand Premier League, 2025",
+            "match_id": 137018,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 September 2025 03:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137018_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_Sporty-match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137018_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mussoorie Thunders Women",
+                    "shortName": "MT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MTU@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d1a20e",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Pithoragarh Hurricanes Women",
+                    "shortName": "PH",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PITU@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0b7fdb",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
