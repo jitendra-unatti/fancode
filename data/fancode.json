@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:51:46 PM 21-09-2025",
+    "last_updated": "06:58:47 PM 21-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -185,9 +185,9 @@
                     "color": "#ba6a15",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "10.4",
-                            "balls": "64",
+                            "runs": 86,
+                            "overs": "12.3",
+                            "balls": "75",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -266,8 +266,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "65156",
+                                "shortName": "J Sebastian",
+                                "isOwnGoal": false,
+                                "goalTime": "65'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
