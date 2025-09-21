@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:37:46 PM 21-09-2025",
+    "last_updated": "08:41:13 PM 21-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "5.3",
-                            "balls": "33",
+                            "runs": 56,
+                            "overs": "6.3",
+                            "balls": "39",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -121,9 +121,9 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "5.3",
-                            "balls": "33",
+                            "runs": 56,
+                            "overs": "6.3",
+                            "balls": "39",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -159,13 +159,13 @@
                 }
             ],
             "language": "HINDI",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/136744_hindi_hls_c6a3e9736597207ta-di_h264/index.m3u8",
+            "adfree_stream": "https://d285kzy11wjv54.cloudfront.net/out/v1/0c63d485c6904eea88bb6f04e1b73c77/index.m3u8",
             "dai_stream": "https://dai.google.com/linear/hls/event/omNHBc01TMqyREimM6IREQ/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/136744_hindi_hls_c6a3e9736597207ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/136744_hindi_hls_c6a3e9736597207ta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://d285kzy11wjv54.cloudfront.net/out/v1/0c63d485c6904eea88bb6f04e1b73c77/index.m3u8",
+                "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/omNHBc01TMqyREimM6IREQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
+                "cloudfront_cdn": "https://d285kzy11wjv54.cloudfront.net/out/v1/0c63d485c6904eea88bb6f04e1b73c77/index.m3u8",
                 "sony_cdn": "Unavailable",
                 "language": "HINDI"
             }
@@ -204,7 +204,7 @@
                             "runs": 154,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 8
                         }
                     ],
@@ -214,7 +214,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -226,14 +226,22 @@
                     },
                     "isWinner": null,
                     "color": "#3c9ae8",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
