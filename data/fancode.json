@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:20:19 PM 24-09-2025",
+    "last_updated": "09:26:58 PM 24-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#0f60de",
                     "cricketScore": [
                         {
-                            "runs": 134,
-                            "overs": "15.4",
-                            "balls": "94",
+                            "runs": 141,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -121,9 +121,9 @@
                     "color": "#0f60de",
                     "cricketScore": [
                         {
-                            "runs": 134,
-                            "overs": "15.4",
-                            "balls": "94",
+                            "runs": 141,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -228,11 +228,11 @@
                     "color": "#1bbad7",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 38,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -316,11 +316,11 @@
                     "color": "#1bbad7",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 38,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -380,7 +380,7 @@
                             "runs": 100,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 9
                         }
                     ],
@@ -390,7 +390,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -402,14 +402,22 @@
                     },
                     "isWinner": null,
                     "color": "#0887e8",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
