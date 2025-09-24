@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:19:57 AM 25-09-2025",
+    "last_updated": "12:27:17 AM 25-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
             "title": "Huddersfield Town A.f.c. Vs Manchester City",
             "tournament": "Carabao Cup 2025-2026",
             "match_id": 136842,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "25 September 2025 12:15 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -41,7 +41,10 @@
                     "color": "#d7b921",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -60,7 +63,10 @@
                     "color": "#539fd7",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -87,7 +93,7 @@
             "title": "Tottenham Hotspur Vs Doncaster Rovers F.c.",
             "tournament": "Carabao Cup 2025-2026",
             "match_id": 136844,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "25 September 2025 12:15 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -113,7 +119,10 @@
                     "color": "#2c4cc0",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -132,7 +141,10 @@
                     "color": "#bb3436",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -159,7 +171,7 @@
             "title": "Getafe Cf Vs Deportivo Alaves",
             "tournament": "LALIGA 2025-26",
             "match_id": 130886,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "24 September 2025 10:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -315,7 +327,7 @@
             "title": "Newcastle United Vs Bradford City",
             "tournament": "Carabao Cup 2025-2026",
             "match_id": 136843,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "25 September 2025 12:15 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -341,7 +353,10 @@
                     "color": "#d15f6a",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -360,7 +375,10 @@
                     "color": "#df7b00",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
