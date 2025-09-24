@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:51:57 AM 25-09-2025",
+    "last_updated": "01:59:36 AM 25-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -64,8 +64,14 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
+                            {
+                                "id": "142834",
+                                "shortName": "S Moreira",
+                                "isOwnGoal": false,
+                                "goalTime": "74'"
+                            },
                             {
                                 "id": "29535",
                                 "shortName": "P Foden",
@@ -303,8 +309,14 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 2,
+                        "points": 3,
                         "goals": [
+                            {
+                                "id": "41697",
+                                "shortName": "Joelinton",
+                                "isOwnGoal": false,
+                                "goalTime": "75'"
+                            },
                             {
                                 "id": "153759",
                                 "shortName": "W Osula",
@@ -338,8 +350,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "34727",
+                                "shortName": "A Cook",
+                                "isOwnGoal": false,
+                                "goalTime": "79'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
