@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:58:30 PM 25-09-2025",
+    "last_updated": "11:05:31 PM 25-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 50,
-                            "overs": "9.2",
-                            "balls": "56",
+                            "runs": 59,
+                            "overs": "10.2",
+                            "balls": "62",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -156,9 +156,9 @@
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 50,
-                            "overs": "9.2",
-                            "balls": "56",
+                            "runs": 59,
+                            "overs": "10.2",
+                            "balls": "62",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -533,10 +533,17 @@
                     "color": "#F2DC85",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
                     "name": "Elche CF",
@@ -548,10 +555,17 @@
                     "color": "#253611",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "ENGLISH",
