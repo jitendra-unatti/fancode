@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:51:31 PM 25-09-2025",
+    "last_updated": "09:58:31 PM 25-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 4,
-    "upcoming_matches": 36,
+    "live_matches": 5,
+    "upcoming_matches": 35,
     "matches": [
         {
             "category": "Cricket",
@@ -267,14 +267,22 @@
                     },
                     "isWinner": null,
                     "color": "#4359a8",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -339,14 +347,22 @@
                     },
                     "isWinner": null,
                     "color": "#4359a8",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -465,6 +481,78 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137023_english_hls_8205477fd5555ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137023_english_hls_8205477fd5555ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/-DeQIUTkSry3XMCM0cqyUA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Cincinnati Reds Vs Pittsburgh Pirates",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 137133,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "25 September 2025 10:10 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137133_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Cincinnati Reds",
+                    "shortName": "CR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CINC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ee4d65",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Pittsburgh Pirates",
+                    "shortName": "PBP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#816305",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137133_english_hls_7876e3f13b69634ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137133_english_hls_7876e3f13b69634ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137133_english_hls_7876e3f13b69634ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -1219,74 +1307,6 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Cincinnati Reds Vs Pittsburgh Pirates",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 137133,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 September 2025 10:10 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137133_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137133_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Cincinnati Reds",
-                    "shortName": "CR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CINC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ee4d65",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Pittsburgh Pirates",
-                    "shortName": "PBP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#816305",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Tbc Vs Tbc",
             "tournament": "Odisha Pro T20 League, 2025",
@@ -1423,74 +1443,6 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Arizona Diamondbacks Vs Los Angeles Dodgers",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 137134,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 September 2025 01:10 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137134_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Arizona Diamondbacks",
-                    "shortName": "AD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ARIZ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#6f212e",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#77c0f6",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Football",
             "title": "Girona Fc Vs Rcd Espanyol",
             "tournament": "LALIGA 2025-26",
@@ -1606,6 +1558,74 @@
                     },
                     "isWinner": null,
                     "color": "#fbc32c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Arizona Diamondbacks Vs Los Angeles Dodgers",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 137134,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 September 2025 01:10 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137134_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137134_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Arizona Diamondbacks",
+                    "shortName": "AD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ARIZ@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#6f212e",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#77c0f6",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
