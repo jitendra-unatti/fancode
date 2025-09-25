@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:19:30 PM 25-09-2025",
+    "last_updated": "11:26:31 PM 25-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "13.4",
-                            "balls": "82",
+                            "runs": 85,
+                            "overs": "15.1",
+                            "balls": "91",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -156,11 +156,11 @@
                     "color": "#397b46",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "13.4",
-                            "balls": "82",
+                            "runs": 85,
+                            "overs": "15.1",
+                            "balls": "91",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -446,8 +446,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "196709",
+                                "shortName": "V Munoz",
+                                "isOwnGoal": false,
+                                "goalTime": "10'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
