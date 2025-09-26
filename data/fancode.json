@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:12:41 AM 26-09-2025",
+    "last_updated": "07:19:41 AM 26-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 5,
-    "upcoming_matches": 33,
+    "live_matches": 7,
+    "upcoming_matches": 31,
     "matches": [
         {
             "category": "Cricket",
@@ -109,9 +109,9 @@
                     "color": "#00226a",
                     "cricketScore": [
                         {
-                            "runs": 88,
-                            "overs": "24.4",
-                            "balls": "148",
+                            "runs": 92,
+                            "overs": "27",
+                            "balls": "162",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -189,9 +189,9 @@
                     "color": "#c50008",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "18.5",
-                            "balls": "113",
+                            "runs": 104,
+                            "overs": "21",
+                            "balls": "126",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -377,6 +377,150 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137135_english_hls_8ec821940123911ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137135_english_hls_8ec821940123911ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Pickleball",
+            "title": "Rise Up Championship Vs Day 1, Court 2",
+            "tournament": "Rise Up Championship",
+            "match_id": 137287,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "26 September 2025 07:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137287_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-RUC@2x.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Pickelball_1440-x-360.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137287_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Rise Up Championship",
+                    "shortName": "RUC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-RUC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1D2A5A",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Day 1, Court 2",
+                    "shortName": "DC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-DC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#025AE0",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137287_english_hls_b0c088b05a9614ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/oCWI-F6oS_ShtS_nFBQJ2A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137287_english_hls_b0c088b05a9614ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137287_english_hls_b0c088b05a9614ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/oCWI-F6oS_ShtS_nFBQJ2A/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Pickleball",
+            "title": "Rise Up Championship Vs Day 1, Court 1",
+            "tournament": "Rise Up Championship",
+            "match_id": 137286,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "26 September 2025 07:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137286_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-RUC@2x.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Pickelball_1440-x-360.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137286_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Rise Up Championship",
+                    "shortName": "RUC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-RUC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1D2A5A",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Day 1, Court 1",
+                    "shortName": "DC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-DC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#025AE0",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137286_english_hls_df5171435781145ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/LGjqVG94SzKEfcBWvShxIg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137286_english_hls_df5171435781145ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137286_english_hls_df5171435781145ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LGjqVG94SzKEfcBWvShxIg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -1042,142 +1186,6 @@
                     },
                     "isWinner": null,
                     "color": "#fbc32c",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Pickleball",
-            "title": "Rise Up Championship Vs Day 1, Court 2",
-            "tournament": "Rise Up Championship",
-            "match_id": 137287,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 September 2025 07:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137287_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-RUC@2x.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Pickelball_1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137287_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Rise Up Championship",
-                    "shortName": "RUC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-RUC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1D2A5A",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Day 1, Court 2",
-                    "shortName": "DC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-DC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#025AE0",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Pickleball",
-            "title": "Rise Up Championship Vs Day 1, Court 1",
-            "tournament": "Rise Up Championship",
-            "match_id": 137286,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 September 2025 07:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137286_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-RUC@2x.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Pickelball_1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Rise-Up-Pickleball_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137286_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Rise Up Championship",
-                    "shortName": "RUC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-RUC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1D2A5A",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Day 1, Court 1",
-                    "shortName": "DC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/pb-flags/FC-DC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#025AE0",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
