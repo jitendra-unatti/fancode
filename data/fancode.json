@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:51:41 AM 26-09-2025",
+    "last_updated": "06:58:41 AM 26-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 4,
-    "upcoming_matches": 34,
+    "live_matches": 5,
+    "upcoming_matches": 33,
     "matches": [
         {
             "category": "Cricket",
@@ -109,9 +109,9 @@
                     "color": "#00226a",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "18.5",
-                            "balls": "113",
+                            "runs": 70,
+                            "overs": "20.4",
+                            "balls": "124",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -189,11 +189,11 @@
                     "color": "#c50008",
                     "cricketScore": [
                         {
-                            "runs": 69,
-                            "overs": "13.4",
-                            "balls": "83",
+                            "runs": 71,
+                            "overs": "15.2",
+                            "balls": "92",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -305,6 +305,78 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/119212_english_hls_609caf143053069ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/119212_english_hls_609caf143053069ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/5xLGWtihRC6cQR3g7H4Skw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs Colorado Rockies",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 137135,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "26 September 2025 07:10 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_APP.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137135_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#11a6a8",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Colorado Rockies",
+                    "shortName": "COR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-COLO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#53409a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137135_english_hls_8ec821940123911ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137135_english_hls_8ec821940123911ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137135_english_hls_8ec821940123911ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -991,74 +1063,6 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Seattle Mariners Vs Colorado Rockies",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 137135,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 September 2025 07:10 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137135_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137135_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Seattle Mariners",
-                    "shortName": "SEM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#11a6a8",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Colorado Rockies",
-                    "shortName": "COR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-COLO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#53409a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Pickleball",
             "title": "Rise Up Championship Vs Day 1, Court 2",
             "tournament": "Rise Up Championship",
@@ -1332,42 +1336,34 @@
         },
         {
             "category": "Cricket",
-            "title": "Pakistan Vs Bangladesh",
-            "tournament": "Asia Cup, 2025",
-            "match_id": 136747,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "25 September 2025 08:00 PM",
+            "title": "Usn Indians Vs Dehradun Warriors",
+            "tournament": "Uttarakhand Premier League, 2025",
+            "match_id": 137078,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "27 September 2025 11:00 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136747_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137078_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Cup,-2025-(1).png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Women's-Uttarakhand-Premier-League,-2025-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/13-PAK-vs-BAN_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136747_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137078_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Pakistan",
-                    "shortName": "PAK",
+                    "name": "USN Indians",
+                    "shortName": "UI",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UI@2x.png"
                     },
-                    "isWinner": true,
-                    "color": "#559830",
-                    "cricketScore": [
-                        {
-                            "runs": 135,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#2f4699",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1379,29 +1375,21 @@
                     }
                 },
                 {
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
+                    "name": "Dehradun Warriors",
+                    "shortName": "DHD",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DHDU@2x.png"
                     },
-                    "isWinner": false,
-                    "color": "#397b46",
-                    "cricketScore": [
-                        {
-                            "runs": 124,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 9
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#f29264",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
@@ -1484,34 +1472,42 @@
         },
         {
             "category": "Cricket",
-            "title": "Usn Indians Vs Dehradun Warriors",
-            "tournament": "Uttarakhand Premier League, 2025",
-            "match_id": 137078,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 September 2025 11:00 AM",
+            "title": "Pakistan Vs Bangladesh",
+            "tournament": "Asia Cup, 2025",
+            "match_id": 136747,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "25 September 2025 08:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137078_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/136747_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Women's-Uttarakhand-Premier-League,-2025-Tour-Logo.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Cup,-2025-(1).png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137078_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/11-PAKvsBAN_Old_match-card_v2.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/13-PAK-vs-BAN_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136747_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "USN Indians",
-                    "shortName": "UI",
+                    "name": "Pakistan",
+                    "shortName": "PAK",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UI@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
                     },
-                    "isWinner": null,
-                    "color": "#2f4699",
-                    "cricketScore": null,
+                    "isWinner": true,
+                    "color": "#559830",
+                    "cricketScore": [
+                        {
+                            "runs": 135,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1523,21 +1519,29 @@
                     }
                 },
                 {
-                    "name": "Dehradun Warriors",
-                    "shortName": "DHD",
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DHDU@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
                     },
-                    "isWinner": null,
-                    "color": "#f29264",
-                    "cricketScore": null,
+                    "isWinner": false,
+                    "color": "#397b46",
+                    "cricketScore": [
+                        {
+                            "runs": 124,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "IN_PROGRESS",
+                            "wickets": 9
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
