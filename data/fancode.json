@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:19 AM 27-09-2025",
+    "last_updated": "12:30:25 AM 27-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -46,6 +46,13 @@
                             "balls": "120",
                             "status": "COMPLETED",
                             "wickets": 5
+                        },
+                        {
+                            "runs": 0,
+                            "overs": "0.0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
                         }
                     ],
                     "kabaddiScore": null,
@@ -54,7 +61,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -78,7 +85,7 @@
                             "runs": 2,
                             "overs": "0.5",
                             "balls": "5",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 2
                         }
                     ],
@@ -88,7 +95,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
@@ -141,6 +148,13 @@
                             "balls": "120",
                             "status": "COMPLETED",
                             "wickets": 5
+                        },
+                        {
+                            "runs": 0,
+                            "overs": "0.0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
                         }
                     ],
                     "kabaddiScore": null,
@@ -149,7 +163,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -173,7 +187,7 @@
                             "runs": 2,
                             "overs": "0.5",
                             "balls": "5",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 2
                         }
                     ],
@@ -183,7 +197,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
