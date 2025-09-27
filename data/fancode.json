@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:19:41 PM 27-09-2025",
+    "last_updated": "08:26:42 PM 27-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -139,8 +139,14 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
+                            {
+                                "id": "156425",
+                                "shortName": "A Guler",
+                                "isOwnGoal": false,
+                                "goalTime": "36'"
+                            },
                             {
                                 "id": "21433",
                                 "shortName": "K Mbappe",
@@ -231,8 +237,14 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
+                            {
+                                "id": "156425",
+                                "shortName": "A Guler",
+                                "isOwnGoal": false,
+                                "goalTime": "36'"
+                            },
                             {
                                 "id": "21433",
                                 "shortName": "K Mbappe",
@@ -323,8 +335,14 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
+                            {
+                                "id": "156425",
+                                "shortName": "A Guler",
+                                "isOwnGoal": false,
+                                "goalTime": "36'"
+                            },
                             {
                                 "id": "21433",
                                 "shortName": "K Mbappe",
@@ -385,9 +403,9 @@
                     "color": "#0f266e",
                     "cricketScore": [
                         {
-                            "runs": 18,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 25,
+                            "overs": "5.3",
+                            "balls": "33",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
