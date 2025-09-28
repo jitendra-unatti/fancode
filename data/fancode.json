@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:19:15 PM 28-09-2025",
+    "last_updated": "12:26:15 PM 28-09-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -105,7 +105,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSW@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#0088e7",
                     "cricketScore": [
                         {
@@ -132,15 +132,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#00226a",
                     "cricketScore": [
                         {
-                            "runs": 220,
-                            "overs": "45.3",
-                            "balls": "273",
+                            "runs": 221,
+                            "overs": "46.3",
+                            "balls": "279",
                             "status": "IN_PROGRESS",
-                            "wickets": 9
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -193,7 +193,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACO@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#c50008",
                     "cricketScore": [
                         {
@@ -220,13 +220,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#007e1e",
                     "cricketScore": [
                         {
-                            "runs": 193,
-                            "overs": "35",
-                            "balls": "210",
+                            "runs": 197,
+                            "overs": "35.2",
+                            "balls": "212",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -285,11 +285,11 @@
                     "color": "#ff6e79",
                     "cricketScore": [
                         {
-                            "runs": 31,
+                            "runs": 58,
                             "overs": "8",
                             "balls": "48",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
