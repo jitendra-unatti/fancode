@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:58:18 PM 01-10-2025",
+    "last_updated": "02:05:18 PM 01-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#002695",
                     "cricketScore": [
                         {
-                            "runs": 63,
-                            "overs": "5.1",
-                            "balls": "31",
+                            "runs": 79,
+                            "overs": "6.3",
+                            "balls": "39",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -129,11 +129,11 @@
                     "color": "#d53c2c",
                     "cricketScore": [
                         {
-                            "runs": 199,
+                            "runs": 202,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "status": "COMPLETED",
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -142,7 +142,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -154,14 +154,22 @@
                     },
                     "isWinner": null,
                     "color": "#0b7fdb",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
