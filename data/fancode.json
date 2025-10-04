@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:44:04 AM 04-10-2025",
+    "last_updated": "06:51:04 AM 04-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -227,7 +227,7 @@
             "title": "Atlanta Kings Cc Vs Dallas Lonestars Cc",
             "tournament": "National Cricket T10 League, 2025",
             "match_id": 137292,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "04 October 2025 05:30 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -249,7 +249,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATLN@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#b41416",
                     "cricketScore": [
                         {
@@ -276,15 +276,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLN@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#ec3051",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 58,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
