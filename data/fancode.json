@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:30:10 PM 05-10-2025",
+    "last_updated": "05:37:10 PM 05-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -231,7 +231,7 @@
             "title": "Deportivo Alaves Vs Elche Cf",
             "tournament": "LALIGA 2025-26",
             "match_id": 130900,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "05 October 2025 05:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -257,7 +257,10 @@
                     "color": "#537096",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -276,7 +279,10 @@
                     "color": "#253611",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -546,8 +552,14 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
+                            {
+                                "id": "151824",
+                                "shortName": "JP Bidace",
+                                "isOwnGoal": false,
+                                "goalTime": "45'"
+                            },
                             {
                                 "id": "51185",
                                 "shortName": "C Kipre",
@@ -1830,7 +1842,7 @@
             "match_id": 137413,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "06 October 2025 10:30 AM",
+            "startTime": "06 October 2025 06:30 AM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
             "image_cdn": {
