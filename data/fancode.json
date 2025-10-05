@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:37:48 AM 05-10-2025",
+    "last_updated": "07:44:41 AM 05-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -144,7 +144,7 @@
                             "runs": 379,
                             "overs": "110.3",
                             "balls": "0",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -154,7 +154,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -166,14 +166,22 @@
                     },
                     "isWinner": null,
                     "color": "#ffd500",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 11,
+                            "overs": "6",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -221,7 +229,7 @@
                     "color": "#c50008",
                     "cricketScore": [
                         {
-                            "runs": 311,
+                            "runs": 349,
                             "overs": "108",
                             "balls": "0",
                             "status": "IN_PROGRESS",
