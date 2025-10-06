@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:19:40 AM 06-10-2025",
+    "last_updated": "07:26:43 AM 06-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#ffd500",
                     "cricketScore": [
                         {
-                            "runs": 250,
-                            "overs": "68.5",
+                            "runs": 337,
+                            "overs": "93.3",
                             "balls": "0",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -156,11 +156,11 @@
                     "color": "#00226a",
                     "cricketScore": [
                         {
-                            "runs": 211,
-                            "overs": "60",
+                            "runs": 251,
+                            "overs": "86.3",
                             "balls": "0",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -343,12 +343,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3G950IswTPew-EtDQ688tw/master.m3u8",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb79240ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/48oQrP1LR3y0MJBPh0HRvA/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/3G950IswTPew-EtDQ688tw/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb79240ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb79240ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/48oQrP1LR3y0MJBPh0HRvA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
