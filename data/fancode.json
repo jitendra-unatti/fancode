@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:37:46 PM 06-10-2025",
+    "last_updated": "03:44:47 PM 06-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 2,
-    "upcoming_matches": 36,
+    "live_matches": 1,
+    "upcoming_matches": 37,
     "matches": [
         {
             "category": "Cricket",
@@ -16,14 +16,14 @@
             "tournament": "Sheffield Shield, 2025-26",
             "match_id": 134016,
             "status": "LIVE",
-            "streamingStatus": "STARTED",
+            "streamingStatus": "PAUSED",
             "startTime": "04 October 2025 07:30 AM",
             "startDate": "07 October 2025 07:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/134016_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
+                "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Sheffleld-Shield.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
@@ -51,7 +51,7 @@
                             "runs": 221,
                             "overs": "74.3",
                             "balls": "0",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -61,7 +61,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -80,6 +80,13 @@
                             "balls": "0",
                             "status": "COMPLETED",
                             "wickets": 10
+                        },
+                        {
+                            "runs": 9,
+                            "overs": "4",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
                         }
                     ],
                     "kabaddiScore": null,
@@ -88,21 +95,17 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/pods/v1/p/48oQrP1LR3y0MJBPh0HRvA/596d9a6d-26e1-4afe-8620-636556edc2f5:SIN/38/1/0/a7c269c3a8828654e0de00e15d0786ad/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/48oQrP1LR3y0MJBPh0HRvA/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.google.com/linear/pods/v1/p/48oQrP1LR3y0MJBPh0HRvA/596d9a6d-26e1-4afe-8620-636556edc2f5:SIN/38/1/0/a7c269c3a8828654e0de00e15d0786ad/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/48oQrP1LR3y0MJBPh0HRvA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
