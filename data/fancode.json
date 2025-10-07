@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:44:41 AM 07-10-2025",
+    "last_updated": "07:51:41 AM 07-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,7 +48,7 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 72,
+                            "runs": 143,
                             "overs": "20.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
@@ -309,14 +309,22 @@
                     },
                     "isWinner": null,
                     "color": "#ffd800",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -669,7 +677,7 @@
             "match_id": 137443,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "07 October 2025 10:00 PM",
+            "startTime": "07 October 2025 10:15 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/137443_5720_JUV-W_BEN-W_fc-web.jpg",
             "image_cdn": {
