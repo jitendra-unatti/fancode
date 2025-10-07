@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:44:40 AM 07-10-2025",
+    "last_updated": "05:51:41 AM 07-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,86 +10,6 @@
     "live_matches": 5,
     "upcoming_matches": 33,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "New York Lions Cc Vs Atlanta Kings Cc",
-            "tournament": "National Cricket T10 League, 2025",
-            "match_id": 137297,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "07 October 2025 04:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_APP.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/137297_5711_CHI_HGC_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/National-Cricket-League-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137297_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "New York Lions CC",
-                    "shortName": "NYL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#638ad4",
-                    "cricketScore": [
-                        {
-                            "runs": 82,
-                            "overs": "10",
-                            "balls": "60",
-                            "status": "IN_PROGRESS",
-                            "wickets": 4
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Atlanta Kings CC",
-                    "shortName": "ATL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATLN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b41416",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137297_english_hls_0c7382cc2e67674ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/PusUhhLfSgu3p-Q_g5LD5w/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137297_english_hls_0c7382cc2e67674ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137297_english_hls_0c7382cc2e67674ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/PusUhhLfSgu3p-Q_g5LD5w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Tasmania Vs Queensland",
@@ -128,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 62,
-                            "overs": "17",
+                            "runs": 72,
+                            "overs": "20.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 1
@@ -223,8 +143,8 @@
                             "wickets": 9
                         },
                         {
-                            "runs": 169,
-                            "overs": "59",
+                            "runs": 172,
+                            "overs": "61",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 5
@@ -275,6 +195,94 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f45222ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f45222ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/gk-WULLyQcCL6BWX6KqKew/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "New York Lions Cc Vs Atlanta Kings Cc",
+            "tournament": "National Cricket T10 League, 2025",
+            "match_id": 137297,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "07 October 2025 04:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_APP.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/137297_5711_CHI_HGC_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/National-Cricket-League-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137297_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137297_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "New York Lions CC",
+                    "shortName": "NYL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#638ad4",
+                    "cricketScore": [
+                        {
+                            "runs": 82,
+                            "overs": "10",
+                            "balls": "60",
+                            "status": "COMPLETED",
+                            "wickets": 4
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Atlanta Kings CC",
+                    "shortName": "ATL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATLN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b41416",
+                    "cricketScore": [
+                        {
+                            "runs": 50,
+                            "overs": "5",
+                            "balls": "30",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137297_english_hls_0c7382cc2e67674ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/PusUhhLfSgu3p-Q_g5LD5w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137297_english_hls_0c7382cc2e67674ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137297_english_hls_0c7382cc2e67674ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/PusUhhLfSgu3p-Q_g5LD5w/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH"
