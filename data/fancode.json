@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:44:41 AM 08-10-2025",
+    "last_updated": "01:51:40 AM 08-10-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -42,8 +42,14 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 4,
+                        "points": 5,
                         "goals": [
+                            {
+                                "id": "152399",
+                                "shortName": "E Pajor",
+                                "isOwnGoal": false,
+                                "goalTime": "56'"
+                            },
                             {
                                 "id": "162493",
                                 "shortName": "S Paralluelo",
@@ -285,8 +291,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "162613",
+                                "shortName": "K Everaerts",
+                                "isOwnGoal": false,
+                                "goalTime": "47'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -367,7 +380,7 @@
                     "color": "#62bfe9",
                     "cricketScore": [
                         {
-                            "runs": 81,
+                            "runs": 87,
                             "overs": "7",
                             "balls": "42",
                             "status": "IN_PROGRESS",
