@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:00:00 PM 08-10-2025",
+  "last_updated": "07:07:01 PM 08-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#397b46",
           "cricketScore": [
             {
-              "runs": 82,
-              "overs": "20.3",
-              "balls": "123",
+              "runs": 91,
+              "overs": "22.4",
+              "balls": "136",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -212,9 +212,9 @@
           "color": "#4fb319",
           "cricketScore": [
             {
-              "runs": 82,
-              "overs": "15.1",
-              "balls": "91",
+              "runs": 96,
+              "overs": "16.5",
+              "balls": "101",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -244,7 +244,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Sharjah Vs Ajman",
+      "title": "Ajman Vs Sharjah",
       "tournament": "Emirates D20 Tournament, 2025",
       "match_id": 137481,
       "status": "NOT_STARTED",
@@ -264,25 +264,6 @@
       },
       "teams": [
         {
-          "name": "Sharjah",
-          "shortName": "SHA",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
-          },
-          "isWinner": null,
-          "color": "#d94f55",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Ajman",
           "shortName": "AJM",
           "flag": {
@@ -290,6 +271,33 @@
           },
           "isWinner": null,
           "color": "#c83ca3",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Sharjah",
+          "shortName": "SHA",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
+          },
+          "isWinner": null,
+          "color": "#d94f55",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
