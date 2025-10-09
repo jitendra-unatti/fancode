@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:14:12 AM 09-10-2025",
+  "last_updated": "06:21:01 AM 09-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -121,11 +121,11 @@
           "color": "#0088e7",
           "cricketScore": [
             {
-              "runs": 105,
-              "overs": "21",
-              "balls": "126",
+              "runs": 157,
+              "overs": "30",
+              "balls": "180",
               "status": "IN_PROGRESS",
-              "wickets": 1
+              "wickets": 2
             }
           ],
           "kabaddiScore": null,
@@ -228,11 +228,11 @@
           "color": "#0b9266",
           "cricketScore": [
             {
-              "runs": 17,
-              "overs": "2",
-              "balls": "12",
+              "runs": 70,
+              "overs": "8",
+              "balls": "48",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 5
             }
           ],
           "kabaddiScore": null,
@@ -419,6 +419,78 @@
       }
     },
     {
+      "category": "Cricket",
+      "title": "New York Lions Cc Vs Los Angeles Waves Cc",
+      "tournament": "National Cricket T10 League, 2025",
+      "match_id": 137302,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "09 October 2025 06:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137302_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/National-Cricket-League-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-App_1759932203351.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137302_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "New York Lions CC",
+          "shortName": "NYL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#638ad4",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Los Angeles Waves CC",
+          "shortName": "LAW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAW@2x.png"
+          },
+          "isWinner": null,
+          "color": "#2b83cd",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/_Qe4d2-YRFC3h7HjWKfGhg/master.m3u8",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/_Qe4d2-YRFC3h7HjWKfGhg/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
       "category": "Baseball",
       "title": "Toronto Blue Jays Vs New York Yankees",
       "tournament": "Major League Baseball, 2025",
@@ -485,6 +557,78 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137574_english_hls_2e17bb30523862ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137574_english_hls_2e17bb30523862ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "Baycurrent Classic",
+      "match_id": 137311,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "09 October 2025 06:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137311_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent-Classic.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_sporty_match_card.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137311_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Day 1",
+          "shortName": "Day 1",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Yokohama Country Club",
+          "shortName": "Yokohama Country Club",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/wHT213ghRiajZA4VlGY39Q/master.m3u8",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/wHT213ghRiajZA4VlGY39Q/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -624,78 +768,6 @@
       "STREAMING_CDN": {
         "language": "BLOODY_SWEET",
         "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "New York Lions Cc Vs Los Angeles Waves Cc",
-      "tournament": "National Cricket T10 League, 2025",
-      "match_id": 137302,
-      "status": "NOT_STARTED",
-      "streamingStatus": "STARTED",
-      "startTime": "09 October 2025 06:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137302_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/National-Cricket-League-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-Web_1759932203348.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137302_5711_NYL_LAW_fc-App_1759932203351.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137302_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "New York Lions CC",
-          "shortName": "NYL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#638ad4",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Los Angeles Waves CC",
-          "shortName": "LAW",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAW@2x.png"
-          },
-          "isWinner": null,
-          "color": "#2b83cd",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8",
-      "dai_stream": "https://dai.google.com/linear/hls/event/_Qe4d2-YRFC3h7HjWKfGhg/master.m3u8",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/_Qe4d2-YRFC3h7HjWKfGhg/master.m3u8",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
       }
     },
     {
@@ -1376,78 +1448,6 @@
       "STREAMING_CDN": {
         "language": "BLOODY_SWEET",
         "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "Baycurrent Classic",
-      "match_id": 137311,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "09 October 2025 06:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137311_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent-Classic.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_sporty_match_card.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137311_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Day 1",
-          "shortName": "Day 1",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Yokohama Country Club",
-          "shortName": "Yokohama Country Club",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8",
-      "dai_stream": "https://dai.google.com/linear/hls/event/wHT213ghRiajZA4VlGY39Q/master.m3u8",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/wHT213ghRiajZA4VlGY39Q/master.m3u8",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
       }
     },
     {
