@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:56:01 AM 09-10-2025",
+  "last_updated": "11:00:01 AM 09-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -348,7 +348,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Western Australia Vs New South Wales",
+      "title": "New South Wales Vs Western Australia",
       "tournament": "One Day Cup, 2025-26",
       "match_id": 133936,
       "status": "NOT_STARTED",
@@ -368,25 +368,6 @@
       },
       "teams": [
         {
-          "name": "Western Australia",
-          "shortName": "WAU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#6fc9ff",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "New South Wales",
           "shortName": "NSW",
           "flag": {
@@ -394,6 +375,33 @@
           },
           "isWinner": null,
           "color": "#0088e7",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Western Australia",
+          "shortName": "WAU",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
+          },
+          "isWinner": null,
+          "color": "#6fc9ff",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
