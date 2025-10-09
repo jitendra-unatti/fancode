@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:28:01 AM 09-10-2025",
+  "last_updated": "06:35:01 AM 09-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
           "color": "#ff9747",
           "cricketScore": [
             {
-              "runs": 108,
-              "overs": "7",
-              "balls": "42",
+              "runs": 136,
+              "overs": "10",
+              "balls": "60",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 5
             }
           ],
           "kabaddiScore": null,
@@ -197,7 +197,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATLN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#b41416",
           "cricketScore": [
             {
@@ -224,15 +224,15 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#0b9266",
           "cricketScore": [
             {
-              "runs": 70,
-              "overs": "8",
-              "balls": "48",
+              "runs": 95,
+              "overs": "10",
+              "balls": "60",
               "status": "IN_PROGRESS",
-              "wickets": 5
+              "wickets": 7
             }
           ],
           "kabaddiScore": null,
@@ -289,9 +289,9 @@
           "color": "#ffd500",
           "cricketScore": [
             {
-              "runs": 39,
-              "overs": "7",
-              "balls": "42",
+              "runs": 87,
+              "overs": "13",
+              "balls": "78",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -369,11 +369,11 @@
           "color": "#c50008",
           "cricketScore": [
             {
-              "runs": 7,
-              "overs": "3",
-              "balls": "18",
+              "runs": 46,
+              "overs": "7",
+              "balls": "42",
               "status": "IN_PROGRESS",
-              "wickets": 0
+              "wickets": 1
             }
           ],
           "kabaddiScore": null,
@@ -423,7 +423,7 @@
       "title": "New York Lions Cc Vs Los Angeles Waves Cc",
       "tournament": "National Cricket T10 League, 2025",
       "match_id": 137302,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "09 October 2025 06:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -2095,7 +2095,7 @@
           },
           "isWinner": null,
           "color": "#638ad4",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -2114,7 +2114,7 @@
           },
           "isWinner": null,
           "color": "#B8142D",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
