@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:25:26 AM 11-10-2025",
+  "last_updated": "04:30:26 AM 11-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -172,7 +172,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Atlanta Kings Cc Vs Los Angeles Waves Cc",
+      "title": "Los Angeles Waves Cc Vs Atlanta Kings Cc",
       "tournament": "National Cricket T10 League, 2025",
       "match_id": 137305,
       "status": "NOT_STARTED",
@@ -192,25 +192,6 @@
       },
       "teams": [
         {
-          "name": "Atlanta Kings CC",
-          "shortName": "ATL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATLN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#b41416",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Los Angeles Waves CC",
           "shortName": "LAW",
           "flag": {
@@ -218,6 +199,33 @@
           },
           "isWinner": null,
           "color": "#2b83cd",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Atlanta Kings CC",
+          "shortName": "ATL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ATLN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#b41416",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -1291,7 +1299,7 @@
           },
           "isWinner": null,
           "color": "#dcdcdc",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1310,7 +1318,7 @@
           },
           "isWinner": null,
           "color": "#dcdcdc",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
