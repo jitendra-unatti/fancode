@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:35:00 AM 10-10-2025",
+  "last_updated": "06:42:00 AM 10-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 7,
-  "upcoming_matches": 31,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -121,11 +121,11 @@
           "color": "#007e1e",
           "cricketScore": [
             {
-              "runs": 150,
-              "overs": "31",
-              "balls": "186",
+              "runs": 151,
+              "overs": "32",
+              "balls": "192",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 5
             }
           ],
           "kabaddiScore": null,
@@ -175,7 +175,7 @@
       "title": "New York Lions Cc Vs Houston Generals Cc",
       "tournament": "National Cricket T10 League, 2025",
       "match_id": 137304,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "10 October 2025 06:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -199,14 +199,22 @@
           },
           "isWinner": null,
           "color": "#638ad4",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -381,94 +389,6 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137577_english_hls_0913c4494766477ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137577_english_hls_0913c4494766477ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Chicago Cc Vs Dallas Lonestars Cc",
-      "tournament": "National Cricket T10 League, 2025",
-      "match_id": 137303,
-      "status": "COMPLETED",
-      "streamingStatus": "STARTED",
-      "startTime": "10 October 2025 04:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/137303_5711_DL_CHI_fc-Web_1759932203337.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137303_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/137303_5711_DL_CHI_fc-Web_1759932203337.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/137303_5711_DL_CHI_fc-Web_1759932203337.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/National-Cricket-League-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137303_5711_DL_CHI_fc-Web_1759932203337.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137303_5711_DL_CHI_fc-App_1759932203341.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137303_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Chicago CC",
-          "shortName": "CHI",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CHIN@2x.png"
-          },
-          "isWinner": false,
-          "color": "#0b9266",
-          "cricketScore": [
-            {
-              "runs": 104,
-              "overs": "10",
-              "balls": "60",
-              "status": "COMPLETED",
-              "wickets": 8
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Dallas Lonestars CC",
-          "shortName": "DL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DLN@2x.png"
-          },
-          "isWinner": true,
-          "color": "#ec3051",
-          "cricketScore": [
-            {
-              "runs": 107,
-              "overs": "9",
-              "balls": "54",
-              "status": "IN_PROGRESS",
-              "wickets": 4
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137303_english_hls_54e55d024e81073ta-di_h264/index.m3u8",
-      "dai_stream": "https://dai.google.com/linear/hls/event/gZwnTm3ISNmcbEpmJdIeRw/master.m3u8",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137303_english_hls_54e55d024e81073ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137303_english_hls_54e55d024e81073ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/gZwnTm3ISNmcbEpmJdIeRw/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -2677,6 +2597,90 @@
               "balls": "57",
               "status": "IN_PROGRESS",
               "wickets": 10
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "adfree_stream": null,
+      "dai_stream": null,
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Mississauga Masters Vs Brampton Blitz",
+      "tournament": "Canada Super 60, 2025",
+      "match_id": 137425,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "10 October 2025 03:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137425_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-Web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Canada-super-60.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-App_1759929885459.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137425_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Mississauga Masters",
+          "shortName": "MGM",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIA@2x.png"
+          },
+          "isWinner": false,
+          "color": "#f5bc83",
+          "cricketScore": [
+            {
+              "runs": 151,
+              "overs": "10",
+              "balls": "60",
+              "status": "COMPLETED",
+              "wickets": 5
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Brampton Blitz",
+          "shortName": "BBZ",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBZ@2x.png"
+          },
+          "isWinner": true,
+          "color": "#ff9747",
+          "cricketScore": [
+            {
+              "runs": 152,
+              "overs": "9.3",
+              "balls": "57",
+              "status": "IN_PROGRESS",
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
