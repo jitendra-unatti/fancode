@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:49:04 PM 13-10-2025",
+  "last_updated": "06:56:01 PM 13-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -132,11 +132,11 @@
           "color": "#ad1b0e",
           "cricketScore": [
             {
-              "runs": 75,
-              "overs": "14.5",
-              "balls": "89",
+              "runs": 78,
+              "overs": "15.4",
+              "balls": "94",
               "status": "IN_PROGRESS",
-              "wickets": 2
+              "wickets": 4
             }
           ],
           "kabaddiScore": null,
@@ -191,14 +191,22 @@
           },
           "isWinner": null,
           "color": "#62bfe9",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -303,7 +311,7 @@
       "title": "São Tomé E Príncipe Vs Malawi",
       "tournament": "CAF World Cup Qualifiers",
       "match_id": 137543,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "13 October 2025 06:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -332,11 +340,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Malawi",
@@ -351,11 +355,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
@@ -375,7 +375,7 @@
       "title": "Tunisia Vs Namibia",
       "tournament": "CAF World Cup Qualifiers",
       "match_id": 137542,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "13 October 2025 06:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -404,11 +404,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Namibia",
@@ -423,11 +419,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
@@ -447,7 +439,7 @@
       "title": "South Sudan Vs Togo",
       "tournament": "CAF World Cup Qualifiers",
       "match_id": 137541,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "13 October 2025 06:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -476,11 +468,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Togo",
@@ -495,11 +483,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
