@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:35:02 PM 15-10-2025",
+  "last_updated": "11:42:01 PM 15-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#ad1b0e",
           "cricketScore": [
             {
-              "runs": 94,
-              "overs": "17",
-              "balls": "102",
+              "runs": 106,
+              "overs": "18",
+              "balls": "108",
               "status": "IN_PROGRESS",
-              "wickets": 7
+              "wickets": 8
             }
           ],
           "kabaddiScore": null,
@@ -210,8 +210,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "182406",
+                "shortName": "S Horte",
+                "isOwnGoal": false,
+                "goalTime": "60'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
@@ -232,8 +239,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "152453",
+                "shortName": "L Beerensteyn",
+                "isOwnGoal": false,
+                "goalTime": "57'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
