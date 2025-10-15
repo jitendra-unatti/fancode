@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "02:21:01 AM 16-10-2025",
+  "last_updated": "02:28:01 AM 16-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -100,10 +100,113 @@
     },
     {
       "category": "Football",
+      "title": "Roma Women Vs Barcelona Women",
+      "tournament": "UEFA Women's Champions League 2025-26",
+      "match_id": 137464,
+      "status": "COMPLETED",
+      "streamingStatus": "STARTED",
+      "startTime": "16 October 2025 12:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137464_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WHL.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_Sporty.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137464_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Roma Women",
+          "shortName": "ROM-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROM@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Barcelona Women",
+          "shortName": "BAR-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+          },
+          "isWinner": null,
+          "color": "#E7B75C",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": {
+            "points": 4,
+            "goals": [
+              {
+                "id": "18057",
+                "shortName": "C Graham",
+                "isOwnGoal": false,
+                "goalTime": "90'"
+              },
+              {
+                "id": "17936",
+                "shortName": "A Putellas",
+                "isOwnGoal": false,
+                "goalTime": "71'"
+              },
+              {
+                "id": "156679",
+                "shortName": "K Nazareth",
+                "isOwnGoal": false,
+                "goalTime": "58'"
+              },
+              {
+                "id": "182414",
+                "shortName": "E Brugts",
+                "isOwnGoal": false,
+                "goalTime": "2'"
+              }
+            ]
+          },
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137464_english_hls_bd90d1517280766ta-di_h264/index.m3u8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/7g7TjNTIRgeGIBRlUjVeww/master.m3u8",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137464_english_hls_bd90d1517280766ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137464_english_hls_bd90d1517280766ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/7g7TjNTIRgeGIBRlUjVeww/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Football",
       "title": "Oud Heverlee Leuven Women Vs Fc Twente Women",
       "tournament": "UEFA Women's Champions League 2025-26",
       "match_id": 137466,
-      "status": "LIVE",
+      "status": "COMPLETED",
       "streamingStatus": "STARTED",
       "startTime": "16 October 2025 12:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -130,8 +233,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "226030",
+                "shortName": "S Pusztai",
+                "isOwnGoal": false,
+                "goalTime": "90'"
+              },
               {
                 "id": "226019",
                 "shortName": "L Veefkind",
@@ -195,7 +304,7 @@
       "title": "Chelsea F.c. Women Vs Paris Fc Women",
       "tournament": "UEFA Women's Champions League 2025-26",
       "match_id": 137465,
-      "status": "LIVE",
+      "status": "COMPLETED",
       "streamingStatus": "STARTED",
       "startTime": "16 October 2025 12:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -288,103 +397,6 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137465_english_hls_51087e44cc65860ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137465_english_hls_51087e44cc65860ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/mXIysGFxRme9Yff5C1PRvA/master.m3u8",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Roma Women Vs Barcelona Women",
-      "tournament": "UEFA Women's Champions League 2025-26",
-      "match_id": 137464,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "16 October 2025 12:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137464_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WHL.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_old.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Roma-vs-FC-Barcelona_Sporty.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137464_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Roma Women",
-          "shortName": "ROM-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROM@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 0,
-            "goals": []
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Barcelona Women",
-          "shortName": "BAR-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-          },
-          "isWinner": null,
-          "color": "#E7B75C",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 3,
-            "goals": [
-              {
-                "id": "17936",
-                "shortName": "A Putellas",
-                "isOwnGoal": false,
-                "goalTime": "71'"
-              },
-              {
-                "id": "156679",
-                "shortName": "K Nazareth",
-                "isOwnGoal": false,
-                "goalTime": "58'"
-              },
-              {
-                "id": "182414",
-                "shortName": "E Brugts",
-                "isOwnGoal": false,
-                "goalTime": "2'"
-              }
-            ]
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137464_english_hls_bd90d1517280766ta-di_h264/index.m3u8",
-      "dai_stream": "https://dai.google.com/linear/hls/event/7g7TjNTIRgeGIBRlUjVeww/master.m3u8",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137464_english_hls_bd90d1517280766ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137464_english_hls_bd90d1517280766ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/7g7TjNTIRgeGIBRlUjVeww/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
