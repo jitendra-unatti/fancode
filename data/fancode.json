@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:49:01 AM 17-10-2025",
+  "last_updated": "01:56:00 AM 17-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -152,8 +152,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "156660",
+                "shortName": "B Mead",
+                "isOwnGoal": false,
+                "goalTime": "57'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
@@ -208,8 +215,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "182495",
+                "shortName": "R Ajibade",
+                "isOwnGoal": false,
+                "goalTime": "58'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
