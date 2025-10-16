@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:35:00 PM 16-10-2025",
+  "last_updated": "06:42:01 PM 16-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -105,7 +105,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#9a0009",
           "cricketScore": [
             {
@@ -132,13 +132,13 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#4fb319",
           "cricketScore": [
             {
-              "runs": 101,
-              "overs": "10.3",
-              "balls": "63",
+              "runs": 118,
+              "overs": "12.1",
+              "balls": "73",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -195,14 +195,22 @@
           },
           "isWinner": null,
           "color": "#c83ca3",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
