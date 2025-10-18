@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:56:01 AM 18-10-2025",
+  "last_updated": "06:00:00 AM 18-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -10,108 +10,6 @@
   "live_matches": 6,
   "upcoming_matches": 32,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Tasmania Vs Western Australia",
-      "tournament": "Sheffield Shield, 2025-26",
-      "match_id": 134018,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "18 October 2025 05:00 AM",
-      "startDate": "18 October 2025 05:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134018_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Sheffleld-Shield.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-App_1760687268045.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134018_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Tasmania",
-          "shortName": "TAS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#007e1e",
-          "cricketScore": [
-            {
-              "runs": 171,
-              "overs": "53.4",
-              "balls": "0",
-              "status": "COMPLETED",
-              "wickets": 10
-            },
-            {
-              "runs": 259,
-              "overs": "73.4",
-              "balls": "0",
-              "status": "COMPLETED",
-              "wickets": 10
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Western Australia",
-          "shortName": "WAU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#6fc9ff",
-          "cricketScore": [
-            {
-              "runs": 172,
-              "overs": "59.5",
-              "balls": "0",
-              "status": "COMPLETED",
-              "wickets": 10
-            },
-            {
-              "runs": 255,
-              "overs": "91.2",
-              "balls": "0",
-              "status": "IN_PROGRESS",
-              "wickets": 8
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8",
-      "dai_stream": "Unavailable",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
     {
       "category": "Cricket",
       "title": "South Australia Vs Queensland",
@@ -150,8 +48,8 @@
               "wickets": 10
             },
             {
-              "runs": 238,
-              "overs": "86",
+              "runs": 259,
+              "overs": "92.1",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 5
@@ -202,6 +100,108 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134019_english_hls_da71180f5851044ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134019_english_hls_da71180f5851044ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/O4m08Jm1QyyBoioNE1lflA/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Tasmania Vs Western Australia",
+      "tournament": "Sheffield Shield, 2025-26",
+      "match_id": 134018,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "18 October 2025 05:00 AM",
+      "startDate": "18 October 2025 05:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134018_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Sheffleld-Shield.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-App_1760687268045.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134018_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Tasmania",
+          "shortName": "TAS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
+          },
+          "isWinner": true,
+          "color": "#007e1e",
+          "cricketScore": [
+            {
+              "runs": 171,
+              "overs": "53.4",
+              "balls": "0",
+              "status": "COMPLETED",
+              "wickets": 10
+            },
+            {
+              "runs": 259,
+              "overs": "73.4",
+              "balls": "0",
+              "status": "COMPLETED",
+              "wickets": 10
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Western Australia",
+          "shortName": "WAU",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
+          },
+          "isWinner": false,
+          "color": "#6fc9ff",
+          "cricketScore": [
+            {
+              "runs": 172,
+              "overs": "59.5",
+              "balls": "0",
+              "status": "COMPLETED",
+              "wickets": 10
+            },
+            {
+              "runs": 255,
+              "overs": "91.2",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 10
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "adfree_stream": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8",
+      "dai_stream": "Unavailable",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/s3/8c54e8ab-b999-4ba7-b279-dc611bc5d604/index.m3u8",
+        "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
