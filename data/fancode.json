@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:28:03 AM 18-10-2025",
+  "last_updated": "11:35:04 AM 18-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -79,70 +79,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Gamba Osaka Vs Kashiwa Reysol",
-      "tournament": "J League 2025",
-      "match_id": 137009,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "18 October 2025 10:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-        "PLAYBACK": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_SPORTY_APP.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137009_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Gamba Osaka",
-          "shortName": "OSK",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#003f76",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        },
-        {
-          "name": "Kashiwa Reysol",
-          "shortName": "REY",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png"
-          },
-          "isWinner": null,
-          "color": "#1c3bac",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8",
-      "dai_stream": "Unavailable",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
       "category": "Cricket",
       "title": "England Vs New Zealand",
       "tournament": "England tour of New Zealand, 2025",
@@ -211,11 +147,75 @@
         }
       ],
       "language": "ENGLISH",
-      "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+      "adfree_stream": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
+        "fancode_cdn": "Unavailable",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1760790604~acl=/*~id=53630112149781793423066237517360~hmac=8aa6cf7833c75acba0920769bdde74cc0e8bdd56a8ecf3e0086a3c3e1ca7a1a8",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Gamba Osaka Vs Kashiwa Reysol",
+      "tournament": "J League 2025",
+      "match_id": 137009,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "18 October 2025 10:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+        "PLAYBACK": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_SPORTY_APP.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137009_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Gamba Osaka",
+          "shortName": "OSK",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#003f76",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        },
+        {
+          "name": "Kashiwa Reysol",
+          "shortName": "REY",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png"
+          },
+          "isWinner": null,
+          "color": "#1c3bac",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        }
+      ],
+      "language": "ENGLISH",
+      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8",
       "dai_stream": "Unavailable",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-        "fancode_cdn": "Unavailable",
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
