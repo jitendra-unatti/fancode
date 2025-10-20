@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:21:01 AM 20-10-2025",
+  "last_updated": "11:28:00 AM 20-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
   "matches": [
     {
       "category": "Cricket",
-      "title": "New Zealand Vs England",
+      "title": "England Vs New Zealand",
       "tournament": "England tour of New Zealand, 2025",
       "match_id": 137158,
       "status": "NOT_STARTED",
@@ -32,25 +32,6 @@
       },
       "teams": [
         {
-          "name": "New Zealand",
-          "shortName": "NZ",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#1d2c6b",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "England",
           "shortName": "ENG",
           "flag": {
@@ -58,6 +39,33 @@
           },
           "isWinner": null,
           "color": "#3c9ae8",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "New Zealand",
+          "shortName": "NZ",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#1d2c6b",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -224,11 +232,11 @@
           "color": "#007e1e",
           "cricketScore": [
             {
-              "runs": 137,
-              "overs": "22",
-              "balls": "132",
+              "runs": 163,
+              "overs": "26.3",
+              "balls": "159",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 4
             }
           ],
           "kabaddiScore": null,
@@ -285,11 +293,11 @@
           "color": "#ffd500",
           "cricketScore": [
             {
-              "runs": 110,
-              "overs": "20.4",
-              "balls": "124",
+              "runs": 121,
+              "overs": "21.5",
+              "balls": "131",
               "status": "IN_PROGRESS",
-              "wickets": 7
+              "wickets": 8
             }
           ],
           "kabaddiScore": null,
