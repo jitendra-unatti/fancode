@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "03:00:00 PM 20-10-2025",
+  "last_updated": "03:07:01 PM 20-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#3c9ae8",
           "cricketScore": [
             {
@@ -64,15 +64,15 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#1d2c6b",
           "cricketScore": [
             {
-              "runs": 169,
-              "overs": "17.3",
-              "balls": "105",
+              "runs": 171,
+              "overs": "18",
+              "balls": "108",
               "status": "IN_PROGRESS",
-              "wickets": 9
+              "wickets": 10
             }
           ],
           "kabaddiScore": null,
@@ -129,8 +129,8 @@
           "color": "#2f5ddf",
           "cricketScore": [
             {
-              "runs": 88,
-              "overs": "17.1",
+              "runs": 90,
+              "overs": "18.4",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 3
