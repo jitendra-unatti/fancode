@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:21:01 AM 21-10-2025",
+  "last_updated": "08:28:00 AM 21-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -304,7 +304,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Sydney Thunder Women Vs Act Meteors",
+      "title": "Act Meteors Vs Sydney Thunder Women",
       "tournament": "T20 Spring Challenge, 2025",
       "match_id": 133995,
       "status": "NOT_STARTED",
@@ -324,25 +324,6 @@
       },
       "teams": [
         {
-          "name": "Sydney Thunder Women",
-          "shortName": "ST-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#4c4c4c",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "ACT Meteors",
           "shortName": "ACTM",
           "flag": {
@@ -350,6 +331,33 @@
           },
           "isWinner": null,
           "color": "#006ba6",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Sydney Thunder Women",
+          "shortName": "ST-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#4c4c4c",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
