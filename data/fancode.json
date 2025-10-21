@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:28:01 AM 21-10-2025",
+  "last_updated": "07:35:00 AM 21-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#771ad2",
           "cricketScore": [
             {
@@ -64,13 +64,13 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SIXR@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#cd1f86",
           "cricketScore": [
             {
-              "runs": 143,
-              "overs": "18.5",
-              "balls": "113",
+              "runs": 144,
+              "overs": "19",
+              "balls": "114",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
