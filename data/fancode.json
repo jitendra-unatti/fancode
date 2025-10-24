@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:21:03 PM 24-10-2025",
+  "last_updated": "09:28:02 PM 24-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#62bfe9",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 8,
+              "overs": "1",
+              "balls": "6",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -92,7 +92,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Northern Raiders Vs Stellenbosch Kings",
+      "title": "Stellenbosch Kings Vs Northern Raiders",
       "tournament": "Boland T10, 2025",
       "match_id": 137722,
       "status": "LIVE",
@@ -112,25 +112,6 @@
       },
       "teams": [
         {
-          "name": "Northern Raiders",
-          "shortName": "NTR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NRD@2x.png"
-          },
-          "isWinner": null,
-          "color": "#f61919",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Stellenbosch Kings",
           "shortName": "SK",
           "flag": {
@@ -138,6 +119,33 @@
           },
           "isWinner": null,
           "color": "#61223b",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Northern Raiders",
+          "shortName": "NTR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NRD@2x.png"
+          },
+          "isWinner": null,
+          "color": "#f61919",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
