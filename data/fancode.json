@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:28:01 AM 26-10-2025",
+  "last_updated": "11:35:01 AM 26-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#1d2c6b",
           "cricketScore": [
             {
-              "runs": 103,
-              "overs": "17.3",
-              "balls": "105",
+              "runs": 108,
+              "overs": "19.3",
+              "balls": "117",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
@@ -255,7 +255,7 @@
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League-2,-2023-27-(16th-July)-Tour-Logo-(1).png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "BG_IMAGE": "https://images.fancode.com/aig/match/v1/137251_CASACARDS_APP.png",
-        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/137251_CASACARDS_SPORTY_APP.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA.png",
         "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/137251_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "teams": [
@@ -269,9 +269,9 @@
           "color": "#132f86",
           "cricketScore": [
             {
-              "runs": 9,
-              "overs": "5.4",
-              "balls": "34",
+              "runs": 17,
+              "overs": "7.1",
+              "balls": "43",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -376,11 +376,11 @@
           "color": "#cd1f86",
           "cricketScore": [
             {
-              "runs": 62,
-              "overs": "7",
-              "balls": "42",
+              "runs": 82,
+              "overs": "10",
+              "balls": "60",
               "status": "IN_PROGRESS",
-              "wickets": 1
+              "wickets": 6
             }
           ],
           "kabaddiScore": null,
@@ -579,7 +579,7 @@
       "title": "Albirex Niigata Vs Vissel Kobe",
       "tournament": "J League 2025",
       "match_id": 137013,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "26 October 2025 10:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -608,11 +608,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Vissel Kobe",
@@ -627,11 +623,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
