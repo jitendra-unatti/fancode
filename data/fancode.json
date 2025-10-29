@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:49:01 AM 29-10-2025",
+  "last_updated": "09:56:02 AM 29-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -69,10 +69,10 @@
           "cricketScore": [
             {
               "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "overs": "1",
+              "balls": "6",
               "status": "IN_PROGRESS",
-              "wickets": 0
+              "wickets": 1
             }
           ],
           "kabaddiScore": null,
@@ -217,8 +217,8 @@
           "color": "#0088e7",
           "cricketScore": [
             {
-              "runs": 183,
-              "overs": "53.4",
+              "runs": 201,
+              "overs": "59",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 2
@@ -261,6 +261,94 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/uASgWISiQLydDfkKQELhBw/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "South Australia Vs Western Australia",
+      "tournament": "Sheffield Shield, 2025-26",
+      "match_id": 134022,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "28 October 2025 08:00 AM",
+      "startDate": "29 October 2025 08:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Sheffleld-Shield.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-App_1760687268036.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "South Australia",
+          "shortName": "SAU",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAUS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#c50008",
+          "cricketScore": [
+            {
+              "runs": 215,
+              "overs": "59",
+              "balls": "0",
+              "status": "COMPLETED",
+              "wickets": 10
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Western Australia",
+          "shortName": "WAU",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
+          },
+          "isWinner": null,
+          "color": "#6fc9ff",
+          "cricketScore": [
+            {
+              "runs": 142,
+              "overs": "57",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 1
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/_Rh19pt0TtCOSD3BwXViLg/master.m3u8",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/_Rh19pt0TtCOSD3BwXViLg/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -333,94 +421,6 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/QKQzNzLrRb2jmJmFZNRa_A/master.m3u8",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "South Australia Vs Western Australia",
-      "tournament": "Sheffield Shield, 2025-26",
-      "match_id": 134022,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "28 October 2025 08:00 AM",
-      "startDate": "29 October 2025 08:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Sheffleld-Shield.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-App_1760687268036.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "South Australia",
-          "shortName": "SAU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAUS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#c50008",
-          "cricketScore": [
-            {
-              "runs": 215,
-              "overs": "59",
-              "balls": "0",
-              "status": "COMPLETED",
-              "wickets": 10
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Western Australia",
-          "shortName": "WAU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#6fc9ff",
-          "cricketScore": [
-            {
-              "runs": 87,
-              "overs": "31",
-              "balls": "0",
-              "status": "IN_PROGRESS",
-              "wickets": 0
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
-      "dai_stream": "https://dai.google.com/linear/hls/event/_Rh19pt0TtCOSD3BwXViLg/master.m3u8",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/_Rh19pt0TtCOSD3BwXViLg/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
