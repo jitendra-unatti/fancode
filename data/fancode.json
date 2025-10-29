@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:21:00 AM 30-10-2025",
+  "last_updated": "01:28:02 AM 30-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -292,8 +292,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "174488",
+                "shortName": "A Santos",
+                "isOwnGoal": false,
+                "goalTime": "5'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
@@ -348,8 +355,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "153297",
+                "shortName": "G Franco",
+                "isOwnGoal": false,
+                "goalTime": "12'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
