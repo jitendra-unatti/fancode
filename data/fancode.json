@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:49:06 AM 29-10-2025",
+  "last_updated": "07:56:03 AM 29-10-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 39,
+  "total_matches": 38,
   "live_matches": 6,
-  "upcoming_matches": 33,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -41,9 +41,9 @@
           "color": "#3c9ae8",
           "cricketScore": [
             {
-              "runs": 62,
-              "overs": "15",
-              "balls": "90",
+              "runs": 63,
+              "overs": "16",
+              "balls": "96",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -148,8 +148,8 @@
           "color": "#007e1e",
           "cricketScore": [
             {
-              "runs": 98,
-              "overs": "32",
+              "runs": 103,
+              "overs": "34",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 3
@@ -271,7 +271,7 @@
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-        "PLAYBACK": null,
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Sheffleld-Shield.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
@@ -335,100 +335,12 @@
         }
       ],
       "language": "ENGLISH",
-      "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-      "dai_stream": "Unavailable",
+      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/_Rh19pt0TtCOSD3BwXViLg/master.m3u8",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-        "fancode_cdn": "Unavailable",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "South Australia Vs Western Australia",
-      "tournament": "Sheffield Shield, 2025-26",
-      "match_id": 134022,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "28 October 2025 08:00 AM",
-      "startDate": "29 October 2025 08:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Sheffleld-Shield.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-App_1760687268036.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134022_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "South Australia",
-          "shortName": "SAU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAUS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#c50008",
-          "cricketScore": [
-            {
-              "runs": 215,
-              "overs": "59",
-              "balls": "0",
-              "status": "COMPLETED",
-              "wickets": 10
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Western Australia",
-          "shortName": "WAU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#6fc9ff",
-          "cricketScore": [
-            {
-              "runs": 87,
-              "overs": "31",
-              "balls": "0",
-              "status": "IN_PROGRESS",
-              "wickets": 0
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
-      "dai_stream": "https://dai.google.com/linear/hls/event/H_2IZ-YeSrOR_xXumaMjMA/master.m3u8",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/H_2IZ-YeSrOR_xXumaMjMA/master.m3u8",
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/_Rh19pt0TtCOSD3BwXViLg/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
