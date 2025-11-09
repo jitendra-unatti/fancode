@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:35:01 AM 09-11-2025",
+  "last_updated": "07:42:01 AM 09-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -44,7 +44,7 @@
               "runs": 177,
               "overs": "20",
               "balls": "120",
-              "status": "IN_PROGRESS",
+              "status": "COMPLETED",
               "wickets": 9
             }
           ],
@@ -54,7 +54,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         },
@@ -66,14 +66,22 @@
           },
           "isWinner": null,
           "color": "#7B0041",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         }
@@ -117,7 +125,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#397b46",
           "cricketScore": [
             {
@@ -144,15 +152,15 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#2d9251",
           "cricketScore": [
             {
-              "runs": 88,
-              "overs": "4.4",
-              "balls": "28",
+              "runs": 103,
+              "overs": "6",
+              "balls": "36",
               "status": "IN_PROGRESS",
-              "wickets": 4
+              "wickets": 6
             }
           ],
           "kabaddiScore": null,
