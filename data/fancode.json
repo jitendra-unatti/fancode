@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:35:05 AM 09-11-2025",
+  "last_updated": "05:42:01 AM 09-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -92,7 +92,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Nepal Vs United Arab Emirates",
+      "title": "United Arab Emirates Vs Nepal",
       "tournament": "Hong Kong Sixes, 2025",
       "match_id": 137845,
       "status": "LIVE",
@@ -112,25 +112,6 @@
       },
       "teams": [
         {
-          "name": "Nepal",
-          "shortName": "NEP",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
-          },
-          "isWinner": null,
-          "color": "#0f266e",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "United Arab Emirates",
           "shortName": "UAE",
           "flag": {
@@ -138,6 +119,33 @@
           },
           "isWinner": null,
           "color": "#4fb319",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Nepal",
+          "shortName": "NEP",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
+          },
+          "isWinner": null,
+          "color": "#0f266e",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
