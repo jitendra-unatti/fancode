@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:49:01 AM 11-11-2025",
+  "last_updated": "08:56:00 AM 11-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -15,10 +15,10 @@
       "title": "Ireland Vs Bangladesh",
       "tournament": "Ireland tour of Bangladesh, 2025",
       "match_id": 138237,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "11 November 2025 09:00 AM",
-      "startDate": "01 January 1970 05:30 AM",
+      "startDate": "11 November 2025 09:00 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/138237_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -300,7 +300,7 @@
               "runs": 102,
               "overs": "20",
               "balls": "120",
-              "status": "IN_PROGRESS",
+              "status": "COMPLETED",
               "wickets": 7
             }
           ],
@@ -310,7 +310,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         },
@@ -322,14 +322,22 @@
           },
           "isWinner": null,
           "color": "#dc3f31",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         }
