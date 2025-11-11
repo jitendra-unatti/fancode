@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:35:00 AM 11-11-2025",
+  "last_updated": "08:42:01 AM 11-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
   "matches": [
     {
       "category": "Cricket",
-      "title": "Bangladesh Vs Ireland",
+      "title": "Ireland Vs Bangladesh",
       "tournament": "Ireland tour of Bangladesh, 2025",
       "match_id": 138237,
       "status": "NOT_STARTED",
@@ -32,25 +32,6 @@
       },
       "teams": [
         {
-          "name": "Bangladesh",
-          "shortName": "BAN",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#397b46",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Ireland",
           "shortName": "IRE",
           "flag": {
@@ -58,6 +39,33 @@
           },
           "isWinner": null,
           "color": "#ba6a15",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Bangladesh",
+          "shortName": "BAN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#397b46",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -228,11 +236,11 @@
           "color": "#0088e7",
           "cricketScore": [
             {
-              "runs": 34,
-              "overs": "21",
+              "runs": 63,
+              "overs": "27",
               "balls": "0",
               "status": "IN_PROGRESS",
-              "wickets": 2
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
@@ -289,9 +297,9 @@
           "color": "#1b4604",
           "cricketScore": [
             {
-              "runs": 99,
-              "overs": "19.4",
-              "balls": "118",
+              "runs": 102,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
               "wickets": 7
             }
@@ -369,8 +377,8 @@
           "color": "#ffd500",
           "cricketScore": [
             {
-              "runs": 4,
-              "overs": "3",
+              "runs": 30,
+              "overs": "8",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 0
