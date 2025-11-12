@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:35:01 AM 12-11-2025",
+  "last_updated": "09:42:01 AM 12-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,8 +68,8 @@
           "color": "#397b46",
           "cricketScore": [
             {
-              "runs": 2,
-              "overs": "2",
+              "runs": 15,
+              "overs": "3.3",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 0
@@ -234,7 +234,7 @@
               "runs": 390,
               "overs": "105",
               "balls": "0",
-              "status": "IN_PROGRESS",
+              "status": "COMPLETED",
               "wickets": 10
             }
           ],
@@ -244,7 +244,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         },
@@ -256,14 +256,22 @@
           },
           "isWinner": null,
           "color": "#6fc9ff",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 7,
+              "overs": "5.3",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         }
@@ -338,9 +346,9 @@
           "color": "#B8142D",
           "cricketScore": [
             {
-              "runs": 30,
-              "overs": "12",
-              "balls": "72",
+              "runs": 35,
+              "overs": "14.5",
+              "balls": "89",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
