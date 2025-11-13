@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "02:00:01 PM 13-11-2025",
+  "last_updated": "02:07:01 PM 13-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#397b46",
           "cricketScore": [
             {
-              "runs": 575,
-              "overs": "138",
+              "runs": 582,
+              "overs": "140",
               "balls": "0",
               "status": "IN_PROGRESS",
-              "wickets": 7
+              "wickets": 8
             }
           ],
           "kabaddiScore": null,
@@ -286,7 +286,7 @@
       "title": "Melbourne City Women Vs Lion City Sailors",
       "tournament": "AFC Women's Champions League 2025-26",
       "match_id": 137946,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "13 November 2025 01:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -315,11 +315,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Lion City Sailors",
@@ -334,11 +330,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
