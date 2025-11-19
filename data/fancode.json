@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:56:02 PM 19-11-2025",
+  "last_updated": "07:00:31 PM 19-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 7,
-  "upcoming_matches": 31,
+  "live_matches": 8,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -68,11 +68,11 @@
           "color": "#a1800e",
           "cricketScore": [
             {
-              "runs": 96,
-              "overs": "11.5",
-              "balls": "71",
+              "runs": 104,
+              "overs": "14",
+              "balls": "84",
               "status": "IN_PROGRESS",
-              "wickets": 5
+              "wickets": 6
             }
           ],
           "kabaddiScore": null,
@@ -181,6 +181,78 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/138205_english_hls_d408a6174261368_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/138205_english_hls_d408a6174261368_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/1g0n1ElzSOKbKati1u2CXw/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Royal Champs Vs Vista Riders",
+      "tournament": "Abu Dhabi T10, 2025",
+      "match_id": 138206,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "19 November 2025 07:15 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-App.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Royal Champs",
+          "shortName": "ROC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROCA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#1a4e26",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Vista Riders",
+          "shortName": "VTR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTR@2x.png"
+          },
+          "isWinner": null,
+          "color": "#2166a7",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "adfree_stream": "https://dai.google.com/linear/hls/event/99yVjo_9TAezomsR8J4DXA/master.m3u8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/99yVjo_9TAezomsR8J4DXA/master.m3u8",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/99yVjo_9TAezomsR8J4DXA/master.m3u8",
+        "fancode_cdn": "Unavailable",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/99yVjo_9TAezomsR8J4DXA/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -476,33 +548,33 @@
     },
     {
       "category": "Cricket",
-      "title": "Royal Champs Vs Vista Riders",
-      "tournament": "Abu Dhabi T10, 2025",
-      "match_id": 138206,
+      "title": "Sri Lanka A Vs Bangladesh A",
+      "tournament": "ACC Asia Cup Rising Stars 2025",
+      "match_id": 138253,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "19 November 2025 07:15 PM",
+      "startTime": "19 November 2025 08:00 PM",
       "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
       "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138253_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
         "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Rising-Stars-2025-Tour-Logo.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-App.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138206_CASACARDS_PARTNER_16_9_1920_1080.png"
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-app_1763068129263.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138253_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "teams": [
         {
-          "name": "Royal Champs",
-          "shortName": "ROC",
+          "name": "Sri Lanka A",
+          "shortName": "SL-A",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROCA@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
           },
           "isWinner": null,
-          "color": "#1a4e26",
+          "color": "#164fad",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -515,13 +587,13 @@
           }
         },
         {
-          "name": "Vista Riders",
-          "shortName": "VTR",
+          "name": "Bangladesh A",
+          "shortName": "BN-A",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VTR@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BN@2x.png"
           },
           "isWinner": null,
-          "color": "#2166a7",
+          "color": "#d48020",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -598,74 +670,6 @@
           },
           "isWinner": null,
           "color": "#ba6a15",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "adfree_stream": null,
-      "dai_stream": null,
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Sri Lanka A Vs Bangladesh A",
-      "tournament": "ACC Asia Cup Rising Stars 2025",
-      "match_id": 138253,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "19 November 2025 08:00 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138253_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ACC-Rising-Stars-2025-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-app_1763068129263.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138253_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Sri Lanka A",
-          "shortName": "SL-A",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#164fad",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Bangladesh A",
-          "shortName": "BN-A",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#d48020",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
