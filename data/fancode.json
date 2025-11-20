@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:49:03 AM 20-11-2025",
+  "last_updated": "11:56:00 AM 20-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
           "color": "#397b46",
           "cricketScore": [
             {
-              "runs": 397,
-              "overs": "122",
+              "runs": 398,
+              "overs": "123.3",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 5
@@ -191,14 +191,22 @@
           },
           "isWinner": null,
           "color": "#112c80",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -223,12 +231,12 @@
         }
       ],
       "language": "ENGLISH",
-      "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-      "dai_stream": "Unavailable",
+      "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8",
+      "dai_stream": "https://dai.google.com/linear/hls/event/0RAC48jGTL-6-fNcgEMs6Q/master.m3u8",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-        "fancode_cdn": "Unavailable",
-        "dai_google_cdn": "Unavailable",
+        "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/0RAC48jGTL-6-fNcgEMs6Q/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
