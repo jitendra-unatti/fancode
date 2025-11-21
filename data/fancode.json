@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:35:00 AM 21-11-2025",
+  "last_updated": "07:42:00 AM 21-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#dc3f31",
           "cricketScore": [
             {
-              "runs": 19,
-              "overs": "7.1",
-              "balls": "43",
+              "runs": 26,
+              "overs": "9",
+              "balls": "54",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -656,7 +656,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Netherlands Women Vs United Arab Emirates Women",
+      "title": "United Arab Emirates Women Vs Netherlands Women",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "match_id": 138075,
       "status": "NOT_STARTED",
@@ -676,25 +676,6 @@
       },
       "teams": [
         {
-          "name": "Netherlands Women",
-          "shortName": "ND-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
-          },
-          "isWinner": null,
-          "color": "#2c5ab3",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "United Arab Emirates Women",
           "shortName": "UAE-W",
           "flag": {
@@ -702,6 +683,33 @@
           },
           "isWinner": null,
           "color": "#91a39f",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Netherlands Women",
+          "shortName": "ND-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
+          },
+          "isWinner": null,
+          "color": "#2c5ab3",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
