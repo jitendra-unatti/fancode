@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:49:07 PM 21-11-2025",
+  "last_updated": "06:56:00 PM 21-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -46,6 +46,13 @@
               "balls": "120",
               "status": "COMPLETED",
               "wickets": 6
+            },
+            {
+              "runs": 0,
+              "overs": "0.1",
+              "balls": "1",
+              "status": "IN_PROGRESS",
+              "wickets": 1
             }
           ],
           "kabaddiScore": null,
@@ -54,7 +61,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -78,7 +85,7 @@
               "runs": 0,
               "overs": "0.2",
               "balls": "2",
-              "status": "IN_PROGRESS",
+              "status": "COMPLETED",
               "wickets": 2
             }
           ],
@@ -88,7 +95,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         }
@@ -110,7 +117,7 @@
       "title": "Quetta Qavalry Vs Deccan Gladiators",
       "tournament": "Abu Dhabi T10, 2025",
       "match_id": 138211,
-      "status": "LIVE",
+      "status": "COMPLETED",
       "streamingStatus": "STARTED",
       "startTime": "21 November 2025 05:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -251,9 +258,9 @@
           "color": "#dd3737",
           "cricketScore": [
             {
-              "runs": 37,
-              "overs": "8",
-              "balls": "48",
+              "runs": 83,
+              "overs": "11",
+              "balls": "66",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -312,9 +319,9 @@
           "color": "#143898",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 6,
+              "overs": "3",
+              "balls": "18",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
