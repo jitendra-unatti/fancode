@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:00:01 PM 21-11-2025",
+  "last_updated": "04:07:01 PM 21-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#d48020",
           "cricketScore": [
             {
-              "runs": 92,
-              "overs": "11",
-              "balls": "66",
+              "runs": 106,
+              "overs": "12",
+              "balls": "72",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -128,8 +128,8 @@
               "wickets": 10
             },
             {
-              "runs": 144,
-              "overs": "35.4",
+              "runs": 156,
+              "overs": "37",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 1
@@ -216,9 +216,9 @@
           "color": "#ff0009",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 10,
+              "overs": "1",
+              "balls": "6",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -1354,74 +1354,6 @@
       }
     },
     {
-      "category": "Football",
-      "title": "Las Palmas Vs Albacete",
-      "tournament": "LALIGA Hypermotion 2025-26",
-      "match_id": 138066,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "22 November 2025 01:00 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
-        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_SPORTY_APP.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Las Palmas",
-          "shortName": "LAP",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FFFFFF",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Albacete",
-          "shortName": "ALB",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALB@2x.png"
-          },
-          "isWinner": null,
-          "color": "#b1373c",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "adfree_stream": null,
-      "dai_stream": null,
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Aspin Stallions Vs Vista Riders",
       "tournament": "Abu Dhabi T10, 2025",
@@ -1469,6 +1401,74 @@
           },
           "isWinner": null,
           "color": "#2166a7",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "adfree_stream": null,
+      "dai_stream": null,
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Las Palmas Vs Albacete",
+      "tournament": "LALIGA Hypermotion 2025-26",
+      "match_id": 138066,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "22 November 2025 01:00 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
+        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_SPORTY_APP.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138066_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Las Palmas",
+          "shortName": "LAP",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FFFFFF",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Albacete",
+          "shortName": "ALB",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALB@2x.png"
+          },
+          "isWinner": null,
+          "color": "#b1373c",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
