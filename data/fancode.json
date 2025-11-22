@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:49:00 PM 22-11-2025",
+  "last_updated": "06:56:02 PM 22-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#803816",
           "cricketScore": [
             {
-              "runs": 57,
-              "overs": "8",
-              "balls": "48",
+              "runs": 67,
+              "overs": "8.5",
+              "balls": "53",
               "status": "IN_PROGRESS",
-              "wickets": 6
+              "wickets": 7
             }
           ],
           "kabaddiScore": null,
@@ -364,7 +364,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Northern Warriors Vs Deccan Gladiators",
+      "title": "Deccan Gladiators Vs Northern Warriors",
       "tournament": "Abu Dhabi T10, 2025",
       "match_id": 138215,
       "status": "NOT_STARTED",
@@ -384,25 +384,6 @@
       },
       "teams": [
         {
-          "name": "Northern Warriors",
-          "shortName": "NW",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR3@2x.png"
-          },
-          "isWinner": null,
-          "color": "#E1D544",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Deccan Gladiators",
           "shortName": "DG",
           "flag": {
@@ -410,6 +391,33 @@
           },
           "isWinner": null,
           "color": "#E98719",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Northern Warriors",
+          "shortName": "NW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOR-CR3@2x.png"
+          },
+          "isWinner": null,
+          "color": "#E1D544",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
