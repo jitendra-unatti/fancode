@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:35:01 PM 23-11-2025",
+  "last_updated": "04:42:01 PM 23-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
   "matches": [
     {
       "category": "Cricket",
-      "title": "Ajman Titans Vs Royal Champs",
+      "title": "Royal Champs Vs Ajman Titans",
       "tournament": "Abu Dhabi T10, 2025",
       "match_id": 138217,
       "status": "NOT_STARTED",
@@ -32,25 +32,6 @@
       },
       "teams": [
         {
-          "name": "Ajman Titans",
-          "shortName": "AJT",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#a87446",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Royal Champs",
           "shortName": "ROC",
           "flag": {
@@ -58,6 +39,33 @@
           },
           "isWinner": null,
           "color": "#1a4e26",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Ajman Titans",
+          "shortName": "AJT",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#a87446",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
