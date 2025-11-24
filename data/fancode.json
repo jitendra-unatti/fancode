@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:14:01 PM 24-11-2025",
+  "last_updated": "12:21:01 PM 24-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.0.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#bda521",
           "cricketScore": [
             {
-              "runs": 65,
-              "overs": "11",
-              "balls": "66",
+              "runs": 84,
+              "overs": "13.1",
+              "balls": "79",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -206,6 +206,13 @@
               "balls": "0",
               "status": "DECLARED",
               "wickets": 9
+            },
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
             }
           ],
           "kabaddiScore": null,
@@ -214,7 +221,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -231,7 +238,7 @@
               "runs": 623,
               "overs": "154.1",
               "balls": "0",
-              "status": "IN_PROGRESS",
+              "status": "DECLARED",
               "wickets": 8
             }
           ],
@@ -241,7 +248,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         }
@@ -1483,7 +1490,7 @@
           },
           "isWinner": null,
           "color": "#eb5160",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1502,7 +1509,7 @@
           },
           "isWinner": null,
           "color": "#2c5ab3",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1551,7 +1558,7 @@
           },
           "isWinner": null,
           "color": "#112c80",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1570,7 +1577,7 @@
           },
           "isWinner": null,
           "color": "#4d94d6",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
