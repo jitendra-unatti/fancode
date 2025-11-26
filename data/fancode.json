@@ -1,15 +1,83 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "03:07:01 PM 26-11-2025",
+  "last_updated": "03:14:01 PM 26-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Biratnagar Kings Vs Chitwan Rhinos",
+      "tournament": "Nepal Premier League, 2025",
+      "match_id": 138304,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "26 November 2025 03:45 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138304_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/NPL_Ncell-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-App_1764080887355.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138304_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Biratnagar Kings",
+          "shortName": "BK",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BKN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#bda521",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Chitwan Rhinos",
+          "shortName": "CWR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png"
+          },
+          "isWinner": null,
+          "color": "#d66c18",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "adfree_stream": null,
+      "dai_stream": null,
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
     {
       "category": "Cricket",
       "title": "Papua New Guinea Women Vs Scotland Women",
@@ -68,11 +136,11 @@
           "color": "#4d94d6",
           "cricketScore": [
             {
-              "runs": 105,
-              "overs": "17.5",
-              "balls": "107",
+              "runs": 114,
+              "overs": "19.2",
+              "balls": "116",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 4
             }
           ],
           "kabaddiScore": null,
@@ -93,94 +161,6 @@
         "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/138096_english_hls_ee3814e6a945207_1ta-di_h264/index.m3u8",
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/138096_english_hls_ee3814e6a945207_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/8Zm8K7EAQwiglhv9DvXwbg/master.m3u8",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Netherlands Women Vs Namibia Women",
-      "tournament": "ICC Women's Emerging Nations Trophy, 2025",
-      "match_id": 138081,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "26 November 2025 12:15 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/138081_5758_ND-W_NAM-W_FC-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138081_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138081_5758_ND-W_NAM-W_FC-Web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/138081_5758_ND-W_NAM-W_FC-Web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138081_5758_ND-W_NAM-W_FC-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138081_5758_ND-W_NAM-W_FC-App.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138081_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Netherlands Women",
-          "shortName": "ND-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
-          },
-          "isWinner": true,
-          "color": "#2c5ab3",
-          "cricketScore": [
-            {
-              "runs": 164,
-              "overs": "20",
-              "balls": "120",
-              "status": "COMPLETED",
-              "wickets": 6
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Namibia Women",
-          "shortName": "NAM-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAM@2x.png"
-          },
-          "isWinner": false,
-          "color": "#112c80",
-          "cricketScore": [
-            {
-              "runs": 113,
-              "overs": "16.2",
-              "balls": "98",
-              "status": "IN_PROGRESS",
-              "wickets": 10
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/138081_english_hls_c5ff9c667b82377_1ta-di_h264/index.m3u8",
-      "dai_stream": "https://dai.google.com/linear/hls/event/061TyXfFQQG5yEDas8vyMQ/master.m3u8",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/138081_english_hls_c5ff9c667b82377_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/138081_english_hls_c5ff9c667b82377_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/061TyXfFQQG5yEDas8vyMQ/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -523,74 +503,6 @@
           "hockeyScore": {
             "points": null
           },
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "adfree_stream": null,
-      "dai_stream": null,
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Biratnagar Kings Vs Chitwan Rhinos",
-      "tournament": "Nepal Premier League, 2025",
-      "match_id": 138304,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "26 November 2025 03:45 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138304_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/NPL_Ncell-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-App_1764080887355.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138304_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Biratnagar Kings",
-          "shortName": "BK",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BKN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#bda521",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Chitwan Rhinos",
-          "shortName": "CWR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png"
-          },
-          "isWinner": null,
-          "color": "#d66c18",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
           "status": {
             "cricket": {
               "isBatting": false
@@ -1627,74 +1539,6 @@
       }
     },
     {
-      "category": "Hockey",
-      "title": "Korea Vs Canada",
-      "tournament": "Sultan Azlan Shah Cup",
-      "match_id": 138420,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "27 November 2025 11:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138420_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Sultan-Azlan-Shah-Cup.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-App.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138420_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Korea",
-          "shortName": "KOR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/FC-SOK@2x.png"
-          },
-          "isWinner": null,
-          "color": "#00006c",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Canada",
-          "shortName": "CAN",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/CAN-HK1@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff5555",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "adfree_stream": null,
-      "dai_stream": null,
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
       "category": "Cricket",
       "title": "Bangladesh Vs Ireland",
       "tournament": "Ireland tour of Bangladesh, 2025",
@@ -1742,6 +1586,74 @@
           },
           "isWinner": null,
           "color": "#ba6a15",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "adfree_stream": null,
+      "dai_stream": null,
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
+      "category": "Hockey",
+      "title": "Korea Vs Canada",
+      "tournament": "Sultan Azlan Shah Cup",
+      "match_id": 138420,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "27 November 2025 11:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138420_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Sultan-Azlan-Shah-Cup.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-App.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138420_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Korea",
+          "shortName": "KOR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/FC-SOK@2x.png"
+          },
+          "isWinner": null,
+          "color": "#00006c",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Canada",
+          "shortName": "CAN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/CAN-HK1@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ff5555",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
@@ -2658,6 +2570,74 @@
           },
           "isWinner": null,
           "color": "#2e9f35",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "adfree_stream": null,
+      "dai_stream": null,
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Cong An Ha Noi Vs Beijing Guoan",
+      "tournament": "AFC Champions League Two 2025-26",
+      "match_id": 136148,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "27 November 2025 05:45 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/136148_5648_CAH_BEI_fc-Web_1758118382903.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/136148_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/136148_5648_CAH_BEI_fc-Web_1758118382903.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/AFC-Champions-League-Two.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136148_5648_CAH_BEI_fc-Web_1758118382903.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/136148_5648_CAH_BEI_fc-App_1758118411753.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/136148_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Cong An Ha Noi",
+          "shortName": "CAH",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ffd100",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Beijing Guoan",
+          "shortName": "BEI",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BGUAN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#dbab00",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
