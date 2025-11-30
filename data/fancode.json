@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:49:04 AM 30-11-2025",
+  "last_updated": "11:56:00 AM 30-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -564,7 +564,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Tanzania Women Vs Papua New Guinea Women",
+      "title": "Papua New Guinea Women Vs Tanzania Women",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "match_id": 138100,
       "status": "NOT_STARTED",
@@ -584,25 +584,6 @@
       },
       "teams": [
         {
-          "name": "Tanzania Women",
-          "shortName": "TANW",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#f9d94b",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Papua New Guinea Women",
           "shortName": "PN-W",
           "flag": {
@@ -610,6 +591,33 @@
           },
           "isWinner": null,
           "color": "#eb5160",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Tanzania Women",
+          "shortName": "TANW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#f9d94b",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -632,7 +640,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Thailand Women Vs Scotland Women",
+      "title": "Scotland Women Vs Thailand Women",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "match_id": 138085,
       "status": "NOT_STARTED",
@@ -652,25 +660,6 @@
       },
       "teams": [
         {
-          "name": "Thailand Women",
-          "shortName": "TL-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#16369a",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Scotland Women",
           "shortName": "SC-W",
           "flag": {
@@ -678,6 +667,33 @@
           },
           "isWinner": null,
           "color": "#4d94d6",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Thailand Women",
+          "shortName": "TL-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#16369a",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
