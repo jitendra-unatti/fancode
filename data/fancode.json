@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:28:01 PM 30-11-2025",
+  "last_updated": "06:35:00 PM 30-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -144,9 +144,9 @@
           "color": "#DA4E33",
           "cricketScore": [
             {
-              "runs": 39,
-              "overs": "4.1",
-              "balls": "25",
+              "runs": 64,
+              "overs": "5.3",
+              "balls": "33",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -205,10 +205,17 @@
           "color": "#ae7a05",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Villarreal CF",
@@ -220,10 +227,17 @@
           "color": "#ffc0cb",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -296,11 +310,11 @@
           "color": "#a1800e",
           "cricketScore": [
             {
-              "runs": 141,
-              "overs": "17",
-              "balls": "102",
+              "runs": 149,
+              "overs": "17.5",
+              "balls": "107",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 5
             }
           ],
           "kabaddiScore": null,
@@ -1039,7 +1053,7 @@
           },
           "isWinner": null,
           "color": "#c9618c",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1058,7 +1072,7 @@
           },
           "isWinner": null,
           "color": "#143898",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
