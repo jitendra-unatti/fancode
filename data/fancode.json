@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:35:01 AM 30-11-2025",
+  "last_updated": "07:42:00 AM 30-11-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -327,14 +327,22 @@
           },
           "isWinner": null,
           "color": "#91a39f",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -368,7 +376,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Netherlands Women Vs Uganda Women",
+      "title": "Uganda Women Vs Netherlands Women",
       "tournament": "ICC Women's Emerging Nations Trophy, 2025",
       "match_id": 138084,
       "status": "NOT_STARTED",
@@ -388,25 +396,6 @@
       },
       "teams": [
         {
-          "name": "Netherlands Women",
-          "shortName": "ND-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
-          },
-          "isWinner": null,
-          "color": "#2c5ab3",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Uganda Women",
           "shortName": "UG-W",
           "flag": {
@@ -414,6 +403,33 @@
           },
           "isWinner": null,
           "color": "#677166",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Netherlands Women",
+          "shortName": "ND-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
+          },
+          "isWinner": null,
+          "color": "#2c5ab3",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
