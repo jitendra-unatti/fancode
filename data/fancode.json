@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:28:01 AM 03-12-2025",
+  "last_updated": "07:35:00 AM 03-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,8 +68,8 @@
           "color": "#7B0041",
           "cricketScore": [
             {
-              "runs": 105,
-              "overs": "44",
+              "runs": 106,
+              "overs": "45.4",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 3
@@ -100,7 +100,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Malaysia Women Vs Hong Kong, China Women",
+      "title": "Hong Kong, China Women Vs Malaysia Women",
       "tournament": "Hong Kong, China Women tour of Malaysia, 2025",
       "match_id": 138660,
       "status": "LIVE",
@@ -120,25 +120,6 @@
       },
       "teams": [
         {
-          "name": "Malaysia Women",
-          "shortName": "ML W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ffd800",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Hong Kong, China Women",
           "shortName": "HK-W",
           "flag": {
@@ -146,6 +127,33 @@
           },
           "isWinner": null,
           "color": "#c5190b",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Malaysia Women",
+          "shortName": "ML W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ffd800",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
