@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:35:00 AM 04-12-2025",
+  "last_updated": "04:42:01 AM 04-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
               "wickets": 10
             },
             {
-              "runs": 63,
-              "overs": "22",
+              "runs": 66,
+              "overs": "22.4",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 0
@@ -241,7 +241,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Victoria Vs Western Australia",
+      "title": "Western Australia Vs Victoria",
       "tournament": "Sheffield Shield, 2025-26",
       "match_id": 134029,
       "status": "NOT_STARTED",
@@ -261,25 +261,6 @@
       },
       "teams": [
         {
-          "name": "Victoria",
-          "shortName": "VCT",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#00226a",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Western Australia",
           "shortName": "WAU",
           "flag": {
@@ -287,6 +268,33 @@
           },
           "isWinner": null,
           "color": "#6fc9ff",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Victoria",
+          "shortName": "VCT",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#00226a",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
