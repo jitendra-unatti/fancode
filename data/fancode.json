@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:35:01 AM 04-12-2025",
+  "last_updated": "06:42:03 AM 04-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -48,8 +48,8 @@
               "wickets": 10
             },
             {
-              "runs": 123,
-              "overs": "38.5",
+              "runs": 130,
+              "overs": "40.3",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 2
@@ -322,15 +322,15 @@
       "title": "Malaysia Women Vs Hong Kong, China Women",
       "tournament": "Hong Kong, China Women tour of Malaysia, 2025",
       "match_id": 138661,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
       "startTime": "04 December 2025 07:00 AM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/138661_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
-        "PLAYBACK": null,
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2019/11/default-tour-logo.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
@@ -377,10 +377,14 @@
           }
         }
       ],
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/138661_english_hls_9b3121322078790_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/138661_english_hls_9b3121322078790_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/UOcXHcJYRoWu_dn8lxN6dQ/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
       }
     },
     {
