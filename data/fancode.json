@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:00:04 PM 07-12-2025",
+  "last_updated": "10:07:05 PM 07-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#3a0f6a",
           "cricketScore": [
             {
-              "runs": 5,
-              "overs": "1",
-              "balls": "6",
+              "runs": 11,
+              "overs": "2.2",
+              "balls": "14",
               "status": "IN_PROGRESS",
-              "wickets": 2
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
@@ -150,8 +150,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "157190",
+                "shortName": "C Tarrega",
+                "isOwnGoal": false,
+                "goalTime": "58'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
