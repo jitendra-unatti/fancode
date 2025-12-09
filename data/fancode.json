@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:35:02 AM 10-12-2025",
+  "last_updated": "12:42:02 AM 10-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -64,8 +64,20 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 2,
+            "points": 4,
             "goals": [
+              {
+                "id": "160786",
+                "shortName": "T Pinto",
+                "isOwnGoal": false,
+                "goalTime": "68'"
+              },
+              {
+                "id": "156711",
+                "shortName": "C Girelli",
+                "isOwnGoal": false,
+                "goalTime": "59'"
+              },
               {
                 "id": "156711",
                 "shortName": "C Girelli",
