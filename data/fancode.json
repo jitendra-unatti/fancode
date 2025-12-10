@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:14:01 PM 10-12-2025",
+  "last_updated": "06:21:01 PM 10-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#f78282",
           "cricketScore": [
             {
@@ -64,13 +64,13 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#d15972",
           "cricketScore": [
             {
-              "runs": 107,
-              "overs": "19",
-              "balls": "114",
+              "runs": 114,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
@@ -154,9 +154,9 @@
           "color": "#c88518",
           "cricketScore": [
             {
-              "runs": 49,
-              "overs": "10",
-              "balls": "60",
+              "runs": 57,
+              "overs": "11.2",
+              "balls": "68",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
