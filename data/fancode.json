@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:35:01 AM 11-12-2025",
+  "last_updated": "12:42:01 AM 11-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -42,8 +42,20 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 3,
             "goals": [
+              {
+                "id": "17936",
+                "shortName": "A Putellas",
+                "isOwnGoal": false,
+                "goalTime": "58'"
+              },
+              {
+                "id": "156683",
+                "shortName": "C Ucheibe",
+                "isOwnGoal": false,
+                "goalTime": "54'"
+              },
               {
                 "id": "152399",
                 "shortName": "E Pajor",
@@ -71,8 +83,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "190611",
+                "shortName": "C Davidson",
+                "isOwnGoal": false,
+                "goalTime": "46'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
