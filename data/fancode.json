@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:49:02 AM 11-12-2025",
+  "last_updated": "01:56:01 AM 11-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.3.0 (Linux;Android/13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -230,8 +230,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "188457",
+                "shortName": "T Chawinga",
+                "isOwnGoal": false,
+                "goalTime": "12'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
@@ -284,8 +291,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "178493",
+                "shortName": "VB Risa",
+                "isOwnGoal": false,
+                "goalTime": "13'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
