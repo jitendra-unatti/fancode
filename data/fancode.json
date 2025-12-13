@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:35:01 PM 13-12-2025",
+  "last_updated": "10:42:01 PM 13-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#3a0f6a",
           "cricketScore": [
             {
-              "runs": 52,
-              "overs": "6.4",
-              "balls": "40",
+              "runs": 71,
+              "overs": "8.4",
+              "balls": "52",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -214,8 +214,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 2,
+            "points": 3,
             "goals": [
+              {
+                "id": "37078",
+                "shortName": "V Muriqi",
+                "isOwnGoal": false,
+                "goalTime": "89'"
+              },
               {
                 "id": "19086",
                 "shortName": "O Gonzalez",
