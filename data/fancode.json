@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:49:01 AM 22-12-2025",
+  "last_updated": "08:56:01 AM 22-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -100,10 +100,10 @@
       "title": "New Zealand Vs West Indies",
       "tournament": "West Indies tour of New Zealand, 2025",
       "match_id": 137698,
-      "status": "LIVE",
+      "status": "COMPLETED",
       "streamingStatus": "STARTED",
       "startTime": "18 December 2025 03:30 AM",
-      "startDate": "23 December 2025 03:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/137698_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -122,7 +122,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#1d2c6b",
           "cricketScore": [
             {
@@ -156,7 +156,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#7B0041",
           "cricketScore": [
             {
@@ -168,10 +168,10 @@
             },
             {
               "runs": 138,
-              "overs": "80.1",
+              "overs": "80.3",
               "balls": "0",
               "status": "IN_PROGRESS",
-              "wickets": 9
+              "wickets": 10
             }
           ],
           "kabaddiScore": null,
