@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:49:01 PM 24-12-2025",
+  "last_updated": "07:56:01 PM 24-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -100,7 +100,7 @@
       "title": "Sharjah Warriorz Vs Dubai Capitals",
       "tournament": "DP World ILT20 2025-26",
       "match_id": 138649,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "24 December 2025 08:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -297,8 +297,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "157989",
+                "shortName": "M Anieboh",
+                "isOwnGoal": false,
+                "goalTime": "85'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
