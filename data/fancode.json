@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:09:01 PM 29-12-2025",
+  "last_updated": "12:14:01 PM 29-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#0A129E",
           "cricketScore": [
             {
-              "runs": 173,
-              "overs": "18.3",
-              "balls": "111",
+              "runs": 181,
+              "overs": "19",
+              "balls": "114",
               "status": "IN_PROGRESS",
               "wickets": 5
             }
@@ -99,7 +99,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Rangpur Riders Vs Chattogram Royals",
+      "title": "Chattogram Royals Vs Rangpur Riders",
       "tournament": "Bangladesh Premier League, 2025-26",
       "match_id": 138920,
       "status": "LIVE",
@@ -119,25 +119,6 @@
       },
       "teams": [
         {
-          "name": "Rangpur Riders",
-          "shortName": "RAN",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png"
-          },
-          "isWinner": null,
-          "color": "#42b7e8",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Chattogram Royals",
           "shortName": "CTR",
           "flag": {
@@ -145,6 +126,33 @@
           },
           "isWinner": null,
           "color": "#0a213a",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Rangpur Riders",
+          "shortName": "RAN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png"
+          },
+          "isWinner": null,
+          "color": "#42b7e8",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
