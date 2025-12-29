@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "02:49:01 AM 30-12-2025",
+  "last_updated": "02:59:02 AM 30-12-2025",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -42,8 +42,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "26122",
+                "shortName": "O Rathbone",
+                "isOwnGoal": false,
+                "goalTime": "77'"
+              },
               {
                 "id": "36464",
                 "shortName": "N Broadhead",
@@ -126,8 +132,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "26827",
+                "shortName": "P Neumann",
+                "isOwnGoal": false,
+                "goalTime": "49'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
