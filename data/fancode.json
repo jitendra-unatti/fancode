@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:59:02 PM 01-01-2026",
+  "last_updated": "06:04:01 PM 01-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#fdcb83",
           "cricketScore": [
             {
-              "runs": 60,
-              "overs": "6.4",
-              "balls": "40",
+              "runs": 63,
+              "overs": "7",
+              "balls": "42",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -191,10 +191,17 @@
           "color": "#2f68e4",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Wrexham A.F.C.",
@@ -206,10 +213,17 @@
           "color": "#0fb378",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
