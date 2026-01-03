@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:56:01 PM 03-01-2026",
+  "last_updated": "08:00:00 PM 03-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -113,8 +113,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "16659",
+                "shortName": "B Iglesias",
+                "isOwnGoal": false,
+                "goalTime": "59'"
+              },
               {
                 "id": "16659",
                 "shortName": "B Iglesias",
