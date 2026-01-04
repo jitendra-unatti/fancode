@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:07:01 PM 04-01-2026",
+  "last_updated": "10:14:02 PM 04-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -143,8 +143,21 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 2,
+            "goals": [
+              {
+                "id": "151481",
+                "shortName": "S Thomas",
+                "isOwnGoal": false,
+                "goalTime": "82'"
+              },
+              {
+                "id": "472",
+                "shortName": "S Gallagher",
+                "isOwnGoal": false,
+                "goalTime": "75'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
