@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:35:01 PM 04-01-2026",
+  "last_updated": "11:42:01 PM 04-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#bf4216",
           "cricketScore": [
             {
-              "runs": 104,
-              "overs": "14",
-              "balls": "84",
+              "runs": 114,
+              "overs": "15",
+              "balls": "90",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
@@ -375,8 +375,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "45254",
+                "shortName": "D Nunez",
+                "isOwnGoal": false,
+                "goalTime": "35'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
