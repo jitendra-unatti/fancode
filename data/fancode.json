@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:07:02 PM 07-01-2026",
+  "last_updated": "12:14:01 PM 07-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#FFD433",
           "cricketScore": [
             {
-              "runs": 155,
-              "overs": "17.1",
-              "balls": "103",
+              "runs": 171,
+              "overs": "18.3",
+              "balls": "111",
               "status": "IN_PROGRESS",
-              "wickets": 6
+              "wickets": 7
             }
           ],
           "kabaddiScore": null,
@@ -99,7 +99,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Dhaka Capitals Vs Noakhali Express",
+      "title": "Noakhali Express Vs Dhaka Capitals",
       "tournament": "Bangladesh Premier League, 2025-26",
       "match_id": 138940,
       "status": "LIVE",
@@ -119,25 +119,6 @@
       },
       "teams": [
         {
-          "name": "Dhaka Capitals",
-          "shortName": "DC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DHC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#CFAE1C",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Noakhali Express",
           "shortName": "NOE",
           "flag": {
@@ -145,6 +126,33 @@
           },
           "isWinner": null,
           "color": "#2BA6BD",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Dhaka Capitals",
+          "shortName": "DC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DHC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#CFAE1C",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
