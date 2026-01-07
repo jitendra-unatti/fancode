@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:56:02 PM 07-01-2026",
+  "last_updated": "10:00:00 PM 07-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#559830",
           "cricketScore": [
             {
-              "runs": 106,
-              "overs": "13",
-              "balls": "78",
+              "runs": 107,
+              "overs": "14",
+              "balls": "84",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 4
             }
           ],
           "kabaddiScore": null,
@@ -102,7 +102,7 @@
       "title": "Qatar U23 Vs United Arab Emirates U23",
       "tournament": "AFC U23 Asian Cup, 2026",
       "match_id": 139256,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "07 January 2026 10:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -131,11 +131,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "United Arab Emirates U23",
@@ -150,11 +146,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
