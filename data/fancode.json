@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:28:01 AM 07-01-2026",
+  "last_updated": "08:35:01 AM 07-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -154,7 +154,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Wellington Firebirds Vs Central Stags",
+      "title": "Central Stags Vs Wellington Firebirds",
       "tournament": "Super Smash, 2025-26",
       "match_id": 138742,
       "status": "NOT_STARTED",
@@ -174,25 +174,6 @@
       },
       "teams": [
         {
-          "name": "Wellington Firebirds",
-          "shortName": "WF",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIRE@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FFD433",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Central Stags",
           "shortName": "CS",
           "flag": {
@@ -200,6 +181,33 @@
           },
           "isWinner": null,
           "color": "#03684A",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Wellington Firebirds",
+          "shortName": "WF",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FIRE@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FFD433",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
