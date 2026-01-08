@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:07:02 AM 09-01-2026",
+  "last_updated": "12:14:04 AM 09-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -64,8 +64,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "155181",
+                "shortName": "J Quinones",
+                "isOwnGoal": false,
+                "goalTime": "51'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
