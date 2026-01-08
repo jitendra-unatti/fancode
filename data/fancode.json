@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:14:02 PM 08-01-2026",
+  "last_updated": "10:21:01 PM 08-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
       "title": "Al Hilal Sfc Vs Al Hazem Fc",
       "tournament": "Roshn Saudi League 2025-2026",
       "match_id": 139201,
-      "status": "LIVE",
+      "status": "COMPLETED",
       "streamingStatus": "STARTED",
       "startTime": "08 January 2026 08:25 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -42,8 +42,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 2,
+            "points": 3,
             "goals": [
+              {
+                "id": "45254",
+                "shortName": "D Nunez",
+                "isOwnGoal": false,
+                "goalTime": "90'"
+              },
               {
                 "id": "9904",
                 "shortName": "R Neves",
