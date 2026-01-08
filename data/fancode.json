@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:35:01 PM 08-01-2026",
+  "last_updated": "09:42:01 PM 08-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Football",
@@ -42,8 +42,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "9904",
+                "shortName": "R Neves",
+                "isOwnGoal": false,
+                "goalTime": "56'"
+              },
               {
                 "id": "19466",
                 "shortName": "S Milinkovic-Savic",
@@ -89,69 +95,6 @@
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139201_english_hls_2182a66a3147455_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139201_english_hls_2182a66a3147455_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/sp_0OC0dT1WRPRR__Lyi7g/master.m3u8",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Iraq U23 Vs China Pr U23",
-      "tournament": "AFC U23 Asian Cup, 2026",
-      "match_id": 139258,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "08 January 2026 07:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139258_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/AFC-U23-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139258_5822_IRQ-U23_CHN-U23_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139258_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Iraq U23",
-          "shortName": "IRQ-U23",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/IRQ-FT1@2x.png"
-          },
-          "isWinner": null,
-          "color": "#e36e79",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        },
-        {
-          "name": "China PR U23",
-          "shortName": "CHN-U23",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CHN-FT1@2x.png"
-          },
-          "isWinner": null,
-          "color": "#E96E5D",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/139258_english_hls_881b2abad447661_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139258_english_hls_881b2abad447661_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139258_english_hls_881b2abad447661_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/dRVHmP-lQrOvZqezNz5yfA/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -1169,6 +1112,72 @@
       }
     },
     {
+      "category": "Football",
+      "title": "Cameroon Vs Morocco",
+      "tournament": "Africa Cup of Nations 2025-26",
+      "match_id": 138388,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "10 January 2026 12:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138388_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Afcon-Tour.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138388_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Cameroon",
+          "shortName": "CMR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAME@2x.png"
+          },
+          "isWinner": null,
+          "color": "#347960",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Morocco",
+          "shortName": "MOR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#672020",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
       "category": "Tennis",
       "title": "Show Court 1   Day 6",
       "tournament": "ATP 250 - Brisbane",
@@ -1282,72 +1291,6 @@
           },
           "isWinner": null,
           "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Cameroon Vs Morocco",
-      "tournament": "Africa Cup of Nations 2025-26",
-      "match_id": 138388,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 January 2026 12:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/138388_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Afcon-Tour.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/138388_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Cameroon",
-          "shortName": "CMR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAME@2x.png"
-          },
-          "isWinner": null,
-          "color": "#347960",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Morocco",
-          "shortName": "MOR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#672020",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
@@ -2600,6 +2543,72 @@
           },
           "isWinner": null,
           "color": "#bcae34",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Lebanon U23 Vs Korea Republic U23",
+      "tournament": "AFC U23 Asian Cup, 2026",
+      "match_id": 139262,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "10 January 2026 05:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/139262_5822_LEB-U23_KR-U23_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139262_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/139262_5822_LEB-U23_KR-U23_fc-web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/AFC-U23-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139262_5822_LEB-U23_KR-U23_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139262_5822_LEB-U23_KR-U23_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139262_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Lebanon U23",
+          "shortName": "LEB-U23",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEB@2x.png"
+          },
+          "isWinner": null,
+          "color": "#fe0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Korea Republic U23",
+          "shortName": "KR-U23",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/KOR-FT1@2x.png"
+          },
+          "isWinner": null,
+          "color": "#dd717a",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
