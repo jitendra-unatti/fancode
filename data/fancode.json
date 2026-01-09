@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:21:07 PM 09-01-2026",
+  "last_updated": "07:28:01 PM 09-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
           "color": "#2BA6BD",
           "cricketScore": [
             {
-              "runs": 84,
-              "overs": "10",
-              "balls": "60",
+              "runs": 86,
+              "overs": "11.1",
+              "balls": "67",
               "status": "IN_PROGRESS",
-              "wickets": 2
+              "wickets": 4
             }
           ],
           "kabaddiScore": null,
@@ -165,7 +165,7 @@
       "title": "Kyrgyz Republic U23 Vs Vietnam U23",
       "tournament": "AFC U23 Asian Cup, 2026",
       "match_id": 139259,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "09 January 2026 07:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -194,11 +194,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Vietnam U23",
@@ -213,11 +209,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
