@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:56:02 PM 10-01-2026",
+  "last_updated": "08:00:01 PM 10-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -105,8 +105,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "193007",
+                "shortName": "I Chaira",
+                "isOwnGoal": false,
+                "goalTime": "64'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
