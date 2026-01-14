@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:00:01 PM 14-01-2026",
+  "last_updated": "11:07:00 PM 14-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -92,7 +92,7 @@
       "title": "Al Ahli Saudi Fc Vs Al Taawoun",
       "tournament": "Roshn Saudi League 2025-2026",
       "match_id": 139359,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "14 January 2026 11:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -118,7 +118,10 @@
           "color": "#19ca84",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -137,7 +140,10 @@
           "color": "#f3fa1f",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
