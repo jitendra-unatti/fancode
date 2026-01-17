@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:56:01 PM 17-01-2026",
+  "last_updated": "09:00:02 PM 17-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#fdcb83",
           "cricketScore": [
             {
-              "runs": 108,
-              "overs": "17",
-              "balls": "102",
+              "runs": 115,
+              "overs": "17.5",
+              "balls": "107",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
@@ -306,8 +306,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "179415",
+                "shortName": "U Gomez",
+                "isOwnGoal": false,
+                "goalTime": "8'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
