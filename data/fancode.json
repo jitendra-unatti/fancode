@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:21:01 AM 19-01-2026",
+  "last_updated": "10:28:01 AM 19-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
           "color": "#FFD433",
           "cricketScore": [
             {
-              "runs": 175,
-              "overs": "18.5",
-              "balls": "113",
+              "runs": 193,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
-              "wickets": 5
+              "wickets": 6
             }
           ],
           "kabaddiScore": null,
@@ -316,7 +316,7 @@
           },
           "isWinner": null,
           "color": "#bcbcbc",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -335,7 +335,7 @@
           },
           "isWinner": null,
           "color": "#03684A",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -553,7 +553,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Rangpur Riders Vs Sylhet Titans",
+      "title": "Sylhet Titans Vs Rangpur Riders",
       "tournament": "Bangladesh Premier League, 2025-26",
       "match_id": 138946,
       "status": "NOT_STARTED",
@@ -573,13 +573,13 @@
       },
       "teams": [
         {
-          "name": "Rangpur Riders",
-          "shortName": "RAN",
+          "name": "Sylhet Titans",
+          "shortName": "SYT",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYT@2x.png"
           },
           "isWinner": null,
-          "color": "#42b7e8",
+          "color": "#0d7972",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
@@ -592,13 +592,13 @@
           }
         },
         {
-          "name": "Sylhet Titans",
-          "shortName": "SYT",
+          "name": "Rangpur Riders",
+          "shortName": "RAN",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SYT@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png"
           },
           "isWinner": null,
-          "color": "#0d7972",
+          "color": "#42b7e8",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
