@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:42:01 AM 20-01-2026",
+  "last_updated": "08:49:01 AM 20-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -186,7 +186,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Zimbabwe Women Vs Thailand Women",
+      "title": "Thailand Women Vs Zimbabwe Women",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_id": 139223,
       "status": "LIVE",
@@ -206,25 +206,6 @@
       },
       "teams": [
         {
-          "name": "Zimbabwe Women",
-          "shortName": "ZM-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
-          },
-          "isWinner": null,
-          "color": "#dfd32c",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Thailand Women",
           "shortName": "TL-W",
           "flag": {
@@ -232,6 +213,33 @@
           },
           "isWinner": null,
           "color": "#16369a",
+          "cricketScore": [
+            {
+              "runs": 5,
+              "overs": "0.4",
+              "balls": "4",
+              "status": "IN_PROGRESS",
+              "wickets": 1
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Zimbabwe Women",
+          "shortName": "ZM-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png"
+          },
+          "isWinner": null,
+          "color": "#dfd32c",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -286,9 +294,9 @@
           "color": "#397b46",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 2,
+              "overs": "0.4",
+              "balls": "4",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
