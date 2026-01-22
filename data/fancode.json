@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:21:01 AM 22-01-2026",
+  "last_updated": "09:28:01 AM 22-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -41,9 +41,9 @@
           "color": "#bcbcbc",
           "cricketScore": [
             {
-              "runs": 43,
-              "overs": "3",
-              "balls": "18",
+              "runs": 47,
+              "overs": "3.3",
+              "balls": "21",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -294,9 +294,9 @@
           "color": "#2c5ab3",
           "cricketScore": [
             {
-              "runs": 48,
-              "overs": "8",
-              "balls": "48",
+              "runs": 63,
+              "overs": "9.3",
+              "balls": "57",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -373,9 +373,9 @@
           "color": "#32752E",
           "cricketScore": [
             {
-              "runs": 58,
-              "overs": "8",
-              "balls": "48",
+              "runs": 72,
+              "overs": "10",
+              "balls": "60",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -493,14 +493,14 @@
       "tournament": "Giles Shield 2026",
       "match_id": 139668,
       "status": "LIVE",
-      "streamingStatus": "PAUSED",
+      "streamingStatus": "STARTED",
       "startTime": "20 January 2026 09:45 AM",
       "startDate": "22 January 2026 09:45 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/139668_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-        "PLAYBACK": null,
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-and-Dream-sport-Tour-Logo.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
@@ -547,10 +547,15 @@
           }
         }
       ],
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
+        "Primary_Playback_URL": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+        "fancode_cdn": "Unavailable",
+        "fancode_bd_cdn": null,
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/DH_EArP-SSSuJs19DJnGEQ/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
       }
     },
     {
