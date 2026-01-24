@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:21:01 AM 24-01-2026",
+  "last_updated": "08:28:01 AM 24-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#FFD433",
           "cricketScore": [
             {
-              "runs": 3,
-              "overs": "1",
-              "balls": "6",
+              "runs": 12,
+              "overs": "2.4",
+              "balls": "16",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -302,7 +302,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Papua New Guinea Women Vs Namibia Women",
+      "title": "Namibia Women Vs Papua New Guinea Women",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_id": 139231,
       "status": "NOT_STARTED",
@@ -322,25 +322,6 @@
       },
       "teams": [
         {
-          "name": "Papua New Guinea Women",
-          "shortName": "PN-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
-          },
-          "isWinner": null,
-          "color": "#eb5160",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Namibia Women",
           "shortName": "NAM-W",
           "flag": {
@@ -348,6 +329,33 @@
           },
           "isWinner": null,
           "color": "#112c80",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Papua New Guinea Women",
+          "shortName": "PN-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
+          },
+          "isWinner": null,
+          "color": "#eb5160",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -395,14 +403,22 @@
           },
           "isWinner": null,
           "color": "#16369a",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
