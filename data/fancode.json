@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:21:01 AM 28-01-2026",
+  "last_updated": "08:28:01 AM 28-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -223,7 +223,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Thailand Women Vs Bangladesh Women",
+      "title": "Bangladesh Women Vs Thailand Women",
       "tournament": "ICC Women's T20 World Cup Global Qualifier, 2026",
       "match_id": 139239,
       "status": "NOT_STARTED",
@@ -243,25 +243,6 @@
       },
       "teams": [
         {
-          "name": "Thailand Women",
-          "shortName": "TL-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#16369a",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Bangladesh Women",
           "shortName": "BD-W",
           "flag": {
@@ -269,6 +250,33 @@
           },
           "isWinner": null,
           "color": "#397b46",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Thailand Women",
+          "shortName": "TL-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#16369a",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -316,14 +324,22 @@
           },
           "isWinner": null,
           "color": "#4d94d6",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
