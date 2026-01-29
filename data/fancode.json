@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:14:01 PM 29-01-2026",
+  "last_updated": "08:21:01 PM 29-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 39,
-              "overs": "6",
-              "balls": "36",
+              "runs": 82,
+              "overs": "10",
+              "balls": "60",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -120,9 +120,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 39,
-              "overs": "6",
-              "balls": "36",
+              "runs": 82,
+              "overs": "10",
+              "balls": "60",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -199,9 +199,9 @@
           "color": "#ba6a15",
           "cricketScore": [
             {
-              "runs": 18,
-              "overs": "2.2",
-              "balls": "14",
+              "runs": 26,
+              "overs": "4",
+              "balls": "24",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -249,7 +249,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Ajman Vs Dubai",
+      "title": "Dubai Vs Ajman",
       "tournament": "Emirates D10, 2026",
       "match_id": 139596,
       "status": "LIVE",
@@ -269,25 +269,6 @@
       },
       "teams": [
         {
-          "name": "Ajman",
-          "shortName": "AJM",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#c83ca3",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Dubai",
           "shortName": "DUB",
           "flag": {
@@ -295,6 +276,33 @@
           },
           "isWinner": null,
           "color": "#f64bce",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Ajman",
+          "shortName": "AJM",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#c83ca3",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
