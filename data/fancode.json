@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:00:01 PM 29-01-2026",
+  "last_updated": "09:07:01 PM 29-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 39,
-  "live_matches": 7,
-  "upcoming_matches": 32,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -41,9 +41,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 174,
-              "overs": "17.2",
-              "balls": "104",
+              "runs": 192,
+              "overs": "18.5",
+              "balls": "114",
               "status": "IN_PROGRESS",
               "wickets": 6
             }
@@ -120,9 +120,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 174,
-              "overs": "17.2",
-              "balls": "104",
+              "runs": 192,
+              "overs": "18.5",
+              "balls": "114",
               "status": "IN_PROGRESS",
               "wickets": 6
             }
@@ -199,9 +199,9 @@
           "color": "#ba6a15",
           "cricketScore": [
             {
-              "runs": 85,
-              "overs": "11.5",
-              "balls": "71",
+              "runs": 99,
+              "overs": "13.2",
+              "balls": "80",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -384,77 +384,6 @@
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139767_english_hls_8a982f4b4a96687_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139767_english_hls_8a982f4b4a96687_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/ELonKZRdQSaY2sBPFM1xWA/master.m3u8",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Guyana Women Vs Trinidad And Tobago Women",
-      "tournament": "CG United Women's Super 50 Cup 2026",
-      "match_id": 139766,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "29 January 2026 07:00 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139766_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/10/CG-United-Super50_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Womens-Super-50-Cup-2026_Old_Sporty_2_1769512685511.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139766_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Guyana Women",
-          "shortName": "GY-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png"
-          },
-          "isWinner": false,
-          "color": "#008b4b",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Trinidad and Tobago Women",
-          "shortName": "TT-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNRF@2x.png"
-          },
-          "isWinner": false,
-          "color": "#F84B47",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/139766_english_hls_301a5bcd2231564_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139766_english_hls_301a5bcd2231564_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139766_english_hls_301a5bcd2231564_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/b_bPP7s4T8qllyZVegrlyA/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -1990,72 +1919,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Iron Titans Vs Royal Falcons",
-      "tournament": "Pro10 Malaysia, 2026",
-      "match_id": 140170,
-      "status": "ABANDONED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "30 January 2026 07:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140170_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Pro-T20-League_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140170_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Iron Titans",
-          "shortName": "ITT",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#B8142D",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Royal Falcons",
-          "shortName": "RLF",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLF@2x.png"
-          },
-          "isWinner": null,
-          "color": "#80081C",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Cricket",
       "title": "Fujairah Vs Emirates Blues",
       "tournament": "Emirates D10, 2026",
       "match_id": 139600,
@@ -2102,6 +1965,72 @@
           },
           "isWinner": null,
           "color": "#62bfe9",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Iron Titans Vs Royal Falcons",
+      "tournament": "Pro10 Malaysia, 2026",
+      "match_id": 140170,
+      "status": "ABANDONED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "30 January 2026 07:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140170_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Pro-T20-League_Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140170_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Iron Titans",
+          "shortName": "ITT",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#B8142D",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Royal Falcons",
+          "shortName": "RLF",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLF@2x.png"
+          },
+          "isWinner": null,
+          "color": "#80081C",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -2347,7 +2276,7 @@
           },
           "isWinner": null,
           "color": "#2279a4",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -2366,7 +2295,7 @@
           },
           "isWinner": null,
           "color": "#f64bce",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -2606,6 +2535,72 @@
         {
           "name": "Featured Holes - Day 1",
           "shortName": "Featured Holes - Day 1",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "shortName": "Torrey Pines Golf Course",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Featured Groups   Day 1",
+      "tournament": "Farmers Insurance Open 2026",
+      "match_id": 140023,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "29 January 2026 11:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140023_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_Farmers-Open.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140023_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Featured Groups - Day 1",
+          "shortName": "Featured Groups - Day 1",
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
           },
