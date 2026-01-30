@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:28:01 PM 30-01-2026",
+  "last_updated": "10:35:08 PM 30-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 39,
-  "live_matches": 5,
-  "upcoming_matches": 34,
+  "live_matches": 6,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Cricket",
@@ -68,9 +68,9 @@
           "color": "#3c9ae8",
           "cricketScore": [
             {
-              "runs": 37,
-              "overs": "3",
-              "balls": "18",
+              "runs": 41,
+              "overs": "4",
+              "balls": "24",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -124,7 +124,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPT@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#ABD5FF",
           "cricketScore": [
             {
@@ -151,13 +151,13 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 133,
-              "overs": "14.3",
-              "balls": "87",
+              "runs": 145,
+              "overs": "15.1",
+              "balls": "91",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
@@ -211,7 +211,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PPT@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#ABD5FF",
           "cricketScore": [
             {
@@ -238,13 +238,13 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLN@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 133,
-              "overs": "14.3",
-              "balls": "87",
+              "runs": 145,
+              "overs": "15.1",
+              "balls": "91",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
@@ -329,11 +329,11 @@
           "color": "#f64bce",
           "cricketScore": [
             {
-              "runs": 79,
-              "overs": "0",
-              "balls": "0",
+              "runs": 104,
+              "overs": "5.5",
+              "balls": "35",
               "status": "IN_PROGRESS",
-              "wickets": 0
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
@@ -495,6 +495,77 @@
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/ICC2t1y4QxKJlnFAPsYwZw/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Golf",
+      "title": "Featured Holes   Day 2",
+      "tournament": "Farmers Insurance Open 2026",
+      "match_id": 140029,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "30 January 2026 10:45 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140029_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_Farmers-Open.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old_1769182128535.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140029_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Featured Holes - Day 2",
+          "shortName": "Featured Holes - Day 2",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Torrey Pines Golf Course",
+          "shortName": "Torrey Pines Golf Course",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/lxk-m14XQRakjMdeko8WQA/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -2198,72 +2269,6 @@
           },
           "isWinner": null,
           "color": "#7512a1",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Golf",
-      "title": "Featured Holes   Day 2",
-      "tournament": "Farmers Insurance Open 2026",
-      "match_id": 140029,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "30 January 2026 10:45 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140029_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_Farmers-Open.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-sporty-match-card-old_1769182128535.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140029_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Featured Holes - Day 2",
-          "shortName": "Featured Holes - Day 2",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Torrey Pines Golf Course",
-          "shortName": "Torrey Pines Golf Course",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
