@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:21:01 AM 30-01-2026",
+  "last_updated": "06:28:01 AM 30-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -83,7 +83,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Auckland Hearts Vs Northern Brave Women",
+      "title": "Northern Brave Women Vs Auckland Hearts",
       "tournament": "Women's Super Smash, 2025-26",
       "match_id": 138793,
       "status": "NOT_STARTED",
@@ -103,25 +103,6 @@
       },
       "teams": [
         {
-          "name": "Auckland Hearts",
-          "shortName": "AH-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUHW@2x.png"
-          },
-          "isWinner": null,
-          "color": "#221469",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Northern Brave Women",
           "shortName": "NB-W",
           "flag": {
@@ -129,6 +110,33 @@
           },
           "isWinner": null,
           "color": "#bcbcbc",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Auckland Hearts",
+          "shortName": "AH-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUHW@2x.png"
+          },
+          "isWinner": null,
+          "color": "#221469",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
