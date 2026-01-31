@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:14:01 PM 31-01-2026",
+  "last_updated": "07:21:00 PM 31-01-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -12,10 +12,10 @@
   "matches": [
     {
       "category": "Cricket",
-      "title": "Dubai Royals Vs Pune Panthers",
+      "title": "Pune Panthers Vs Dubai Royals",
       "tournament": "World Legends Pro T20 League, 2026",
       "match_id": 140083,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "31 January 2026 07:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -32,25 +32,6 @@
       },
       "teams": [
         {
-          "name": "Dubai Royals",
-          "shortName": "DR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DR@2x.png"
-          },
-          "isWinner": null,
-          "color": "#B8142D",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Pune Panthers",
           "shortName": "PPT",
           "flag": {
@@ -58,6 +39,33 @@
           },
           "isWinner": null,
           "color": "#ABD5FF",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Dubai Royals",
+          "shortName": "DR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DR@2x.png"
+          },
+          "isWinner": null,
+          "color": "#B8142D",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -83,10 +91,10 @@
     },
     {
       "category": "Cricket",
-      "title": "Dubai Royals Vs Pune Panthers",
+      "title": "Pune Panthers Vs Dubai Royals",
       "tournament": "World Legends Pro T20 League, 2026",
       "match_id": 140083,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "31 January 2026 07:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -103,25 +111,6 @@
       },
       "teams": [
         {
-          "name": "Dubai Royals",
-          "shortName": "DR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DR@2x.png"
-          },
-          "isWinner": null,
-          "color": "#B8142D",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Pune Panthers",
           "shortName": "PPT",
           "flag": {
@@ -129,6 +118,33 @@
           },
           "isWinner": null,
           "color": "#ABD5FF",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Dubai Royals",
+          "shortName": "DR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DR@2x.png"
+          },
+          "isWinner": null,
+          "color": "#B8142D",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
