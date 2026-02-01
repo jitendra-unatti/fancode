@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:49:06 PM 01-02-2026",
+  "last_updated": "06:56:01 PM 01-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
       "title": "Sri Lanka Vs England",
       "tournament": "England tour of Sri Lanka, 2026",
       "match_id": 139293,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "01 February 2026 07:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -373,8 +373,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "33753",
+                "shortName": "V Junior",
+                "isOwnGoal": false,
+                "goalTime": "15'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
@@ -450,8 +457,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "33753",
+                "shortName": "V Junior",
+                "isOwnGoal": false,
+                "goalTime": "15'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
@@ -527,8 +541,15 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 0,
-            "goals": []
+            "points": 1,
+            "goals": [
+              {
+                "id": "33753",
+                "shortName": "V Junior",
+                "isOwnGoal": false,
+                "goalTime": "15'"
+              }
+            ]
           },
           "basketBallScore": null,
           "hockeyScore": null,
