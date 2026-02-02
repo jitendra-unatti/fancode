@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:35:01 PM 02-02-2026",
+  "last_updated": "08:42:01 PM 02-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 97,
-              "overs": "13",
-              "balls": "78",
+              "runs": 121,
+              "overs": "15",
+              "balls": "90",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -120,9 +120,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 97,
-              "overs": "13",
-              "balls": "78",
+              "runs": 121,
+              "overs": "15",
+              "balls": "90",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -226,11 +226,11 @@
           "color": "#A91118",
           "cricketScore": [
             {
-              "runs": 82,
-              "overs": "9.3",
-              "balls": "57",
+              "runs": 85,
+              "overs": "9.5",
+              "balls": "59",
               "status": "IN_PROGRESS",
-              "wickets": 2
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
@@ -328,7 +328,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Emirates Blues Vs Sharjah",
+      "title": "Sharjah Vs Emirates Blues",
       "tournament": "Emirates D10, 2026",
       "match_id": 139609,
       "status": "NOT_STARTED",
@@ -348,25 +348,6 @@
       },
       "teams": [
         {
-          "name": "Emirates Blues",
-          "shortName": "EMB",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png"
-          },
-          "isWinner": null,
-          "color": "#62bfe9",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Sharjah",
           "shortName": "SHA",
           "flag": {
@@ -374,6 +355,33 @@
           },
           "isWinner": null,
           "color": "#d94f55",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Emirates Blues",
+          "shortName": "EMB",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png"
+          },
+          "isWinner": null,
+          "color": "#62bfe9",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
