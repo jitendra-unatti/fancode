@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:42:01 PM 02-02-2026",
+  "last_updated": "10:49:04 PM 02-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 39,
-  "live_matches": 4,
-  "upcoming_matches": 35,
+  "live_matches": 5,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -68,9 +68,9 @@
           "color": "#B8142D",
           "cricketScore": [
             {
-              "runs": 161,
-              "overs": "14.2",
-              "balls": "86",
+              "runs": 168,
+              "overs": "15.2",
+              "balls": "92",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -155,9 +155,9 @@
           "color": "#B8142D",
           "cricketScore": [
             {
-              "runs": 161,
-              "overs": "14.2",
-              "balls": "86",
+              "runs": 168,
+              "overs": "15.2",
+              "balls": "92",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -242,9 +242,9 @@
           "color": "#62bfe9",
           "cricketScore": [
             {
-              "runs": 39,
-              "overs": "3.2",
-              "balls": "20",
+              "runs": 68,
+              "overs": "5.5",
+              "balls": "35",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -273,10 +273,152 @@
     },
     {
       "category": "Football",
+      "title": "Al Hilal Sfc Vs Al Ahli Saudi Fc",
+      "tournament": "Roshn Saudi League 2025-2026",
+      "match_id": 139835,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "02 February 2026 11:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139835_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-web.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139835_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Al Hilal SFC",
+          "shortName": "AHS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#031537",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Al-Ahli Saudi FC",
+          "shortName": "AAS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#19ca84",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/139835_english_hls_cc21e70f5045921_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139835_english_hls_cc21e70f5045921_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139835_english_hls_cc21e70f5045921_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/zhy_81nISkGC9sVEblG5FA/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Tennis",
+      "title": "Day 1",
+      "tournament": "ATP 250 - Open Occitanie 2026",
+      "match_id": 140180,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "02 February 2026 09:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140180_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_Old_Sporty.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140180_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Day 1",
+          "shortName": "Day 1",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Montpellier, France",
+          "shortName": "Montpellier, France",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/pG6TfFW2SMKV4Qn5WTvkug/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Football",
       "title": "Al Riyadh Sc Vs Al Nassr Fc",
       "tournament": "Roshn Saudi League 2025-2026",
       "match_id": 139834,
-      "status": "LIVE",
+      "status": "COMPLETED",
       "streamingStatus": "STARTED",
       "startTime": "02 February 2026 08:45 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -350,77 +492,6 @@
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139834_english_hls_d6b0619ff036675_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139834_english_hls_d6b0619ff036675_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "Day 1",
-      "tournament": "ATP 250 - Open Occitanie 2026",
-      "match_id": 140180,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "02 February 2026 09:00 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140180_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_Old_Sporty.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140180_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Day 1",
-          "shortName": "Day 1",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Montpellier, France",
-          "shortName": "Montpellier, France",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/pG6TfFW2SMKV4Qn5WTvkug/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -541,72 +612,6 @@
           "isWinner": null,
           "color": "#dcdcdc",
           "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Football",
-      "title": "Al Hilal Sfc Vs Al Ahli Saudi Fc",
-      "tournament": "Roshn Saudi League 2025-2026",
-      "match_id": 139835,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "02 February 2026 11:00 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139835_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/RSL-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-VS-Al-Ahli-Saudi-FC_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139835_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Al Hilal SFC",
-          "shortName": "AHS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AH@2x.png"
-          },
-          "isWinner": null,
-          "color": "#031537",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Al-Ahli Saudi FC",
-          "shortName": "AAS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AAS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#19ca84",
-          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
