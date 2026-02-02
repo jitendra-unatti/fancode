@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:14:01 PM 02-02-2026",
+  "last_updated": "05:21:01 PM 02-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#80081C",
           "cricketScore": [
             {
-              "runs": 75,
-              "overs": "9.2",
-              "balls": "56",
+              "runs": 86,
+              "overs": "11.1",
+              "balls": "67",
               "status": "IN_PROGRESS",
               "wickets": 6
             }
@@ -155,9 +155,9 @@
           "color": "#80081C",
           "cricketScore": [
             {
-              "runs": 75,
-              "overs": "9.2",
-              "balls": "56",
+              "runs": 86,
+              "overs": "11.1",
+              "balls": "67",
               "status": "IN_PROGRESS",
               "wickets": 6
             }
@@ -186,7 +186,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Emirates Blues Vs Ajman",
+      "title": "Ajman Vs Emirates Blues",
       "tournament": "Emirates D10, 2026",
       "match_id": 139607,
       "status": "LIVE",
@@ -206,25 +206,6 @@
       },
       "teams": [
         {
-          "name": "Emirates Blues",
-          "shortName": "EMB",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png"
-          },
-          "isWinner": null,
-          "color": "#62bfe9",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Ajman",
           "shortName": "AJM",
           "flag": {
@@ -232,6 +213,33 @@
           },
           "isWinner": null,
           "color": "#c83ca3",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Emirates Blues",
+          "shortName": "EMB",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png"
+          },
+          "isWinner": null,
+          "color": "#62bfe9",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
