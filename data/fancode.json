@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:35:01 AM 03-02-2026",
+  "last_updated": "04:42:01 AM 03-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#0088e7",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 1,
+              "overs": "0.3",
+              "balls": "3",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -360,7 +360,7 @@
     },
     {
       "category": "Cricket",
-      "title": "South Australian Scorpions Vs Victoria Women",
+      "title": "Victoria Women Vs South Australian Scorpions",
       "tournament": "Women's National Cricket League, 2025-26",
       "match_id": 133975,
       "status": "NOT_STARTED",
@@ -380,25 +380,6 @@
       },
       "teams": [
         {
-          "name": "South Australian Scorpions",
-          "shortName": "SASC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACO@2x.png"
-          },
-          "isWinner": null,
-          "color": "#c50008",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Victoria Women",
           "shortName": "VCTW",
           "flag": {
@@ -406,6 +387,33 @@
           },
           "isWinner": null,
           "color": "#00226a",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "South Australian Scorpions",
+          "shortName": "SASC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACO@2x.png"
+          },
+          "isWinner": null,
+          "color": "#c50008",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
