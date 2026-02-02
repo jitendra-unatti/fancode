@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:28:01 PM 02-02-2026",
+  "last_updated": "07:35:00 PM 02-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 2,
+              "overs": "1",
+              "balls": "6",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -120,9 +120,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 2,
+              "overs": "1",
+              "balls": "6",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -870,7 +870,7 @@
           },
           "isWinner": null,
           "color": "#dcdcdc",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -889,7 +889,7 @@
           },
           "isWinner": null,
           "color": "#dcdcdc",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1783,7 +1783,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Gurugram Thunders Vs Delhi Warriors",
+      "title": "Delhi Warriors Vs Gurugram Thunders",
       "tournament": "World Legends Pro T20 League, 2026",
       "match_id": 140085,
       "status": "COMPLETED",
@@ -1802,6 +1802,33 @@
         "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140085_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "teams": [
+        {
+          "name": "Delhi Warriors",
+          "shortName": "DW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWR@2x.png"
+          },
+          "isWinner": true,
+          "color": "#80081C",
+          "cricketScore": [
+            {
+              "runs": 173,
+              "overs": "18.5",
+              "balls": "113",
+              "status": "IN_PROGRESS",
+              "wickets": 6
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
         {
           "name": "Gurugram Thunders",
           "shortName": "GT",
@@ -1826,33 +1853,6 @@
           "status": {
             "cricket": {
               "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Delhi Warriors",
-          "shortName": "DW",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DWR@2x.png"
-          },
-          "isWinner": true,
-          "color": "#80081C",
-          "cricketScore": [
-            {
-              "runs": 173,
-              "overs": "18.5",
-              "balls": "113",
-              "status": "IN_PROGRESS",
-              "wickets": 6
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
             }
           }
         }
