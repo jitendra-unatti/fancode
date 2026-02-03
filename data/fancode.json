@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:28:01 PM 03-02-2026",
+  "last_updated": "06:35:05 PM 03-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 117,
-              "overs": "13.4",
-              "balls": "82",
+              "runs": 140,
+              "overs": "15",
+              "balls": "90",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -155,9 +155,9 @@
           "color": "#ABD5FF",
           "cricketScore": [
             {
-              "runs": 117,
-              "overs": "13.4",
-              "balls": "82",
+              "runs": 140,
+              "overs": "15",
+              "balls": "90",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -186,42 +186,34 @@
     },
     {
       "category": "Cricket",
-      "title": "Ajman Vs Fujairah",
+      "title": "Abu Dhabi Vs Sharjah",
       "tournament": "Emirates D10, 2026",
-      "match_id": 139611,
-      "status": "LIVE",
+      "match_id": 139612,
+      "status": "NOT_STARTED",
       "streamingStatus": "STARTED",
-      "startTime": "03 February 2026 04:30 PM",
+      "startTime": "03 February 2026 06:45 PM",
       "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
       "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139611_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139612_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-Tournament-(1).png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty_1769270071325.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139611_CASACARDS_PARTNER_16_9_1920_1080.png"
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty_v2.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139612_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "teams": [
         {
-          "name": "Ajman",
-          "shortName": "AJM",
+          "name": "Abu Dhabi",
+          "shortName": "ABD",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png"
           },
-          "isWinner": true,
-          "color": "#c83ca3",
-          "cricketScore": [
-            {
-              "runs": 114,
-              "overs": "10",
-              "balls": "60",
-              "status": "COMPLETED",
-              "wickets": 2
-            }
-          ],
+          "isWinner": null,
+          "color": "#2279a4",
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -233,39 +225,31 @@
           }
         },
         {
-          "name": "Fujairah",
-          "shortName": "FUJ",
+          "name": "Sharjah",
+          "shortName": "SHA",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
           },
-          "isWinner": false,
-          "color": "#c8962f",
-          "cricketScore": [
-            {
-              "runs": 96,
-              "overs": "10",
-              "balls": "60",
-              "status": "IN_PROGRESS",
-              "wickets": 4
-            }
-          ],
+          "isWinner": null,
+          "color": "#d94f55",
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         }
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/139611_english_hls_3f1b0326ff1420_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139611_english_hls_3f1b0326ff1420_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139611_english_hls_3f1b0326ff1420_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/bUuS4w_nS1OcRtqM6uTllQ/master.m3u8",
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/139612_english_hls_1b3dc5177883817_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/139612_english_hls_1b3dc5177883817_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/139612_english_hls_1b3dc5177883817_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/e1Whg-kKTAi7imsISViijQ/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
@@ -340,6 +324,88 @@
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Cricket",
+      "title": "Ajman Vs Fujairah",
+      "tournament": "Emirates D10, 2026",
+      "match_id": 139611,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "03 February 2026 04:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139611_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-Tournament-(1).png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty_1769270071325.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139611_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Ajman",
+          "shortName": "AJM",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png"
+          },
+          "isWinner": true,
+          "color": "#c83ca3",
+          "cricketScore": [
+            {
+              "runs": 114,
+              "overs": "10",
+              "balls": "60",
+              "status": "COMPLETED",
+              "wickets": 2
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Fujairah",
+          "shortName": "FUJ",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png"
+          },
+          "isWinner": false,
+          "color": "#c8962f",
+          "cricketScore": [
+            {
+              "runs": 96,
+              "overs": "10",
+              "balls": "60",
+              "status": "IN_PROGRESS",
+              "wickets": 4
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
       }
     },
     {
@@ -456,72 +522,6 @@
           },
           "isWinner": null,
           "color": "#80081C",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi Vs Sharjah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": 139612,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "03 February 2026 06:45 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139612_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-Tournament-(1).png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_Old_Sporty_v2.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139612_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Abu Dhabi",
-          "shortName": "ABD",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png"
-          },
-          "isWinner": null,
-          "color": "#2279a4",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Sharjah",
-          "shortName": "SHA",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png"
-          },
-          "isWinner": null,
-          "color": "#d94f55",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
