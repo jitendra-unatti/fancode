@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:49:22 AM 04-02-2026",
+  "last_updated": "08:56:06 AM 04-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 39,
+  "total_matches": 38,
   "live_matches": 6,
-  "upcoming_matches": 33,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -41,9 +41,9 @@
           "color": "#007e1e",
           "cricketScore": [
             {
-              "runs": 18,
-              "overs": "3",
-              "balls": "18",
+              "runs": 26,
+              "overs": "5",
+              "balls": "30",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -435,81 +435,10 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-        "fancode_cdn": "Unavailable",
-        "fancode_bd_cdn": null,
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
-    {
-      "category": "Live Events",
-      "title": "Day 5   Table 4",
-      "tournament": "Dream Sports Championship Table Tennis 2026",
-      "match_id": 140340,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "04 February 2026 09:00 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140340_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennis-sporty-match-card.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140340_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Day 5 - Table 4",
-          "shortName": "Day 5 - Table 4",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-DSC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#E00000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Chennai",
-          "shortName": "Chennai",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FFFFFF",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-pdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/yH42za99SreWs8Y0hpsXng/master.m3u8",
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/e8ktVJJLTdu4ov-_q45v4A/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
