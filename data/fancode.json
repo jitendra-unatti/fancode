@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:28:01 PM 04-02-2026",
+  "last_updated": "12:35:01 PM 04-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -54,7 +54,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         },
@@ -539,7 +539,7 @@
           },
           "isWinner": null,
           "color": "#d94f55",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -558,7 +558,7 @@
           },
           "isWinner": null,
           "color": "#f64bce",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -605,7 +605,7 @@
           },
           "isWinner": null,
           "color": "#62bfe9",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -624,7 +624,7 @@
           },
           "isWinner": null,
           "color": "#A91118",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1067,7 +1067,7 @@
           },
           "isWinner": null,
           "color": "#0088e7",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1086,7 +1086,7 @@
           },
           "isWinner": null,
           "color": "#7d0032",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1199,7 +1199,7 @@
           },
           "isWinner": null,
           "color": "#00226a",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1218,7 +1218,7 @@
           },
           "isWinner": null,
           "color": "#ffd500",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1265,7 +1265,7 @@
           },
           "isWinner": null,
           "color": "#0088e7",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1284,7 +1284,7 @@
           },
           "isWinner": null,
           "color": "#c50008",
-          "cricketScore": [],
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1716,7 +1716,7 @@
     },
     {
       "category": "Cricket",
-      "title": "England Vs Sri Lanka",
+      "title": "Sri Lanka Vs England",
       "tournament": "England tour of Sri Lanka, 2026",
       "match_id": 139294,
       "status": "COMPLETED",
@@ -1735,6 +1735,33 @@
         "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139294_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "teams": [
+        {
+          "name": "Sri Lanka",
+          "shortName": "SL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
+          },
+          "isWinner": false,
+          "color": "#164fad",
+          "cricketScore": [
+            {
+              "runs": 116,
+              "overs": "19.3",
+              "balls": "117",
+              "status": "IN_PROGRESS",
+              "wickets": 10
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
         {
           "name": "England",
           "shortName": "ENG",
@@ -1759,33 +1786,6 @@
           "status": {
             "cricket": {
               "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Sri Lanka",
-          "shortName": "SL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-          },
-          "isWinner": false,
-          "color": "#164fad",
-          "cricketScore": [
-            {
-              "runs": 116,
-              "overs": "19.3",
-              "balls": "117",
-              "status": "IN_PROGRESS",
-              "wickets": 10
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
             }
           }
         }
@@ -1867,7 +1867,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         }
