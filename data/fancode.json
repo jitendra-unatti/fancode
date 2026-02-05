@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:21:07 AM 06-02-2026",
+  "last_updated": "01:28:03 AM 06-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -115,7 +115,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Salford City",
@@ -130,7 +134,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
