@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:00:05 PM 05-02-2026",
+  "last_updated": "11:07:01 PM 05-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -86,7 +86,7 @@
       "title": "Al Okhdood Club Vs Al Hilal Sfc",
       "tournament": "Roshn Saudi League 2025-2026",
       "match_id": 139836,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "05 February 2026 11:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -112,7 +112,10 @@
           "color": "#00334D",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -131,7 +134,10 @@
           "color": "#031537",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -1611,7 +1617,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         }
