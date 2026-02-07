@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "02:07:01 PM 07-02-2026",
+  "last_updated": "02:14:01 PM 07-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -82,8 +82,8 @@
               "wickets": 10
             },
             {
-              "runs": 143,
-              "overs": "48",
+              "runs": 144,
+              "overs": "51",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 2
@@ -145,7 +145,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Melbourne City",
@@ -160,7 +164,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
