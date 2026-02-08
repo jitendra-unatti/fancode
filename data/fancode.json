@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:35:01 AM 08-02-2026",
+  "last_updated": "05:42:01 AM 08-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -82,11 +82,11 @@
               "wickets": 10
             },
             {
-              "runs": 167,
-              "overs": "75.5",
+              "runs": 180,
+              "overs": "78",
               "balls": "0",
               "status": "IN_PROGRESS",
-              "wickets": 6
+              "wickets": 7
             }
           ],
           "kabaddiScore": null,
@@ -1794,7 +1794,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Real Oviedo",
@@ -1809,7 +1813,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
