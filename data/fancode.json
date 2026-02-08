@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:21:01 PM 08-02-2026",
+  "last_updated": "08:28:01 PM 08-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -10,96 +10,6 @@
   "live_matches": 8,
   "upcoming_matches": 30,
   "matches": [
-    {
-      "category": "Football",
-      "title": "Deportivo Alaves Vs Getafe Cf",
-      "tournament": "LALIGA 2025-26",
-      "match_id": 131056,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "08 February 2026 06:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/131056_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-App.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131056_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "teams": [
-        {
-          "name": "Deportivo Alaves",
-          "shortName": "ALA",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#537096",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 0,
-            "goals": []
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Getafe CF",
-          "shortName": "GEF",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png"
-          },
-          "isWinner": null,
-          "color": "#e0d405",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 2,
-            "goals": [
-              {
-                "id": "21484",
-                "shortName": "M Arambarri",
-                "isOwnGoal": false,
-                "goalTime": "72'"
-              },
-              {
-                "id": "160243",
-                "shortName": "L Vazquez",
-                "isOwnGoal": false,
-                "goalTime": "53'"
-              }
-            ]
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      }
-    },
     {
       "category": "Football",
       "title": "Tottenham Hotspur Women Vs Chelsea F.c. Women",
@@ -134,7 +44,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Chelsea F.C. Women",
@@ -149,7 +63,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -339,7 +257,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Castellón",
@@ -354,7 +276,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -402,7 +328,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Queen's Park",
@@ -417,7 +347,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -568,6 +502,96 @@
         "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/140186_english_hls_8e47b2787f27163_1ta-di_h264/index.m3u8",
         "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/140186_english_hls_8e47b2787f27163_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "https://dai.google.com/linear/hls/event/VDZoCPxDSAqKKRQnKnKwDA/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      }
+    },
+    {
+      "category": "Football",
+      "title": "Deportivo Alaves Vs Getafe Cf",
+      "tournament": "LALIGA 2025-26",
+      "match_id": 131056,
+      "status": "COMPLETED",
+      "streamingStatus": "STARTED",
+      "startTime": "08 February 2026 06:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/131056_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-App.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131056_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "teams": [
+        {
+          "name": "Deportivo Alaves",
+          "shortName": "ALA",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#537096",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Getafe CF",
+          "shortName": "GEF",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png"
+          },
+          "isWinner": null,
+          "color": "#e0d405",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": {
+            "points": 2,
+            "goals": [
+              {
+                "id": "21484",
+                "shortName": "M Arambarri",
+                "isOwnGoal": false,
+                "goalTime": "72'"
+              },
+              {
+                "id": "160243",
+                "shortName": "L Vazquez",
+                "isOwnGoal": false,
+                "goalTime": "53'"
+              }
+            ]
+          },
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-fdlive.fancode.com/mumbai/131056_english_hls_f9cac542f252226_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
