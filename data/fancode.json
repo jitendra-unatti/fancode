@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:00:01 PM 14-02-2026",
+  "last_updated": "10:07:01 PM 14-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1",
     "Referer": "https://fancode.com/"
@@ -42,8 +42,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "176112",
+                "shortName": "P Agyemang",
+                "isOwnGoal": false,
+                "goalTime": "67'"
+              },
               {
                 "id": "30952",
                 "shortName": "R Brewster",
@@ -126,8 +132,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "128660",
+                "shortName": "M Satriano",
+                "isOwnGoal": false,
+                "goalTime": "53'"
+              },
               {
                 "id": "21484",
                 "shortName": "M Arambarri",
