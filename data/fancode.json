@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:49:02 AM 18-02-2026",
+  "last_updated": "04:56:04 AM 18-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#fbba00",
           "cricketScore": [
             {
-              "runs": 20,
-              "overs": "4",
-              "balls": "24",
+              "runs": 30,
+              "overs": "5.5",
+              "balls": "35",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -236,9 +236,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8?hdnea=exp=1771356064~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~id=318105927_46c33ca9-4dcc-4b~data=318105927~hmac=857361f2d651bc9a209c992d4bb754410d7f295ee777a8a44f087ec6d79abf03&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140286%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8?hdnea=exp=1771356064~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~id=318105927_46c33ca9-4dcc-4b~data=318105927~hmac=857361f2d651bc9a209c992d4bb754410d7f295ee777a8a44f087ec6d79abf03&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140286%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8?hdnea=exp=1771356064~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~id=318105927_46c33ca9-4dcc-4b~data=318105927~hmac=857361f2d651bc9a209c992d4bb754410d7f295ee777a8a44f087ec6d79abf03&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140286%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -246,8 +246,8 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/240p.m3u8?hdntl=Expires=1771442346~_GO=Generated~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~Signature=ATihZv4vKm-lhiP0c4g56V6gdL-KVLyowio9X7riRXhcexP5utmLhwF0_-z8cRzl0H7pmS3Sj2P7yrD4ULHT6wac0XwD\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/360p.m3u8?hdntl=Expires=1771442346~_GO=Generated~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~Signature=ATihZv4vKm-lhiP0c4g56V6gdL-KVLyowio9X7riRXhcexP5utmLhwF0_-z8cRzl0H7pmS3Sj2P7yrD4ULHT6wac0XwD\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/480p.m3u8?hdntl=Expires=1771442346~_GO=Generated~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~Signature=ATihZv4vKm-lhiP0c4g56V6gdL-KVLyowio9X7riRXhcexP5utmLhwF0_-z8cRzl0H7pmS3Sj2P7yrD4ULHT6wac0XwD\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/540p.m3u8?hdntl=Expires=1771442346~_GO=Generated~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~Signature=ATihZv4vKm-lhiP0c4g56V6gdL-KVLyowio9X7riRXhcexP5utmLhwF0_-z8cRzl0H7pmS3Sj2P7yrD4ULHT6wac0XwD\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/720p.m3u8?hdntl=Expires=1771442346~_GO=Generated~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~Signature=ATihZv4vKm-lhiP0c4g56V6gdL-KVLyowio9X7riRXhcexP5utmLhwF0_-z8cRzl0H7pmS3Sj2P7yrD4ULHT6wac0XwD\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771442346~_GO=Generated~acl=/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/*~Signature=ATihZv4vKm-lhiP0c4g56V6gdL-KVLyowio9X7riRXhcexP5utmLhwF0_-z8cRzl0H7pmS3Sj2P7yrD4ULHT6wac0XwD",
-          "cookie_valid": "1771442346",
+          "auto": "",
+          "cookie_valid": null,
           "language": "ENGLISH"
         }
       ]
@@ -314,9 +314,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8?hdnea=exp=1771356066~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~id=318105927_4e6146e2-a830-45~data=318105927~hmac=6b570544215f34f708f18d7e0be7302d9020f89e2abbc35373457ffec8b4b5b8&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140656%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8?hdnea=exp=1771356066~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~id=318105927_4e6146e2-a830-45~data=318105927~hmac=6b570544215f34f708f18d7e0be7302d9020f89e2abbc35373457ffec8b4b5b8&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140656%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8?hdnea=exp=1771356066~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~id=318105927_4e6146e2-a830-45~data=318105927~hmac=6b570544215f34f708f18d7e0be7302d9020f89e2abbc35373457ffec8b4b5b8&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140656%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -324,8 +324,8 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/240p.m3u8?hdntl=Expires=1771442348~_GO=Generated~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~Signature=ATihZv62iXCw_E167hPmURH1uSbvMSjfl9oJYUB2u-sx0IWCfPjS2sl52EinyKivVK1wADbQ1bizWIVqh32U3MzlXagL\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/360p.m3u8?hdntl=Expires=1771442348~_GO=Generated~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~Signature=ATihZv62iXCw_E167hPmURH1uSbvMSjfl9oJYUB2u-sx0IWCfPjS2sl52EinyKivVK1wADbQ1bizWIVqh32U3MzlXagL\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/480p.m3u8?hdntl=Expires=1771442348~_GO=Generated~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~Signature=ATihZv62iXCw_E167hPmURH1uSbvMSjfl9oJYUB2u-sx0IWCfPjS2sl52EinyKivVK1wADbQ1bizWIVqh32U3MzlXagL\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/540p.m3u8?hdntl=Expires=1771442348~_GO=Generated~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~Signature=ATihZv62iXCw_E167hPmURH1uSbvMSjfl9oJYUB2u-sx0IWCfPjS2sl52EinyKivVK1wADbQ1bizWIVqh32U3MzlXagL\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/720p.m3u8?hdntl=Expires=1771442348~_GO=Generated~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~Signature=ATihZv62iXCw_E167hPmURH1uSbvMSjfl9oJYUB2u-sx0IWCfPjS2sl52EinyKivVK1wADbQ1bizWIVqh32U3MzlXagL\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771442348~_GO=Generated~acl=/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/*~Signature=ATihZv62iXCw_E167hPmURH1uSbvMSjfl9oJYUB2u-sx0IWCfPjS2sl52EinyKivVK1wADbQ1bizWIVqh32U3MzlXagL",
-          "cookie_valid": "1771442348",
+          "auto": "",
+          "cookie_valid": null,
           "language": "ENGLISH"
         }
       ]
@@ -392,9 +392,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8?hdnea=exp=1771356069~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~id=318105927_729bbc27-d1dd-40~data=318105927~hmac=b760a6376857764f9b4e330ac65391a3e251fad01bc6515df8b57c94d1b0ca0d&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140655%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8?hdnea=exp=1771356069~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~id=318105927_729bbc27-d1dd-40~data=318105927~hmac=b760a6376857764f9b4e330ac65391a3e251fad01bc6515df8b57c94d1b0ca0d&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140655%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8?hdnea=exp=1771356069~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~id=318105927_729bbc27-d1dd-40~data=318105927~hmac=b760a6376857764f9b4e330ac65391a3e251fad01bc6515df8b57c94d1b0ca0d&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140655%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -402,8 +402,8 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/240p.m3u8?hdntl=Expires=1771442350~_GO=Generated~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~Signature=ATihZv66adkp0IiXHTgyiWV-GfoGwLJngJr0F-CrpWqhGB6pcDUOBoE0fNL7PgOkkhrs6A-zrBcs4sBf59xB0Cnrt18L\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/360p.m3u8?hdntl=Expires=1771442350~_GO=Generated~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~Signature=ATihZv66adkp0IiXHTgyiWV-GfoGwLJngJr0F-CrpWqhGB6pcDUOBoE0fNL7PgOkkhrs6A-zrBcs4sBf59xB0Cnrt18L\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/480p.m3u8?hdntl=Expires=1771442350~_GO=Generated~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~Signature=ATihZv66adkp0IiXHTgyiWV-GfoGwLJngJr0F-CrpWqhGB6pcDUOBoE0fNL7PgOkkhrs6A-zrBcs4sBf59xB0Cnrt18L\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/540p.m3u8?hdntl=Expires=1771442350~_GO=Generated~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~Signature=ATihZv66adkp0IiXHTgyiWV-GfoGwLJngJr0F-CrpWqhGB6pcDUOBoE0fNL7PgOkkhrs6A-zrBcs4sBf59xB0Cnrt18L\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/720p.m3u8?hdntl=Expires=1771442350~_GO=Generated~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~Signature=ATihZv66adkp0IiXHTgyiWV-GfoGwLJngJr0F-CrpWqhGB6pcDUOBoE0fNL7PgOkkhrs6A-zrBcs4sBf59xB0Cnrt18L\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771442350~_GO=Generated~acl=/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/*~Signature=ATihZv66adkp0IiXHTgyiWV-GfoGwLJngJr0F-CrpWqhGB6pcDUOBoE0fNL7PgOkkhrs6A-zrBcs4sBf59xB0Cnrt18L",
-          "cookie_valid": "1771442350",
+          "auto": "",
+          "cookie_valid": null,
           "language": "ENGLISH"
         }
       ]
