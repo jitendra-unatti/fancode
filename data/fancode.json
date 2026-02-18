@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:28:02 AM 18-02-2026",
+  "last_updated": "09:35:05 AM 18-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#00226a",
           "cricketScore": [
             {
-              "runs": 61,
-              "overs": "15.3",
-              "balls": "93",
+              "runs": 64,
+              "overs": "17.1",
+              "balls": "103",
               "status": "IN_PROGRESS",
-              "wickets": 0
+              "wickets": 1
             }
           ],
           "kabaddiScore": null,
@@ -176,11 +176,11 @@
               "wickets": 10
             },
             {
-              "runs": 68,
-              "overs": "30",
+              "runs": 73,
+              "overs": "31.3",
               "balls": "0",
               "status": "IN_PROGRESS",
-              "wickets": 2
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
@@ -196,9 +196,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8?hdnea=exp=1771372383~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~id=318105927_47e88a1f-654a-46~data=318105927~hmac=671447801fdd82e454b651d8f5f2ef33d70e6064e904fc0c8acc72bd5a2ef2b1&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D134035%26match_format%3DTest%26tour_id%3D5609%26tour_name%3DSheffield_Shield_2025-26%26sport%3Dcricket%26authorizationType%3DAUTH&state=Maharashtra&city=Mumbai",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8?hdnea=exp=1771372383~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~id=318105927_47e88a1f-654a-46~data=318105927~hmac=671447801fdd82e454b651d8f5f2ef33d70e6064e904fc0c8acc72bd5a2ef2b1&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D134035%26match_format%3DTest%26tour_id%3D5609%26tour_name%3DSheffield_Shield_2025-26%26sport%3Dcricket%26authorizationType%3DAUTH&state=Maharashtra&city=Mumbai",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8?hdnea=exp=1771372383~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~id=318105927_47e88a1f-654a-46~data=318105927~hmac=671447801fdd82e454b651d8f5f2ef33d70e6064e904fc0c8acc72bd5a2ef2b1&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D134035%26match_format%3DTest%26tour_id%3D5609%26tour_name%3DSheffield_Shield_2025-26%26sport%3Dcricket%26authorizationType%3DAUTH&state=Maharashtra&city=Mumbai",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -206,8 +206,8 @@
       },
       "auto_streams": [
         {
-          "auto": "",
-          "cookie_valid": null,
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/240p.m3u8?hdntl=Expires=1771473905~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~Signature=ATihZv4lPpedKuT_TRQBZrGOOuzgPPIMk7b6b_wI3Nw2VFymNUqsHSyXi7bwfyxrIawSHSs2hXQKi1TFvCrCeZITPDsD\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/360p.m3u8?hdntl=Expires=1771473905~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~Signature=ATihZv4lPpedKuT_TRQBZrGOOuzgPPIMk7b6b_wI3Nw2VFymNUqsHSyXi7bwfyxrIawSHSs2hXQKi1TFvCrCeZITPDsD\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/480p.m3u8?hdntl=Expires=1771473905~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~Signature=ATihZv4lPpedKuT_TRQBZrGOOuzgPPIMk7b6b_wI3Nw2VFymNUqsHSyXi7bwfyxrIawSHSs2hXQKi1TFvCrCeZITPDsD\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/540p.m3u8?hdntl=Expires=1771473905~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~Signature=ATihZv4lPpedKuT_TRQBZrGOOuzgPPIMk7b6b_wI3Nw2VFymNUqsHSyXi7bwfyxrIawSHSs2hXQKi1TFvCrCeZITPDsD\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/720p.m3u8?hdntl=Expires=1771473905~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~Signature=ATihZv4lPpedKuT_TRQBZrGOOuzgPPIMk7b6b_wI3Nw2VFymNUqsHSyXi7bwfyxrIawSHSs2hXQKi1TFvCrCeZITPDsD\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771473905~_GO=Generated~acl=/mumbai/134035_english_hls_1afd89d14d53757_1ta-di_h264/*~Signature=ATihZv4lPpedKuT_TRQBZrGOOuzgPPIMk7b6b_wI3Nw2VFymNUqsHSyXi7bwfyxrIawSHSs2hXQKi1TFvCrCeZITPDsD",
+          "cookie_valid": "1771473905",
           "language": "ENGLISH"
         }
       ]
@@ -250,8 +250,8 @@
               "wickets": 9
             },
             {
-              "runs": 21,
-              "overs": "5.1",
+              "runs": 27,
+              "overs": "6.4",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 0
@@ -371,8 +371,8 @@
           "color": "#0088e7",
           "cricketScore": [
             {
-              "runs": 330,
-              "overs": "103.1",
+              "runs": 338,
+              "overs": "105",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 7
