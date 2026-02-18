@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:42:31 AM 18-02-2026",
+  "last_updated": "11:52:32 AM 18-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -10,100 +10,6 @@
   "live_matches": 4,
   "upcoming_matches": 34,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Western Australia Women Vs Victoria Women",
-      "tournament": "Women's National Cricket League, 2025-26",
-      "match_id": 133984,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "18 February 2026 04:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/133984_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/WNCL-1.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_Sporty_v3_1758034980235.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133984_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Western Australia Women",
-          "shortName": "WA-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#fbba00",
-          "cricketScore": [
-            {
-              "runs": 276,
-              "overs": "50",
-              "balls": "300",
-              "status": "COMPLETED",
-              "wickets": 6
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Victoria Women",
-          "shortName": "VCTW",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#00226a",
-          "cricketScore": [
-            {
-              "runs": 270,
-              "overs": "49.3",
-              "balls": "298",
-              "status": "IN_PROGRESS",
-              "wickets": 6
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/240p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/360p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/480p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/540p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/720p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP",
-          "cookie_valid": "1771470304",
-          "language": "ENGLISH"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Victoria Vs Western Australia",
@@ -142,8 +48,8 @@
               "wickets": 9
             },
             {
-              "runs": 119,
-              "overs": "26",
+              "runs": 127,
+              "overs": "27.5",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 3
@@ -189,9 +95,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8?hdnea=exp=1771381266~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~id=318105927_92875eed-6b47-43~data=318105927~hmac=a5c78d67ca166ae0cc17e384a87abbef94555c4efdb4eb1a3178188510b03923&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D134036%26match_format%3DTest%26tour_id%3D5609%26tour_name%3DSheffield_Shield_2025-26%26sport%3Dcricket%26authorizationType%3DAUTH&state=Maharashtra&city=Mumbai",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8?hdnea=exp=1771381266~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~id=318105927_92875eed-6b47-43~data=318105927~hmac=a5c78d67ca166ae0cc17e384a87abbef94555c4efdb4eb1a3178188510b03923&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D134036%26match_format%3DTest%26tour_id%3D5609%26tour_name%3DSheffield_Shield_2025-26%26sport%3Dcricket%26authorizationType%3DAUTH&state=Maharashtra&city=Mumbai",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8?hdnea=exp=1771381266~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~id=318105927_92875eed-6b47-43~data=318105927~hmac=a5c78d67ca166ae0cc17e384a87abbef94555c4efdb4eb1a3178188510b03923&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D134036%26match_format%3DTest%26tour_id%3D5609%26tour_name%3DSheffield_Shield_2025-26%26sport%3Dcricket%26authorizationType%3DAUTH&state=Maharashtra&city=Mumbai",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -199,8 +105,8 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/240p.m3u8?hdntl=Expires=1771467547~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv6wwpwQr4xYkg7ynHaKBTIMRpU5qNmoy8FWVpaema_3daausr0j8mmGDTvgs1C6NXf_FI2A1cp19F0tfutHrM8E\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/360p.m3u8?hdntl=Expires=1771467547~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv6wwpwQr4xYkg7ynHaKBTIMRpU5qNmoy8FWVpaema_3daausr0j8mmGDTvgs1C6NXf_FI2A1cp19F0tfutHrM8E\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/480p.m3u8?hdntl=Expires=1771467547~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv6wwpwQr4xYkg7ynHaKBTIMRpU5qNmoy8FWVpaema_3daausr0j8mmGDTvgs1C6NXf_FI2A1cp19F0tfutHrM8E\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/540p.m3u8?hdntl=Expires=1771467547~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv6wwpwQr4xYkg7ynHaKBTIMRpU5qNmoy8FWVpaema_3daausr0j8mmGDTvgs1C6NXf_FI2A1cp19F0tfutHrM8E\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/720p.m3u8?hdntl=Expires=1771467547~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv6wwpwQr4xYkg7ynHaKBTIMRpU5qNmoy8FWVpaema_3daausr0j8mmGDTvgs1C6NXf_FI2A1cp19F0tfutHrM8E\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771467547~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv6wwpwQr4xYkg7ynHaKBTIMRpU5qNmoy8FWVpaema_3daausr0j8mmGDTvgs1C6NXf_FI2A1cp19F0tfutHrM8E",
-          "cookie_valid": "1771467547",
+          "auto": "",
+          "cookie_valid": null,
           "language": "ENGLISH"
         }
       ]
@@ -243,8 +149,8 @@
               "wickets": 10
             },
             {
-              "runs": 62,
-              "overs": "9",
+              "runs": 67,
+              "overs": "10.5",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 0
@@ -380,6 +286,100 @@
         {
           "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/240p.m3u8?hdntl=Expires=1771471144~_GO=Generated~acl=/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/*~Signature=ATihZv7abxePiPztQkrI5s2fALMUEyqiflNm-3GJtajfxZp2l6KGuFlLP8EYuNFQB_10alncuBI9JdIFMQ7bY1oMsmUK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/360p.m3u8?hdntl=Expires=1771471144~_GO=Generated~acl=/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/*~Signature=ATihZv7abxePiPztQkrI5s2fALMUEyqiflNm-3GJtajfxZp2l6KGuFlLP8EYuNFQB_10alncuBI9JdIFMQ7bY1oMsmUK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/480p.m3u8?hdntl=Expires=1771471144~_GO=Generated~acl=/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/*~Signature=ATihZv7abxePiPztQkrI5s2fALMUEyqiflNm-3GJtajfxZp2l6KGuFlLP8EYuNFQB_10alncuBI9JdIFMQ7bY1oMsmUK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/540p.m3u8?hdntl=Expires=1771471144~_GO=Generated~acl=/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/*~Signature=ATihZv7abxePiPztQkrI5s2fALMUEyqiflNm-3GJtajfxZp2l6KGuFlLP8EYuNFQB_10alncuBI9JdIFMQ7bY1oMsmUK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/720p.m3u8?hdntl=Expires=1771471144~_GO=Generated~acl=/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/*~Signature=ATihZv7abxePiPztQkrI5s2fALMUEyqiflNm-3GJtajfxZp2l6KGuFlLP8EYuNFQB_10alncuBI9JdIFMQ7bY1oMsmUK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771471144~_GO=Generated~acl=/mumbai/140601_english_hls_fb36d3a80c49827_1ta-di_h264/*~Signature=ATihZv7abxePiPztQkrI5s2fALMUEyqiflNm-3GJtajfxZp2l6KGuFlLP8EYuNFQB_10alncuBI9JdIFMQ7bY1oMsmUK",
           "cookie_valid": "1771471144",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Western Australia Women Vs Victoria Women",
+      "tournament": "Women's National Cricket League, 2025-26",
+      "match_id": 133984,
+      "status": "COMPLETED",
+      "streamingStatus": "STARTED",
+      "startTime": "18 February 2026 04:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/133984_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/WNCL-1.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_Sporty_v3_1758034980235.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133984_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Western Australia Women",
+          "shortName": "WA-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
+          },
+          "isWinner": true,
+          "color": "#fbba00",
+          "cricketScore": [
+            {
+              "runs": 276,
+              "overs": "50",
+              "balls": "300",
+              "status": "COMPLETED",
+              "wickets": 6
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Victoria Women",
+          "shortName": "VCTW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
+          },
+          "isWinner": false,
+          "color": "#00226a",
+          "cricketScore": [
+            {
+              "runs": 272,
+              "overs": "50",
+              "balls": "300",
+              "status": "IN_PROGRESS",
+              "wickets": 6
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/240p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/360p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/480p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/540p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/720p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771470304~_GO=Generated~acl=/mumbai/133984_english_hls_211a40c33242416_1ta-di_h264/*~Signature=ATihZv6ePua4VkwGNWPXCMc6hedDCWljj1mg9dxIKRz9s07Etp9Gzg4TsaxEHqkm9hOYHLUuWqCxnfW7OsVeWJAjeuwP",
+          "cookie_valid": "1771470304",
           "language": "ENGLISH"
         }
       ]
