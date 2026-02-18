@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:56:02 AM 18-02-2026",
+  "last_updated": "06:00:03 AM 18-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#fbba00",
           "cricketScore": [
             {
-              "runs": 87,
-              "overs": "19",
-              "balls": "114",
+              "runs": 93,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
               "wickets": 5
             }
@@ -135,10 +135,10 @@
             },
             {
               "runs": 115,
-              "overs": "44",
+              "overs": "44.3",
               "balls": "0",
               "status": "IN_PROGRESS",
-              "wickets": 6
+              "wickets": 7
             }
           ],
           "kabaddiScore": null,
@@ -259,9 +259,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8?hdnea=exp=1771359662~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~id=318105927_ab814395-ebf3-46~data=318105927~hmac=3473b8a8ffcfb8a76235f45534737a5f99829389f179644439c23b3da437b9d5&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140296%26match_format%3DSingles%26tour_id%3D5945%26tour_name%3DATP_250_-_Delray_Beach_Open_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8?hdnea=exp=1771359662~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~id=318105927_ab814395-ebf3-46~data=318105927~hmac=3473b8a8ffcfb8a76235f45534737a5f99829389f179644439c23b3da437b9d5&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140296%26match_format%3DSingles%26tour_id%3D5945%26tour_name%3DATP_250_-_Delray_Beach_Open_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8?hdnea=exp=1771359662~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~id=318105927_ab814395-ebf3-46~data=318105927~hmac=3473b8a8ffcfb8a76235f45534737a5f99829389f179644439c23b3da437b9d5&deviceId=4f3d9bc5a271f8a3&advertiserId=d8e5c7f4-1d0f-42a3-bc2f-86a78a5b7cde&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DMaharashtra%26city%3DMumbai%26userId%3D318105927%26match_id%3D140296%26match_format%3DSingles%26tour_id%3D5945%26tour_name%3DATP_250_-_Delray_Beach_Open_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&state=Maharashtra&city=Mumbai",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -269,8 +269,8 @@
       },
       "auto_streams": [
         {
-          "auto": "",
-          "cookie_valid": null,
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/240p.m3u8?hdntl=Expires=1771461004~_GO=Generated~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~Signature=ATihZv4gN8tAC4SJlQFuZwVYcwCKh7dTJFSFBMJ4BQ0s-gnF2JBQ06NJXuIGBT9DpaUvGrEDlCNpErfiIIJ8Y8tLlXoG\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/360p.m3u8?hdntl=Expires=1771461004~_GO=Generated~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~Signature=ATihZv4gN8tAC4SJlQFuZwVYcwCKh7dTJFSFBMJ4BQ0s-gnF2JBQ06NJXuIGBT9DpaUvGrEDlCNpErfiIIJ8Y8tLlXoG\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/480p.m3u8?hdntl=Expires=1771461004~_GO=Generated~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~Signature=ATihZv4gN8tAC4SJlQFuZwVYcwCKh7dTJFSFBMJ4BQ0s-gnF2JBQ06NJXuIGBT9DpaUvGrEDlCNpErfiIIJ8Y8tLlXoG\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/540p.m3u8?hdntl=Expires=1771461004~_GO=Generated~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~Signature=ATihZv4gN8tAC4SJlQFuZwVYcwCKh7dTJFSFBMJ4BQ0s-gnF2JBQ06NJXuIGBT9DpaUvGrEDlCNpErfiIIJ8Y8tLlXoG\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/720p.m3u8?hdntl=Expires=1771461004~_GO=Generated~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~Signature=ATihZv4gN8tAC4SJlQFuZwVYcwCKh7dTJFSFBMJ4BQ0s-gnF2JBQ06NJXuIGBT9DpaUvGrEDlCNpErfiIIJ8Y8tLlXoG\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771461004~_GO=Generated~acl=/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/*~Signature=ATihZv4gN8tAC4SJlQFuZwVYcwCKh7dTJFSFBMJ4BQ0s-gnF2JBQ06NJXuIGBT9DpaUvGrEDlCNpErfiIIJ8Y8tLlXoG",
+          "cookie_valid": "1771461004",
           "language": "ENGLISH"
         }
       ]
