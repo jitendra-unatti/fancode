@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "03:32:31 PM 18-02-2026",
+  "last_updated": "03:37:31 PM 18-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Football",
@@ -44,11 +44,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Gangwon",
@@ -63,11 +59,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
@@ -162,114 +154,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Victoria Vs Western Australia",
-      "tournament": "Sheffield Shield, 2025-26",
-      "match_id": 134036,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "16 February 2026 08:00 AM",
-      "startDate": "19 February 2026 08:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134036_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-App_1760687268133.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134036_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Victoria",
-          "shortName": "VCT",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#00226a",
-          "cricketScore": [
-            {
-              "runs": 431,
-              "overs": "116.5",
-              "balls": "0",
-              "status": "DECLARED",
-              "wickets": 9
-            },
-            {
-              "runs": 274,
-              "overs": "59",
-              "balls": "0",
-              "status": "DECLARED",
-              "wickets": 4
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Western Australia",
-          "shortName": "WAU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#6fc9ff",
-          "cricketScore": [
-            {
-              "runs": 238,
-              "overs": "80.2",
-              "balls": "0",
-              "status": "COMPLETED",
-              "wickets": 10
-            },
-            {
-              "runs": 26,
-              "overs": "13.4",
-              "balls": "0",
-              "status": "IN_PROGRESS",
-              "wickets": 2
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/240p.m3u8?hdntl=Expires=1771485776~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv529TMfKbyjifBoeoT3wfkkBPWc3n8OK86LcwQ3kIZ9_HTiVib5Pnw4oimVPWxrUI0LSX5Gn3PP9G1zb1C3tkEK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/360p.m3u8?hdntl=Expires=1771485776~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv529TMfKbyjifBoeoT3wfkkBPWc3n8OK86LcwQ3kIZ9_HTiVib5Pnw4oimVPWxrUI0LSX5Gn3PP9G1zb1C3tkEK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/480p.m3u8?hdntl=Expires=1771485776~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv529TMfKbyjifBoeoT3wfkkBPWc3n8OK86LcwQ3kIZ9_HTiVib5Pnw4oimVPWxrUI0LSX5Gn3PP9G1zb1C3tkEK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/540p.m3u8?hdntl=Expires=1771485776~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv529TMfKbyjifBoeoT3wfkkBPWc3n8OK86LcwQ3kIZ9_HTiVib5Pnw4oimVPWxrUI0LSX5Gn3PP9G1zb1C3tkEK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/720p.m3u8?hdntl=Expires=1771485776~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv529TMfKbyjifBoeoT3wfkkBPWc3n8OK86LcwQ3kIZ9_HTiVib5Pnw4oimVPWxrUI0LSX5Gn3PP9G1zb1C3tkEK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771485776~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f920741_1ta-di_h264/*~Signature=ATihZv529TMfKbyjifBoeoT3wfkkBPWc3n8OK86LcwQ3kIZ9_HTiVib5Pnw4oimVPWxrUI0LSX5Gn3PP9G1zb1C3tkEK",
-          "cookie_valid": "1771485776",
-          "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
       "title": "Tasmania Vs New South Wales",
       "tournament": "Sheffield Shield, 2025-26",
       "match_id": 134037,
@@ -306,8 +190,8 @@
               "wickets": 10
             },
             {
-              "runs": 225,
-              "overs": "57.2",
+              "runs": 228,
+              "overs": "58.2",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 4
@@ -368,6 +252,103 @@
           "language": "ENGLISH"
         }
       ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Victoria Vs Western Australia",
+      "tournament": "Sheffield Shield, 2025-26",
+      "match_id": 134036,
+      "status": "LIVE",
+      "streamingStatus": "PAUSED",
+      "startTime": "16 February 2026 08:00 AM",
+      "startDate": "19 February 2026 08:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134036_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-App_1760687268133.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134036_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Victoria",
+          "shortName": "VCT",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VCT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#00226a",
+          "cricketScore": [
+            {
+              "runs": 431,
+              "overs": "116.5",
+              "balls": "0",
+              "status": "DECLARED",
+              "wickets": 9
+            },
+            {
+              "runs": 274,
+              "overs": "59",
+              "balls": "0",
+              "status": "DECLARED",
+              "wickets": 4
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Western Australia",
+          "shortName": "WAU",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
+          },
+          "isWinner": null,
+          "color": "#6fc9ff",
+          "cricketScore": [
+            {
+              "runs": 238,
+              "overs": "80.2",
+              "balls": "0",
+              "status": "COMPLETED",
+              "wickets": 10
+            },
+            {
+              "runs": 26,
+              "overs": "14",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 2
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
     },
     {
       "category": "Live Events",
