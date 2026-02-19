@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:57:33 AM 19-02-2026",
+  "last_updated": "08:02:31 AM 19-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -10,77 +10,6 @@
   "live_matches": 6,
   "upcoming_matches": 32,
   "matches": [
-    {
-      "category": "Football",
-      "title": "O&m Fc Vs Fc Cincinnati",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "match_id": 140381,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "19 February 2026 06:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140381_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-App.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140381_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "O&M FC",
-          "shortName": "OMF",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OMF@2x.png"
-          },
-          "isWinner": null,
-          "color": "#22aad5",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        },
-        {
-          "name": "FC Cincinnati",
-          "shortName": "CIN",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CIN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#E93106",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/240p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/360p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/480p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/540p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/720p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I",
-          "cookie_valid": "1771548453",
-          "expire_date": "2026-02-20 06:17:33",
-          "language": "ENGLISH"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Victoria Vs Western Australia",
@@ -153,8 +82,8 @@
               "wickets": 10
             },
             {
-              "runs": 26,
-              "overs": "14",
+              "runs": 27,
+              "overs": "14.2",
               "balls": "0",
               "status": "IN_PROGRESS",
               "wickets": 2
@@ -186,6 +115,77 @@
           "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/240p.m3u8?hdntl=Expires=1771554453~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/*~Signature=AScLvDtAeq_SBO9bYqP-gqSYRMbur0fj4EEpxoR82G4rWxv7bVl9nBItRFo54uwaQByMZgNlWKAz44T2WN4Qzg7uc7sJ\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/360p.m3u8?hdntl=Expires=1771554453~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/*~Signature=AScLvDtAeq_SBO9bYqP-gqSYRMbur0fj4EEpxoR82G4rWxv7bVl9nBItRFo54uwaQByMZgNlWKAz44T2WN4Qzg7uc7sJ\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/480p.m3u8?hdntl=Expires=1771554453~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/*~Signature=AScLvDtAeq_SBO9bYqP-gqSYRMbur0fj4EEpxoR82G4rWxv7bVl9nBItRFo54uwaQByMZgNlWKAz44T2WN4Qzg7uc7sJ\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/540p.m3u8?hdntl=Expires=1771554453~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/*~Signature=AScLvDtAeq_SBO9bYqP-gqSYRMbur0fj4EEpxoR82G4rWxv7bVl9nBItRFo54uwaQByMZgNlWKAz44T2WN4Qzg7uc7sJ\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/720p.m3u8?hdntl=Expires=1771554453~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/*~Signature=AScLvDtAeq_SBO9bYqP-gqSYRMbur0fj4EEpxoR82G4rWxv7bVl9nBItRFo54uwaQByMZgNlWKAz44T2WN4Qzg7uc7sJ\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771554453~_GO=Generated~acl=/mumbai/134036_english_hls_ab6f47f92050998_1ta-di_h264/*~Signature=AScLvDtAeq_SBO9bYqP-gqSYRMbur0fj4EEpxoR82G4rWxv7bVl9nBItRFo54uwaQByMZgNlWKAz44T2WN4Qzg7uc7sJ",
           "cookie_valid": "1771554453",
           "expire_date": "2026-02-20 07:57:33",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "O&m Fc Vs Fc Cincinnati",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "match_id": 140381,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "19 February 2026 06:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140381_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140381_5954_OMF_CIN_FC-App.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140381_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "O&M FC",
+          "shortName": "OMF",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OMF@2x.png"
+          },
+          "isWinner": null,
+          "color": "#22aad5",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        },
+        {
+          "name": "FC Cincinnati",
+          "shortName": "CIN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CIN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#E93106",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/240p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/360p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/480p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/540p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/720p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1771548453~_GO=Generated~acl=/mumbai/140381_english_hls_0c9aab1c1939776_1ta-di_h264/*~Signature=AScLvDu6Bs_Wh52mJ5aPYKvNUq58T1sRQDWhrDHRe-YxjX2HSY4xfHfhAASh4pNcB1QBWDfEbPv62LxRFdht9Qz4Da4I",
+          "cookie_valid": "1771548453",
+          "expire_date": "2026-02-20 06:17:33",
           "language": "ENGLISH"
         }
       ]
