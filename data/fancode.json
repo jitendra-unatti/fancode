@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:28:01 AM 20-02-2026",
+  "last_updated": "07:42:08 AM 20-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -301,9 +301,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/index.m3u8?hdnea=exp=1771552648~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~id=5c1a2d7b8f02d931_9b1dfaf5-a86b-4a~data=5c1a2d7b8f02d931_free_420~hmac=26eba00a39f89af0d226558e5697222810b21862b1a870bd710be81c17019d63&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140791%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/index.m3u8?hdnea=exp=1771552648~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~id=5c1a2d7b8f02d931_9b1dfaf5-a86b-4a~data=5c1a2d7b8f02d931_free_420~hmac=26eba00a39f89af0d226558e5697222810b21862b1a870bd710be81c17019d63&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140791%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/index.m3u8?hdnea=exp=1771552648~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~id=5c1a2d7b8f02d931_9b1dfaf5-a86b-4a~data=5c1a2d7b8f02d931_free_420~hmac=26eba00a39f89af0d226558e5697222810b21862b1a870bd710be81c17019d63&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140791%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -311,9 +311,9 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/240p.m3u8?hdntl=Expires=1771552859~_GO=Generated~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~Signature=AScLvDuF9J0vzjlo2x5Qw8l-_G0MG6ZND_XNYc6D0CXpEMSpl7IF64Ffl5Ave5hicHazP1XZRU6gx8C80B36T8dIgyUG\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/360p.m3u8?hdntl=Expires=1771552859~_GO=Generated~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~Signature=AScLvDuF9J0vzjlo2x5Qw8l-_G0MG6ZND_XNYc6D0CXpEMSpl7IF64Ffl5Ave5hicHazP1XZRU6gx8C80B36T8dIgyUG\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/480p.m3u8?hdntl=Expires=1771552859~_GO=Generated~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~Signature=AScLvDuF9J0vzjlo2x5Qw8l-_G0MG6ZND_XNYc6D0CXpEMSpl7IF64Ffl5Ave5hicHazP1XZRU6gx8C80B36T8dIgyUG\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/540p.m3u8?hdntl=Expires=1771552859~_GO=Generated~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~Signature=AScLvDuF9J0vzjlo2x5Qw8l-_G0MG6ZND_XNYc6D0CXpEMSpl7IF64Ffl5Ave5hicHazP1XZRU6gx8C80B36T8dIgyUG\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/720p.m3u8?hdntl=Expires=1771552859~_GO=Generated~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~Signature=AScLvDuF9J0vzjlo2x5Qw8l-_G0MG6ZND_XNYc6D0CXpEMSpl7IF64Ffl5Ave5hicHazP1XZRU6gx8C80B36T8dIgyUG\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771552859~_GO=Generated~acl=/mumbai/140791_english_hls_b9be5d1e6439238_1ta-di_h264/*~Signature=AScLvDuF9J0vzjlo2x5Qw8l-_G0MG6ZND_XNYc6D0CXpEMSpl7IF64Ffl5Ave5hicHazP1XZRU6gx8C80B36T8dIgyUG",
-          "cookie_valid": "1771552859",
-          "expire_date": "2026-02-20 07:30:59",
+          "auto": "",
+          "cookie_valid": null,
+          "expire_date": null,
           "language": "ENGLISH"
         }
       ]
@@ -380,9 +380,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8?hdnea=exp=1771552652~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~id=5c1a2d7b8f02d931_68c6af8c-15f9-48~data=5c1a2d7b8f02d931_free_420~hmac=469885308eb177f85f93edc13fa71b8f0758382ef2b252562fba55cf222c44de&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140754%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8?hdnea=exp=1771552652~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~id=5c1a2d7b8f02d931_68c6af8c-15f9-48~data=5c1a2d7b8f02d931_free_420~hmac=469885308eb177f85f93edc13fa71b8f0758382ef2b252562fba55cf222c44de&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140754%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/index.m3u8?hdnea=exp=1771552652~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~id=5c1a2d7b8f02d931_68c6af8c-15f9-48~data=5c1a2d7b8f02d931_free_420~hmac=469885308eb177f85f93edc13fa71b8f0758382ef2b252562fba55cf222c44de&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140754%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -390,9 +390,9 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/240p.m3u8?hdntl=Expires=1771552865~_GO=Generated~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~Signature=AScLvDtRwNtSR8vRWQISobnsLohBFf-yHH2nNf4fryldFb9SUvawf4T86xc00ZVcozWP7HBO5LeELz35KDBa6Cz8z9cA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/360p.m3u8?hdntl=Expires=1771552865~_GO=Generated~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~Signature=AScLvDtRwNtSR8vRWQISobnsLohBFf-yHH2nNf4fryldFb9SUvawf4T86xc00ZVcozWP7HBO5LeELz35KDBa6Cz8z9cA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/480p.m3u8?hdntl=Expires=1771552865~_GO=Generated~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~Signature=AScLvDtRwNtSR8vRWQISobnsLohBFf-yHH2nNf4fryldFb9SUvawf4T86xc00ZVcozWP7HBO5LeELz35KDBa6Cz8z9cA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/540p.m3u8?hdntl=Expires=1771552865~_GO=Generated~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~Signature=AScLvDtRwNtSR8vRWQISobnsLohBFf-yHH2nNf4fryldFb9SUvawf4T86xc00ZVcozWP7HBO5LeELz35KDBa6Cz8z9cA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/720p.m3u8?hdntl=Expires=1771552865~_GO=Generated~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~Signature=AScLvDtRwNtSR8vRWQISobnsLohBFf-yHH2nNf4fryldFb9SUvawf4T86xc00ZVcozWP7HBO5LeELz35KDBa6Cz8z9cA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771552865~_GO=Generated~acl=/mumbai/140754_english_hls_f319aa71051989_1ta-di_h264/*~Signature=AScLvDtRwNtSR8vRWQISobnsLohBFf-yHH2nNf4fryldFb9SUvawf4T86xc00ZVcozWP7HBO5LeELz35KDBa6Cz8z9cA",
-          "cookie_valid": "1771552865",
-          "expire_date": "2026-02-20 07:31:05",
+          "auto": "",
+          "cookie_valid": null,
+          "expire_date": null,
           "language": "ENGLISH"
         }
       ]
@@ -459,9 +459,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/index.m3u8?hdnea=exp=1771552658~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~id=5c1a2d7b8f02d931_7c5ed6c5-27f5-49~data=5c1a2d7b8f02d931_free_420~hmac=877e5e9f2a909e6394061b444710d9d9d1be8d852461afb440b0d5bcdb55b38e&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140753%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/index.m3u8?hdnea=exp=1771552658~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~id=5c1a2d7b8f02d931_7c5ed6c5-27f5-49~data=5c1a2d7b8f02d931_free_420~hmac=877e5e9f2a909e6394061b444710d9d9d1be8d852461afb440b0d5bcdb55b38e&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140753%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/index.m3u8?hdnea=exp=1771552658~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~id=5c1a2d7b8f02d931_7c5ed6c5-27f5-49~data=5c1a2d7b8f02d931_free_420~hmac=877e5e9f2a909e6394061b444710d9d9d1be8d852461afb440b0d5bcdb55b38e&deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3D%26city%3DAmsterdam%26userId%3D%26match_id%3D140753%26match_format%3DSingles%26tour_id%3D5944%26tour_name%3DATP_500_-_Rio_Open_Presented_by_Claro_2026%26sport%3Dlawn-tennis%26authorizationType%3DPAID&city=Amsterdam",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -469,9 +469,9 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/240p.m3u8?hdntl=Expires=1771552869~_GO=Generated~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~Signature=AScLvDvWzA1jvHuJ23WFTgnWFct5yoh8OqsrOL-rqKLTzoKBHTOoq_mVL-MkPvTzmgXtau79HRnHN5f5GmpXh7AuUowB\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/360p.m3u8?hdntl=Expires=1771552869~_GO=Generated~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~Signature=AScLvDvWzA1jvHuJ23WFTgnWFct5yoh8OqsrOL-rqKLTzoKBHTOoq_mVL-MkPvTzmgXtau79HRnHN5f5GmpXh7AuUowB\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/480p.m3u8?hdntl=Expires=1771552869~_GO=Generated~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~Signature=AScLvDvWzA1jvHuJ23WFTgnWFct5yoh8OqsrOL-rqKLTzoKBHTOoq_mVL-MkPvTzmgXtau79HRnHN5f5GmpXh7AuUowB\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/540p.m3u8?hdntl=Expires=1771552869~_GO=Generated~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~Signature=AScLvDvWzA1jvHuJ23WFTgnWFct5yoh8OqsrOL-rqKLTzoKBHTOoq_mVL-MkPvTzmgXtau79HRnHN5f5GmpXh7AuUowB\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/720p.m3u8?hdntl=Expires=1771552869~_GO=Generated~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~Signature=AScLvDvWzA1jvHuJ23WFTgnWFct5yoh8OqsrOL-rqKLTzoKBHTOoq_mVL-MkPvTzmgXtau79HRnHN5f5GmpXh7AuUowB\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771552869~_GO=Generated~acl=/mumbai/140753_english_hls_769105fe9399563_1ta-di_h264/*~Signature=AScLvDvWzA1jvHuJ23WFTgnWFct5yoh8OqsrOL-rqKLTzoKBHTOoq_mVL-MkPvTzmgXtau79HRnHN5f5GmpXh7AuUowB",
-          "cookie_valid": "1771552869",
-          "expire_date": "2026-02-20 07:31:09",
+          "auto": "",
+          "cookie_valid": null,
+          "expire_date": null,
           "language": "ENGLISH"
         }
       ]
@@ -1817,6 +1817,73 @@
       "auto_streams": null
     },
     {
+      "category": "Football",
+      "title": "Wellington Phoenix Vs Auckland",
+      "tournament": "A League 2025-26",
+      "match_id": 139413,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "21 February 2026 09:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139413_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139413_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Wellington Phoenix",
+          "shortName": "WEL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#BAA209",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Auckland",
+          "shortName": "AFC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png"
+          },
+          "isWinner": null,
+          "color": "#CDA24E",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
       "category": "Tennis",
       "title": "World Feed",
       "tournament": "ATP 500 - Rio Open Presented by Claro 2026",
@@ -1931,73 +1998,6 @@
           },
           "isWinner": null,
           "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
-      "title": "Wellington Phoenix Vs Auckland",
-      "tournament": "A League 2025-26",
-      "match_id": 139413,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "21 February 2026 09:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139413_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139413_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Wellington Phoenix",
-          "shortName": "WEL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#BAA209",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Auckland",
-          "shortName": "AFC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png"
-          },
-          "isWinner": null,
-          "color": "#CDA24E",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
