@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:07:01 PM 23-02-2026",
+  "last_updated": "09:14:05 PM 23-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 42,
-  "live_matches": 6,
-  "upcoming_matches": 36,
+  "live_matches": 7,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Football",
@@ -934,6 +934,85 @@
       ]
     },
     {
+      "category": "Tennis",
+      "title": "Court Jaime Fillol",
+      "tournament": "ATP 250 - BCI Seguros Chile Open 2026",
+      "match_id": 140357,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "23 February 2026 09:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140357_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-sporty-.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140357_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Court Jaime Fillol",
+          "shortName": "Court Jaime Fillol",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Santiago, Chile",
+          "shortName": "Santiago, Chile",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/240p.m3u8?hdntl=Expires=1771861778~_GO=Generated~acl=/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/*~Signature=AScLvDscx2Qv1GCTwQeloU2QccYoRKI0_urBIyD-NIjK4gjjBCjODExjz46vW6XDX58HvCoAiIVU_cgF0xP3fudV-csO\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/360p.m3u8?hdntl=Expires=1771861778~_GO=Generated~acl=/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/*~Signature=AScLvDscx2Qv1GCTwQeloU2QccYoRKI0_urBIyD-NIjK4gjjBCjODExjz46vW6XDX58HvCoAiIVU_cgF0xP3fudV-csO\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/480p.m3u8?hdntl=Expires=1771861778~_GO=Generated~acl=/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/*~Signature=AScLvDscx2Qv1GCTwQeloU2QccYoRKI0_urBIyD-NIjK4gjjBCjODExjz46vW6XDX58HvCoAiIVU_cgF0xP3fudV-csO\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/540p.m3u8?hdntl=Expires=1771861778~_GO=Generated~acl=/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/*~Signature=AScLvDscx2Qv1GCTwQeloU2QccYoRKI0_urBIyD-NIjK4gjjBCjODExjz46vW6XDX58HvCoAiIVU_cgF0xP3fudV-csO\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/720p.m3u8?hdntl=Expires=1771861778~_GO=Generated~acl=/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/*~Signature=AScLvDscx2Qv1GCTwQeloU2QccYoRKI0_urBIyD-NIjK4gjjBCjODExjz46vW6XDX58HvCoAiIVU_cgF0xP3fudV-csO\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/1080p.m3u8?hdntl=Expires=1771861778~_GO=Generated~acl=/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/*~Signature=AScLvDscx2Qv1GCTwQeloU2QccYoRKI0_urBIyD-NIjK4gjjBCjODExjz46vW6XDX58HvCoAiIVU_cgF0xP3fudV-csO",
+          "cookie_valid": "1771861778",
+          "expire_date": "Monday, February 23, 2026, 9:19:38 PM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
       "category": "Cricket",
       "title": "Maties Cricket Club Vs Van Der Stel Cricket Club",
       "tournament": "Boland T20 Super League Finals 2026",
@@ -1316,73 +1395,6 @@
           },
           "isWinner": null,
           "color": "#C4AA1A",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Tennis",
-      "title": "Court Jaime Fillol",
-      "tournament": "ATP 250 - BCI Seguros Chile Open 2026",
-      "match_id": 140357,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "23 February 2026 09:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140357_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-sporty-.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140357_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Court Jaime Fillol",
-          "shortName": "Court Jaime Fillol",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Santiago, Chile",
-          "shortName": "Santiago, Chile",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
@@ -2156,6 +2168,73 @@
       "auto_streams": null
     },
     {
+      "category": "Football",
+      "title": "Southampton F.c. Vs Queens Park Rangers F.c.",
+      "tournament": "EFL Championship 2025-26",
+      "match_id": 140126,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "25 February 2026 01:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140126_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140126_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Southampton F.C.",
+          "shortName": "SOU",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOU@2x.png"
+          },
+          "isWinner": null,
+          "color": "#de4d5f",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Queens Park Rangers F.C.",
+          "shortName": "QPR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QPRN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#144a89",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
       "category": "Tennis",
       "title": "Court 2",
       "tournament": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
@@ -2471,73 +2550,6 @@
           },
           "isWinner": null,
           "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
-      "title": "Southampton F.c. Vs Queens Park Rangers F.c.",
-      "tournament": "EFL Championship 2025-26",
-      "match_id": 140126,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "25 February 2026 01:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140126_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140126_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Southampton F.C.",
-          "shortName": "SOU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#de4d5f",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Queens Park Rangers F.C.",
-          "shortName": "QPR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-QPRN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#144a89",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
