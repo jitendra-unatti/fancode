@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "03:21:07 AM 24-02-2026",
+  "last_updated": "03:28:14 AM 24-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -42,8 +42,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "27459",
+                "shortName": "L Boye",
+                "isOwnGoal": false,
+                "goalTime": "89'"
+              },
               {
                 "id": "27459",
                 "shortName": "L Boye",
@@ -149,11 +155,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "MK Dons",
@@ -168,11 +170,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
@@ -335,19 +333,19 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/_3HhISPTSDSqb6-bFrOuOA/master.m3u8",
+        "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/vCuYOYycQBSbL4-2DN84Jw/master.m3u8",
         "fancode_cdn": "Unavailable",
         "fancode_bd_cdn": "Unavailable",
-        "dai_google_cdn": "https://dai.google.com/linear/hls/event/_3HhISPTSDSqb6-bFrOuOA/master.m3u8?deviceId=5c1a2d7b8f02d931&advertiserId=7e42d87b-45cd-4cf6-b0ae-1fae68d9430&ft_type=c1&cust_params=app_version%3D6.15.0%26app_platform%3Dsportsguruand%26state%3DBihar%26city%3DPatna%26userId%3D%26match_id%3D139171%26match_format%3DStroke_Play%26tour_id%3D5816%26tour_name%3DTGL_Season_2%26sport%3Dgolf%26authorizationType%3DPAID&state=Bihar&city=Patna",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/vCuYOYycQBSbL4-2DN84Jw/master.m3u8",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
         "language": "ENGLISH"
       },
       "auto_streams": [
         {
-          "auto": false,
-          "cookie_valid": null,
-          "expire_date": null,
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-pdlive.fancode.com/mumbai/139171_english_hls_08104ae07199884_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-pdlive.fancode.com/mumbai/139171_english_hls_08104ae07199884_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-pdlive.fancode.com/mumbai/139171_english_hls_08104ae07199884_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-pdlive.fancode.com/mumbai/139171_english_hls_08104ae07199884_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-pdlive.fancode.com/mumbai/139171_english_hls_08104ae07199884_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-pdlive.fancode.com/mumbai/139171_english_hls_08104ae07199884_1ta-di_h264/1080p.m3u8",
+          "cookie_valid": "1771970294",
+          "expire_date": "Wednesday, February 25, 2026, 3:28:14 AM",
           "language": "ENGLISH"
         }
       ]
