@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "02:14:01 AM 25-02-2026",
+  "last_updated": "02:21:01 AM 25-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -141,8 +141,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "158268",
+                "shortName": "K Matsuki",
+                "isOwnGoal": false,
+                "goalTime": "45'"
+              },
               {
                 "id": "112419",
                 "shortName": "F Azaz",
