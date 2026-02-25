@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:21:04 AM 25-02-2026",
+  "last_updated": "07:28:05 AM 25-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
   "matches": [
     {
       "category": "Cricket",
-      "title": "Thailand Vs Japan",
+      "title": "Japan Vs Thailand",
       "tournament": "Thailand Open Men's T20I Series 2026",
       "match_id": 140669,
       "status": "LIVE",
@@ -32,25 +32,6 @@
       },
       "team": [
         {
-          "name": "Thailand",
-          "shortName": "TL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#16369a",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Japan",
           "shortName": "JPN",
           "flag": {
@@ -58,6 +39,33 @@
           },
           "isWinner": null,
           "color": "#9a0009",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Thailand",
+          "shortName": "TL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#16369a",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -123,11 +131,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Athletics Ottawa",
@@ -142,11 +146,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
