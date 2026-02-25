@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:28:12 AM 25-02-2026",
+  "last_updated": "08:35:06 AM 25-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#9a0009",
           "cricketScore": [
             {
-              "runs": 68,
-              "overs": "9",
-              "balls": "54",
+              "runs": 115,
+              "overs": "14",
+              "balls": "84",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -131,7 +131,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Athletics Ottawa",
@@ -146,7 +150,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -173,7 +181,7 @@
       "title": "Los Angeles Football Club Vs Real España",
       "tournament": "CONCACAF Champions Cup 2026",
       "match_id": 140385,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "25 February 2026 08:30 AM",
       "startDate": "01 January 1970 05:30 AM",
