@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:00:09 PM 27-02-2026",
+  "last_updated": "05:07:08 PM 27-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
       "title": "East Bengal Fc Vs Jamshedpur Fc",
       "tournament": "ISL 2025-26",
       "match_id": 140446,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "27 February 2026 05:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -41,7 +41,10 @@
           "color": "#f3a42d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -60,7 +63,10 @@
           "color": "#00a4ed",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -94,7 +100,7 @@
       "title": "East Bengal Fc Vs Jamshedpur Fc",
       "tournament": "ISL 2025-26",
       "match_id": 140446,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "27 February 2026 05:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -120,7 +126,10 @@
           "color": "#f3a42d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -139,7 +148,10 @@
           "color": "#00a4ed",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -173,7 +185,7 @@
       "title": "East Bengal Fc Vs Jamshedpur Fc",
       "tournament": "ISL 2025-26",
       "match_id": 140446,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "27 February 2026 05:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -199,7 +211,10 @@
           "color": "#f3a42d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -218,7 +233,10 @@
           "color": "#00a4ed",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -252,7 +270,7 @@
       "title": "East Bengal Fc Vs Jamshedpur Fc",
       "tournament": "ISL 2025-26",
       "match_id": 140446,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "27 February 2026 05:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -278,7 +296,10 @@
           "color": "#f3a42d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -297,7 +318,10 @@
           "color": "#00a4ed",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -331,7 +355,7 @@
       "title": "East Bengal Fc Vs Jamshedpur Fc",
       "tournament": "ISL 2025-26  - Regional",
       "match_id": 141086,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "27 February 2026 05:00 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -357,7 +381,10 @@
           "color": "#f3a42d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -376,7 +403,10 @@
           "color": "#00a4ed",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -556,9 +586,9 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/240p.m3u8?hdntl=Expires=1772192135~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-Fe87FDe_u33bxxo5bEzcgddvwYNKEswmugc6c33_8nwkWtTniHjv20h6aWg6IOSkR_b_6f3Gd9XcoTVPcyjvEM\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/360p.m3u8?hdntl=Expires=1772192135~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-Fe87FDe_u33bxxo5bEzcgddvwYNKEswmugc6c33_8nwkWtTniHjv20h6aWg6IOSkR_b_6f3Gd9XcoTVPcyjvEM\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/480p.m3u8?hdntl=Expires=1772192135~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-Fe87FDe_u33bxxo5bEzcgddvwYNKEswmugc6c33_8nwkWtTniHjv20h6aWg6IOSkR_b_6f3Gd9XcoTVPcyjvEM\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/540p.m3u8?hdntl=Expires=1772192135~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-Fe87FDe_u33bxxo5bEzcgddvwYNKEswmugc6c33_8nwkWtTniHjv20h6aWg6IOSkR_b_6f3Gd9XcoTVPcyjvEM\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/720p.m3u8?hdntl=Expires=1772192135~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-Fe87FDe_u33bxxo5bEzcgddvwYNKEswmugc6c33_8nwkWtTniHjv20h6aWg6IOSkR_b_6f3Gd9XcoTVPcyjvEM\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772192135~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-Fe87FDe_u33bxxo5bEzcgddvwYNKEswmugc6c33_8nwkWtTniHjv20h6aWg6IOSkR_b_6f3Gd9XcoTVPcyjvEM",
-          "cookie_valid": "1772192135",
-          "expire_date": "Friday, February 27, 2026, 5:05:35 PM",
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/240p.m3u8?hdntl=Expires=1772278624~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-HHiO3WMksCZP5lZj-MRAZS28BBWe8NG1Dp5DqcTLFiTiHYLeLDkJajfp-j12B03r-cKoSFHaelv-Cqlnco79IF\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/360p.m3u8?hdntl=Expires=1772278624~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-HHiO3WMksCZP5lZj-MRAZS28BBWe8NG1Dp5DqcTLFiTiHYLeLDkJajfp-j12B03r-cKoSFHaelv-Cqlnco79IF\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/480p.m3u8?hdntl=Expires=1772278624~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-HHiO3WMksCZP5lZj-MRAZS28BBWe8NG1Dp5DqcTLFiTiHYLeLDkJajfp-j12B03r-cKoSFHaelv-Cqlnco79IF\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/540p.m3u8?hdntl=Expires=1772278624~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-HHiO3WMksCZP5lZj-MRAZS28BBWe8NG1Dp5DqcTLFiTiHYLeLDkJajfp-j12B03r-cKoSFHaelv-Cqlnco79IF\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/720p.m3u8?hdntl=Expires=1772278624~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-HHiO3WMksCZP5lZj-MRAZS28BBWe8NG1Dp5DqcTLFiTiHYLeLDkJajfp-j12B03r-cKoSFHaelv-Cqlnco79IF\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772278624~_GO=Generated~acl=/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/*~Signature=AR5gA-HHiO3WMksCZP5lZj-MRAZS28BBWe8NG1Dp5DqcTLFiTiHYLeLDkJajfp-j12B03r-cKoSFHaelv-Cqlnco79IF",
+          "cookie_valid": "1772278624",
+          "expire_date": "Saturday, February 28, 2026, 5:07:04 PM",
           "language": "ENGLISH"
         }
       ]
@@ -635,9 +665,9 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/240p.m3u8?hdntl=Expires=1772192140~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-FLZGuZa8QXuuQU4mIP2GO8ru4yqxDcJ3I-Xsedh6Two89euXe0tj3TrvbT1QwcNVDcOtcp_8knKZ4X0nVMxukO\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/360p.m3u8?hdntl=Expires=1772192140~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-FLZGuZa8QXuuQU4mIP2GO8ru4yqxDcJ3I-Xsedh6Two89euXe0tj3TrvbT1QwcNVDcOtcp_8knKZ4X0nVMxukO\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/480p.m3u8?hdntl=Expires=1772192140~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-FLZGuZa8QXuuQU4mIP2GO8ru4yqxDcJ3I-Xsedh6Two89euXe0tj3TrvbT1QwcNVDcOtcp_8knKZ4X0nVMxukO\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/540p.m3u8?hdntl=Expires=1772192140~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-FLZGuZa8QXuuQU4mIP2GO8ru4yqxDcJ3I-Xsedh6Two89euXe0tj3TrvbT1QwcNVDcOtcp_8knKZ4X0nVMxukO\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/720p.m3u8?hdntl=Expires=1772192140~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-FLZGuZa8QXuuQU4mIP2GO8ru4yqxDcJ3I-Xsedh6Two89euXe0tj3TrvbT1QwcNVDcOtcp_8knKZ4X0nVMxukO\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772192140~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-FLZGuZa8QXuuQU4mIP2GO8ru4yqxDcJ3I-Xsedh6Two89euXe0tj3TrvbT1QwcNVDcOtcp_8knKZ4X0nVMxukO",
-          "cookie_valid": "1772192140",
-          "expire_date": "Friday, February 27, 2026, 5:05:40 PM",
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/240p.m3u8?hdntl=Expires=1772278628~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-HbFSQ970ZmDewM6fA6FZcqTTza1cS4jvXnuiruY1jaBQwJIqxy2_20g75JuHedt1bm0wqG9SKgsUVD0s2vSOoB\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/360p.m3u8?hdntl=Expires=1772278628~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-HbFSQ970ZmDewM6fA6FZcqTTza1cS4jvXnuiruY1jaBQwJIqxy2_20g75JuHedt1bm0wqG9SKgsUVD0s2vSOoB\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/480p.m3u8?hdntl=Expires=1772278628~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-HbFSQ970ZmDewM6fA6FZcqTTza1cS4jvXnuiruY1jaBQwJIqxy2_20g75JuHedt1bm0wqG9SKgsUVD0s2vSOoB\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/540p.m3u8?hdntl=Expires=1772278628~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-HbFSQ970ZmDewM6fA6FZcqTTza1cS4jvXnuiruY1jaBQwJIqxy2_20g75JuHedt1bm0wqG9SKgsUVD0s2vSOoB\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/720p.m3u8?hdntl=Expires=1772278628~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-HbFSQ970ZmDewM6fA6FZcqTTza1cS4jvXnuiruY1jaBQwJIqxy2_20g75JuHedt1bm0wqG9SKgsUVD0s2vSOoB\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772278628~_GO=Generated~acl=/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/*~Signature=AR5gA-HbFSQ970ZmDewM6fA6FZcqTTza1cS4jvXnuiruY1jaBQwJIqxy2_20g75JuHedt1bm0wqG9SKgsUVD0s2vSOoB",
+          "cookie_valid": "1772278628",
+          "expire_date": "Saturday, February 28, 2026, 5:07:08 PM",
           "language": "ENGLISH"
         }
       ]
@@ -1849,73 +1879,6 @@
       "auto_streams": null
     },
     {
-      "category": "Football",
-      "title": "Macarthur Vs Western Sydney Wanderers",
-      "tournament": "A League 2025-26",
-      "match_id": 139422,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "28 February 2026 02:05 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW_1770724279224.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139422_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW_1770724279224.png",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW_1770724279224.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139422_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Macarthur",
-          "shortName": "MAC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#000000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Western Sydney Wanderers",
-          "shortName": "SYW",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#c60c30",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
       "category": "Cricket",
       "title": "Maties Cricket Club Vs Vredenburg/saldanha Cc",
       "tournament": "Boland T20 Super League Finals 2026",
@@ -1963,6 +1926,73 @@
           },
           "isWinner": null,
           "color": "#e50f0f",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
+      "title": "Macarthur Vs Western Sydney Wanderers",
+      "tournament": "A League 2025-26",
+      "match_id": 139422,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "28 February 2026 02:05 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW_1770724279224.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139422_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW_1770724279224.png",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW_1770724279224.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/139422_5802_MAC_SYW.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139422_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Macarthur",
+          "shortName": "MAC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#000000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Western Sydney Wanderers",
+          "shortName": "SYW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#c60c30",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
