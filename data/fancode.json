@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:56:01 PM 28-02-2026",
+  "last_updated": "06:00:07 PM 28-02-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 41,
-  "live_matches": 7,
-  "upcoming_matches": 34,
+  "live_matches": 9,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -629,6 +629,85 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Rayo Vallecano Vs Athletic Club",
+      "tournament": "LALIGA 2025-26",
+      "match_id": 131089,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "28 February 2026 06:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/131089_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-App.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131089_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Rayo Vallecano",
+          "shortName": "RVL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
+          },
+          "isWinner": null,
+          "color": "#F77A1E",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Athletic Club",
+          "shortName": "ATH",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ff674d",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/240p.m3u8?hdntl=Expires=1772368206~_GO=Generated~acl=/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/*~Signature=AR5gA-HZfZkdo0-fVfXP9Ha8oggeC3AIruF_VISUWbKu2rbLGeaf1mQoEjrDk9Meec1fKoT8fb4oTzid6PcA_6CO58YG\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/360p.m3u8?hdntl=Expires=1772368206~_GO=Generated~acl=/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/*~Signature=AR5gA-HZfZkdo0-fVfXP9Ha8oggeC3AIruF_VISUWbKu2rbLGeaf1mQoEjrDk9Meec1fKoT8fb4oTzid6PcA_6CO58YG\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/480p.m3u8?hdntl=Expires=1772368206~_GO=Generated~acl=/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/*~Signature=AR5gA-HZfZkdo0-fVfXP9Ha8oggeC3AIruF_VISUWbKu2rbLGeaf1mQoEjrDk9Meec1fKoT8fb4oTzid6PcA_6CO58YG\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/540p.m3u8?hdntl=Expires=1772368206~_GO=Generated~acl=/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/*~Signature=AR5gA-HZfZkdo0-fVfXP9Ha8oggeC3AIruF_VISUWbKu2rbLGeaf1mQoEjrDk9Meec1fKoT8fb4oTzid6PcA_6CO58YG\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/720p.m3u8?hdntl=Expires=1772368206~_GO=Generated~acl=/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/*~Signature=AR5gA-HZfZkdo0-fVfXP9Ha8oggeC3AIruF_VISUWbKu2rbLGeaf1mQoEjrDk9Meec1fKoT8fb4oTzid6PcA_6CO58YG\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772368206~_GO=Generated~acl=/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/*~Signature=AR5gA-HZfZkdo0-fVfXP9Ha8oggeC3AIruF_VISUWbKu2rbLGeaf1mQoEjrDk9Meec1fKoT8fb4oTzid6PcA_6CO58YG\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772368206~_GO=Generated~acl=/mumbai/131089_english_hls_6e9096680544395_1ta-di_h264/*~Signature=AR5gA-HZfZkdo0-fVfXP9Ha8oggeC3AIruF_VISUWbKu2rbLGeaf1mQoEjrDk9Meec1fKoT8fb4oTzid6PcA_6CO58YG",
+          "cookie_valid": "1772368206",
+          "expire_date": "Sunday, March 1, 2026, 6:00:06 PM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 3",
       "tournament": "Cognizant Classic in The Palm Beaches 2026",
@@ -866,6 +945,85 @@
       ]
     },
     {
+      "category": "Golf",
+      "title": "Marquee Group   Day 3",
+      "tournament": "Cognizant Classic in The Palm Beaches 2026",
+      "match_id": 140775,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "28 February 2026 06:15 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140775_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo---Cognizant-Classic.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140775_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Marquee Group - Day 3",
+          "shortName": "Marquee Group - Day 3",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "PGA National Resort, Florida",
+          "shortName": "PGA National Resort, Florida",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/240p.m3u8?hdntl=Expires=1772368209~_GO=Generated~acl=/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/*~Signature=AR5gA-EKIpzmMuuvmPNrcDF31DSn-PxDTWgrL4miR76NiJiYgSO7G6PkLbx12yGIK_JCJ40p4I-fnF86HBTJHSosFZQK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/360p.m3u8?hdntl=Expires=1772368209~_GO=Generated~acl=/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/*~Signature=AR5gA-EKIpzmMuuvmPNrcDF31DSn-PxDTWgrL4miR76NiJiYgSO7G6PkLbx12yGIK_JCJ40p4I-fnF86HBTJHSosFZQK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/480p.m3u8?hdntl=Expires=1772368209~_GO=Generated~acl=/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/*~Signature=AR5gA-EKIpzmMuuvmPNrcDF31DSn-PxDTWgrL4miR76NiJiYgSO7G6PkLbx12yGIK_JCJ40p4I-fnF86HBTJHSosFZQK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/540p.m3u8?hdntl=Expires=1772368209~_GO=Generated~acl=/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/*~Signature=AR5gA-EKIpzmMuuvmPNrcDF31DSn-PxDTWgrL4miR76NiJiYgSO7G6PkLbx12yGIK_JCJ40p4I-fnF86HBTJHSosFZQK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/720p.m3u8?hdntl=Expires=1772368209~_GO=Generated~acl=/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/*~Signature=AR5gA-EKIpzmMuuvmPNrcDF31DSn-PxDTWgrL4miR76NiJiYgSO7G6PkLbx12yGIK_JCJ40p4I-fnF86HBTJHSosFZQK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772368209~_GO=Generated~acl=/mumbai/140775_english_hls_32ed92903554382_1ta-di_h264/*~Signature=AR5gA-EKIpzmMuuvmPNrcDF31DSn-PxDTWgrL4miR76NiJiYgSO7G6PkLbx12yGIK_JCJ40p4I-fnF86HBTJHSosFZQK",
+          "cookie_valid": "1772368209",
+          "expire_date": "Sunday, March 1, 2026, 6:00:09 PM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
       "category": "Cricket",
       "title": "West Indies Women Vs Sri Lanka Women",
       "tournament": "Sri Lanka Women tour of West Indies, 2026",
@@ -981,73 +1139,6 @@
           "isWinner": null,
           "color": "#dfd32c",
           "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
-      "title": "Rayo Vallecano Vs Athletic Club",
-      "tournament": "LALIGA 2025-26",
-      "match_id": 131089,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "28 February 2026 06:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/131089_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-Web.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131089_5427_RVL_ATH_FC-App.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131089_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Rayo Vallecano",
-          "shortName": "RVL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
-          },
-          "isWinner": null,
-          "color": "#F77A1E",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Athletic Club",
-          "shortName": "ATH",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff674d",
-          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1939,73 +2030,6 @@
     },
     {
       "category": "Golf",
-      "title": "Marquee Group   Day 3",
-      "tournament": "Cognizant Classic in The Palm Beaches 2026",
-      "match_id": 140775,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "28 February 2026 06:15 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140775_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo---Cognizant-Classic.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-Sporty-match-card-.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140775_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Marquee Group - Day 3",
-          "shortName": "Marquee Group - Day 3",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "PGA National Resort, Florida",
-          "shortName": "PGA National Resort, Florida",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Golf",
       "title": "Featured Holes   Day 3",
       "tournament": "Cognizant Classic in The Palm Beaches 2026",
       "match_id": 140777,
@@ -2675,73 +2699,6 @@
       "auto_streams": null
     },
     {
-      "category": "Tennis",
-      "title": "Court Jaime Fillol",
-      "tournament": "ATP 250 - BCI Seguros Chile Open 2026",
-      "match_id": 140362,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "01 March 2026 02:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140362_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-sporty-.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140362_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Court Jaime Fillol",
-          "shortName": "Court Jaime Fillol",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Santiago, Chile",
-          "shortName": "Santiago, Chile",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
       "category": "Football",
       "title": "Valencia Cf Vs Ca Osasuna",
       "tournament": "LALIGA 2025-26",
@@ -2789,6 +2746,73 @@
           },
           "isWinner": null,
           "color": "#F2DC85",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Tennis",
+      "title": "Court Jaime Fillol",
+      "tournament": "ATP 250 - BCI Seguros Chile Open 2026",
+      "match_id": 140362,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "01 March 2026 02:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140362_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-sporty-.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140362_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Court Jaime Fillol",
+          "shortName": "Court Jaime Fillol",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Santiago, Chile",
+          "shortName": "Santiago, Chile",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
