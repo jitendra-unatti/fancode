@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:56:03 PM 03-03-2026",
+  "last_updated": "11:00:01 PM 03-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
           "color": "#91033c",
           "cricketScore": [
             {
-              "runs": 41,
-              "overs": "5.5",
-              "balls": "35",
+              "runs": 46,
+              "overs": "6.4",
+              "balls": "40",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -1605,7 +1605,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al-Ahli Saudi FC",
@@ -1620,7 +1624,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1664,7 +1672,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al-Ittihad",
@@ -1679,7 +1691,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1723,7 +1739,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al Hilal SFC",
@@ -1738,7 +1758,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
