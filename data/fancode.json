@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:35:01 AM 05-03-2026",
+  "last_updated": "09:42:01 AM 05-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#dfd32c",
           "cricketScore": [
             {
-              "runs": 131,
-              "overs": "32.5",
-              "balls": "197",
+              "runs": 135,
+              "overs": "34.1",
+              "balls": "205",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -455,7 +455,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Korea Republic Women",
@@ -470,7 +474,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
