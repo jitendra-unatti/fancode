@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:14:01 AM 05-03-2026",
+  "last_updated": "10:21:03 AM 05-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#dfd32c",
           "cricketScore": [
             {
-              "runs": 159,
-              "overs": "42.3",
-              "balls": "255",
+              "runs": 163,
+              "overs": "44.2",
+              "balls": "266",
               "status": "IN_PROGRESS",
-              "wickets": 6
+              "wickets": 7
             }
           ],
           "kabaddiScore": null,
@@ -167,9 +167,9 @@
       ],
       "language": "ENGLISH",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/index.m3u8",
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/index.m3u8",
         "dai_google_cdn": "Unavailable",
         "cloudfront_cdn": "Unavailable",
         "sony_cdn": "Unavailable",
@@ -177,9 +177,9 @@
       },
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/240p.m3u8?hdntl=Expires=1772757845~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwSggwegAHvrgE_FziJuOFWzieNL3WAa04qsH1F5_OM34HVQKMtyCshqK4lnDXjkU_gN7oeNDBnv8VdnhTRFITMF\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/360p.m3u8?hdntl=Expires=1772757845~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwSggwegAHvrgE_FziJuOFWzieNL3WAa04qsH1F5_OM34HVQKMtyCshqK4lnDXjkU_gN7oeNDBnv8VdnhTRFITMF\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/480p.m3u8?hdntl=Expires=1772757845~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwSggwegAHvrgE_FziJuOFWzieNL3WAa04qsH1F5_OM34HVQKMtyCshqK4lnDXjkU_gN7oeNDBnv8VdnhTRFITMF\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/540p.m3u8?hdntl=Expires=1772757845~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwSggwegAHvrgE_FziJuOFWzieNL3WAa04qsH1F5_OM34HVQKMtyCshqK4lnDXjkU_gN7oeNDBnv8VdnhTRFITMF\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/720p.m3u8?hdntl=Expires=1772757845~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwSggwegAHvrgE_FziJuOFWzieNL3WAa04qsH1F5_OM34HVQKMtyCshqK4lnDXjkU_gN7oeNDBnv8VdnhTRFITMF\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772757845~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwSggwegAHvrgE_FziJuOFWzieNL3WAa04qsH1F5_OM34HVQKMtyCshqK4lnDXjkU_gN7oeNDBnv8VdnhTRFITMF",
-          "cookie_valid": "1772757845",
-          "expire_date": "Friday, March 6, 2026, 6:14:05 AM",
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/240p.m3u8?hdntl=Expires=1772772665~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwTmCukSBkGSNg8YPiXmkePF-aS-tgWdpDI4OvUQlKrWZE_RNu4vnTcs-ay3Xgt86TXo675pmK7K642ZuQRJtRkP\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/360p.m3u8?hdntl=Expires=1772772665~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwTmCukSBkGSNg8YPiXmkePF-aS-tgWdpDI4OvUQlKrWZE_RNu4vnTcs-ay3Xgt86TXo675pmK7K642ZuQRJtRkP\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/480p.m3u8?hdntl=Expires=1772772665~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwTmCukSBkGSNg8YPiXmkePF-aS-tgWdpDI4OvUQlKrWZE_RNu4vnTcs-ay3Xgt86TXo675pmK7K642ZuQRJtRkP\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/540p.m3u8?hdntl=Expires=1772772665~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwTmCukSBkGSNg8YPiXmkePF-aS-tgWdpDI4OvUQlKrWZE_RNu4vnTcs-ay3Xgt86TXo675pmK7K642ZuQRJtRkP\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/720p.m3u8?hdntl=Expires=1772772665~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwTmCukSBkGSNg8YPiXmkePF-aS-tgWdpDI4OvUQlKrWZE_RNu4vnTcs-ay3Xgt86TXo675pmK7K642ZuQRJtRkP\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772772665~_GO=Generated~acl=/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/*~Signature=AQQqLwTmCukSBkGSNg8YPiXmkePF-aS-tgWdpDI4OvUQlKrWZE_RNu4vnTcs-ay3Xgt86TXo675pmK7K642ZuQRJtRkP",
+          "cookie_valid": "1772772665",
+          "expire_date": "Friday, March 6, 2026, 10:21:05 AM",
           "language": "ENGLISH"
         }
       ]
