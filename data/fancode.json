@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:35:06 PM 06-03-2026",
+  "last_updated": "04:42:08 PM 06-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "total_matches": 41,
+  "live_matches": 5,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -102,6 +102,322 @@
           "cookie_valid": "1772867946",
           "expire_date": "Saturday, March 7, 2026, 12:49:06 PM",
           "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Mohun Bagan Super Giant Vs Odisha Fc",
+      "tournament": "ISL 2025-26",
+      "match_id": 140454,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "06 March 2026 05:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-App-(1).jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Mohun Bagan Super Giant",
+          "shortName": "MBSG",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOHB@2x.png"
+          },
+          "isWinner": null,
+          "color": "#187e52",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Odisha FC",
+          "shortName": "ODS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ODISH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#b02727",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/240p.m3u8?hdntl=Expires=1772795857~_GO=Generated~acl=/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/*~Signature=AQQqLwROy_OgzUIOHxjE6gOZo6Xq_yGwk-VeRoi_QcB4cF2fKfslEPvaa9zA9o4y6aCf2x4n7Ic50soiFvtgzVbMwd8D\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/360p.m3u8?hdntl=Expires=1772795857~_GO=Generated~acl=/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/*~Signature=AQQqLwROy_OgzUIOHxjE6gOZo6Xq_yGwk-VeRoi_QcB4cF2fKfslEPvaa9zA9o4y6aCf2x4n7Ic50soiFvtgzVbMwd8D\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/480p.m3u8?hdntl=Expires=1772795857~_GO=Generated~acl=/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/*~Signature=AQQqLwROy_OgzUIOHxjE6gOZo6Xq_yGwk-VeRoi_QcB4cF2fKfslEPvaa9zA9o4y6aCf2x4n7Ic50soiFvtgzVbMwd8D\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/540p.m3u8?hdntl=Expires=1772795857~_GO=Generated~acl=/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/*~Signature=AQQqLwROy_OgzUIOHxjE6gOZo6Xq_yGwk-VeRoi_QcB4cF2fKfslEPvaa9zA9o4y6aCf2x4n7Ic50soiFvtgzVbMwd8D\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/720p.m3u8?hdntl=Expires=1772795857~_GO=Generated~acl=/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/*~Signature=AQQqLwROy_OgzUIOHxjE6gOZo6Xq_yGwk-VeRoi_QcB4cF2fKfslEPvaa9zA9o4y6aCf2x4n7Ic50soiFvtgzVbMwd8D\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772795857~_GO=Generated~acl=/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/*~Signature=AQQqLwROy_OgzUIOHxjE6gOZo6Xq_yGwk-VeRoi_QcB4cF2fKfslEPvaa9zA9o4y6aCf2x4n7Ic50soiFvtgzVbMwd8D\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772795857~_GO=Generated~acl=/mumbai/140454_english_hls_16f750f22f62551_1ta-di_h264/*~Signature=AQQqLwROy_OgzUIOHxjE6gOZo6Xq_yGwk-VeRoi_QcB4cF2fKfslEPvaa9zA9o4y6aCf2x4n7Ic50soiFvtgzVbMwd8D",
+          "cookie_valid": "1772795857",
+          "expire_date": "Friday, March 6, 2026, 4:47:37 PM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Mohun Bagan Super Giant Vs Odisha Fc",
+      "tournament": "ISL 2025-26",
+      "match_id": 140454,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "06 March 2026 05:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-App-(1).jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Mohun Bagan Super Giant",
+          "shortName": "MBSG",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOHB@2x.png"
+          },
+          "isWinner": null,
+          "color": "#187e52",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Odisha FC",
+          "shortName": "ODS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ODISH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#b02727",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "HINDI",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "HINDI"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/240p.m3u8?hdntl=Expires=1772795858~_GO=Generated~acl=/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/*~Signature=AQQqLwRHm-9sM8xRsCkj2jrOvxlc_ehKJkC3R_bzfZCRVbSCC3H7jHUYyl3jyIzpzRkQGU8hlmCGTnvOVKouK9Sr_HwG\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/360p.m3u8?hdntl=Expires=1772795858~_GO=Generated~acl=/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/*~Signature=AQQqLwRHm-9sM8xRsCkj2jrOvxlc_ehKJkC3R_bzfZCRVbSCC3H7jHUYyl3jyIzpzRkQGU8hlmCGTnvOVKouK9Sr_HwG\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/480p.m3u8?hdntl=Expires=1772795858~_GO=Generated~acl=/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/*~Signature=AQQqLwRHm-9sM8xRsCkj2jrOvxlc_ehKJkC3R_bzfZCRVbSCC3H7jHUYyl3jyIzpzRkQGU8hlmCGTnvOVKouK9Sr_HwG\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/540p.m3u8?hdntl=Expires=1772795858~_GO=Generated~acl=/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/*~Signature=AQQqLwRHm-9sM8xRsCkj2jrOvxlc_ehKJkC3R_bzfZCRVbSCC3H7jHUYyl3jyIzpzRkQGU8hlmCGTnvOVKouK9Sr_HwG\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/720p.m3u8?hdntl=Expires=1772795858~_GO=Generated~acl=/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/*~Signature=AQQqLwRHm-9sM8xRsCkj2jrOvxlc_ehKJkC3R_bzfZCRVbSCC3H7jHUYyl3jyIzpzRkQGU8hlmCGTnvOVKouK9Sr_HwG\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772795858~_GO=Generated~acl=/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/*~Signature=AQQqLwRHm-9sM8xRsCkj2jrOvxlc_ehKJkC3R_bzfZCRVbSCC3H7jHUYyl3jyIzpzRkQGU8hlmCGTnvOVKouK9Sr_HwG\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772795858~_GO=Generated~acl=/mumbai/140454_hindi_hls_650947d54654190_1ta-di_h264/*~Signature=AQQqLwRHm-9sM8xRsCkj2jrOvxlc_ehKJkC3R_bzfZCRVbSCC3H7jHUYyl3jyIzpzRkQGU8hlmCGTnvOVKouK9Sr_HwG",
+          "cookie_valid": "1772795858",
+          "expire_date": "Friday, March 6, 2026, 4:47:38 PM",
+          "language": "HINDI"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Mohun Bagan Super Giant Vs Odisha Fc",
+      "tournament": "ISL 2025-26",
+      "match_id": 140454,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "06 March 2026 05:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-App-(1).jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Mohun Bagan Super Giant",
+          "shortName": "MBSG",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOHB@2x.png"
+          },
+          "isWinner": null,
+          "color": "#187e52",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Odisha FC",
+          "shortName": "ODS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ODISH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#b02727",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "MALAYALAM",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "MALAYALAM"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/240p.m3u8?hdntl=Expires=1772795859~_GO=Generated~acl=/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/*~Signature=AQQqLwQcBT6zD1k8zkz_Xw5Xdj0oVPmWNtYQo69ncPZvrvxh4WfwRBAqjbwRckd8H08YOyJ0cWaUzm4IA00srTr2QwEH\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/360p.m3u8?hdntl=Expires=1772795859~_GO=Generated~acl=/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/*~Signature=AQQqLwQcBT6zD1k8zkz_Xw5Xdj0oVPmWNtYQo69ncPZvrvxh4WfwRBAqjbwRckd8H08YOyJ0cWaUzm4IA00srTr2QwEH\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/480p.m3u8?hdntl=Expires=1772795859~_GO=Generated~acl=/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/*~Signature=AQQqLwQcBT6zD1k8zkz_Xw5Xdj0oVPmWNtYQo69ncPZvrvxh4WfwRBAqjbwRckd8H08YOyJ0cWaUzm4IA00srTr2QwEH\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/540p.m3u8?hdntl=Expires=1772795859~_GO=Generated~acl=/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/*~Signature=AQQqLwQcBT6zD1k8zkz_Xw5Xdj0oVPmWNtYQo69ncPZvrvxh4WfwRBAqjbwRckd8H08YOyJ0cWaUzm4IA00srTr2QwEH\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/720p.m3u8?hdntl=Expires=1772795859~_GO=Generated~acl=/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/*~Signature=AQQqLwQcBT6zD1k8zkz_Xw5Xdj0oVPmWNtYQo69ncPZvrvxh4WfwRBAqjbwRckd8H08YOyJ0cWaUzm4IA00srTr2QwEH\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772795859~_GO=Generated~acl=/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/*~Signature=AQQqLwQcBT6zD1k8zkz_Xw5Xdj0oVPmWNtYQo69ncPZvrvxh4WfwRBAqjbwRckd8H08YOyJ0cWaUzm4IA00srTr2QwEH\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772795859~_GO=Generated~acl=/mumbai/140454_malayalam_hls_f774fa56ad72523_1ta-di_h264/*~Signature=AQQqLwQcBT6zD1k8zkz_Xw5Xdj0oVPmWNtYQo69ncPZvrvxh4WfwRBAqjbwRckd8H08YOyJ0cWaUzm4IA00srTr2QwEH",
+          "cookie_valid": "1772795859",
+          "expire_date": "Friday, March 6, 2026, 4:47:39 PM",
+          "language": "MALAYALAM"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Mohun Bagan Super Giant Vs Odisha Fc",
+      "tournament": "ISL 2025-26",
+      "match_id": 140454,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "06 March 2026 05:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-App-(1).jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Mohun Bagan Super Giant",
+          "shortName": "MBSG",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOHB@2x.png"
+          },
+          "isWinner": null,
+          "color": "#187e52",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Odisha FC",
+          "shortName": "ODS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ODISH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#b02727",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BENGALI",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "BENGALI"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/240p.m3u8?hdntl=Expires=1772795860~_GO=Generated~acl=/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/*~Signature=AQQqLwQ8ElWxhSW7J-luIUGoSbGutE2jmVE86oVXBEms9peBBIP8dumm_oAGgqc-R6FUzWg-ub4yyhs-1ZLeSc4hnjQE\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/360p.m3u8?hdntl=Expires=1772795860~_GO=Generated~acl=/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/*~Signature=AQQqLwQ8ElWxhSW7J-luIUGoSbGutE2jmVE86oVXBEms9peBBIP8dumm_oAGgqc-R6FUzWg-ub4yyhs-1ZLeSc4hnjQE\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/480p.m3u8?hdntl=Expires=1772795860~_GO=Generated~acl=/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/*~Signature=AQQqLwQ8ElWxhSW7J-luIUGoSbGutE2jmVE86oVXBEms9peBBIP8dumm_oAGgqc-R6FUzWg-ub4yyhs-1ZLeSc4hnjQE\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/540p.m3u8?hdntl=Expires=1772795860~_GO=Generated~acl=/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/*~Signature=AQQqLwQ8ElWxhSW7J-luIUGoSbGutE2jmVE86oVXBEms9peBBIP8dumm_oAGgqc-R6FUzWg-ub4yyhs-1ZLeSc4hnjQE\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/720p.m3u8?hdntl=Expires=1772795860~_GO=Generated~acl=/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/*~Signature=AQQqLwQ8ElWxhSW7J-luIUGoSbGutE2jmVE86oVXBEms9peBBIP8dumm_oAGgqc-R6FUzWg-ub4yyhs-1ZLeSc4hnjQE\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772795860~_GO=Generated~acl=/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/*~Signature=AQQqLwQ8ElWxhSW7J-luIUGoSbGutE2jmVE86oVXBEms9peBBIP8dumm_oAGgqc-R6FUzWg-ub4yyhs-1ZLeSc4hnjQE\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772795860~_GO=Generated~acl=/mumbai/140454_bengali_hls_ccd104362687060_1ta-di_h264/*~Signature=AQQqLwQ8ElWxhSW7J-luIUGoSbGutE2jmVE86oVXBEms9peBBIP8dumm_oAGgqc-R6FUzWg-ub4yyhs-1ZLeSc4hnjQE",
+          "cookie_valid": "1772795860",
+          "expire_date": "Friday, March 6, 2026, 4:47:40 PM",
+          "language": "BENGALI"
         }
       ]
     },
@@ -218,7 +534,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "China PR Women",
@@ -233,7 +553,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -289,7 +613,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Wellington Phoenix",
@@ -304,7 +632,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -325,73 +657,6 @@
           "language": "ENGLISH"
         }
       ]
-    },
-    {
-      "category": "Football",
-      "title": "Mohun Bagan Super Giant Vs Odisha Fc",
-      "tournament": "ISL 2025-26",
-      "match_id": 140454,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "06 March 2026 05:00 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-Web-(1).jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140454_5956_ODS_MBSG_FC-App-(1).jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140454_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Mohun Bagan Super Giant",
-          "shortName": "MBSG",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MOHB@2x.png"
-          },
-          "isWinner": null,
-          "color": "#187e52",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Odisha FC",
-          "shortName": "ODS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ODISH@2x.png"
-          },
-          "isWinner": null,
-          "color": "#b02727",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
     },
     {
       "category": "Football",
