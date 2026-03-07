@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "03:49:01 AM 08-03-2026",
+  "last_updated": "03:56:01 AM 08-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 40,
-  "live_matches": 15,
-  "upcoming_matches": 25,
+  "total_matches": 38,
+  "live_matches": 14,
+  "upcoming_matches": 24,
   "matches": [
     {
       "category": "Cricket",
@@ -41,9 +41,9 @@
           "color": "#dfd32c",
           "cricketScore": [
             {
-              "runs": 14,
-              "overs": "4.1",
-              "balls": "25",
+              "runs": 20,
+              "overs": "5.5",
+              "balls": "35",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -987,255 +987,6 @@
           "cookie_valid": "1773006247",
           "expire_date": "Monday, March 9, 2026, 3:14:07 AM",
           "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Athletic Club Vs Fc Barcelona",
-      "tournament": "LALIGA 2025-26",
-      "match_id": 131093,
-      "status": "COMPLETED",
-      "streamingStatus": "STARTED",
-      "startTime": "08 March 2026 01:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/131093_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-App.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131093_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Athletic Club",
-          "shortName": "ATH",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff674d",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 0,
-            "goals": []
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "FC Barcelona",
-          "shortName": "BAR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-          },
-          "isWinner": null,
-          "color": "#fee64e",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 1,
-            "goals": [
-              {
-                "id": "179393",
-                "shortName": "L Yamal",
-                "isOwnGoal": false,
-                "goalTime": "68'"
-              }
-            ]
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/240p.m3u8?hdntl=Expires=1772998204~_GO=Generated~acl=/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/*~Signature=AQQqLwT-AGaI7A8SpOzslhV6Rm5k8frHS2eO_j3ynehx9iIlE15P2CfXtfzSsgaiWmiw2AbuwTq7Sb7aIoRNglhd6wsE\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/360p.m3u8?hdntl=Expires=1772998204~_GO=Generated~acl=/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/*~Signature=AQQqLwT-AGaI7A8SpOzslhV6Rm5k8frHS2eO_j3ynehx9iIlE15P2CfXtfzSsgaiWmiw2AbuwTq7Sb7aIoRNglhd6wsE\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/480p.m3u8?hdntl=Expires=1772998204~_GO=Generated~acl=/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/*~Signature=AQQqLwT-AGaI7A8SpOzslhV6Rm5k8frHS2eO_j3ynehx9iIlE15P2CfXtfzSsgaiWmiw2AbuwTq7Sb7aIoRNglhd6wsE\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/540p.m3u8?hdntl=Expires=1772998204~_GO=Generated~acl=/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/*~Signature=AQQqLwT-AGaI7A8SpOzslhV6Rm5k8frHS2eO_j3ynehx9iIlE15P2CfXtfzSsgaiWmiw2AbuwTq7Sb7aIoRNglhd6wsE\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/720p.m3u8?hdntl=Expires=1772998204~_GO=Generated~acl=/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/*~Signature=AQQqLwT-AGaI7A8SpOzslhV6Rm5k8frHS2eO_j3ynehx9iIlE15P2CfXtfzSsgaiWmiw2AbuwTq7Sb7aIoRNglhd6wsE\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772998204~_GO=Generated~acl=/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/*~Signature=AQQqLwT-AGaI7A8SpOzslhV6Rm5k8frHS2eO_j3ynehx9iIlE15P2CfXtfzSsgaiWmiw2AbuwTq7Sb7aIoRNglhd6wsE\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772998204~_GO=Generated~acl=/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/*~Signature=AQQqLwT-AGaI7A8SpOzslhV6Rm5k8frHS2eO_j3ynehx9iIlE15P2CfXtfzSsgaiWmiw2AbuwTq7Sb7aIoRNglhd6wsE",
-          "cookie_valid": "1772998204",
-          "expire_date": "Monday, March 9, 2026, 1:00:04 AM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Athletic Club Vs Fc Barcelona",
-      "tournament": "LALIGA 2025-26",
-      "match_id": 131093,
-      "status": "COMPLETED",
-      "streamingStatus": "STARTED",
-      "startTime": "08 March 2026 01:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/131093_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-App.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131093_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Athletic Club",
-          "shortName": "ATH",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff674d",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 0,
-            "goals": []
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "FC Barcelona",
-          "shortName": "BAR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-          },
-          "isWinner": null,
-          "color": "#fee64e",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 1,
-            "goals": [
-              {
-                "id": "179393",
-                "shortName": "L Yamal",
-                "isOwnGoal": false,
-                "goalTime": "68'"
-              }
-            ]
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "HINDI",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/240p.m3u8?hdntl=Expires=1772998205~_GO=Generated~acl=/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/*~Signature=AQQqLwTCB5tZ7b1-eOz2AlS6iZfVEM6HZPrGLqvf-on8IcAhnsiUdKvzrTTOJB5EOHJnSWyWrxC69mJVFkt6U-68D0oF\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/360p.m3u8?hdntl=Expires=1772998205~_GO=Generated~acl=/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/*~Signature=AQQqLwTCB5tZ7b1-eOz2AlS6iZfVEM6HZPrGLqvf-on8IcAhnsiUdKvzrTTOJB5EOHJnSWyWrxC69mJVFkt6U-68D0oF\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/480p.m3u8?hdntl=Expires=1772998205~_GO=Generated~acl=/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/*~Signature=AQQqLwTCB5tZ7b1-eOz2AlS6iZfVEM6HZPrGLqvf-on8IcAhnsiUdKvzrTTOJB5EOHJnSWyWrxC69mJVFkt6U-68D0oF\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/540p.m3u8?hdntl=Expires=1772998205~_GO=Generated~acl=/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/*~Signature=AQQqLwTCB5tZ7b1-eOz2AlS6iZfVEM6HZPrGLqvf-on8IcAhnsiUdKvzrTTOJB5EOHJnSWyWrxC69mJVFkt6U-68D0oF\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/720p.m3u8?hdntl=Expires=1772998205~_GO=Generated~acl=/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/*~Signature=AQQqLwTCB5tZ7b1-eOz2AlS6iZfVEM6HZPrGLqvf-on8IcAhnsiUdKvzrTTOJB5EOHJnSWyWrxC69mJVFkt6U-68D0oF\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772998205~_GO=Generated~acl=/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/*~Signature=AQQqLwTCB5tZ7b1-eOz2AlS6iZfVEM6HZPrGLqvf-on8IcAhnsiUdKvzrTTOJB5EOHJnSWyWrxC69mJVFkt6U-68D0oF\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772998205~_GO=Generated~acl=/mumbai/131093_hindi_hls_dee36fae0a83993_1ta-di_h264/*~Signature=AQQqLwTCB5tZ7b1-eOz2AlS6iZfVEM6HZPrGLqvf-on8IcAhnsiUdKvzrTTOJB5EOHJnSWyWrxC69mJVFkt6U-68D0oF",
-          "cookie_valid": "1772998205",
-          "expire_date": "Monday, March 9, 2026, 1:00:05 AM",
-          "language": "HINDI"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Athletic Club Vs Fc Barcelona",
-      "tournament": "LALIGA 2025-26",
-      "match_id": 131093,
-      "status": "COMPLETED",
-      "streamingStatus": "STARTED",
-      "startTime": "08 March 2026 01:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/131093_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-App.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131093_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Athletic Club",
-          "shortName": "ATH",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff674d",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 0,
-            "goals": []
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "FC Barcelona",
-          "shortName": "BAR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-          },
-          "isWinner": null,
-          "color": "#fee64e",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": {
-            "points": 1,
-            "goals": [
-              {
-                "id": "179393",
-                "shortName": "L Yamal",
-                "isOwnGoal": false,
-                "goalTime": "68'"
-              }
-            ]
-          },
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BENGALI",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/240p.m3u8?hdntl=Expires=1772998206~_GO=Generated~acl=/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/*~Signature=AQQqLwS_s9N-a7bjmPkuM9lWQbBe2P7vPlqiIYqDizDATbCYnf5SKpP3Dxbtwi80EK4EPBX1BX8p_9l1di5DqUpneocM\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/360p.m3u8?hdntl=Expires=1772998206~_GO=Generated~acl=/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/*~Signature=AQQqLwS_s9N-a7bjmPkuM9lWQbBe2P7vPlqiIYqDizDATbCYnf5SKpP3Dxbtwi80EK4EPBX1BX8p_9l1di5DqUpneocM\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/480p.m3u8?hdntl=Expires=1772998206~_GO=Generated~acl=/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/*~Signature=AQQqLwS_s9N-a7bjmPkuM9lWQbBe2P7vPlqiIYqDizDATbCYnf5SKpP3Dxbtwi80EK4EPBX1BX8p_9l1di5DqUpneocM\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/540p.m3u8?hdntl=Expires=1772998206~_GO=Generated~acl=/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/*~Signature=AQQqLwS_s9N-a7bjmPkuM9lWQbBe2P7vPlqiIYqDizDATbCYnf5SKpP3Dxbtwi80EK4EPBX1BX8p_9l1di5DqUpneocM\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/720p.m3u8?hdntl=Expires=1772998206~_GO=Generated~acl=/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/*~Signature=AQQqLwS_s9N-a7bjmPkuM9lWQbBe2P7vPlqiIYqDizDATbCYnf5SKpP3Dxbtwi80EK4EPBX1BX8p_9l1di5DqUpneocM\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772998206~_GO=Generated~acl=/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/*~Signature=AQQqLwS_s9N-a7bjmPkuM9lWQbBe2P7vPlqiIYqDizDATbCYnf5SKpP3Dxbtwi80EK4EPBX1BX8p_9l1di5DqUpneocM\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772998206~_GO=Generated~acl=/mumbai/131093_bengali_hls_f7d16202ee18296_1ta-di_h264/*~Signature=AQQqLwS_s9N-a7bjmPkuM9lWQbBe2P7vPlqiIYqDizDATbCYnf5SKpP3Dxbtwi80EK4EPBX1BX8p_9l1di5DqUpneocM",
-          "cookie_valid": "1772998206",
-          "expire_date": "Monday, March 9, 2026, 1:00:06 AM",
-          "language": "BENGALI"
         }
       ]
     },
@@ -2703,6 +2454,69 @@
           },
           "isWinner": null,
           "color": "#123456",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "Australian Women's Classic 2026",
+      "match_id": 140786,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "08 March 2026 06:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140786_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Womens-Classic.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-Sporty-match-card_1772479047338.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140786_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Day 2",
+          "shortName": "Day 2",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AWCL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#0a8482",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Magenta Shares Golf & Country Club",
+          "shortName": "Magenta Shares Golf & Country Club",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
