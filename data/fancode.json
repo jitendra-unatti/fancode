@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:28:01 AM 08-03-2026",
+  "last_updated": "01:35:03 AM 08-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -139,7 +139,7 @@
       "title": "Athletic Club Vs Fc Barcelona",
       "tournament": "LALIGA 2025-26",
       "match_id": 131093,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "08 March 2026 01:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -165,7 +165,10 @@
           "color": "#ff674d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -184,7 +187,10 @@
           "color": "#fee64e",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -209,7 +215,7 @@
       "title": "Athletic Club Vs Fc Barcelona",
       "tournament": "LALIGA 2025-26",
       "match_id": 131093,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "08 March 2026 01:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -235,7 +241,10 @@
           "color": "#ff674d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -254,7 +263,10 @@
           "color": "#fee64e",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -279,7 +291,7 @@
       "title": "Athletic Club Vs Fc Barcelona",
       "tournament": "LALIGA 2025-26",
       "match_id": 131093,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "08 March 2026 01:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -305,7 +317,10 @@
           "color": "#ff674d",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -324,7 +339,10 @@
           "color": "#fee64e",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -411,7 +429,7 @@
       "title": "Málaga Vs Real Valladolid",
       "tournament": "LALIGA Hypermotion 2025-26",
       "match_id": 140826,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "08 March 2026 01:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -440,11 +458,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Real Valladolid",
@@ -459,11 +473,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
