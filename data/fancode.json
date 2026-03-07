@@ -1,15 +1,94 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:14:01 AM 07-03-2026",
+  "last_updated": "06:21:08 AM 07-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 11,
-  "upcoming_matches": 27,
+  "live_matches": 13,
+  "upcoming_matches": 25,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Hong Kong, China Vs Kuwait",
+      "tournament": "Men's One Day Series 2026",
+      "match_id": 140885,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "07 March 2026 06:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140885_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Bauhini-Falcon-Trophy.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140885_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Hong Kong, China",
+          "shortName": "HK",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png"
+          },
+          "isWinner": null,
+          "color": "#c5190b",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Kuwait",
+          "shortName": "KUW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png"
+          },
+          "isWinner": null,
+          "color": "#5a8543",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/240p.m3u8?hdntl=Expires=1772931068~_GO=Generated~acl=/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/*~Signature=AQQqLwT6YwZaxCydlymu2IS6c5NsJCNBCfCEic-t_Z9wYG-q_eoxalms0JbA0PuZUTsqFK0Iw-_5Cb6tYM70LmXewwoO\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/360p.m3u8?hdntl=Expires=1772931068~_GO=Generated~acl=/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/*~Signature=AQQqLwT6YwZaxCydlymu2IS6c5NsJCNBCfCEic-t_Z9wYG-q_eoxalms0JbA0PuZUTsqFK0Iw-_5Cb6tYM70LmXewwoO\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/480p.m3u8?hdntl=Expires=1772931068~_GO=Generated~acl=/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/*~Signature=AQQqLwT6YwZaxCydlymu2IS6c5NsJCNBCfCEic-t_Z9wYG-q_eoxalms0JbA0PuZUTsqFK0Iw-_5Cb6tYM70LmXewwoO\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/540p.m3u8?hdntl=Expires=1772931068~_GO=Generated~acl=/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/*~Signature=AQQqLwT6YwZaxCydlymu2IS6c5NsJCNBCfCEic-t_Z9wYG-q_eoxalms0JbA0PuZUTsqFK0Iw-_5Cb6tYM70LmXewwoO\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/720p.m3u8?hdntl=Expires=1772931068~_GO=Generated~acl=/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/*~Signature=AQQqLwT6YwZaxCydlymu2IS6c5NsJCNBCfCEic-t_Z9wYG-q_eoxalms0JbA0PuZUTsqFK0Iw-_5Cb6tYM70LmXewwoO\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772931068~_GO=Generated~acl=/mumbai/140885_english_hls_80e2f6356611401_1ta-di_h264/*~Signature=AQQqLwT6YwZaxCydlymu2IS6c5NsJCNBCfCEic-t_Z9wYG-q_eoxalms0JbA0PuZUTsqFK0Iw-_5Cb6tYM70LmXewwoO",
+          "cookie_valid": "1772931068",
+          "expire_date": "Sunday, March 8, 2026, 6:21:08 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
     {
       "category": "Cricket",
       "title": "Victoria Vs Tasmania",
@@ -956,35 +1035,35 @@
       ]
     },
     {
-      "category": "Cricket",
-      "title": "Hong Kong, China Vs Kuwait",
-      "tournament": "Men's One Day Series 2026",
-      "match_id": 140885,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
+      "category": "Golf",
+      "title": "Day 1",
+      "tournament": "Australian Women's Classic 2026",
+      "match_id": 140785,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
       "startTime": "07 March 2026 06:30 AM",
       "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
       "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140885_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Bauhini-Falcon-Trophy.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140885_CASACARDS_PARTNER_16_9_1920_1080.png"
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140785_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Womens-Classic.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-Sporty-match-card_1772479047338.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140785_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "team": [
         {
-          "name": "Hong Kong, China",
-          "shortName": "HK",
+          "name": "Day 1",
+          "shortName": "Day 1",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AWCL@2x.png"
           },
           "isWinner": null,
-          "color": "#c5190b",
-          "cricketScore": [],
+          "color": "#0a8482",
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -996,14 +1075,14 @@
           }
         },
         {
-          "name": "Kuwait",
-          "shortName": "KUW",
+          "name": "Magenta Shares Golf & Country Club",
+          "shortName": "Magenta Shares Golf & Country Club",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
           },
           "isWinner": null,
-          "color": "#5a8543",
-          "cricketScore": [],
+          "color": "#141414",
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1015,12 +1094,24 @@
           }
         }
       ],
-      "language": "BLOODY_SWEET",
+      "language": "ENGLISH",
       "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
       },
-      "auto_streams": null
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/240p.m3u8?hdntl=Expires=1772931071~_GO=Generated~acl=/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/*~Signature=AQQqLwTUDUiGgkJTG8dgNcy7hQuYmJVEGrbxbH67ro48C1YcdXHGspROrt55YHMLxC9UlK_rk3tTwLfdBcf2LCFc0xsC\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/360p.m3u8?hdntl=Expires=1772931071~_GO=Generated~acl=/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/*~Signature=AQQqLwTUDUiGgkJTG8dgNcy7hQuYmJVEGrbxbH67ro48C1YcdXHGspROrt55YHMLxC9UlK_rk3tTwLfdBcf2LCFc0xsC\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/480p.m3u8?hdntl=Expires=1772931071~_GO=Generated~acl=/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/*~Signature=AQQqLwTUDUiGgkJTG8dgNcy7hQuYmJVEGrbxbH67ro48C1YcdXHGspROrt55YHMLxC9UlK_rk3tTwLfdBcf2LCFc0xsC\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/540p.m3u8?hdntl=Expires=1772931071~_GO=Generated~acl=/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/*~Signature=AQQqLwTUDUiGgkJTG8dgNcy7hQuYmJVEGrbxbH67ro48C1YcdXHGspROrt55YHMLxC9UlK_rk3tTwLfdBcf2LCFc0xsC\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/720p.m3u8?hdntl=Expires=1772931071~_GO=Generated~acl=/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/*~Signature=AQQqLwTUDUiGgkJTG8dgNcy7hQuYmJVEGrbxbH67ro48C1YcdXHGspROrt55YHMLxC9UlK_rk3tTwLfdBcf2LCFc0xsC\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772931071~_GO=Generated~acl=/mumbai/140785_english_hls_2e19c18ade70809_1ta-di_h264/*~Signature=AQQqLwTUDUiGgkJTG8dgNcy7hQuYmJVEGrbxbH67ro48C1YcdXHGspROrt55YHMLxC9UlK_rk3tTwLfdBcf2LCFc0xsC",
+          "cookie_valid": "1772931071",
+          "expire_date": "Sunday, March 8, 2026, 6:21:11 AM",
+          "language": "ENGLISH"
+        }
+      ]
     },
     {
       "category": "Cricket",
@@ -2163,73 +2254,6 @@
     },
     {
       "category": "Football",
-      "title": "Sydney Fc Vs Melbourne Victory",
-      "tournament": "A League 2025-26",
-      "match_id": 140909,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "07 March 2026 02:05 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140909_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140909_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Sydney FC",
-          "shortName": "SYD",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#5aa2e5",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Melbourne Victory",
-          "shortName": "MLV",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#031e2f",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
       "title": "Athletic Club Vs Fc Barcelona",
       "tournament": "LALIGA 2025-26",
       "match_id": 131093,
@@ -2297,6 +2321,73 @@
     },
     {
       "category": "Football",
+      "title": "Sydney Fc Vs Melbourne Victory",
+      "tournament": "A League 2025-26",
+      "match_id": 140909,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "07 March 2026 02:05 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140909_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140909_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Sydney FC",
+          "shortName": "SYD",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYDA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#5aa2e5",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Melbourne Victory",
+          "shortName": "MLV",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#031e2f",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
       "title": "India Women Vs Japan Women",
       "tournament": "AFC Women's Asian Cup, 2026",
       "match_id": 140805,
@@ -2343,73 +2434,6 @@
           },
           "isWinner": null,
           "color": "#9a0009",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "Australian Women's Classic 2026",
-      "match_id": 140785,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "07 March 2026 06:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140785_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Womens-Classic.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-Sporty-match-card_1772479047338.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140785_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Day 1",
-          "shortName": "Day 1",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-AWCL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#0a8482",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Magenta Shares Golf & Country Club",
-          "shortName": "Magenta Shares Golf & Country Club",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
