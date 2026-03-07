@@ -1,29 +1,29 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:04:15 PM 07-03-2026",
+  "last_updated": "12:09:14 PM 07-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 5,
+  "upcoming_matches": 33,
   "matches": [
     {
       "category": "Formula 1",
       "title": "Qualifying",
       "tournament": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
       "match_id": 139364,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
       "startTime": "07 March 2026 10:30 AM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/139364_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
+        "PLAYBACK": null,
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Australia.jpg",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
@@ -70,15 +70,8 @@
           }
         }
       ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/240p.m3u8?hdntl=Expires=1772945469~_GO=Generated~acl=/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/*~Signature=AQQqLwRTRHibsH0yzRLjVscLmXF2fbQBDgdlqCRM5_GnALd36n2aUjD2V0jCX6tYbgA8NBG2wSsWaOD66KB1HO5_hd4B\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/360p.m3u8?hdntl=Expires=1772945469~_GO=Generated~acl=/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/*~Signature=AQQqLwRTRHibsH0yzRLjVscLmXF2fbQBDgdlqCRM5_GnALd36n2aUjD2V0jCX6tYbgA8NBG2wSsWaOD66KB1HO5_hd4B\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/480p.m3u8?hdntl=Expires=1772945469~_GO=Generated~acl=/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/*~Signature=AQQqLwRTRHibsH0yzRLjVscLmXF2fbQBDgdlqCRM5_GnALd36n2aUjD2V0jCX6tYbgA8NBG2wSsWaOD66KB1HO5_hd4B\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/540p.m3u8?hdntl=Expires=1772945469~_GO=Generated~acl=/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/*~Signature=AQQqLwRTRHibsH0yzRLjVscLmXF2fbQBDgdlqCRM5_GnALd36n2aUjD2V0jCX6tYbgA8NBG2wSsWaOD66KB1HO5_hd4B\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/720p.m3u8?hdntl=Expires=1772945469~_GO=Generated~acl=/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/*~Signature=AQQqLwRTRHibsH0yzRLjVscLmXF2fbQBDgdlqCRM5_GnALd36n2aUjD2V0jCX6tYbgA8NBG2wSsWaOD66KB1HO5_hd4B\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/1080p.m3u8?hdntl=Expires=1772945469~_GO=Generated~acl=/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/*~Signature=AQQqLwRTRHibsH0yzRLjVscLmXF2fbQBDgdlqCRM5_GnALd36n2aUjD2V0jCX6tYbgA8NBG2wSsWaOD66KB1HO5_hd4B\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1772945469~_GO=Generated~acl=/mumbai/139364_english_hls_10f66aed2e50034_1ta-di_h264/*~Signature=AQQqLwRTRHibsH0yzRLjVscLmXF2fbQBDgdlqCRM5_GnALd36n2aUjD2V0jCX6tYbgA8NBG2wSsWaOD66KB1HO5_hd4B",
-          "cookie_valid": "1772945469",
-          "expire_date": "Sunday, March 8, 2026, 10:21:09 AM",
-          "language": "ENGLISH"
-        }
-      ]
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
     },
     {
       "category": "Cricket",
@@ -184,11 +177,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Vietnam Women",
@@ -203,11 +192,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
@@ -254,11 +239,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Western Sydney Wanderers",
@@ -273,11 +254,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
@@ -568,14 +545,22 @@
           },
           "isWinner": null,
           "color": "#ffd800",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
