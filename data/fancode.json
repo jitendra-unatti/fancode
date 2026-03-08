@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:21:06 AM 08-03-2026",
+  "last_updated": "09:23:26 AM 08-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -221,6 +221,68 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Auckland Vs Perth Glory",
+      "tournament": "A League 2025-26",
+      "match_id": 140910,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "08 March 2026 07:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140910_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140910_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Auckland",
+          "shortName": "AFC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png"
+          },
+          "isWinner": null,
+          "color": "#CDA24E",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        },
+        {
+          "name": "Perth Glory",
+          "shortName": "PG",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ff8200",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/240p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/360p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/480p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/540p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/720p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI",
+          "cookie_valid": "1773021067",
+          "expire_date": "Monday, March 9, 2026, 7:21:07 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
       "category": "Cricket",
       "title": "Western Australia Vs Queensland",
       "tournament": "Sheffield Shield, 2025-26",
@@ -316,68 +378,6 @@
           "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/240p.m3u8?hdntl=Expires=1773028269~_GO=Generated~acl=/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/*~Signature=AQQqLwS-VL-KmgIiiPvMKOMN5BmLRnPz-SGl4jA6vuzWz-wFkX9w-VClE5MO41h8A14Y2zXC_XBp74VixWT40uHaO1gD\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/360p.m3u8?hdntl=Expires=1773028269~_GO=Generated~acl=/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/*~Signature=AQQqLwS-VL-KmgIiiPvMKOMN5BmLRnPz-SGl4jA6vuzWz-wFkX9w-VClE5MO41h8A14Y2zXC_XBp74VixWT40uHaO1gD\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/480p.m3u8?hdntl=Expires=1773028269~_GO=Generated~acl=/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/*~Signature=AQQqLwS-VL-KmgIiiPvMKOMN5BmLRnPz-SGl4jA6vuzWz-wFkX9w-VClE5MO41h8A14Y2zXC_XBp74VixWT40uHaO1gD\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/540p.m3u8?hdntl=Expires=1773028269~_GO=Generated~acl=/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/*~Signature=AQQqLwS-VL-KmgIiiPvMKOMN5BmLRnPz-SGl4jA6vuzWz-wFkX9w-VClE5MO41h8A14Y2zXC_XBp74VixWT40uHaO1gD\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/720p.m3u8?hdntl=Expires=1773028269~_GO=Generated~acl=/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/*~Signature=AQQqLwS-VL-KmgIiiPvMKOMN5BmLRnPz-SGl4jA6vuzWz-wFkX9w-VClE5MO41h8A14Y2zXC_XBp74VixWT40uHaO1gD\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773028269~_GO=Generated~acl=/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/*~Signature=AQQqLwS-VL-KmgIiiPvMKOMN5BmLRnPz-SGl4jA6vuzWz-wFkX9w-VClE5MO41h8A14Y2zXC_XBp74VixWT40uHaO1gD",
           "cookie_valid": "1773028269",
           "expire_date": "Monday, March 9, 2026, 9:21:09 AM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Auckland Vs Perth Glory",
-      "tournament": "A League 2025-26",
-      "match_id": 140910,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "08 March 2026 07:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140910_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140910_5802_AFC_PG_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140910_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Auckland",
-          "shortName": "AFC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png"
-          },
-          "isWinner": null,
-          "color": "#CDA24E",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        },
-        {
-          "name": "Perth Glory",
-          "shortName": "PG",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff8200",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        }
-      ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/240p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/360p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/480p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/540p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/720p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773021067~_GO=Generated~acl=/mumbai/140910_english_hls_0c9f1e468b87915_1ta-di_h264/*~Signature=AQQqLwS-uGs2vH0iJU7MLbopqkkEeETq7Rdf-t8qh-jV_XCeiZ5WU-Q_gJjn1m06OapZnsUnA5o8-QAnU0ntJ4bh3UAI",
-          "cookie_valid": "1773021067",
-          "expire_date": "Monday, March 9, 2026, 7:21:07 AM",
           "language": "ENGLISH"
         }
       ]
