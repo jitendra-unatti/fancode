@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:42:01 PM 09-03-2026",
+  "last_updated": "12:49:01 PM 09-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LGT@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#d19814",
           "cricketScore": [
             {
@@ -64,15 +64,15 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASO@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#c88730",
           "cricketScore": [
             {
-              "runs": 123,
-              "overs": "8",
-              "balls": "48",
+              "runs": 141,
+              "overs": "9.1",
+              "balls": "55",
               "status": "IN_PROGRESS",
-              "wickets": 0
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
