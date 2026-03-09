@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:35:01 AM 10-03-2026",
+  "last_updated": "12:42:01 AM 10-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -502,7 +502,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Cayman Islands Vs Mexico",
+      "title": "Mexico Vs Cayman Islands",
       "tournament": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
       "match_id": 140708,
       "status": "NOT_STARTED",
@@ -522,25 +522,6 @@
       },
       "team": [
         {
-          "name": "Cayman Islands",
-          "shortName": "CAY",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#C33637",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Mexico",
           "shortName": "MEX",
           "flag": {
@@ -548,6 +529,33 @@
           },
           "isWinner": null,
           "color": "#dc2a1b",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Cayman Islands",
+          "shortName": "CAY",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#C33637",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -1920,7 +1928,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Shabab Al Ahli",
@@ -1935,7 +1947,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
@@ -1975,7 +1991,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al Duhail",
@@ -1990,7 +2010,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
@@ -2345,7 +2369,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al Wahda",
@@ -2360,7 +2388,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
