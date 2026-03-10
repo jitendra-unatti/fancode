@@ -1,21 +1,169 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:07:01 PM 10-03-2026",
+  "last_updated": "12:14:06 PM 10-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Delhi Champions Vs Punjab Lions",
+      "tournament": "Thunderbolt T10 League 2026",
+      "match_id": 141184,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "10 March 2026 10:10 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141184_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Thunderbolt-T10-League-(1).png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141184_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Delhi Champions",
+          "shortName": "DC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEC@2x.png"
+          },
+          "isWinner": false,
+          "color": "#890105",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Punjab Lions",
+          "shortName": "PL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PL@2x.png"
+          },
+          "isWinner": false,
+          "color": "#38a527",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/240p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/360p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/480p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/540p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/720p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP",
+          "cookie_valid": "1773203168",
+          "expire_date": "Wednesday, March 11, 2026, 9:56:08 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Malaysia Vs Bahrain",
+      "tournament": "Bahrain tour of Malaysia, 2026",
+      "match_id": 141301,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "10 March 2026 12:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141301_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-vs-Bahrin.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-sporty.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141301_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Malaysia",
+          "shortName": "MAS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ffd800",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Bahrain",
+          "shortName": "BAH",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ff5142",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/240p.m3u8?hdntl=Expires=1773125377~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQ2BnOv1bvHFVRW2orrbKZWwOYlE7QV8pmu5O-qqyZfhbhklhA5nEx9TIBajTYYGfzdbZGRK28vKFSV3WU2Qa4A\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/360p.m3u8?hdntl=Expires=1773125377~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQ2BnOv1bvHFVRW2orrbKZWwOYlE7QV8pmu5O-qqyZfhbhklhA5nEx9TIBajTYYGfzdbZGRK28vKFSV3WU2Qa4A\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/480p.m3u8?hdntl=Expires=1773125377~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQ2BnOv1bvHFVRW2orrbKZWwOYlE7QV8pmu5O-qqyZfhbhklhA5nEx9TIBajTYYGfzdbZGRK28vKFSV3WU2Qa4A\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/540p.m3u8?hdntl=Expires=1773125377~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQ2BnOv1bvHFVRW2orrbKZWwOYlE7QV8pmu5O-qqyZfhbhklhA5nEx9TIBajTYYGfzdbZGRK28vKFSV3WU2Qa4A\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/720p.m3u8?hdntl=Expires=1773125377~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQ2BnOv1bvHFVRW2orrbKZWwOYlE7QV8pmu5O-qqyZfhbhklhA5nEx9TIBajTYYGfzdbZGRK28vKFSV3WU2Qa4A\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773125377~_GO=Generated~acl=/mumbai/141301_english_hls_5ff6d1d7e95078_1ta-di_h264/*~Signature=AQQqLwQ2BnOv1bvHFVRW2orrbKZWwOYlE7QV8pmu5O-qqyZfhbhklhA5nEx9TIBajTYYGfzdbZGRK28vKFSV3WU2Qa4A",
+          "cookie_valid": "1773125377",
+          "expire_date": "Tuesday, March 10, 2026, 12:19:37 PM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
     {
       "category": "Cricket",
       "title": "Mhkl Banaras Vs Ncc Odisha",
       "tournament": "Tillo Cup 2026",
       "match_id": 141261,
-      "status": "LIVE",
+      "status": "COMPLETED",
       "streamingStatus": "STARTED",
       "startTime": "10 March 2026 09:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -98,76 +246,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Delhi Champions Vs Punjab Lions",
-      "tournament": "Thunderbolt T10 League 2026",
-      "match_id": 141184,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "10 March 2026 10:10 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141184_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Thunderbolt-T10-League-(1).png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141184_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Delhi Champions",
-          "shortName": "DC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEC@2x.png"
-          },
-          "isWinner": false,
-          "color": "#890105",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Punjab Lions",
-          "shortName": "PL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PL@2x.png"
-          },
-          "isWinner": false,
-          "color": "#38a527",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/240p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/360p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/480p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/540p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/720p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773203168~_GO=Generated~acl=/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/*~Signature=AQQqLwQTi-gIVBvuweVDQdYa4W2F4MJoKvjRILCjGG_1qTVfl5Sad-Cohp-k0SWqxpNoZlldGY3nOpauVlz9BIQp4fYP",
-          "cookie_valid": "1773203168",
-          "expire_date": "Wednesday, March 11, 2026, 9:56:08 AM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
       "title": "New Zealand Women Vs Zimbabwe Women",
       "tournament": "Zimbabwe Women tour of New Zealand, 2026",
       "match_id": 140598,
@@ -214,77 +292,6 @@
           },
           "isWinner": null,
           "color": "#dfd32c",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
-      "tournament": "Bahrain tour of Malaysia, 2026",
-      "match_id": 141301,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "10 March 2026 12:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141301_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-vs-Bahrin.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-sporty.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141301_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Malaysia",
-          "shortName": "MAS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ffd800",
-          "cricketScore": [
-            {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
-              "status": "IN_PROGRESS",
-              "wickets": 0
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        },
-        {
-          "name": "Bahrain",
-          "shortName": "BAH",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff5142",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -2035,7 +2042,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Shabab Al Ahli",
@@ -2050,7 +2061,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
