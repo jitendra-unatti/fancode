@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "03:07:02 PM 11-03-2026",
+  "last_updated": "03:14:27 PM 11-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 7,
+  "upcoming_matches": 31,
   "matches": [
     {
       "category": "Cricket",
@@ -41,9 +41,9 @@
           "color": "#559830",
           "cricketScore": [
             {
-              "runs": 64,
-              "overs": "16",
-              "balls": "96",
+              "runs": 69,
+              "overs": "17.3",
+              "balls": "105",
               "status": "IN_PROGRESS",
               "wickets": 4
             }
@@ -146,9 +146,9 @@
           "color": "#0088e7",
           "cricketScore": [
             {
-              "runs": 20,
-              "overs": "5.1",
-              "balls": "31",
+              "runs": 30,
+              "overs": "6.3",
+              "balls": "40",
               "status": "IN_PROGRESS",
               "wickets": 2
             }
@@ -461,14 +461,14 @@
       "tournament": "AFC Champions League Elite 2025-26",
       "match_id": 140861,
       "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
+      "streamingStatus": "STARTED",
       "startTime": "11 March 2026 03:30 PM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/140861_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
-        "PLAYBACK": null,
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/AFC-Champions-League-Elite.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
@@ -515,8 +515,15 @@
           }
         }
       ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/240p.m3u8?hdntl=Expires=1773308659~_GO=Generated~acl=/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/*~Signature=AQQqLwRSFLSq9mvx1c_O8itE3W5xJwKrsIute4-RPVuBctVnBXWAXn2RU0V4y6J6gve69ngjhKOgogKR29VRzBI0eJYO\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/360p.m3u8?hdntl=Expires=1773308659~_GO=Generated~acl=/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/*~Signature=AQQqLwRSFLSq9mvx1c_O8itE3W5xJwKrsIute4-RPVuBctVnBXWAXn2RU0V4y6J6gve69ngjhKOgogKR29VRzBI0eJYO\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/480p.m3u8?hdntl=Expires=1773308659~_GO=Generated~acl=/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/*~Signature=AQQqLwRSFLSq9mvx1c_O8itE3W5xJwKrsIute4-RPVuBctVnBXWAXn2RU0V4y6J6gve69ngjhKOgogKR29VRzBI0eJYO\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/540p.m3u8?hdntl=Expires=1773308659~_GO=Generated~acl=/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/*~Signature=AQQqLwRSFLSq9mvx1c_O8itE3W5xJwKrsIute4-RPVuBctVnBXWAXn2RU0V4y6J6gve69ngjhKOgogKR29VRzBI0eJYO\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/720p.m3u8?hdntl=Expires=1773308659~_GO=Generated~acl=/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/*~Signature=AQQqLwRSFLSq9mvx1c_O8itE3W5xJwKrsIute4-RPVuBctVnBXWAXn2RU0V4y6J6gve69ngjhKOgogKR29VRzBI0eJYO\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773308659~_GO=Generated~acl=/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/*~Signature=AQQqLwRSFLSq9mvx1c_O8itE3W5xJwKrsIute4-RPVuBctVnBXWAXn2RU0V4y6J6gve69ngjhKOgogKR29VRzBI0eJYO",
+          "cookie_valid": "1773308659",
+          "expire_date": "Thursday, March 12, 2026, 3:14:19 PM",
+          "language": "ENGLISH"
+        }
+      ]
     },
     {
       "category": "Football",
@@ -524,14 +531,14 @@
       "tournament": "AFC Champions League Elite 2025-26",
       "match_id": 140860,
       "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
+      "streamingStatus": "STARTED",
       "startTime": "11 March 2026 03:30 PM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/140860_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
-        "PLAYBACK": null,
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/AFC-Champions-League-Elite.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
@@ -578,8 +585,15 @@
           }
         }
       ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/240p.m3u8?hdntl=Expires=1773308670~_GO=Generated~acl=/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/*~Signature=AQQqLwTxZvxSJyL9BF2r-YZYTL2xhncD75JQpNVSKG5R4cP3LqMwVSgV5FSW0wI6gv6UXzDsPIaKflmnuIgCJG32VQQO\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/360p.m3u8?hdntl=Expires=1773308670~_GO=Generated~acl=/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/*~Signature=AQQqLwTxZvxSJyL9BF2r-YZYTL2xhncD75JQpNVSKG5R4cP3LqMwVSgV5FSW0wI6gv6UXzDsPIaKflmnuIgCJG32VQQO\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/480p.m3u8?hdntl=Expires=1773308670~_GO=Generated~acl=/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/*~Signature=AQQqLwTxZvxSJyL9BF2r-YZYTL2xhncD75JQpNVSKG5R4cP3LqMwVSgV5FSW0wI6gv6UXzDsPIaKflmnuIgCJG32VQQO\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/540p.m3u8?hdntl=Expires=1773308670~_GO=Generated~acl=/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/*~Signature=AQQqLwTxZvxSJyL9BF2r-YZYTL2xhncD75JQpNVSKG5R4cP3LqMwVSgV5FSW0wI6gv6UXzDsPIaKflmnuIgCJG32VQQO\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/720p.m3u8?hdntl=Expires=1773308670~_GO=Generated~acl=/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/*~Signature=AQQqLwTxZvxSJyL9BF2r-YZYTL2xhncD75JQpNVSKG5R4cP3LqMwVSgV5FSW0wI6gv6UXzDsPIaKflmnuIgCJG32VQQO\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773308670~_GO=Generated~acl=/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/*~Signature=AQQqLwTxZvxSJyL9BF2r-YZYTL2xhncD75JQpNVSKG5R4cP3LqMwVSgV5FSW0wI6gv6UXzDsPIaKflmnuIgCJG32VQQO",
+          "cookie_valid": "1773308670",
+          "expire_date": "Thursday, March 12, 2026, 3:14:30 PM",
+          "language": "ENGLISH"
+        }
+      ]
     },
     {
       "category": "Cricket",
@@ -2206,7 +2220,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al Wahda",
@@ -2221,7 +2239,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
@@ -2261,7 +2283,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al Sadd",
@@ -2276,7 +2302,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
