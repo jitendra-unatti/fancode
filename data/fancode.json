@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:09:18 AM 11-03-2026",
+  "last_updated": "08:14:25 AM 11-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -68,9 +68,9 @@
           "color": "#dfd32c",
           "cricketScore": [
             {
-              "runs": 47,
-              "overs": "14.2",
-              "balls": "86",
+              "runs": 53,
+              "overs": "15.4",
+              "balls": "94",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -130,7 +130,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Cruz Azul",
@@ -145,7 +149,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -429,15 +437,15 @@
       "title": "Tasmania Vs New South Wales",
       "tournament": "One Day Cup, 2025-26",
       "match_id": 133949,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
       "startTime": "11 March 2026 08:35 AM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/133949_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
-        "PLAYBACK": null,
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/11/One-Day-Cup.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
@@ -453,14 +461,22 @@
           },
           "isWinner": null,
           "color": "#007e1e",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -484,23 +500,30 @@
           }
         }
       ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": false,
+          "cookie_valid": null,
+          "expire_date": null,
+          "language": "ENGLISH"
+        }
+      ]
     },
     {
       "category": "Football",
       "title": "Los Angeles Football Club Vs Alajuelense",
       "tournament": "CONCACAF Champions Cup 2026",
       "match_id": 141095,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
       "startTime": "11 March 2026 08:30 AM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/141095_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
-        "PLAYBACK": null,
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
@@ -547,8 +570,15 @@
           }
         }
       ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/240p.m3u8?hdntl=Expires=1773197396~_GO=Generated~acl=/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/*~Signature=AQQqLwR_ReuwQD6hBBjP_8cKUKw4oCo06NQerwQLFgGtXYIr5lBKsq0VmIMs5S88rbABg01wvBZszd_7IG1_G9TQwS0H\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/360p.m3u8?hdntl=Expires=1773197396~_GO=Generated~acl=/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/*~Signature=AQQqLwR_ReuwQD6hBBjP_8cKUKw4oCo06NQerwQLFgGtXYIr5lBKsq0VmIMs5S88rbABg01wvBZszd_7IG1_G9TQwS0H\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/480p.m3u8?hdntl=Expires=1773197396~_GO=Generated~acl=/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/*~Signature=AQQqLwR_ReuwQD6hBBjP_8cKUKw4oCo06NQerwQLFgGtXYIr5lBKsq0VmIMs5S88rbABg01wvBZszd_7IG1_G9TQwS0H\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/540p.m3u8?hdntl=Expires=1773197396~_GO=Generated~acl=/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/*~Signature=AQQqLwR_ReuwQD6hBBjP_8cKUKw4oCo06NQerwQLFgGtXYIr5lBKsq0VmIMs5S88rbABg01wvBZszd_7IG1_G9TQwS0H\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/720p.m3u8?hdntl=Expires=1773197396~_GO=Generated~acl=/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/*~Signature=AQQqLwR_ReuwQD6hBBjP_8cKUKw4oCo06NQerwQLFgGtXYIr5lBKsq0VmIMs5S88rbABg01wvBZszd_7IG1_G9TQwS0H\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773197396~_GO=Generated~acl=/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/*~Signature=AQQqLwR_ReuwQD6hBBjP_8cKUKw4oCo06NQerwQLFgGtXYIr5lBKsq0VmIMs5S88rbABg01wvBZszd_7IG1_G9TQwS0H\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773197396~_GO=Generated~acl=/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/*~Signature=AQQqLwR_ReuwQD6hBBjP_8cKUKw4oCo06NQerwQLFgGtXYIr5lBKsq0VmIMs5S88rbABg01wvBZszd_7IG1_G9TQwS0H",
+          "cookie_valid": "1773197396",
+          "expire_date": "Wednesday, March 11, 2026, 8:19:56 AM",
+          "language": "ENGLISH"
+        }
+      ]
     },
     {
       "category": "Cricket",
@@ -2411,7 +2441,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Al Wahda",
@@ -2426,7 +2460,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "BLOODY_SWEET",
