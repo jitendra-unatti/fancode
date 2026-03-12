@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:14:05 AM 12-03-2026",
+  "last_updated": "09:21:01 AM 12-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#c50008",
           "cricketScore": [
             {
-              "runs": 17,
-              "overs": "4",
-              "balls": "24",
+              "runs": 59,
+              "overs": "9",
+              "balls": "54",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -130,7 +130,7 @@
               "runs": 288,
               "overs": "50",
               "balls": "300",
-              "status": "IN_PROGRESS",
+              "status": "COMPLETED",
               "wickets": 6
             }
           ],
@@ -140,7 +140,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         },
@@ -152,14 +152,22 @@
           },
           "isWinner": null,
           "color": "#00226a",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 15,
+              "overs": "3",
+              "balls": "18",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         }
@@ -205,9 +213,9 @@
           "color": "#ff5142",
           "cricketScore": [
             {
-              "runs": 134,
-              "overs": "32",
-              "balls": "192",
+              "runs": 141,
+              "overs": "34",
+              "balls": "204",
               "status": "IN_PROGRESS",
               "wickets": 5
             }
@@ -318,6 +326,76 @@
           "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/240p.m3u8?hdntl=Expires=1773373446~_GO=Generated~acl=/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/*~Signature=AR77L-Z1UFRZb9lGKT1zs7d1BFbGY1R5mHAPAY4LhHozl8y66FkLZ9ROIj_i-PU4g6z7n-FnqN_ZnvSO9-g52Vkd6iUA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/360p.m3u8?hdntl=Expires=1773373446~_GO=Generated~acl=/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/*~Signature=AR77L-Z1UFRZb9lGKT1zs7d1BFbGY1R5mHAPAY4LhHozl8y66FkLZ9ROIj_i-PU4g6z7n-FnqN_ZnvSO9-g52Vkd6iUA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/480p.m3u8?hdntl=Expires=1773373446~_GO=Generated~acl=/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/*~Signature=AR77L-Z1UFRZb9lGKT1zs7d1BFbGY1R5mHAPAY4LhHozl8y66FkLZ9ROIj_i-PU4g6z7n-FnqN_ZnvSO9-g52Vkd6iUA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/540p.m3u8?hdntl=Expires=1773373446~_GO=Generated~acl=/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/*~Signature=AR77L-Z1UFRZb9lGKT1zs7d1BFbGY1R5mHAPAY4LhHozl8y66FkLZ9ROIj_i-PU4g6z7n-FnqN_ZnvSO9-g52Vkd6iUA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/720p.m3u8?hdntl=Expires=1773373446~_GO=Generated~acl=/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/*~Signature=AR77L-Z1UFRZb9lGKT1zs7d1BFbGY1R5mHAPAY4LhHozl8y66FkLZ9ROIj_i-PU4g6z7n-FnqN_ZnvSO9-g52Vkd6iUA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773373446~_GO=Generated~acl=/mumbai/141265_english_hls_c796933eca77629_1ta-di_h264/*~Signature=AR77L-Z1UFRZb9lGKT1zs7d1BFbGY1R5mHAPAY4LhHozl8y66FkLZ9ROIj_i-PU4g6z7n-FnqN_ZnvSO9-g52Vkd6iUA",
           "cookie_valid": "1773373446",
           "expire_date": "Friday, March 13, 2026, 9:14:06 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Chambal Chargers Vs Ganga Warriors",
+      "tournament": "Ayodhya Premier League",
+      "match_id": 141356,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "12 March 2026 09:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141356_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ayodhya_Premier_league_Tour_logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-App.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141356_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Chambal Chargers",
+          "shortName": "CC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#132f86",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Ganga Warriors",
+          "shortName": "GW",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAW@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ff000e",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/240p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/360p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/480p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/540p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/720p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B",
+          "cookie_valid": "1773373448",
+          "expire_date": "Friday, March 13, 2026, 9:14:08 AM",
           "language": "ENGLISH"
         }
       ]
@@ -718,76 +796,6 @@
       ],
       "language": "BLOODY_SWEET",
       "auto_streams": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Chambal Chargers Vs Ganga Warriors",
-      "tournament": "Ayodhya Premier League",
-      "match_id": 141356,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "12 March 2026 09:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141356_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ayodhya_Premier_league_Tour_logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141356_6007_CC_GW_FC-App.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141356_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Chambal Chargers",
-          "shortName": "CC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#132f86",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Ganga Warriors",
-          "shortName": "GW",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAW@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff000e",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/240p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/360p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/480p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/540p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/720p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773373448~_GO=Generated~acl=/mumbai/141356_english_hls_f6ed7d0b0030780_1ta-di_h264/*~Signature=AR77L-ZfrNG88RLyp0NKsxNIKQBHcgYdRwhfjwwhT8D564tG_cTZZ5Bed2kS3X3-xJ6h-jFYokLAapZ2VtbxLhJ2_N8B",
-          "cookie_valid": "1773373448",
-          "expire_date": "Friday, March 13, 2026, 9:14:08 AM",
-          "language": "ENGLISH"
-        }
-      ]
     },
     {
       "category": "Cricket",
