@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:49:09 AM 12-03-2026",
+  "last_updated": "06:56:01 AM 12-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -168,7 +168,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Malaysia Vs Bahrain",
+      "title": "Bahrain Vs Malaysia",
       "tournament": "Bahrain tour of Malaysia, 2026",
       "match_id": 141302,
       "status": "LIVE",
@@ -188,25 +188,6 @@
       },
       "team": [
         {
-          "name": "Malaysia",
-          "shortName": "MAS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ffd800",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Bahrain",
           "shortName": "BAH",
           "flag": {
@@ -214,6 +195,33 @@
           },
           "isWinner": null,
           "color": "#ff5142",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Malaysia",
+          "shortName": "MAS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ffd800",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -2091,6 +2099,69 @@
     },
     {
       "category": "Cricket",
+      "title": "Bangladesh Vs Pakistan",
+      "tournament": "Pakistan tour of Bangladesh, 2026",
+      "match_id": 141407,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "13 March 2026 01:45 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141407_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ban_vs_Pak_Tour_logo-2.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_sporty_1080_x_1350.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141407_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Bangladesh",
+          "shortName": "BAN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#397b46",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Pakistan",
+          "shortName": "PAK",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
+          },
+          "isWinner": null,
+          "color": "#559830",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
       "title": "New Zealand Women Vs Zimbabwe Women",
       "tournament": "Zimbabwe Women tour of New Zealand, 2026",
       "match_id": 140598,
@@ -2319,69 +2390,6 @@
           "status": {
             "cricket": {
               "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh Vs Pakistan",
-      "tournament": "Pakistan tour of Bangladesh, 2026",
-      "match_id": 141407,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "13 March 2026 01:45 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141407_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ban_vs_Pak_Tour_logo-2.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_sporty_1080_x_1350.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141407_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Bangladesh",
-          "shortName": "BAN",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#397b46",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Pakistan",
-          "shortName": "PAK",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-          },
-          "isWinner": null,
-          "color": "#559830",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
             }
           }
         }
