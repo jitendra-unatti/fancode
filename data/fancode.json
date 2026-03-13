@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:28:02 AM 14-03-2026",
+  "last_updated": "01:35:01 AM 14-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -105,7 +105,7 @@
       "title": "Deportivo Alaves Vs Villarreal Cf",
       "tournament": "LALIGA 2025-26",
       "match_id": 131103,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "14 March 2026 01:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -131,7 +131,10 @@
           "color": "#537096",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -150,7 +153,10 @@
           "color": "#ffc0cb",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -176,7 +182,7 @@
       "title": "Wrexham A.f.c. Vs Swansea City A.f.c.",
       "tournament": "EFL Championship 2025-26",
       "match_id": 140951,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "14 March 2026 01:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -202,7 +208,10 @@
           "color": "#0fb378",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -221,7 +230,10 @@
           "color": "#FF0000",
           "cricketScore": null,
           "kabaddiScore": null,
-          "footballScore": null,
+          "footballScore": {
+            "points": 0,
+            "goals": []
+          },
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
@@ -1985,69 +1997,6 @@
     },
     {
       "category": "Football",
-      "title": "Wellington Phoenix Vs Perth Glory",
-      "tournament": "A League 2025-26",
-      "match_id": 140912,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "14 March 2026 07:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140912_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140912_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Wellington Phoenix",
-          "shortName": "WEL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#BAA209",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Perth Glory",
-          "shortName": "PG",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff8200",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
       "title": "Leicester City F.c. Vs Queens Park Rangers F.c.",
       "tournament": "EFL Championship 2025-26",
       "match_id": 140953,
@@ -2111,33 +2060,33 @@
     },
     {
       "category": "Football",
-      "title": "Central Coast Mariners Vs Adelaide United",
+      "title": "Wellington Phoenix Vs Perth Glory",
       "tournament": "A League 2025-26",
-      "match_id": 140913,
+      "match_id": 140912,
       "status": "NOT_STARTED",
       "streamingStatus": "NOT_STARTED",
-      "startTime": "14 March 2026 09:30 AM",
+      "startTime": "14 March 2026 07:30 AM",
       "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
       "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140912_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
         "PLAYBACK": null,
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png"
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140912_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "team": [
         {
-          "name": "Central Coast Mariners",
-          "shortName": "CCM",
+          "name": "Wellington Phoenix",
+          "shortName": "WEL",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WEL@2x.png"
           },
           "isWinner": null,
-          "color": "#0f2d52",
+          "color": "#BAA209",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
@@ -2150,13 +2099,13 @@
           }
         },
         {
-          "name": "Adelaide United",
-          "shortName": "ADL",
+          "name": "Perth Glory",
+          "shortName": "PG",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERTHGA@2x.png"
           },
           "isWinner": null,
-          "color": "#ffc72c",
+          "color": "#ff8200",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
@@ -2220,6 +2169,69 @@
           },
           "isWinner": null,
           "color": "#e0d405",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
+      "title": "Central Coast Mariners Vs Adelaide United",
+      "tournament": "A League 2025-26",
+      "match_id": 140913,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "14 March 2026 09:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Central Coast Mariners",
+          "shortName": "CCM",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#0f2d52",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Adelaide United",
+          "shortName": "ADL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ffc72c",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
