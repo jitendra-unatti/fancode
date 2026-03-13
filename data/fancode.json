@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:21:01 PM 13-03-2026",
+  "last_updated": "12:28:01 PM 13-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 4,
-  "upcoming_matches": 34,
+  "live_matches": 3,
+  "upcoming_matches": 35,
   "matches": [
     {
       "category": "Cricket",
@@ -199,9 +199,9 @@
           "color": "#006ba6",
           "cricketScore": [
             {
-              "runs": 47,
-              "overs": "10.4",
-              "balls": "64",
+              "runs": 53,
+              "overs": "12",
+              "balls": "72",
               "status": "IN_PROGRESS",
               "wickets": 5
             }
@@ -252,15 +252,15 @@
       "title": "Qualifying",
       "tournament": "F1 ACADEMY CHINA 2026",
       "match_id": 139678,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
       "startTime": "13 March 2026 11:40 AM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/139678_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
+        "PLAYBACK": null,
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai.jpg",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
@@ -307,16 +307,8 @@
           }
         }
       ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/240p.m3u8?hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/360p.m3u8?hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/480p.m3u8?hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/540p.m3u8?hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/720p.m3u8?hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N",
-          "cookie": "hdntl=Expires=1773468727~_GO=Generated~acl=/mumbai/139678_english_hls_74a263606476924_1ta-di_h264/*~Signature=AR77L-YxIXQTy2vZJs_uakJ1Em2SJZHQMcPzv9xhg8lK8rO07B6G1WyLef4kgGe0pV73Mci1srTQ3NRkNhIfAtlfBC4N",
-          "cookie_valid": "1773468727",
-          "expire_date": "Saturday, March 14, 2026, 11:42:07 AM",
-          "language": "ENGLISH"
-        }
-      ]
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
     },
     {
       "category": "Cricket",
@@ -1201,69 +1193,6 @@
       "auto_streams": null
     },
     {
-      "category": "Football",
-      "title": "Mirandés Vs Cádiz",
-      "tournament": "LALIGA Hypermotion 2025-26",
-      "match_id": 141221,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "14 March 2026 01:00 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141221_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141221_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Mirandés",
-          "shortName": "MIR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIR@2x.png"
-          },
-          "isWinner": null,
-          "color": "#028ed9",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Cádiz",
-          "shortName": "CDZ",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
       "category": "Cricket",
       "title": "Gomti Thunder Vs Saryu Smashers",
       "tournament": "Ayodhya Premier League",
@@ -1312,6 +1241,69 @@
           "isWinner": null,
           "color": "#3f50d5",
           "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
+      "title": "Mirandés Vs Cádiz",
+      "tournament": "LALIGA Hypermotion 2025-26",
+      "match_id": 141221,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "14 March 2026 01:00 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141221_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141221_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Mirandés",
+          "shortName": "MIR",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIR@2x.png"
+          },
+          "isWinner": null,
+          "color": "#028ed9",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Cádiz",
+          "shortName": "CDZ",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -2083,6 +2075,69 @@
       "auto_streams": null
     },
     {
+      "category": "Cricket",
+      "title": "Delhi Champions Vs Rajasthan Emperors",
+      "tournament": "Thunderbolt T10 League 2026",
+      "match_id": 141198,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "14 March 2026 03:10 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141198_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Thunderbolt-T10-League-(1).png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141198_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Delhi Champions",
+          "shortName": "DC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#890105",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Rajasthan Emperors",
+          "shortName": "RE",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-REE@2x.png"
+          },
+          "isWinner": null,
+          "color": "#904819",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
       "category": "Golf",
       "title": "Main Feed   Day 2",
       "tournament": "THE PLAYERS Championship 2026",
@@ -2193,69 +2248,6 @@
           },
           "isWinner": null,
           "color": "#141414",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Delhi Champions Vs Rajasthan Emperors",
-      "tournament": "Thunderbolt T10 League 2026",
-      "match_id": 141198,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "14 March 2026 03:10 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141198_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Thunderbolt-T10-League-(1).png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141198_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Delhi Champions",
-          "shortName": "DC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#890105",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Rajasthan Emperors",
-          "shortName": "RE",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-REE@2x.png"
-          },
-          "isWinner": null,
-          "color": "#904819",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
