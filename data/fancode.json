@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:28:01 PM 14-03-2026",
+  "last_updated": "01:35:01 PM 14-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -10,77 +10,6 @@
   "live_matches": 7,
   "upcoming_matches": 31,
   "matches": [
-    {
-      "category": "Formula 1",
-      "title": "Qualifying",
-      "tournament": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
-      "match_id": 139378,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "14 March 2026 12:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139378_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/China_1769027305077.jpg",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_Qualifying_Old_sporty.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139378_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Qualifying",
-          "shortName": "QF",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-          },
-          "isWinner": null,
-          "color": "#EE0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "China",
-          "shortName": "China",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/240p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/360p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/480p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/540p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/720p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM",
-          "cookie": "hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM",
-          "cookie_valid": "1773557889",
-          "expire_date": "Sunday, March 15, 2026, 12:28:09 PM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Bahrain Vs Malaysia",
@@ -139,9 +68,9 @@
           "color": "#ffd800",
           "cricketScore": [
             {
-              "runs": 136,
-              "overs": "42.2",
-              "balls": "254",
+              "runs": 147,
+              "overs": "43.5",
+              "balls": "263",
               "status": "IN_PROGRESS",
               "wickets": 8
             }
@@ -312,7 +241,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Yamuna Super Kings Vs Hindon Titans",
+      "title": "Hindon Titans Vs Yamuna Super Kings",
       "tournament": "Ayodhya Premier League",
       "match_id": 141361,
       "status": "NOT_STARTED",
@@ -332,25 +261,6 @@
       },
       "team": [
         {
-          "name": "Yamuna Super Kings",
-          "shortName": "YSK",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSK@2x.png"
-          },
-          "isWinner": null,
-          "color": "#d3842d",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "Hindon Titans",
           "shortName": "HT",
           "flag": {
@@ -358,6 +268,33 @@
           },
           "isWinner": null,
           "color": "#e3b91e",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Yamuna Super Kings",
+          "shortName": "YSK",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSK@2x.png"
+          },
+          "isWinner": null,
+          "color": "#d3842d",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -508,6 +445,77 @@
       ]
     },
     {
+      "category": "Formula 1",
+      "title": "Qualifying",
+      "tournament": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_id": 139378,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "14 March 2026 12:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139378_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/China_1769027305077.jpg",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_Qualifying_Old_sporty.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139378_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Qualifying",
+          "shortName": "QF",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+          },
+          "isWinner": null,
+          "color": "#EE0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "China",
+          "shortName": "China",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/240p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/360p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/480p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/540p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/720p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM",
+          "cookie": "hdntl=Expires=1773557889~_GO=Generated~acl=/mumbai/139378_english_hls_cab25a56db36390_1ta-di_h264/*~Signature=AR77L-bi_iHIbUSAoz4XyrGIqzXF8OEn1hf2uqbQfMo4raN9pmjRp6HjvyTmCGk_CNBTuOHDtaSZiHxWhpsXlCJBCjwM",
+          "cookie_valid": "1773557889",
+          "expire_date": "Sunday, March 15, 2026, 12:28:09 PM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
       "category": "Cricket",
       "title": "Mumbai Spartans Vs India Tigers",
       "tournament": "Legends League Cricket, 2026",
@@ -634,43 +642,35 @@
       "auto_streams": null
     },
     {
-      "category": "Cricket",
-      "title": "Tasmania Vs Queensland",
-      "tournament": "Sheffield Shield, 2025-26",
-      "match_id": 134043,
-      "status": "LIVE",
-      "streamingStatus": "PAUSED",
-      "startTime": "14 March 2026 05:00 AM",
-      "startDate": "15 March 2026 05:00 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+      "category": "Football",
+      "title": "Korea Republic Women Vs Uzbekistan Women",
+      "tournament": "AFC Women's Asian Cup, 2026",
+      "match_id": 140814,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "14 March 2026 02:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
       "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134043_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140814_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
         "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-App.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134043_CASACARDS_PARTNER_16_9_1920_1080.png"
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/AFC_1772615510258.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
+        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_SPORTY_APP.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140814_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "team": [
         {
-          "name": "Tasmania",
-          "shortName": "TAS",
+          "name": "Korea Republic Women",
+          "shortName": "KOR-W",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png"
           },
           "isWinner": null,
-          "color": "#007e1e",
-          "cricketScore": [
-            {
-              "runs": 198,
-              "overs": "58.1",
-              "balls": "0",
-              "status": "COMPLETED",
-              "wickets": 10
-            }
-          ],
+          "color": "#00006c",
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -682,29 +682,21 @@
           }
         },
         {
-          "name": "Queensland",
-          "shortName": "QUN",
+          "name": "Uzbekistan Women",
+          "shortName": "UB-W",
           "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUN@2x.png"
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png"
           },
           "isWinner": null,
-          "color": "#ffd500",
-          "cricketScore": [
-            {
-              "runs": 48,
-              "overs": "27",
-              "balls": "0",
-              "status": "IN_PROGRESS",
-              "wickets": 3
-            }
-          ],
+          "color": "#2a83e3",
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         }
@@ -1785,6 +1777,85 @@
     },
     {
       "category": "Cricket",
+      "title": "Tasmania Vs Queensland",
+      "tournament": "Sheffield Shield, 2025-26",
+      "match_id": 134043,
+      "status": "LIVE",
+      "streamingStatus": "PAUSED",
+      "startTime": "14 March 2026 05:00 AM",
+      "startDate": "15 March 2026 05:00 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/134043_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-App.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134043_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Tasmania",
+          "shortName": "TAS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TAS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#007e1e",
+          "cricketScore": [
+            {
+              "runs": 198,
+              "overs": "58.1",
+              "balls": "0",
+              "status": "COMPLETED",
+              "wickets": 10
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Queensland",
+          "shortName": "QUN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QUN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ffd500",
+          "cricketScore": [
+            {
+              "runs": 48,
+              "overs": "27",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 3
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
       "title": "South Australia Vs Victoria",
       "tournament": "Sheffield Shield, 2025-26",
       "match_id": 134042,
@@ -2044,69 +2115,6 @@
           },
           "isWinner": null,
           "color": "#559830",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
-      "title": "Korea Republic Women Vs Uzbekistan Women",
-      "tournament": "AFC Women's Asian Cup, 2026",
-      "match_id": 140814,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "14 March 2026 02:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140814_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/AFC_1772615510258.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_APP.png",
-        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1773380039273/140814_CASACARDS_SPORTY_APP.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140814_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Korea Republic Women",
-          "shortName": "KOR-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png"
-          },
-          "isWinner": null,
-          "color": "#00006c",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Uzbekistan Women",
-          "shortName": "UB-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png"
-          },
-          "isWinner": null,
-          "color": "#2a83e3",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
