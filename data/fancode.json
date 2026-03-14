@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:07:01 AM 14-03-2026",
+  "last_updated": "09:14:07 AM 14-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 10,
-  "upcoming_matches": 28,
+  "live_matches": 11,
+  "upcoming_matches": 27,
   "matches": [
     {
       "category": "Cricket",
@@ -128,11 +128,11 @@
           "color": "#ff5142",
           "cricketScore": [
             {
-              "runs": 107,
-              "overs": "29",
-              "balls": "174",
+              "runs": 110,
+              "overs": "31.2",
+              "balls": "188",
               "status": "IN_PROGRESS",
-              "wickets": 7
+              "wickets": 8
             }
           ],
           "kabaddiScore": null,
@@ -205,14 +205,22 @@
           },
           "isWinner": null,
           "color": "#ff617b",
-          "cricketScore": [],
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -524,6 +532,69 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Central Coast Mariners Vs Adelaide United",
+      "tournament": "A League 2025-26",
+      "match_id": 140913,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "14 March 2026 09:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Central Coast Mariners",
+          "shortName": "CCM",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#0f2d52",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        },
+        {
+          "name": "Adelaide United",
+          "shortName": "ADL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ffc72c",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/240p.m3u8?hdntl=Expires=1773546250~_GO=Generated~acl=/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/*~Signature=AR77L-YZA6KOzSIq9vKYasQ0E6GT46wnH87Zx6aSs192r4WhYqQFroWAv04n6uZAi79XCDByd32ZQ6J5uCtJOaId4I0E\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/360p.m3u8?hdntl=Expires=1773546250~_GO=Generated~acl=/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/*~Signature=AR77L-YZA6KOzSIq9vKYasQ0E6GT46wnH87Zx6aSs192r4WhYqQFroWAv04n6uZAi79XCDByd32ZQ6J5uCtJOaId4I0E\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/480p.m3u8?hdntl=Expires=1773546250~_GO=Generated~acl=/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/*~Signature=AR77L-YZA6KOzSIq9vKYasQ0E6GT46wnH87Zx6aSs192r4WhYqQFroWAv04n6uZAi79XCDByd32ZQ6J5uCtJOaId4I0E\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/540p.m3u8?hdntl=Expires=1773546250~_GO=Generated~acl=/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/*~Signature=AR77L-YZA6KOzSIq9vKYasQ0E6GT46wnH87Zx6aSs192r4WhYqQFroWAv04n6uZAi79XCDByd32ZQ6J5uCtJOaId4I0E\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/720p.m3u8?hdntl=Expires=1773546250~_GO=Generated~acl=/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/*~Signature=AR77L-YZA6KOzSIq9vKYasQ0E6GT46wnH87Zx6aSs192r4WhYqQFroWAv04n6uZAi79XCDByd32ZQ6J5uCtJOaId4I0E\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773546250~_GO=Generated~acl=/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/*~Signature=AR77L-YZA6KOzSIq9vKYasQ0E6GT46wnH87Zx6aSs192r4WhYqQFroWAv04n6uZAi79XCDByd32ZQ6J5uCtJOaId4I0E",
+          "cookie": "hdntl=Expires=1773546250~_GO=Generated~acl=/mumbai/140913_english_hls_9a768d1c1e3279_1ta-di_h264/*~Signature=AR77L-YZA6KOzSIq9vKYasQ0E6GT46wnH87Zx6aSs192r4WhYqQFroWAv04n6uZAi79XCDByd32ZQ6J5uCtJOaId4I0E",
+          "cookie_valid": "1773546250",
+          "expire_date": "Sunday, March 15, 2026, 9:14:10 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
       "category": "Golf",
       "title": "Day 3",
       "tournament": "Women's Australian Open 2026",
@@ -785,69 +856,6 @@
           "isWinner": null,
           "color": "#80081C",
           "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
-      "title": "Central Coast Mariners Vs Adelaide United",
-      "tournament": "A League 2025-26",
-      "match_id": 140913,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "14 March 2026 09:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140913_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Central Coast Mariners",
-          "shortName": "CCM",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CENTA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#0f2d52",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Adelaide United",
-          "shortName": "ADL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ADLA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ffc72c",
-          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -1430,69 +1438,6 @@
       "auto_streams": null
     },
     {
-      "category": "Football",
-      "title": "Coventry City Football Club Vs Southampton F.c.",
-      "tournament": "EFL Championship 2025-26",
-      "match_id": 140952,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "14 March 2026 06:00 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140952_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140952_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Coventry City Football Club",
-          "shortName": "CVC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#199bbc",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Southampton F.C.",
-          "shortName": "SOU",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#de4d5f",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
       "category": "Cricket",
       "title": "New Zealand Women Vs South Africa Women",
       "tournament": "South Africa Women's tour of New Zealand, 2026",
@@ -1541,6 +1486,69 @@
           "isWinner": null,
           "color": "#2d9251",
           "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
+      "title": "Coventry City Football Club Vs Southampton F.c.",
+      "tournament": "EFL Championship 2025-26",
+      "match_id": 140952,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "14 March 2026 06:00 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140952_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140952_5489_CVC_SOU_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140952_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Coventry City Football Club",
+          "shortName": "CVC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#199bbc",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Southampton F.C.",
+          "shortName": "SOU",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOU@2x.png"
+          },
+          "isWinner": null,
+          "color": "#de4d5f",
+          "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
