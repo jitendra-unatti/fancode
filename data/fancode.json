@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:21:05 AM 15-03-2026",
+  "last_updated": "10:28:10 AM 15-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 38,
-  "live_matches": 9,
-  "upcoming_matches": 29,
+  "total_matches": 40,
+  "live_matches": 10,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -323,7 +323,7 @@
       "title": "Japan Women Vs Philippines Women",
       "tournament": "AFC Women's Asian Cup, 2026",
       "match_id": 140815,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "15 March 2026 10:30 AM",
       "startDate": "01 January 1970 05:30 AM",
@@ -352,11 +352,7 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         },
         {
           "name": "Philippines Women",
@@ -371,20 +367,16 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
+          "status": null
         }
       ],
       "language": "ENGLISH",
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/240p.m3u8?hdntl=Expires=1773550597~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-ZBXnUpaaMXNQWrL3xjdMeC1Uo841sbl3_a-ye_76sLu7z_RooIfj17jBlo0TlTFpT7ymojYv6nTTTYksHsxIEG\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/360p.m3u8?hdntl=Expires=1773550597~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-ZBXnUpaaMXNQWrL3xjdMeC1Uo841sbl3_a-ye_76sLu7z_RooIfj17jBlo0TlTFpT7ymojYv6nTTTYksHsxIEG\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/480p.m3u8?hdntl=Expires=1773550597~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-ZBXnUpaaMXNQWrL3xjdMeC1Uo841sbl3_a-ye_76sLu7z_RooIfj17jBlo0TlTFpT7ymojYv6nTTTYksHsxIEG\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/540p.m3u8?hdntl=Expires=1773550597~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-ZBXnUpaaMXNQWrL3xjdMeC1Uo841sbl3_a-ye_76sLu7z_RooIfj17jBlo0TlTFpT7ymojYv6nTTTYksHsxIEG\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/720p.m3u8?hdntl=Expires=1773550597~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-ZBXnUpaaMXNQWrL3xjdMeC1Uo841sbl3_a-ye_76sLu7z_RooIfj17jBlo0TlTFpT7ymojYv6nTTTYksHsxIEG\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773550597~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-ZBXnUpaaMXNQWrL3xjdMeC1Uo841sbl3_a-ye_76sLu7z_RooIfj17jBlo0TlTFpT7ymojYv6nTTTYksHsxIEG",
-          "cookie": "hdntl=Expires=1773550597~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-ZBXnUpaaMXNQWrL3xjdMeC1Uo841sbl3_a-ye_76sLu7z_RooIfj17jBlo0TlTFpT7ymojYv6nTTTYksHsxIEG",
-          "cookie_valid": "1773550597",
-          "expire_date": "Sunday, March 15, 2026, 10:26:37 AM",
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/240p.m3u8?hdntl=Expires=1773637086~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-Z-608zu1LLkpH03bKDr6LOM-6DGaegzBMDwv9DqSjUZMXfycs72ZJK9XKXD7NqJMkwdfW84QOxVNj2HgMW9w0E\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/360p.m3u8?hdntl=Expires=1773637086~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-Z-608zu1LLkpH03bKDr6LOM-6DGaegzBMDwv9DqSjUZMXfycs72ZJK9XKXD7NqJMkwdfW84QOxVNj2HgMW9w0E\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/480p.m3u8?hdntl=Expires=1773637086~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-Z-608zu1LLkpH03bKDr6LOM-6DGaegzBMDwv9DqSjUZMXfycs72ZJK9XKXD7NqJMkwdfW84QOxVNj2HgMW9w0E\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/540p.m3u8?hdntl=Expires=1773637086~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-Z-608zu1LLkpH03bKDr6LOM-6DGaegzBMDwv9DqSjUZMXfycs72ZJK9XKXD7NqJMkwdfW84QOxVNj2HgMW9w0E\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/720p.m3u8?hdntl=Expires=1773637086~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-Z-608zu1LLkpH03bKDr6LOM-6DGaegzBMDwv9DqSjUZMXfycs72ZJK9XKXD7NqJMkwdfW84QOxVNj2HgMW9w0E\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773637086~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-Z-608zu1LLkpH03bKDr6LOM-6DGaegzBMDwv9DqSjUZMXfycs72ZJK9XKXD7NqJMkwdfW84QOxVNj2HgMW9w0E",
+          "cookie": "hdntl=Expires=1773637086~_GO=Generated~acl=/mumbai/140815_english_hls_4df32c67809210_1ta-di_h264/*~Signature=AR77L-Z-608zu1LLkpH03bKDr6LOM-6DGaegzBMDwv9DqSjUZMXfycs72ZJK9XKXD7NqJMkwdfW84QOxVNj2HgMW9w0E",
+          "cookie_valid": "1773637086",
+          "expire_date": "Monday, March 16, 2026, 10:28:06 AM",
           "language": "ENGLISH"
         }
       ]
@@ -710,6 +702,219 @@
           "cookie_valid": "1773622763",
           "expire_date": "Monday, March 16, 2026, 6:29:23 AM",
           "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_id": 139379,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "15 March 2026 12:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/China_1769027305077.jpg",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_Race_Old-sporty_1773374544795.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Race",
+          "shortName": "RC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+          },
+          "isWinner": null,
+          "color": "#EE0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "China",
+          "shortName": "China",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/240p.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/360p.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/480p.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/540p.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/720p.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G",
+          "cookie": "hdntl=Expires=1773637089~_GO=Generated~acl=/mumbai/139379_english_hls_2bea38ea8f78455_1ta-di_h264/*~Signature=AR77L-Y4sKd6gjdBZYiCdtUoB7kLE3ZfWErS_hrRUQsZuFYRTg5TUSVRgyEGEcl0nszS6F3W1d1Hc31OOqbDvWbBDf4G",
+          "cookie_valid": "1773637089",
+          "expire_date": "Monday, March 16, 2026, 10:28:09 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_id": 139379,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "15 March 2026 12:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/China_1769027305077.jpg",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_Race_Old-sporty_1773374544795.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Race",
+          "shortName": "RC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+          },
+          "isWinner": null,
+          "color": "#EE0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "China",
+          "shortName": "China",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "HINDI",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/240p.m3u8?hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/360p.m3u8?hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/480p.m3u8?hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/540p.m3u8?hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/720p.m3u8?hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI",
+          "cookie": "hdntl=Expires=1773637090~_GO=Generated~acl=/mumbai/139379_hindi_hls_b4f55ebf8287034_1ta-di_h264/*~Signature=AR77L-a6ZDb0JJt7knlWCdZ_TBA0QAYFCDt1CsEmLh8LdXKpCnnxmzW1PUP0Pz3q-Cht293wo1Uh-vAt-R2p8GnJk9MI",
+          "cookie_valid": "1773637090",
+          "expire_date": "Monday, March 16, 2026, 10:28:10 AM",
+          "language": "HINDI"
+        }
+      ]
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
+      "match_id": 139379,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "15 March 2026 12:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/China_1769027305077.jpg",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_Race_Old-sporty_1773374544795.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Race",
+          "shortName": "RC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
+          },
+          "isWinner": null,
+          "color": "#EE0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "China",
+          "shortName": "China",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
+          },
+          "isWinner": null,
+          "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "TAMIL",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=414232,AVERAGE-BANDWIDTH=414232,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/240p.m3u8?hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM\n#EXT-X-STREAM-INF:BANDWIDTH=669672,AVERAGE-BANDWIDTH=669672,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/360p.m3u8?hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM\n#EXT-X-STREAM-INF:BANDWIDTH=990520,AVERAGE-BANDWIDTH=990520,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/480p.m3u8?hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM\n#EXT-X-STREAM-INF:BANDWIDTH=1245960,AVERAGE-BANDWIDTH=1245960,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/540p.m3u8?hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM\n#EXT-X-STREAM-INF:BANDWIDTH=1756808,AVERAGE-BANDWIDTH=1756808,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/720p.m3u8?hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM\n#EXT-X-STREAM-INF:BANDWIDTH=5376032,AVERAGE-BANDWIDTH=5376032,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM",
+          "cookie": "hdntl=Expires=1773637092~_GO=Generated~acl=/mumbai/139379_tamil_hls_e46dcf862c7306_1ta-di_h264/*~Signature=AR77L-ZQ-D6qbtYAiEXRmzQQCCkISGNBONiEErF7U2XWwT7_hsd793vOmM5nomDk2xCCoRi08xrrXuldBGD5BnTaM2AM",
+          "cookie_valid": "1773637092",
+          "expire_date": "Monday, March 16, 2026, 10:28:12 AM",
+          "language": "TAMIL"
         }
       ]
     },
@@ -2462,69 +2667,6 @@
           },
           "isWinner": null,
           "color": "#890105",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Formula 1",
-      "title": "Race",
-      "tournament": "F1 HEINEKEN CHINESE GRAND PRIX 2026",
-      "match_id": 139379,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "15 March 2026 12:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/China_1769027305077.jpg",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_F1-racing.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_Race_Old-sporty_1773374544795.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/139379_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Race",
-          "shortName": "RC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png"
-          },
-          "isWinner": null,
-          "color": "#EE0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "China",
-          "shortName": "China",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png"
-          },
-          "isWinner": null,
-          "color": "#141414",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
