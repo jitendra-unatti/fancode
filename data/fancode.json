@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "03:42:01 PM 15-03-2026",
+  "last_updated": "03:49:01 PM 15-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 7,
-  "upcoming_matches": 31,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -41,9 +41,9 @@
           "color": "#397b46",
           "cricketScore": [
             {
-              "runs": 141,
-              "overs": "26",
-              "balls": "156",
+              "runs": 153,
+              "overs": "28",
+              "balls": "168",
               "status": "IN_PROGRESS",
               "wickets": 1
             }
@@ -417,69 +417,6 @@
           "cookie": "hdntl=Expires=1773653407~_GO=Generated~acl=/mumbai/141201_english_hls_f53a2bf4ab21046_1ta-di_h264/*~Signature=AR77L-aqZGMeyYWa53SxOcWy5NQzp36NnyamzwBcKu_EWJILlVIHu3enHD-JKSKHYQP-CnQnUZawZJX10zxLLU4XjgQK",
           "cookie_valid": "1773653407",
           "expire_date": "Monday, March 16, 2026, 3:00:07 PM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Football",
-      "title": "Melbourne Victory Vs Macarthur",
-      "tournament": "A League 2025-26",
-      "match_id": 140915,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "15 March 2026 01:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140915_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-web.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/10/A-League_Men-and-Women_Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140915_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Melbourne Victory",
-          "shortName": "MLV",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#031e2f",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        },
-        {
-          "name": "Macarthur",
-          "shortName": "MAC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MACA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#000000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": null
-        }
-      ],
-      "language": "ENGLISH",
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/240p.m3u8?hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/360p.m3u8?hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/480p.m3u8?hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/540p.m3u8?hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/720p.m3u8?hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE",
-          "cookie": "hdntl=Expires=1773647054~_GO=Generated~acl=/mumbai/140915_english_hls_f2e3669fe419810_1ta-di_h264/*~Signature=AR77L-Zakx-VTtPVNu0k27RkexXqswlwEjLqwiFDug7EycKbjVfMCfNWQPgFZN9hFr8oOhLaJs_QZ0k_hFGPLD3XEIIE",
-          "cookie_valid": "1773647054",
-          "expire_date": "Monday, March 16, 2026, 1:14:14 PM",
           "language": "ENGLISH"
         }
       ]
@@ -2548,6 +2485,69 @@
           },
           "isWinner": null,
           "color": "#141414",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
+      "title": "Punjab Fc Vs Fc Goa",
+      "tournament": "ISL 2025-26",
+      "match_id": 140465,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "16 March 2026 07:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/140465_5956_PFC_FCG_FC-Web_1772451606522.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140465_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/140465_5956_PFC_FCG_FC-Web_1772451606522.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140465_5956_PFC_FCG_FC-Web_1772451606522.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/140465_5956_PFC_FCG_FC-App_1772451597807.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140465_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Punjab FC",
+          "shortName": "PFC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUNJ@2x.png"
+          },
+          "isWinner": null,
+          "color": "#959490",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "FC Goa",
+          "shortName": "FCG",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-FCG@2x.png"
+          },
+          "isWinner": null,
+          "color": "#f16622",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
