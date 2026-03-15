@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:07:04 PM 15-03-2026",
+  "last_updated": "09:14:04 PM 15-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#559830",
           "cricketScore": [
             {
-              "runs": 202,
-              "overs": "37.5",
-              "balls": "227",
+              "runs": 209,
+              "overs": "39.3",
+              "balls": "237",
               "status": "IN_PROGRESS",
-              "wickets": 6
+              "wickets": 7
             }
           ],
           "kabaddiScore": null,
@@ -128,9 +128,9 @@
           "color": "#80081C",
           "cricketScore": [
             {
-              "runs": 135,
-              "overs": "18.3",
-              "balls": "111",
+              "runs": 156,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
               "wickets": 8
             }
@@ -207,9 +207,9 @@
           "color": "#80081C",
           "cricketScore": [
             {
-              "runs": 135,
-              "overs": "18.3",
-              "balls": "111",
+              "runs": 156,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
               "wickets": 8
             }
@@ -286,11 +286,11 @@
           "color": "#dc2a1b",
           "cricketScore": [
             {
-              "runs": 119,
-              "overs": "18.5",
-              "balls": "113",
+              "runs": 126,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
-              "wickets": 8
+              "wickets": 9
             }
           ],
           "kabaddiScore": null,
@@ -754,8 +754,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "58585",
+                "shortName": "R Belloli",
+                "isOwnGoal": false,
+                "goalTime": "21'"
+              },
               {
                 "id": "58585",
                 "shortName": "R Belloli",
@@ -838,8 +844,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "58585",
+                "shortName": "R Belloli",
+                "isOwnGoal": false,
+                "goalTime": "21'"
+              },
               {
                 "id": "58585",
                 "shortName": "R Belloli",
@@ -922,8 +934,14 @@
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": {
-            "points": 1,
+            "points": 2,
             "goals": [
+              {
+                "id": "58585",
+                "shortName": "R Belloli",
+                "isOwnGoal": false,
+                "goalTime": "21'"
+              },
               {
                 "id": "58585",
                 "shortName": "R Belloli",
@@ -1008,7 +1026,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Manchester United Women",
@@ -1023,7 +1045,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
