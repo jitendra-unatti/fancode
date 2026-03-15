@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "10:56:02 AM 15-03-2026",
+  "last_updated": "11:00:04 AM 15-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 40,
-  "live_matches": 9,
-  "upcoming_matches": 31,
+  "live_matches": 10,
+  "upcoming_matches": 30,
   "matches": [
     {
       "category": "Cricket",
@@ -112,9 +112,9 @@
           "color": "#132f86",
           "cricketScore": [
             {
-              "runs": 65,
-              "overs": "12.4",
-              "balls": "76",
+              "runs": 108,
+              "overs": "18",
+              "balls": "108",
               "status": "IN_PROGRESS",
               "wickets": 7
             }
@@ -227,6 +227,77 @@
           "cookie": "hdntl=Expires=1773635167~_GO=Generated~acl=/mumbai/141199_english_hls_0dbc67b0c182691_1ta-di_h264/*~Signature=AR77L-ZLm6nvv6mJCS74H3XuLRtJRkcWzJwV8Ucs2SjU8o9l-Rj0jekc4KpsrLi7amACuHv5uAX_uwcecfrQupU18wwA",
           "cookie_valid": "1773635167",
           "expire_date": "Monday, March 16, 2026, 9:56:07 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Cricket",
+      "title": "Hong Kong Cricket Club Vs Pakistan Association Cricket Club",
+      "tournament": "Premier League T20 2026",
+      "match_id": 140620,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "15 March 2026 11:00 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140620_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/_Premier-League-T20-2026-Sporty-match-card.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140620_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Hong Kong Cricket Club",
+          "shortName": "HKCC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCCW@2x.png"
+          },
+          "isWinner": false,
+          "color": "#A18241",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Pakistan Association Cricket Club",
+          "shortName": "PACC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PACC@2x.png"
+          },
+          "isWinner": false,
+          "color": "#3C874D",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/240p.m3u8?hdntl=Expires=1773639007~_GO=Generated~acl=/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/*~Signature=AR77L-aLxoN-BQHvhh_GXAogxxtQeAR5yFgYrW8baqnz9bcnT3sgIBEW_pdXJFILnfD62G5rxNO5_FEDdVylBWHl6aMM\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/360p.m3u8?hdntl=Expires=1773639007~_GO=Generated~acl=/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/*~Signature=AR77L-aLxoN-BQHvhh_GXAogxxtQeAR5yFgYrW8baqnz9bcnT3sgIBEW_pdXJFILnfD62G5rxNO5_FEDdVylBWHl6aMM\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/480p.m3u8?hdntl=Expires=1773639007~_GO=Generated~acl=/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/*~Signature=AR77L-aLxoN-BQHvhh_GXAogxxtQeAR5yFgYrW8baqnz9bcnT3sgIBEW_pdXJFILnfD62G5rxNO5_FEDdVylBWHl6aMM\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/540p.m3u8?hdntl=Expires=1773639007~_GO=Generated~acl=/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/*~Signature=AR77L-aLxoN-BQHvhh_GXAogxxtQeAR5yFgYrW8baqnz9bcnT3sgIBEW_pdXJFILnfD62G5rxNO5_FEDdVylBWHl6aMM\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/720p.m3u8?hdntl=Expires=1773639007~_GO=Generated~acl=/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/*~Signature=AR77L-aLxoN-BQHvhh_GXAogxxtQeAR5yFgYrW8baqnz9bcnT3sgIBEW_pdXJFILnfD62G5rxNO5_FEDdVylBWHl6aMM\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773639007~_GO=Generated~acl=/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/*~Signature=AR77L-aLxoN-BQHvhh_GXAogxxtQeAR5yFgYrW8baqnz9bcnT3sgIBEW_pdXJFILnfD62G5rxNO5_FEDdVylBWHl6aMM",
+          "cookie": "hdntl=Expires=1773639007~_GO=Generated~acl=/mumbai/140620_english_hls_826b14a42723724_1ta-di_h264/*~Signature=AR77L-aLxoN-BQHvhh_GXAogxxtQeAR5yFgYrW8baqnz9bcnT3sgIBEW_pdXJFILnfD62G5rxNO5_FEDdVylBWHl6aMM",
+          "cookie_valid": "1773639007",
+          "expire_date": "Monday, March 16, 2026, 11:00:07 AM",
           "language": "ENGLISH"
         }
       ]
@@ -1022,70 +1093,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Hong Kong Cricket Club Vs Pakistan Association Cricket Club",
-      "tournament": "Premier League T20 2026",
-      "match_id": 140620,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "15 March 2026 11:00 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/140620_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/_Premier-League-T20-2026-Sporty-match-card.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/140620_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Hong Kong Cricket Club",
-          "shortName": "HKCC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCCW@2x.png"
-          },
-          "isWinner": null,
-          "color": "#A18241",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Pakistan Association Cricket Club",
-          "shortName": "PACC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PACC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#3C874D",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Western Australia Women Vs Act Meteors",
+      "title": "Act Meteors Vs Western Australia Women",
       "tournament": "Women's National Cricket League, 2025-26",
       "match_id": 133991,
       "status": "NOT_STARTED",
@@ -1105,25 +1113,6 @@
       },
       "team": [
         {
-          "name": "Western Australia Women",
-          "shortName": "WA-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
-          },
-          "isWinner": null,
-          "color": "#fbba00",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
           "name": "ACT Meteors",
           "shortName": "ACTM",
           "flag": {
@@ -1131,6 +1120,33 @@
           },
           "isWinner": null,
           "color": "#006ba6",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "Western Australia Women",
+          "shortName": "WA-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAU@2x.png"
+          },
+          "isWinner": null,
+          "color": "#fbba00",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
