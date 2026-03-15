@@ -1,15 +1,94 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:49:17 AM 15-03-2026",
+  "last_updated": "06:59:20 AM 15-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 6,
-  "upcoming_matches": 32,
+  "live_matches": 7,
+  "upcoming_matches": 31,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "New Zealand Women Vs South Africa Women",
+      "tournament": "South Africa Women's tour of New Zealand, 2026",
+      "match_id": 141066,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "15 March 2026 07:15 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141066_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-SA.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-Sporty-card.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141066_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "New Zealand Women",
+          "shortName": "NZ-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#1d2c6b",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "South Africa Women",
+          "shortName": "SA-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#2d9251",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_350.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_500.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_700.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_950.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_1350.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_1400.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX&aka_media_format_type=hls",
+          "cookie": "hdntl=exp=1773624563~acl=%2f*~id=7a8bb155-99f5-46d9-9822-31e6832308b7~data=hdntl~hmac=9bb5a47dc779a0a0a193c1fd2da92a1fa55beeb0943b9eb8279f0ef5de076a35/master_350.m3u8?aka_me_session_id=AAAAAAAAAADzXLdpAAAAAHWAR3lcIugpcwLYb+yq%2fbbgV9XHmTwm4sxLX149LxepS%2fGAWISkNEpg4jLbAhkqXdZxNT%2f1RwpX",
+          "cookie_valid": "1773624563",
+          "expire_date": "Monday, March 16, 2026, 6:59:23 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
     {
       "category": "Cricket",
       "title": "Hong Kong Cricket Club Women Vs Craigengower Cricket Club Women",
@@ -475,69 +554,6 @@
           "language": "ENGLISH"
         }
       ]
-    },
-    {
-      "category": "Cricket",
-      "title": "New Zealand Women Vs South Africa Women",
-      "tournament": "South Africa Women's tour of New Zealand, 2026",
-      "match_id": 141066,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "15 March 2026 07:15 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141066_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-SA.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-Sporty-card.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141066_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "New Zealand Women",
-          "shortName": "NZ-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#1d2c6b",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "South Africa Women",
-          "shortName": "SA-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#2d9251",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
     },
     {
       "category": "Cricket",
