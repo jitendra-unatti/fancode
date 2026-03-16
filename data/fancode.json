@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "01:42:01 PM 16-03-2026",
+  "last_updated": "01:49:02 PM 16-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
           "color": "#ff5142",
           "cricketScore": [
             {
-              "runs": 173,
-              "overs": "33.3",
-              "balls": "201",
+              "runs": 177,
+              "overs": "35",
+              "balls": "210",
               "status": "IN_PROGRESS",
-              "wickets": 3
+              "wickets": 4
             }
           ],
           "kabaddiScore": null,
@@ -102,7 +102,7 @@
       "title": "Gomti Thunder Vs Ganga Warriors",
       "tournament": "Ayodhya Premier League",
       "match_id": 141365,
-      "status": "NOT_STARTED",
+      "status": "LIVE",
       "streamingStatus": "STARTED",
       "startTime": "16 March 2026 01:30 PM",
       "startDate": "01 January 1970 05:30 AM",
@@ -128,11 +128,11 @@
           "color": "#ff617b",
           "cricketScore": [
             {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
+              "runs": 19,
+              "overs": "3.5",
+              "balls": "23",
               "status": "IN_PROGRESS",
-              "wickets": 0
+              "wickets": 1
             }
           ],
           "kabaddiScore": null,
@@ -655,7 +655,7 @@
               "wickets": 10
             },
             {
-              "runs": 133,
+              "runs": 332,
               "overs": "42",
               "balls": "0",
               "status": "IN_PROGRESS",
@@ -739,6 +739,13 @@
               "balls": "0",
               "status": "COMPLETED",
               "wickets": 10
+            },
+            {
+              "runs": 27,
+              "overs": "7.1",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
             }
           ],
           "kabaddiScore": null,
@@ -747,7 +754,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": false
+              "isBatting": true
             }
           }
         },
@@ -764,7 +771,7 @@
               "runs": 308,
               "overs": "113.2",
               "balls": "0",
-              "status": "IN_PROGRESS",
+              "status": "COMPLETED",
               "wickets": 10
             }
           ],
@@ -774,7 +781,7 @@
           "hockeyScore": null,
           "status": {
             "cricket": {
-              "isBatting": true
+              "isBatting": false
             }
           }
         }
