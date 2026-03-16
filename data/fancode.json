@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:39:26 PM 16-03-2026",
+  "last_updated": "12:49:32 PM 16-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
           "color": "#ff5142",
           "cricketScore": [
             {
-              "runs": 139,
-              "overs": "29.1",
-              "balls": "175",
+              "runs": 147,
+              "overs": "31",
+              "balls": "186",
               "status": "IN_PROGRESS",
               "wickets": 3
             }
@@ -124,7 +124,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSK@2x.png"
           },
-          "isWinner": null,
+          "isWinner": false,
           "color": "#d3842d",
           "cricketScore": [
             {
@@ -151,7 +151,7 @@
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAC@2x.png"
           },
-          "isWinner": null,
+          "isWinner": true,
           "color": "#132f86",
           "cricketScore": [
             {
@@ -176,10 +176,10 @@
       "language": "ENGLISH",
       "auto_streams": [
         {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/240p.m3u8?hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/360p.m3u8?hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/480p.m3u8?hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/540p.m3u8?hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/720p.m3u8?hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA",
-          "cookie": "hdntl=Expires=1773717544~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YTcw4kggBGV481Av7Mh_inunf4xK_irWbDEVtJD8n_DMz59kJSk06c-w41xV2a87EFODvTgtL4-K0mNw6M-BAA",
-          "cookie_valid": "1773717544",
-          "expire_date": "Tuesday, March 17, 2026, 8:49:04 AM",
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/240p.m3u8?hdntl=Expires=1773731974~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YnZ0dPWx_JxU6rZItnH9ypakvb8wflAPgY8OCJel2v4JgoTjuT0jnycRim9GdpLBYSDqshovZ6DK2-oFe74CIH\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/360p.m3u8?hdntl=Expires=1773731974~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YnZ0dPWx_JxU6rZItnH9ypakvb8wflAPgY8OCJel2v4JgoTjuT0jnycRim9GdpLBYSDqshovZ6DK2-oFe74CIH\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/480p.m3u8?hdntl=Expires=1773731974~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YnZ0dPWx_JxU6rZItnH9ypakvb8wflAPgY8OCJel2v4JgoTjuT0jnycRim9GdpLBYSDqshovZ6DK2-oFe74CIH\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/540p.m3u8?hdntl=Expires=1773731974~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YnZ0dPWx_JxU6rZItnH9ypakvb8wflAPgY8OCJel2v4JgoTjuT0jnycRim9GdpLBYSDqshovZ6DK2-oFe74CIH\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/720p.m3u8?hdntl=Expires=1773731974~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YnZ0dPWx_JxU6rZItnH9ypakvb8wflAPgY8OCJel2v4JgoTjuT0jnycRim9GdpLBYSDqshovZ6DK2-oFe74CIH\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773731974~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YnZ0dPWx_JxU6rZItnH9ypakvb8wflAPgY8OCJel2v4JgoTjuT0jnycRim9GdpLBYSDqshovZ6DK2-oFe74CIH",
+          "cookie": "hdntl=Expires=1773731974~_GO=Generated~acl=/mumbai/141364_english_hls_b1be15b75497711_1ta-di_h264/*~Signature=AR77L-YnZ0dPWx_JxU6rZItnH9ypakvb8wflAPgY8OCJel2v4JgoTjuT0jnycRim9GdpLBYSDqshovZ6DK2-oFe74CIH",
+          "cookie_valid": "1773731974",
+          "expire_date": "Tuesday, March 17, 2026, 12:49:34 PM",
           "language": "ENGLISH"
         }
       ]
@@ -1446,6 +1446,69 @@
     },
     {
       "category": "Cricket",
+      "title": "Royal Riders Punjab Vs Southern Super Stars",
+      "tournament": "Legends League Cricket, 2026",
+      "match_id": 141311,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "17 March 2026 07:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141311_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-App_1773487500013.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141311_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Royal Riders Punjab",
+          "shortName": "RRP",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRP@2x.png"
+          },
+          "isWinner": null,
+          "color": "#80081C",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Southern Super Stars",
+          "shortName": "SSS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#082f5e",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
       "title": "New Zealand Vs South Africa",
       "tournament": "South Africa tour of New Zealand, 2026",
       "match_id": 141061,
@@ -1674,69 +1737,6 @@
           "status": {
             "cricket": {
               "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "auto_streams": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Royal Riders Punjab Vs Southern Super Stars",
-      "tournament": "Legends League Cricket, 2026",
-      "match_id": 141311,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "17 March 2026 07:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141311_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-App_1773487500013.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141311_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Royal Riders Punjab",
-          "shortName": "RRP",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRP@2x.png"
-          },
-          "isWinner": null,
-          "color": "#80081C",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Southern Super Stars",
-          "shortName": "SSS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#082f5e",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
             }
           }
         }
