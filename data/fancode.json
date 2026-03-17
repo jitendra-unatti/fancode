@@ -1,111 +1,15 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "05:14:05 PM 17-03-2026",
+  "last_updated": "05:28:04 PM 17-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 2,
+  "upcoming_matches": 36,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Yamuna Super Kings Vs Betwa Blasters",
-      "tournament": "Ayodhya Premier League",
-      "match_id": 141367,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "17 March 2026 01:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141367_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ayodhya_Premier_league_Tour_logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-App.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141367_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Yamuna Super Kings",
-          "shortName": "YSK",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSK@2x.png"
-          },
-          "isWinner": true,
-          "color": "#d3842d",
-          "cricketScore": [
-            {
-              "runs": 137,
-              "overs": "20",
-              "balls": "120",
-              "status": "COMPLETED",
-              "wickets": 6
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Betwa Blasters",
-          "shortName": "BB",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BTB@2x.png"
-          },
-          "isWinner": false,
-          "color": "#c6af17",
-          "cricketScore": [
-            {
-              "runs": 125,
-              "overs": "20",
-              "balls": "120",
-              "status": "IN_PROGRESS",
-              "wickets": 8
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/240p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/360p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/480p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/540p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/720p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH",
-          "cookie": "hdntl=Expires=1773819853~_GO=Generated~acl=/mumbai/141367_english_hls_22b3ead34299937_1ta-di_h264/*~Signature=AR77L-apSN39JbNTK-0QrJS_FJsR4w__Suf0KRnQYtQd-5mDNsG3uK67-EhrDbTGA4AXDpXwRBk9DEUXJ0TFkVbXblAH",
-          "cookie_valid": "1773819853",
-          "expire_date": "Wednesday, March 18, 2026, 1:14:13 PM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Bengal Royals Vs Chennai Warlords",
@@ -220,7 +124,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         },
         {
           "name": "Australia Women",
@@ -235,7 +143,11 @@
           "footballScore": null,
           "basketBallScore": null,
           "hockeyScore": null,
-          "status": null
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
         }
       ],
       "language": "ENGLISH",
@@ -2632,6 +2544,73 @@
           },
           "isWinner": null,
           "color": "#5A98D6",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
+      "title": "Toluca Vs San Diego",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "match_id": 141105,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "19 March 2026 08:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141105_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772958269377.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141105_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Toluca",
+          "shortName": "TOL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TOL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#9CF993",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "San Diego",
+          "shortName": "SD",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SD@2x.png"
+          },
+          "isWinner": null,
+          "color": "#022349",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
