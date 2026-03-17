@@ -1,15 +1,103 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "06:56:01 AM 17-03-2026",
+  "last_updated": "07:07:05 AM 17-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "South Africa Women Vs New Zealand Women",
+      "tournament": "South Africa Women's tour of New Zealand, 2026",
+      "match_id": 141067,
+      "status": "NOT_STARTED",
+      "streamingStatus": "STARTED",
+      "startTime": "17 March 2026 07:15 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141067_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-SA.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-Sporty-card.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141067_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "South Africa Women",
+          "shortName": "SA-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png"
+          },
+          "isWinner": null,
+          "color": "#2d9251",
+          "cricketScore": [
+            {
+              "runs": 0,
+              "overs": "0",
+              "balls": "0",
+              "status": "IN_PROGRESS",
+              "wickets": 0
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        },
+        {
+          "name": "New Zealand Women",
+          "shortName": "NZ-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
+          },
+          "isWinner": null,
+          "color": "#1d2c6b",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+        "fancode_cdn": "Unavailable",
+        "fancode_bd_cdn": "Unavailable",
+        "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=516408,AVERAGE-BANDWIDTH=516408,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_350.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_500.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=906728,AVERAGE-BANDWIDTH=906728,CODECS=\"avc1.64001e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_700.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1194872,AVERAGE-BANDWIDTH=1194872,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_950.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1603544,AVERAGE-BANDWIDTH=1603544,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_1350.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1646672,AVERAGE-BANDWIDTH=1646672,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_1400.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2310816,AVERAGE-BANDWIDTH=2310816,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_2000.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3289416,AVERAGE-BANDWIDTH=3289416,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4865152,AVERAGE-BANDWIDTH=4865152,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_4500.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs&aka_media_format_type=hls",
+          "cookie": "hdntl=exp=1773797825~acl=%2f*~id=2e6c6f92-4223-4a4a-a717-31e5e239f190~data=hdntl~hmac=f628df94fa495a2b2140a5e00da709fafa571f2696ab40fa1889e85fee2b0f68/master_350.m3u8?aka_me_session_id=AAAAAAAAAADBAbppAAAAAB6puOclHy7wmn9Tv8XZCaC7Y7IzpoHzSLRmCiVViAuF4d7UVbx5C7ndoQdNEBmVs7+DAtw0ptRs",
+          "cookie_valid": "1773797825",
+          "expire_date": "Wednesday, March 18, 2026, 7:07:05 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
     {
       "category": "Cricket",
       "title": "Tasmania Vs Queensland",
@@ -325,81 +413,6 @@
           "language": "ENGLISH"
         }
       ]
-    },
-    {
-      "category": "Cricket",
-      "title": "South Africa Women Vs New Zealand Women",
-      "tournament": "South Africa Women's tour of New Zealand, 2026",
-      "match_id": 141067,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "17 March 2026 07:15 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141067_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-SA.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-Sporty-card.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141067_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "South Africa Women",
-          "shortName": "SA-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png"
-          },
-          "isWinner": null,
-          "color": "#2d9251",
-          "cricketScore": [
-            {
-              "runs": 0,
-              "overs": "0",
-              "balls": "0",
-              "status": "IN_PROGRESS",
-              "wickets": 0
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        },
-        {
-          "name": "New Zealand Women",
-          "shortName": "NZ-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
-          },
-          "isWinner": null,
-          "color": "#1d2c6b",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
     },
     {
       "category": "Cricket",
@@ -2563,7 +2576,7 @@
     },
     {
       "category": "Tennis",
-      "title": "Atp Masters Miami Open 2026",
+      "title": "G Court Feed",
       "tournament": "ATP Masters Miami Open 2026",
       "match_id": 141455,
       "status": "NOT_STARTED",
@@ -2583,8 +2596,8 @@
       },
       "team": [
         {
-          "name": "ATP Masters Miami Open 2026",
-          "shortName": "ATP Masters Miami Open 2026",
+          "name": "G Court Feed",
+          "shortName": "G Court Feed",
           "flag": {
             "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
           },
