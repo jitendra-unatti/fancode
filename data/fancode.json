@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "02:59:45 PM 17-03-2026",
+  "last_updated": "03:04:27 PM 17-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
@@ -346,10 +346,10 @@
       },
       "auto_streams": [
         {
-          "auto": false,
-          "cookie": null,
-          "cookie_valid": null,
-          "expire_date": null,
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/240p.m3u8?hdntl=Expires=1773826469~_GO=Generated~acl=/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/*~Signature=AR77L-ZBE6GV3fcR4OzawjT4TzFM8xUE9yx9YRlGVHLSGkm1nVEOvrAIcHf2aVtEBekYybhZXquaBu45AGvXVzEv6hcC\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/360p.m3u8?hdntl=Expires=1773826469~_GO=Generated~acl=/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/*~Signature=AR77L-ZBE6GV3fcR4OzawjT4TzFM8xUE9yx9YRlGVHLSGkm1nVEOvrAIcHf2aVtEBekYybhZXquaBu45AGvXVzEv6hcC\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/480p.m3u8?hdntl=Expires=1773826469~_GO=Generated~acl=/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/*~Signature=AR77L-ZBE6GV3fcR4OzawjT4TzFM8xUE9yx9YRlGVHLSGkm1nVEOvrAIcHf2aVtEBekYybhZXquaBu45AGvXVzEv6hcC\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/540p.m3u8?hdntl=Expires=1773826469~_GO=Generated~acl=/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/*~Signature=AR77L-ZBE6GV3fcR4OzawjT4TzFM8xUE9yx9YRlGVHLSGkm1nVEOvrAIcHf2aVtEBekYybhZXquaBu45AGvXVzEv6hcC\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/720p.m3u8?hdntl=Expires=1773826469~_GO=Generated~acl=/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/*~Signature=AR77L-ZBE6GV3fcR4OzawjT4TzFM8xUE9yx9YRlGVHLSGkm1nVEOvrAIcHf2aVtEBekYybhZXquaBu45AGvXVzEv6hcC\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773826469~_GO=Generated~acl=/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/*~Signature=AR77L-ZBE6GV3fcR4OzawjT4TzFM8xUE9yx9YRlGVHLSGkm1nVEOvrAIcHf2aVtEBekYybhZXquaBu45AGvXVzEv6hcC",
+          "cookie": "hdntl=Expires=1773826469~_GO=Generated~acl=/mumbai/141207_english_hls_90f4351c0f65385_1ta-di_h264/*~Signature=AR77L-ZBE6GV3fcR4OzawjT4TzFM8xUE9yx9YRlGVHLSGkm1nVEOvrAIcHf2aVtEBekYybhZXquaBu45AGvXVzEv6hcC",
+          "cookie_valid": "1773826469",
+          "expire_date": "Wednesday, March 18, 2026, 3:04:29 PM",
           "language": "ENGLISH"
         }
       ]
@@ -1177,15 +1177,15 @@
       "streamingStatus": "NOT_STARTED",
       "startTime": "18 March 2026 07:30 PM",
       "startDate": "01 January 1970 05:30 AM",
-      "image": "https://images.fancode.com/aig/match/v1773729395604/141313_CASACARDS_APP.png",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Konark-Suryas-Odisha-vs-India-Tigers_web.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/141313_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://images.fancode.com/aig/match/v1773729395604/141313_CASACARDS_APP.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Konark-Suryas-Odisha-vs-India-Tigers_web.jpg",
         "PLAYBACK": null,
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://images.fancode.com/aig/match/v1773729395604/141313_CASACARDS_APP.png",
-        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1773729395604/141313_CASACARDS_SPORTY_APP.png",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Konark-Suryas-Odisha-vs-India-Tigers_web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Konark-Suryas-Odisha-vs-India-Tigers_old-sporty.jpg",
         "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141313_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "team": [
