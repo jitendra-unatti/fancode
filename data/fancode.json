@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "12:07:01 PM 18-03-2026",
+  "last_updated": "12:14:01 PM 18-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 2,
-  "upcoming_matches": 36,
+  "live_matches": 1,
+  "upcoming_matches": 37,
   "matches": [
     {
       "category": "Cricket",
@@ -111,15 +111,15 @@
       "title": "Mumbai Maverics Vs Chennai Warlords",
       "tournament": "Thunderbolt T10 League 2026",
       "match_id": 141208,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
       "startTime": "18 March 2026 10:10 AM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/141208_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "PLAYBACK": null,
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Thunderbolt-T10-League-(1).png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -166,25 +166,12 @@
           }
         }
       ],
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
       },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/240p.m3u8?hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/360p.m3u8?hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/480p.m3u8?hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/540p.m3u8?hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/720p.m3u8?hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA",
-          "cookie": "hdntl=Expires=1773894864~_GO=Generated~acl=/mumbai/141208_english_hls_b0ba67c35574250_1ta-di_h264/*~Signature=AR77L-aOBTpovMTZ0Jv2qYKZcrF0RL6-v7kIlJP-1PBffF7-Ymgjh-AYrEMhVZhCrS-dEojX3-AO7XLtt5GGLWfj3ZcA",
-          "cookie_valid": "1773894864",
-          "expire_date": "Thursday, March 19, 2026, 10:04:24 AM",
-          "language": "ENGLISH"
-        }
-      ]
+      "auto_streams": null
     },
     {
       "category": "Cricket",
@@ -921,73 +908,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Mumbai Spartans Vs Konark Suryas Odisha",
-      "tournament": "Legends League Cricket, 2026",
-      "match_id": 141312,
-      "status": "ABANDONED",
-      "streamingStatus": "COMPLETED",
-      "startTime": "17 March 2026 02:30 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141312_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-App_1773487500168.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141312_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Mumbai Spartans",
-          "shortName": "MSP",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSP@2x.png"
-          },
-          "isWinner": null,
-          "color": "#D59A14",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Konark Suryas Odisha",
-          "shortName": "KSO",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff3600",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Cricket",
       "title": "Ganga Warriors Vs Yamuna Super Kings",
       "tournament": "Ayodhya Premier League",
       "match_id": 141370,
@@ -1034,6 +954,73 @@
           },
           "isWinner": null,
           "color": "#d3842d",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Mumbai Spartans Vs Konark Suryas Odisha",
+      "tournament": "Legends League Cricket, 2026",
+      "match_id": 141312,
+      "status": "ABANDONED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "17 March 2026 02:30 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141312_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-Web_1773487500149.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141312_6002_MSP_KSO_FC-App_1773487500168.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141312_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Mumbai Spartans",
+          "shortName": "MSP",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSP@2x.png"
+          },
+          "isWinner": null,
+          "color": "#D59A14",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Konark Suryas Odisha",
+          "shortName": "KSO",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ff3600",
           "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
@@ -1590,6 +1577,73 @@
       "auto_streams": null
     },
     {
+      "category": "Cricket",
+      "title": "Tbc Vs Tbc",
+      "tournament": "Thunderbolt T10 League 2026",
+      "match_id": 141213,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "19 March 2026 03:10 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141213_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Thunderbolt-T10-League-(1).png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141213_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "TBC",
+          "shortName": "TBC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+          },
+          "isWinner": null,
+          "color": "#dcdcdc",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "TBC",
+          "shortName": "TBC",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+          },
+          "isWinner": null,
+          "color": "#dcdcdc",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
       "category": "Tennis",
       "title": "A Court Feed",
       "tournament": "ATP Masters Miami Open 2026",
@@ -2039,73 +2093,6 @@
           },
           "isWinner": null,
           "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Cricket",
-      "title": "Tbc Vs Tbc",
-      "tournament": "Thunderbolt T10 League 2026",
-      "match_id": 141213,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "19 March 2026 03:10 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141213_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Thunderbolt-T10-League-(1).png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(8).png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141213_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "TBC",
-          "shortName": "TBC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
-          },
-          "isWinner": null,
-          "color": "#dcdcdc",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "TBC",
-          "shortName": "TBC",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
-          },
-          "isWinner": null,
-          "color": "#dcdcdc",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
