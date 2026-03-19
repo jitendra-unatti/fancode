@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "08:14:08 AM 19-03-2026",
+  "last_updated": "08:21:23 AM 19-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 3,
-  "upcoming_matches": 35,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Football",
@@ -155,6 +155,150 @@
       ]
     },
     {
+      "category": "Football",
+      "title": "Seattle Sounders Fc Vs Vancouver Whitecaps Fc",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "match_id": 141106,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "19 March 2026 08:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141106_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772958269381.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141106_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Seattle Sounders FC",
+          "shortName": "SS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#9C98EF",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        },
+        {
+          "name": "Vancouver Whitecaps FC",
+          "shortName": "VAN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#5A98D6",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/240p.m3u8?hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/360p.m3u8?hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/480p.m3u8?hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/540p.m3u8?hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/720p.m3u8?hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK",
+          "cookie": "hdntl=Expires=1773889010~_GO=Generated~acl=/mumbai/141106_english_hls_67a6d0fb0a89489_1ta-di_h264/*~Signature=AYUBS8qL3ckEazWx3aP_RheqRZ1AC7-DMq_V6TOhabe-I_D-w5UurAskEPRCL8YKO-MqUDcgtLT_dgP8mn8N88Jf7loK",
+          "cookie_valid": "1773889010",
+          "expire_date": "Thursday, March 19, 2026, 8:26:50 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
+      "category": "Football",
+      "title": "Toluca Vs San Diego",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "match_id": 141105,
+      "status": "LIVE",
+      "streamingStatus": "STARTED",
+      "startTime": "19 March 2026 08:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141105_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
+        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772958269377.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141105_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Toluca",
+          "shortName": "TOL",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TOL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#9CF993",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        },
+        {
+          "name": "San Diego",
+          "shortName": "SD",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SD@2x.png"
+          },
+          "isWinner": null,
+          "color": "#022349",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": null
+        }
+      ],
+      "language": "ENGLISH",
+      "STREAMING_CDN": {
+        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/index.m3u8",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/index.m3u8",
+        "dai_google_cdn": "Unavailable",
+        "cloudfront_cdn": "Unavailable",
+        "sony_cdn": "Unavailable",
+        "language": "ENGLISH"
+      },
+      "auto_streams": [
+        {
+          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/240p.m3u8?hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/360p.m3u8?hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/480p.m3u8?hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/540p.m3u8?hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/720p.m3u8?hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB",
+          "cookie": "hdntl=Expires=1773975084~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qb0-vzkFvNOqiWPNLQUT67DwN_m-2ub5-gZNQEO5fn4TwAOcJo9ppQN1OPmMNYkV1IBoPs4QQTrLvJp-oN08MB",
+          "cookie_valid": "1773975084",
+          "expire_date": "Friday, March 20, 2026, 8:21:24 AM",
+          "language": "ENGLISH"
+        }
+      ]
+    },
+    {
       "category": "Cricket",
       "title": "Mumbai Spartans Vs Royal Riders Punjab",
       "tournament": "Legends League Cricket, 2026",
@@ -163,15 +307,15 @@
       "streamingStatus": "NOT_STARTED",
       "startTime": "19 March 2026 07:30 PM",
       "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "image": "https://images.fancode.com/aig/match/v1773888188795/141314_CASACARDS_APP.png",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/141314_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "APP": "https://images.fancode.com/aig/match/v1773888188795/141314_CASACARDS_APP.png",
         "PLAYBACK": null,
         "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+        "BG_IMAGE": "https://images.fancode.com/aig/match/v1773888188795/141314_CASACARDS_APP.png",
+        "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1773888188795/141314_CASACARDS_SPORTY_APP.png",
         "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141314_CASACARDS_PARTNER_16_9_1920_1080.png"
       },
       "team": [
@@ -354,153 +498,6 @@
         "Primary_Playback_URL": null
       },
       "auto_streams": null
-    },
-    {
-      "category": "Football",
-      "title": "Seattle Sounders Fc Vs Vancouver Whitecaps Fc",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "match_id": 141106,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "19 March 2026 08:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141106_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772958269381.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141106_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Seattle Sounders FC",
-          "shortName": "SS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#9C98EF",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Vancouver Whitecaps FC",
-          "shortName": "VAN",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#5A98D6",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
-      "category": "Football",
-      "title": "Toluca Vs San Diego",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "match_id": 141105,
-      "status": "NOT_STARTED",
-      "streamingStatus": "STARTED",
-      "startTime": "19 March 2026 08:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141105_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772957805592.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141105_5954_TOL_SD_1772958269377.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141105_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Toluca",
-          "shortName": "TOL",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TOL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#9CF993",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "San Diego",
-          "shortName": "SD",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SD@2x.png"
-          },
-          "isWinner": null,
-          "color": "#022349",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/240p.m3u8?hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/360p.m3u8?hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/480p.m3u8?hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/540p.m3u8?hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/720p.m3u8?hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK\n#EXT-X-STREAM-INF:BANDWIDTH=5408736,AVERAGE-BANDWIDTH=5408736,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://in-mc-flive.fancode.com/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK",
-          "cookie": "hdntl=Expires=1773888580~_GO=Generated~acl=/mumbai/141105_english_hls_0ee6272b0827142_1ta-di_h264/*~Signature=AYUBS8qztTzrqyJqw8b8f1JeIgiFGWPtnO6O-7MiBQiojCn_tnn5BZqhhx0jpUbWLaHqcwFyzxQjlIWNo-HxXsfgsHsK",
-          "cookie_valid": "1773888580",
-          "expire_date": "Thursday, March 19, 2026, 8:19:40 AM",
-          "language": "ENGLISH"
-        }
-      ]
     },
     {
       "category": "Cricket",
@@ -972,73 +969,6 @@
       "auto_streams": null
     },
     {
-      "category": "Football",
-      "title": "Mount Pleasant Fa Vs La Galaxy",
-      "tournament": "CONCACAF Champions Cup 2026",
-      "match_id": 141107,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "20 March 2026 04:30 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772957805495.png",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141107_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772957805495.png",
-        "PLAYBACK": null,
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772957805495.png",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772958269386.png",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141107_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Mount Pleasant FA",
-          "shortName": "MTP",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
-          },
-          "isWinner": null,
-          "color": "#FF0000",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "LA Galaxy",
-          "shortName": "LAG",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LAG@2x.png"
-          },
-          "isWinner": null,
-          "color": "#b3ffff",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
-    },
-    {
       "category": "Cricket",
       "title": "New Zealand Vs South Africa",
       "tournament": "South Africa tour of New Zealand, 2026",
@@ -1086,6 +1016,73 @@
           },
           "isWinner": null,
           "color": "#2d9251",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Football",
+      "title": "Mount Pleasant Fa Vs La Galaxy",
+      "tournament": "CONCACAF Champions Cup 2026",
+      "match_id": 141107,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "20 March 2026 04:30 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772957805495.png",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141107_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772957805495.png",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf-Champions-Cup-Tour-Logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772957805495.png",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141107_5954_MTP_LAG_1772958269386.png",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141107_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Mount Pleasant FA",
+          "shortName": "MTP",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
+          },
+          "isWinner": null,
+          "color": "#FF0000",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "LA Galaxy",
+          "shortName": "LAG",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LAG@2x.png"
+          },
+          "isWinner": null,
+          "color": "#b3ffff",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
