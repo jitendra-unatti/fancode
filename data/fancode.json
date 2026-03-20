@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "07:49:15 AM 20-03-2026",
+  "last_updated": "07:56:03 AM 20-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 5,
-  "upcoming_matches": 33,
+  "live_matches": 4,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -41,11 +41,11 @@
           "color": "#2d9251",
           "cricketScore": [
             {
-              "runs": 54,
-              "overs": "7.4",
-              "balls": "46",
+              "runs": 69,
+              "overs": "9.2",
+              "balls": "56",
               "status": "IN_PROGRESS",
-              "wickets": 2
+              "wickets": 3
             }
           ],
           "kabaddiScore": null,
@@ -326,102 +326,6 @@
           "cookie": "hdntl=Expires=1774054275~_GO=Generated~acl=/mumbai/141037_english_hls_9cf7a3e95657721_1ta-di_h264/*~Signature=AYUBS8pknr_ISQO7dTwDL9DGXMdmO7V8ZiaTKmHIhb3vKW9ykATnOZvRIlRvD-3YQd140Iw4mk_DDgnB19gV95BSTNQD",
           "cookie_valid": "1774054275",
           "expire_date": "Saturday, March 21, 2026, 6:21:15 AM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Australia Women Vs West Indies Women",
-      "tournament": "Australia Women's tour of West Indies 2026",
-      "match_id": 141328,
-      "status": "COMPLETED",
-      "streamingStatus": "STARTED",
-      "startTime": "20 March 2026 04:00 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141328_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
-        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS-(1).png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-app.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141328_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Australia Women",
-          "shortName": "AU-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
-          },
-          "isWinner": true,
-          "color": "#002695",
-          "cricketScore": [
-            {
-              "runs": 164,
-              "overs": "20",
-              "balls": "120",
-              "status": "COMPLETED",
-              "wickets": 6
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "West Indies Women",
-          "shortName": "WI-W",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-          },
-          "isWinner": false,
-          "color": "#91033c",
-          "cricketScore": [
-            {
-              "runs": 121,
-              "overs": "20",
-              "balls": "120",
-              "status": "IN_PROGRESS",
-              "wickets": 6
-            }
-          ],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": true
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/240p.m3u8?hdntl=Expires=1774059558~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8p8vyvhMEVFyCUR6SVrc6mu2pgc03npUkwu2VBQ0YLkYSMWz3GzRTKqPZpLVn0jQZo4gSGE9Be7Smbj7F3_8hgL\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/360p.m3u8?hdntl=Expires=1774059558~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8p8vyvhMEVFyCUR6SVrc6mu2pgc03npUkwu2VBQ0YLkYSMWz3GzRTKqPZpLVn0jQZo4gSGE9Be7Smbj7F3_8hgL\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/480p.m3u8?hdntl=Expires=1774059558~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8p8vyvhMEVFyCUR6SVrc6mu2pgc03npUkwu2VBQ0YLkYSMWz3GzRTKqPZpLVn0jQZo4gSGE9Be7Smbj7F3_8hgL\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/540p.m3u8?hdntl=Expires=1774059558~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8p8vyvhMEVFyCUR6SVrc6mu2pgc03npUkwu2VBQ0YLkYSMWz3GzRTKqPZpLVn0jQZo4gSGE9Be7Smbj7F3_8hgL\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/720p.m3u8?hdntl=Expires=1774059558~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8p8vyvhMEVFyCUR6SVrc6mu2pgc03npUkwu2VBQ0YLkYSMWz3GzRTKqPZpLVn0jQZo4gSGE9Be7Smbj7F3_8hgL\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774059558~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8p8vyvhMEVFyCUR6SVrc6mu2pgc03npUkwu2VBQ0YLkYSMWz3GzRTKqPZpLVn0jQZo4gSGE9Be7Smbj7F3_8hgL",
-          "cookie": "hdntl=Expires=1774059558~_GO=Generated~acl=/mumbai/141328_english_hls_9e65dd3bd030139_1ta-di_h264/*~Signature=AYUBS8p8vyvhMEVFyCUR6SVrc6mu2pgc03npUkwu2VBQ0YLkYSMWz3GzRTKqPZpLVn0jQZo4gSGE9Be7Smbj7F3_8hgL",
-          "cookie_valid": "1774059558",
-          "expire_date": "Saturday, March 21, 2026, 7:49:18 AM",
           "language": "ENGLISH"
         }
       ]
@@ -2497,6 +2401,89 @@
               "runs": 165,
               "overs": "13.3",
               "balls": "81",
+              "status": "IN_PROGRESS",
+              "wickets": 6
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": true
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Australia Women Vs West Indies Women",
+      "tournament": "Australia Women's tour of West Indies 2026",
+      "match_id": 141328,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "20 March 2026 04:00 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141328_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS-(1).png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-app.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141328_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Australia Women",
+          "shortName": "AU-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png"
+          },
+          "isWinner": true,
+          "color": "#002695",
+          "cricketScore": [
+            {
+              "runs": 164,
+              "overs": "20",
+              "balls": "120",
+              "status": "COMPLETED",
+              "wickets": 6
+            }
+          ],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "West Indies Women",
+          "shortName": "WI-W",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+          },
+          "isWinner": false,
+          "color": "#91033c",
+          "cricketScore": [
+            {
+              "runs": 121,
+              "overs": "20",
+              "balls": "120",
               "status": "IN_PROGRESS",
               "wickets": 6
             }
