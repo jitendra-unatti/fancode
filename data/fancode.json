@@ -1,14 +1,14 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "09:00:01 AM 22-03-2026",
+  "last_updated": "09:07:01 AM 22-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 38,
-  "live_matches": 7,
-  "upcoming_matches": 31,
+  "live_matches": 6,
+  "upcoming_matches": 32,
   "matches": [
     {
       "category": "Cricket",
@@ -68,11 +68,11 @@
           "color": "#1d2c6b",
           "cricketScore": [
             {
-              "runs": 9,
-              "overs": "1.5",
-              "balls": "12",
+              "runs": 17,
+              "overs": "3.1",
+              "balls": "19",
               "status": "IN_PROGRESS",
-              "wickets": 0
+              "wickets": 1
             }
           ],
           "kabaddiScore": null,
@@ -355,15 +355,15 @@
       "title": "D Court Feed",
       "tournament": "ATP Masters Miami Open 2026",
       "match_id": 141467,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
       "startTime": "21 March 2026 08:30 PM",
       "startDate": "01 January 1970 05:30 AM",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
       "image_cdn": {
         "TATAPLAY": "https://images.fancode.com/aig/match/v1/141467_CASACARDS_PARTNER_16_9_1920_1080.png",
         "APP": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+        "PLAYBACK": null,
         "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Tour-&-Team-Logo.png",
         "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
         "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
@@ -410,26 +410,12 @@
           }
         }
       ],
-      "language": "ENGLISH",
+      "language": "BLOODY_SWEET",
       "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
       },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/240p.m3u8?hdntl=Expires=1774229166~_GO=Generated~acl=/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/*~Signature=AYUBS8rd6VyZjIXV3V3KEDEnkqsTlCBY4u5K0NY2uR8OH90d65c5PsKfIWHucSRYqNXFYTJVR7xIAFiDzQYdP_1QQGEO\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/360p.m3u8?hdntl=Expires=1774229166~_GO=Generated~acl=/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/*~Signature=AYUBS8rd6VyZjIXV3V3KEDEnkqsTlCBY4u5K0NY2uR8OH90d65c5PsKfIWHucSRYqNXFYTJVR7xIAFiDzQYdP_1QQGEO\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/480p.m3u8?hdntl=Expires=1774229166~_GO=Generated~acl=/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/*~Signature=AYUBS8rd6VyZjIXV3V3KEDEnkqsTlCBY4u5K0NY2uR8OH90d65c5PsKfIWHucSRYqNXFYTJVR7xIAFiDzQYdP_1QQGEO\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/540p.m3u8?hdntl=Expires=1774229166~_GO=Generated~acl=/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/*~Signature=AYUBS8rd6VyZjIXV3V3KEDEnkqsTlCBY4u5K0NY2uR8OH90d65c5PsKfIWHucSRYqNXFYTJVR7xIAFiDzQYdP_1QQGEO\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/720p.m3u8?hdntl=Expires=1774229166~_GO=Generated~acl=/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/*~Signature=AYUBS8rd6VyZjIXV3V3KEDEnkqsTlCBY4u5K0NY2uR8OH90d65c5PsKfIWHucSRYqNXFYTJVR7xIAFiDzQYdP_1QQGEO\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774229166~_GO=Generated~acl=/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/*~Signature=AYUBS8rd6VyZjIXV3V3KEDEnkqsTlCBY4u5K0NY2uR8OH90d65c5PsKfIWHucSRYqNXFYTJVR7xIAFiDzQYdP_1QQGEO",
-          "cookie": "hdntl=Expires=1774229166~_GO=Generated~acl=/mumbai/141467_english_hls_7d466acbad35040_1ta-di_h264/*~Signature=AYUBS8rd6VyZjIXV3V3KEDEnkqsTlCBY4u5K0NY2uR8OH90d65c5PsKfIWHucSRYqNXFYTJVR7xIAFiDzQYdP_1QQGEO",
-          "cookie_valid": "1774229166",
-          "expire_date": "Monday, March 23, 2026, 6:56:06 AM",
-          "create_date": "Sunday, March 22, 2026, 6:56:04 AM",
-          "language": "ENGLISH"
-        }
-      ]
+      "auto_streams": null
     },
     {
       "category": "Tennis",
@@ -2029,7 +2015,7 @@
           },
           "isWinner": null,
           "color": "#d3842d",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
@@ -2048,7 +2034,7 @@
           },
           "isWinner": null,
           "color": "#3f50d5",
-          "cricketScore": null,
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
