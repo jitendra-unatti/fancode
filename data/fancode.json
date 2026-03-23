@@ -1,177 +1,15 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "04:15:07 PM 23-03-2026",
+  "last_updated": "04:25:04 PM 23-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
-  "total_matches": 41,
-  "live_matches": 4,
+  "total_matches": 40,
+  "live_matches": 3,
   "upcoming_matches": 37,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Konark Suryas Odisha Vs Southern Super Stars",
-      "tournament": "Legends League Cricket, 2026",
-      "match_id": 141316,
-      "status": "NOT_STARTED",
-      "streamingStatus": "STARTED",
-      "startTime": "23 March 2026 04:45 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141316_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-App_1774246065625.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141316_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Konark Suryas Odisha",
-          "shortName": "KSO",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff3600",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Southern Super Stars",
-          "shortName": "SSS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#082f5e",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/240p.m3u8?hdntl=Expires=1774349109~_GO=Generated~acl=/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/*~Signature=AYUBS8ruExNA71dO1Emih2p0xqE71CGwq0Nyu_3H0HlUh1tX4Nx1TzvF5IZKk-3TeACf0LXXLhw3BKgrBvhu-am6Js8C\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/360p.m3u8?hdntl=Expires=1774349109~_GO=Generated~acl=/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/*~Signature=AYUBS8ruExNA71dO1Emih2p0xqE71CGwq0Nyu_3H0HlUh1tX4Nx1TzvF5IZKk-3TeACf0LXXLhw3BKgrBvhu-am6Js8C\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/480p.m3u8?hdntl=Expires=1774349109~_GO=Generated~acl=/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/*~Signature=AYUBS8ruExNA71dO1Emih2p0xqE71CGwq0Nyu_3H0HlUh1tX4Nx1TzvF5IZKk-3TeACf0LXXLhw3BKgrBvhu-am6Js8C\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/540p.m3u8?hdntl=Expires=1774349109~_GO=Generated~acl=/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/*~Signature=AYUBS8ruExNA71dO1Emih2p0xqE71CGwq0Nyu_3H0HlUh1tX4Nx1TzvF5IZKk-3TeACf0LXXLhw3BKgrBvhu-am6Js8C\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/720p.m3u8?hdntl=Expires=1774349109~_GO=Generated~acl=/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/*~Signature=AYUBS8ruExNA71dO1Emih2p0xqE71CGwq0Nyu_3H0HlUh1tX4Nx1TzvF5IZKk-3TeACf0LXXLhw3BKgrBvhu-am6Js8C\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774349109~_GO=Generated~acl=/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/*~Signature=AYUBS8ruExNA71dO1Emih2p0xqE71CGwq0Nyu_3H0HlUh1tX4Nx1TzvF5IZKk-3TeACf0LXXLhw3BKgrBvhu-am6Js8C",
-          "cookie": "hdntl=Expires=1774349109~_GO=Generated~acl=/mumbai/141316_english_hls_9f0c7d885b40723_1ta-di_h264/*~Signature=AYUBS8ruExNA71dO1Emih2p0xqE71CGwq0Nyu_3H0HlUh1tX4Nx1TzvF5IZKk-3TeACf0LXXLhw3BKgrBvhu-am6Js8C",
-          "cookie_valid": "1774349109",
-          "expire_date": "Tuesday, March 24, 2026, 4:15:09 PM",
-          "create_date": "Monday, March 23, 2026, 4:15:06 PM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
-    {
-      "category": "Cricket",
-      "title": "Konark Suryas Odisha Vs Southern Super Stars",
-      "tournament": "Legends League Cricket, 2026",
-      "match_id": 141316,
-      "status": "NOT_STARTED",
-      "streamingStatus": "STARTED",
-      "startTime": "23 March 2026 04:45 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141316_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-App_1774246065625.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141316_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Konark Suryas Odisha",
-          "shortName": "KSO",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png"
-          },
-          "isWinner": null,
-          "color": "#ff3600",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Southern Super Stars",
-          "shortName": "SSS",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png"
-          },
-          "isWinner": null,
-          "color": "#082f5e",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "HINDI",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "HINDI"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/240p.m3u8?hdntl=Expires=1774349110~_GO=Generated~acl=/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/*~Signature=AYUBS8pvMkvUS9tsvHaD4gZud2lzJrZi8Ea9zZPAWjSA8Eig0bsXpCCA4CY4pTZph_1xa9vSr8CCf7BUlGRo0FUh-WwK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/360p.m3u8?hdntl=Expires=1774349110~_GO=Generated~acl=/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/*~Signature=AYUBS8pvMkvUS9tsvHaD4gZud2lzJrZi8Ea9zZPAWjSA8Eig0bsXpCCA4CY4pTZph_1xa9vSr8CCf7BUlGRo0FUh-WwK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/480p.m3u8?hdntl=Expires=1774349110~_GO=Generated~acl=/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/*~Signature=AYUBS8pvMkvUS9tsvHaD4gZud2lzJrZi8Ea9zZPAWjSA8Eig0bsXpCCA4CY4pTZph_1xa9vSr8CCf7BUlGRo0FUh-WwK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/540p.m3u8?hdntl=Expires=1774349110~_GO=Generated~acl=/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/*~Signature=AYUBS8pvMkvUS9tsvHaD4gZud2lzJrZi8Ea9zZPAWjSA8Eig0bsXpCCA4CY4pTZph_1xa9vSr8CCf7BUlGRo0FUh-WwK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/720p.m3u8?hdntl=Expires=1774349110~_GO=Generated~acl=/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/*~Signature=AYUBS8pvMkvUS9tsvHaD4gZud2lzJrZi8Ea9zZPAWjSA8Eig0bsXpCCA4CY4pTZph_1xa9vSr8CCf7BUlGRo0FUh-WwK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774349110~_GO=Generated~acl=/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/*~Signature=AYUBS8pvMkvUS9tsvHaD4gZud2lzJrZi8Ea9zZPAWjSA8Eig0bsXpCCA4CY4pTZph_1xa9vSr8CCf7BUlGRo0FUh-WwK",
-          "cookie": "hdntl=Expires=1774349110~_GO=Generated~acl=/mumbai/141316_hindi_hls_2f3cea668948352_1ta-di_h264/*~Signature=AYUBS8pvMkvUS9tsvHaD4gZud2lzJrZi8Ea9zZPAWjSA8Eig0bsXpCCA4CY4pTZph_1xa9vSr8CCf7BUlGRo0FUh-WwK",
-          "cookie_valid": "1774349110",
-          "expire_date": "Tuesday, March 24, 2026, 4:15:10 PM",
-          "create_date": "Monday, March 23, 2026, 4:15:07 PM",
-          "language": "HINDI"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Namibia Vs Uganda",
@@ -203,9 +41,9 @@
           "color": "#112c80",
           "cricketScore": [
             {
-              "runs": 241,
-              "overs": "41.5",
-              "balls": "251",
+              "runs": 254,
+              "overs": "43.3",
+              "balls": "261",
               "status": "IN_PROGRESS",
               "wickets": 5
             }
@@ -438,73 +276,6 @@
           "language": "ENGLISH"
         }
       ]
-    },
-    {
-      "category": "Cricket",
-      "title": "India Captains Vs Royal Riders Punjab",
-      "tournament": "Legends League Cricket, 2026",
-      "match_id": 141319,
-      "status": "NOT_STARTED",
-      "streamingStatus": "NOT_STARTED",
-      "startTime": "23 March 2026 08:45 PM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-Web.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141319_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-Web.jpg",
-        "PLAYBACK": null,
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-Web.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-App.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141319_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "India Captains",
-          "shortName": "ICN",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICN@2x.png"
-          },
-          "isWinner": null,
-          "color": "#80081C",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Royal Riders Punjab",
-          "shortName": "RRP",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRP@2x.png"
-          },
-          "isWinner": null,
-          "color": "#80081C",
-          "cricketScore": [],
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "BLOODY_SWEET",
-      "STREAMING_CDN": {
-        "language": "BLOODY_SWEET",
-        "Primary_Playback_URL": null
-      },
-      "auto_streams": null
     },
     {
       "category": "Cricket",
@@ -1895,6 +1666,140 @@
           "isWinner": null,
           "color": "#141414",
           "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Konark Suryas Odisha Vs Southern Super Stars",
+      "tournament": "Legends League Cricket, 2026",
+      "match_id": 141316,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "23 March 2026 04:45 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141316_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web_1774246065741.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-App_1774246065625.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141316_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Konark Suryas Odisha",
+          "shortName": "KSO",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KSOL@2x.png"
+          },
+          "isWinner": null,
+          "color": "#ff3600",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Southern Super Stars",
+          "shortName": "SSS",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSS@2x.png"
+          },
+          "isWinner": null,
+          "color": "#082f5e",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "India Captains Vs Royal Riders Punjab",
+      "tournament": "Legends League Cricket, 2026",
+      "match_id": 141319,
+      "status": "COMPLETED",
+      "streamingStatus": "COMPLETED",
+      "startTime": "23 March 2026 08:45 PM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141319_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-Web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Legends-League-Cricket-Tour-Size.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141319_6002_ICN_RRP_FC-App.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141319_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "India Captains",
+          "shortName": "ICN",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICN@2x.png"
+          },
+          "isWinner": null,
+          "color": "#80081C",
+          "cricketScore": [],
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Royal Riders Punjab",
+          "shortName": "RRP",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RRP@2x.png"
+          },
+          "isWinner": null,
+          "color": "#80081C",
+          "cricketScore": [],
           "kabaddiScore": null,
           "footballScore": null,
           "basketBallScore": null,
