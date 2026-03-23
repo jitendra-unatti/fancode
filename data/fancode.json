@@ -1,96 +1,15 @@
 {
   "Author": "DOCTOR_STRANGE",
   "name": "FanCode Live Matches API",
-  "last_updated": "11:45:07 AM 23-03-2026",
+  "last_updated": "11:49:01 AM 23-03-2026",
   "headers": {
     "User-Agent": "ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1",
     "Referer": "https://fancode.com/"
   },
   "total_matches": 40,
-  "live_matches": 3,
-  "upcoming_matches": 37,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Mumbai Aces Vs Jaipur Royals",
-      "tournament": "Actors Cricket Bash 2026",
-      "match_id": 141340,
-      "status": "LIVE",
-      "streamingStatus": "STARTED",
-      "startTime": "23 March 2026 09:00 AM",
-      "startDate": "01 January 1970 05:30 AM",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg",
-      "image_cdn": {
-        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141340_CASACARDS_PARTNER_16_9_1920_1080.png",
-        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg",
-        "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg",
-        "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/12/Actors-Cricket-Bash-2024-Tour-Logo1.png",
-        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg",
-        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-App_1773994317824.jpg",
-        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141340_CASACARDS_PARTNER_16_9_1920_1080.png"
-      },
-      "team": [
-        {
-          "name": "Mumbai Aces",
-          "shortName": "MA",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MA@2x.png"
-          },
-          "isWinner": false,
-          "color": "#aa7c13",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        },
-        {
-          "name": "Jaipur Royals",
-          "shortName": "JR",
-          "flag": {
-            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png"
-          },
-          "isWinner": false,
-          "color": "#e65e5e",
-          "cricketScore": null,
-          "kabaddiScore": null,
-          "footballScore": null,
-          "basketBallScore": null,
-          "hockeyScore": null,
-          "status": {
-            "cricket": {
-              "isBatting": false
-            }
-          }
-        }
-      ],
-      "language": "ENGLISH",
-      "STREAMING_CDN": {
-        "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/index.m3u8",
-        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/index.m3u8",
-        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/index.m3u8",
-        "dai_google_cdn": "Unavailable",
-        "cloudfront_cdn": "Unavailable",
-        "sony_cdn": "Unavailable",
-        "language": "ENGLISH"
-      },
-      "auto_streams": [
-        {
-          "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/240p.m3u8?hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/360p.m3u8?hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/480p.m3u8?hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/540p.m3u8?hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/720p.m3u8?hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD",
-          "cookie": "hdntl=Expires=1774326365~_GO=Generated~acl=/mumbai/141340_english_hls_4104384a3795731_1ta-di_h264/*~Signature=AYUBS8oXFmRy-lcK8nqLBrOq_6bV-v9T7_wP4f1Q_-NNJEQqTvnYJoZFZU2edxEmUgPrz5KS8PwiZjur1qExIeDI2uUD",
-          "cookie_valid": "1774326365",
-          "expire_date": "Tuesday, March 24, 2026, 9:56:05 AM",
-          "create_date": "Monday, March 23, 2026, 9:56:04 AM",
-          "language": "ENGLISH"
-        }
-      ]
-    },
     {
       "category": "Cricket",
       "title": "Yamuna Super Kings Vs Saryu Smashers",
@@ -149,9 +68,9 @@
           "color": "#3f50d5",
           "cricketScore": [
             {
-              "runs": 78,
-              "overs": "10",
-              "balls": "60",
+              "runs": 91,
+              "overs": "12.1",
+              "balls": "73",
               "status": "IN_PROGRESS",
               "wickets": 0
             }
@@ -2745,6 +2664,73 @@
           },
           "isWinner": null,
           "color": "#c19d0b",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        }
+      ],
+      "language": "BLOODY_SWEET",
+      "STREAMING_CDN": {
+        "language": "BLOODY_SWEET",
+        "Primary_Playback_URL": null
+      },
+      "auto_streams": null
+    },
+    {
+      "category": "Cricket",
+      "title": "Yamuna Super Kings Vs Manorama Marvels",
+      "tournament": "Ayodhya Premier League",
+      "match_id": 141382,
+      "status": "NOT_STARTED",
+      "streamingStatus": "NOT_STARTED",
+      "startTime": "25 March 2026 09:00 AM",
+      "startDate": "01 January 1970 05:30 AM",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/141382_6007_YSK_MM_FC-Web.jpg",
+      "image_cdn": {
+        "TATAPLAY": "https://images.fancode.com/aig/match/v1/141382_CASACARDS_PARTNER_16_9_1920_1080.png",
+        "APP": "https://www.fancode.com/skillup-uploads/cms-media/141382_6007_YSK_MM_FC-Web.jpg",
+        "PLAYBACK": null,
+        "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Ayodhya_Premier_league_Tour_logo.png",
+        "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+        "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141382_6007_YSK_MM_FC-Web.jpg",
+        "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/141382_6007_YSK_MM_FC-App.jpg",
+        "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/141382_CASACARDS_PARTNER_16_9_1920_1080.png"
+      },
+      "team": [
+        {
+          "name": "Yamuna Super Kings",
+          "shortName": "YSK",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSK@2x.png"
+          },
+          "isWinner": null,
+          "color": "#d3842d",
+          "cricketScore": null,
+          "kabaddiScore": null,
+          "footballScore": null,
+          "basketBallScore": null,
+          "hockeyScore": null,
+          "status": {
+            "cricket": {
+              "isBatting": false
+            }
+          }
+        },
+        {
+          "name": "Manorama Marvels",
+          "shortName": "MM",
+          "flag": {
+            "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAM@2x.png"
+          },
+          "isWinner": null,
+          "color": "#e29c0b",
           "cricketScore": null,
           "kabaddiScore": null,
           "footballScore": null,
